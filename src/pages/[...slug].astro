@@ -19,8 +19,14 @@ type Props = CollectionEntry<'wpPages'>;
 
 const page = Astro.props;
 const { Content } = await render(page);
+
+// Provide default description if missing
+const pageData = {
+	...page.data,
+	description: page.data.description || `Learn more about ${page.data.title} and our comprehensive services.`
+};
 ---
 
-<BlogPost {...page.data}>
+<BlogPost {...pageData}>
 	<Content />
 </BlogPost> 
