@@ -1,13 +1,10 @@
 ---
-
-title: "How To Study for the Pediatrics Shelf Exam"
+title: 'How To Study for the Pediatrics Shelf Exam'
 pubDate: 2020-08-14
-categories: 
-  - "shelf-exams"
-description: "How can you prepare for the Pediatrics Shelf Exam?"
-
+categories:
+  - 'shelf-exams'
+description: 'How can you prepare for the Pediatrics Shelf Exam?'
 ---
-
 
 # How can you prepare for the Pediatrics Shelf Exam?
 

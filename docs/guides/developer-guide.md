@@ -17,6 +17,7 @@ A comprehensive guide for developers working on the medlearnity.com Astro projec
 ## Project Setup
 
 ### Initial Setup
+
 ```bash
 # Clone repository
 git clone https://github.com/tech-med/medlearnity.com.git
@@ -30,6 +31,7 @@ cp .env.example .env.local
 ```
 
 ### Environment Configuration
+
 ```bash
 # Set site URL for production
 export PUBLIC_SITE_URL=https://medlearnity.com
@@ -41,6 +43,7 @@ export PUBLIC_SITE_URL=http://localhost:4321
 ## Development Workflow
 
 ### Start Development Server
+
 ```bash
 # Start dev server with hot reload
 npm run dev
@@ -53,6 +56,7 @@ npm run dev -- --open
 ```
 
 ### Build for Production
+
 ```bash
 # Build static site
 npm run build
@@ -67,6 +71,7 @@ npm run build && npm run preview
 ## Code Quality & Linting
 
 ### ESLint Commands
+
 ```bash
 # Run linting
 npm run lint
@@ -82,6 +87,7 @@ npx eslint . --format=table
 ```
 
 ### Prettier Formatting
+
 ```bash
 # Format all files
 npm run format
@@ -97,6 +103,7 @@ npx prettier --write . --config .prettierrc
 ```
 
 ### Type Checking
+
 ```bash
 # Run TypeScript type check
 npm run astro:check
@@ -109,6 +116,7 @@ npx tsc --noEmit --watch
 ```
 
 ### YAML Validation (Content Frontmatter)
+
 ```bash
 # Validate all YAML frontmatter in content files
 npm run validate:yaml
@@ -122,6 +130,7 @@ xargs sed -i '' 's/problematic-pattern/fixed-pattern/g'
 ```
 
 ### All Quality Checks
+
 ```bash
 # Run comprehensive quality pipeline (includes YAML validation)
 npm run lint  # Runs astro:check + validate:yaml
@@ -138,6 +147,7 @@ npm run build          # Full build validation
 ## Build & Deployment
 
 ### Local Build Validation
+
 ```bash
 # Full build pipeline
 npm run build 2>&1 | tee build.log
@@ -151,6 +161,7 @@ find dist/ -name "*.html" | head -5
 ```
 
 ### Production Deployment (Vercel)
+
 ```bash
 # Deploy to preview
 vercel
@@ -166,6 +177,7 @@ vercel logs [deployment-url]
 ```
 
 ### Manual Server Testing
+
 ```bash
 # Test local server endpoints
 curl -I http://localhost:4321/
@@ -180,6 +192,7 @@ time curl -s http://localhost:4321/ > /dev/null
 ## Git Workflow
 
 ### Branch Management
+
 ```bash
 # Create feature branch
 git checkout -b feature/new-feature
@@ -195,6 +208,7 @@ git push origin --delete feature/new-feature
 ```
 
 ### Commit Workflow
+
 ```bash
 # Stage and commit changes
 git add .
@@ -208,6 +222,7 @@ git add -p
 ```
 
 ### Pull Request Workflow
+
 ```bash
 # Create PR via GitHub CLI
 gh pr create --title "Feature: New Blog Component" --body "Adds responsive blog component with accessibility features"
@@ -226,6 +241,7 @@ gh pr checkout 1
 ```
 
 ### Sync with Remote
+
 ```bash
 # Fetch latest changes
 git fetch origin
@@ -242,6 +258,7 @@ git rebase main
 ## Testing & Validation
 
 ### Content Validation
+
 ```bash
 # Comprehensive content validation
 npm run validate:yaml     # YAML frontmatter validation
@@ -263,6 +280,7 @@ curl -s -o /dev/null -w "Status: %{http_code}\n" http://localhost:4321/our-tutor
 ```
 
 ### Image Optimization Check
+
 ```bash
 # Check image formats in build
 find dist/ -name "*.webp" | wc -l
@@ -274,6 +292,7 @@ ls -lh dist/_astro/*.webp
 ```
 
 ### Performance Testing
+
 ```bash
 # Basic performance check
 time npm run build
@@ -288,6 +307,7 @@ du -sh dist/*/ | sort -h
 ## Content Management
 
 ### Blog Posts
+
 ```bash
 # Create new blog post
 touch "src/content/blog/$(date +%Y-%m-%d)-new-post.md"
@@ -300,6 +320,7 @@ head -n 10 src/content/blog/*.md
 ```
 
 ### Content Collections
+
 ```bash
 # Validate content config
 cat src/content/config.ts
@@ -318,12 +339,14 @@ grep -r "collection:" src/content/
 ### Flywheel SSH Setup
 
 **Initial SSH Connection Test**
+
 ```bash
 # Test SSH connection to Flywheel
 ssh -o BatchMode=yes -o ConnectTimeout=10 team+medlearnity+medlearnity@ssh.getflywheel.com "echo 'SSH connection successful!'"
 ```
 
 **Connect to WordPress Site**
+
 ```bash
 # Connect directly to medlearnity site
 ssh team+medlearnity+medlearnity@ssh.getflywheel.com
@@ -335,6 +358,7 @@ ssh team+medlearnity+medlearnity@ssh.getflywheel.com
 ### Content Export Commands
 
 **WordPress XML Export**
+
 ```bash
 # Create export directory (run locally first)
 mkdir -p backups/wordpress-export
@@ -352,6 +376,7 @@ get -r exports/
 ```
 
 **Site Audit Commands (on Flywheel)**
+
 ```bash
 # List all posts and pages
 wp post list --post_type=post,page --format=table
@@ -368,6 +393,7 @@ grep -r "jotform\|contact.*form" wp-content/themes/
 ```
 
 **Database Export (if needed)**
+
 ```bash
 # Export database
 wp db export ~/exports/database-$(date +%Y%m%d).sql
@@ -379,6 +405,7 @@ wp db export ~/exports/posts-$(date +%Y%m%d).sql --tables=wp_posts,wp_postmeta
 ### Content Conversion Workflow
 
 **Convert WordPress XML to Markdown**
+
 ```bash
 # Install conversion tool
 npm install --save-dev wordpress-export-to-markdown
@@ -404,6 +431,7 @@ grep -rl "wp-content/uploads" src/content | xargs sed -i '' 's|wp-content/upload
 ```
 
 **Content Validation After Import**
+
 ```bash
 # Validate frontmatter structure
 grep -r "^---$" src/content/blog/ | wc -l  # Should be even number
@@ -420,6 +448,7 @@ npm run dev
 ```
 
 **Content Cleanup Scripts**
+
 ```bash
 # Fix common frontmatter issues
 find src/content -name "*.md" -exec sed -i 's/date:/pubDate:/g' {} \;
@@ -434,6 +463,7 @@ find src/content -name "*.md" -exec sed -i 's/wp-content\/uploads/images/g' {} \
 ### Backup and Archive
 
 **Create Migration Backup**
+
 ```bash
 # Archive WordPress export
 tar -czf backups/wordpress-export-$(date +%Y%m%d).tar.gz backups/wordpress-export/
@@ -451,6 +481,7 @@ echo "WordPress export completed: $(date)" >> logs/migration-$(date +%Y%m%d).log
 ### Common Issues
 
 #### Missing WordPress Pages (Dynamic Routes)
+
 ```bash
 # Symptoms: Pages exist in src/content/wpPages but return 404
 # Check if dynamic route is working
@@ -478,6 +509,7 @@ grep -A 10 "wpPages.*defineCollection" src/content.config.ts
 ```
 
 #### SSH Connection Issues
+
 ```bash
 # Add Flywheel host key if needed
 ssh-keyscan ssh.getflywheel.com >> ~/.ssh/known_hosts
@@ -490,6 +522,7 @@ ssh -vvv team+medlearnity+medlearnity@ssh.getflywheel.com
 ```
 
 #### WordPress Export Issues
+
 ```bash
 # Check WP-CLI version on Flywheel
 wp --version
@@ -505,6 +538,7 @@ wp db export - | gzip > backup.sql.gz
 ```
 
 #### Content Conversion Issues
+
 ```bash
 # Check XML file validity
 xmllint --noout backups/wordpress-export/export.xml
@@ -517,6 +551,7 @@ file -bi content-converted/posts/*.md
 ```
 
 #### Build Failures
+
 ```bash
 # Clear cache and rebuild
 rm -rf node_modules/.cache
@@ -531,6 +566,7 @@ npm run build -- --verbose
 ```
 
 #### Development Server Issues
+
 ```bash
 # Kill processes on port 4321
 lsof -ti:4321 | xargs kill -9
@@ -544,6 +580,7 @@ node --version  # Should be >= 20
 ```
 
 #### Git Issues
+
 ```bash
 # Reset local changes
 git stash push -m "WIP: temporary stash"
@@ -559,6 +596,7 @@ git clean -fd
 ```
 
 ### Debug Commands
+
 ```bash
 # Check environment variables
 env | grep PUBLIC_
@@ -574,6 +612,7 @@ node --version && npm --version
 ```
 
 ### Log Analysis
+
 ```bash
 # Monitor build logs
 npm run build 2>&1 | tee logs/build-$(date +%Y%m%d-%H%M).log
@@ -588,6 +627,7 @@ npm run dev 2>&1 | tee logs/dev-$(date +%Y%m%d-%H%M).log
 ## Useful Scripts
 
 ### Custom Commands
+
 ```bash
 # Full quality pipeline
 alias quality-check="npm run lint && npm run format:check && npm run astro:check && npm run build"
@@ -600,6 +640,7 @@ alias prod-validate="npm run build && npm run preview"
 ```
 
 ### Backup & Restore
+
 ```bash
 # Backup content
 tar -czf backups/content-$(date +%Y%m%d).tar.gz src/content/
@@ -612,6 +653,7 @@ git archive --format=tar.gz --output=snapshots/project-$(date +%Y%m%d).tar.gz HE
 ```
 
 ### Migration Diff Analysis
+
 ```bash
 # Quick diff analysis (fast overview)
 ./scripts/quick-diff.sh [source_branch] [target_branch]
@@ -648,14 +690,14 @@ cat docs/analysis/enhanced-diff-analysis-$(date +%Y%m%d-*)*.md
 
 ---
 
-*Last updated: December 2024*
-+*Last updated: June 2025*
+_Last updated: December 2024_ +_Last updated: June 2025_
 
 ## Media Storage with Vercel Blob
 
 WordPress media files are now stored in Vercel Blob Storage for optimal performance and cost efficiency.
 
 ### Current Setup
+
 ```bash
 # Blob store: wp-media (store_I2xFWZTD2kSBegsE)
 # URL pattern: https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/
@@ -665,6 +707,7 @@ WordPress media files are now stored in Vercel Blob Storage for optimal performa
 ### Managing Media Files
 
 **Upload new media:**
+
 ```bash
 # Single file
 vercel blob put path/to/image.jpg --pathname "wp/image.jpg"
@@ -676,11 +719,13 @@ done
 ```
 
 **List existing files:**
+
 ```bash
 vercel blob list --prefix "wp/"
 ```
 
 **Delete files:**
+
 ```bash
 vercel blob del "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/filename.jpg"
 ```
@@ -688,6 +733,7 @@ vercel blob del "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/file
 ### Image Path Management
 
 The `scripts/replace-image-paths.js` script handles URL rewriting:
+
 ```bash
 npm run fix:image-paths  # Updates markdown files to use blob URLs
 ```
@@ -695,15 +741,16 @@ npm run fix:image-paths  # Updates markdown files to use blob URLs
 ### Fallback Rewrites
 
 `vercel.json` ensures old `/images/wp/*` URLs still work:
+
 ```json
 {
-  "rewrites": [
-    {
-      "source": "/images/wp/:file*",
-      "destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
-    }
-  ]
+	"rewrites": [
+		{
+			"source": "/images/wp/:file*",
+			"destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
+		}
+	]
 }
 ```
 
---- 
+---

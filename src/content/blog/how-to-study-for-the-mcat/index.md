@@ -1,15 +1,12 @@
 ---
-
-title: "How to Study for the MCAT"
+title: 'How to Study for the MCAT'
 pubDate: 2020-08-06
-categories: 
-  - "mcat"
-  - "medical-school-admissions"
-  - "study-schedule"
-description: "How To Prepare for the MCAT So You Can Ace It"
-
+categories:
+  - 'mcat'
+  - 'medical-school-admissions'
+  - 'study-schedule'
+description: 'How To Prepare for the MCAT So You Can Ace It'
 ---
-
 
 # **How To Prepare for the MCAT So You Can Ace It**
 

@@ -4,11 +4,11 @@
 
 ## Quick Reference
 
-| Use Case | Script | Output |
-|----------|--------|--------|
-| **PR Review** | `./scripts/quick-diff.sh` | Fast overview with key stats |
+| Use Case                    | Script                               | Output                               |
+| --------------------------- | ------------------------------------ | ------------------------------------ |
+| **PR Review**               | `./scripts/quick-diff.sh`            | Fast overview with key stats         |
 | **Milestone Documentation** | `./scripts/generate-focused-diff.sh` | Comprehensive analysis (~100k words) |
-| **Debug/Troubleshoot** | `./scripts/quick-diff.sh` | Quick insights into changes |
+| **Debug/Troubleshoot**      | `./scripts/quick-diff.sh`            | Quick insights into changes          |
 
 ---
 
@@ -17,6 +17,7 @@
 ### Enhanced Focused Diff Scripts
 
 **Quick Overview Analysis** (fast, essential stats):
+
 ```bash
 # Quick diff analysis - immediate insights
 ./scripts/quick-diff.sh [source_branch] [target_branch]
@@ -28,11 +29,12 @@
 ```
 
 **Comprehensive Enhanced Analysis** (detailed, ~100k words):
+
 ```bash
 # Enhanced focused diff - comprehensive analysis
 ./scripts/generate-focused-diff.sh [source_branch] [target_branch] [output_dir]
 
-# Examples  
+# Examples
 ./scripts/generate-focused-diff.sh                    # main → current, docs/analysis/
 ./scripts/generate-focused-diff.sh main wordpress-content-migration
 ./scripts/generate-focused-diff.sh main feature-branch docs/analysis/
@@ -42,6 +44,7 @@ ls -la docs/analysis/enhanced-diff-analysis-*.md
 ```
 
 ### Legacy Manual Analysis (if scripts unavailable)
+
 ```bash
 # Create temporary analysis directory
 mkdir -p /tmp/migration-analysis-$(date +%Y%m%d)
@@ -76,6 +79,7 @@ echo "Analysis generated: $ANALYSIS_FILE"
 ```
 
 ### Individual Analysis Components
+
 ```bash
 # 1. File change statistics
 git diff main..astro-migration --stat
@@ -98,6 +102,7 @@ git diff main..astro-migration src/
 ## Complete Analysis Workflow
 
 ### Step 1: Setup Analysis Environment
+
 ```bash
 # Create timestamped analysis directory
 TIMESTAMP=$(date +%Y%m%d-%H%M)
@@ -112,6 +117,7 @@ PROJECT_DIR="/path/to/project"
 ```
 
 ### Step 2: Generate Analysis Components
+
 ```bash
 # Navigate to project
 cd "$PROJECT_DIR"
@@ -132,6 +138,7 @@ git diff $SOURCE_BRANCH..$TARGET_BRANCH tsconfig.json > "$ANALYSIS_DIR/typescrip
 ```
 
 ### Step 3: Create Comprehensive Report
+
 ```bash
 # Generate structured analysis report
 cat > "$ANALYSIS_DIR/comprehensive-analysis.md" << EOF
@@ -198,6 +205,7 @@ EOF
 ```
 
 ### Step 4: Review and Export
+
 ```bash
 # View the analysis
 echo "Analysis complete! Files generated in: $ANALYSIS_DIR"
@@ -215,6 +223,7 @@ cp "$ANALYSIS_DIR/comprehensive-analysis.md" "$PROJECT_DIR/docs/migration-analys
 ## Analysis Templates
 
 ### Quick Stats Template
+
 ```bash
 #!/bin/bash
 # quick-migration-stats.sh
@@ -232,6 +241,7 @@ git diff $BRANCH1..$BRANCH2 --name-status | cut -f2 | sed 's/.*\.//' | sort | un
 ```
 
 ### Pre-PR Analysis Template
+
 ```bash
 #!/bin/bash
 # pre-pr-analysis.sh
@@ -268,6 +278,7 @@ echo "🚀 Ready for PR creation!"
 ## Best Practices
 
 ### When to Generate Analysis
+
 - **Before creating pull requests** - Use `./scripts/quick-diff.sh` for PR overview
 - **Phase completions** - Use `./scripts/generate-focused-diff.sh` for milestone documentation
 - **Code reviews** - Quick analysis to understand impact of changes
@@ -275,13 +286,15 @@ echo "🚀 Ready for PR creation!"
 - **Documentation** - Create comprehensive migration records with enhanced analysis
 
 ### What to Include
+
 - **Executive summary** with key metrics
-- **File change statistics** 
+- **File change statistics**
 - **Configuration file diffs** (package.json, astro.config.mjs, etc.)
 - **Binary file inventory** (images, fonts, etc.)
 - **Commit history** between branches
 
 ### Analysis Storage
+
 ```bash
 # Project documentation (permanent)
 docs/
@@ -302,6 +315,7 @@ docs/
 ## Automation Options
 
 ### Git Hooks
+
 ```bash
 # .git/hooks/pre-push (auto-generate analysis)
 #!/bin/bash
@@ -312,6 +326,7 @@ fi
 ```
 
 ### GitHub Actions
+
 ```yaml
 # .github/workflows/analysis.yml
 name: Generate Migration Analysis
@@ -334,6 +349,7 @@ jobs:
 ## Troubleshooting
 
 ### Large Diffs
+
 ```bash
 # Skip binary files in full diff
 git diff main..branch --text > analysis.patch
@@ -346,6 +362,7 @@ git diff main..branch -U1 > minimal-context.patch
 ```
 
 ### Performance Tips
+
 ```bash
 # Use --name-only for file lists (faster)
 git diff --name-only main..branch
@@ -362,6 +379,7 @@ git diff --stat main..branch
 ## Example Usage
 
 ### WordPress to Astro Migration Analysis
+
 ```bash
 # Our specific use case
 cd /Users/goelak/Developer/medlearnity.com
@@ -390,4 +408,4 @@ ls -la /tmp/wp-astro-analysis/
 
 ---
 
-*This guide was created during the medlearnity.com WordPress to Astro migration project.* 
+_This guide was created during the medlearnity.com WordPress to Astro migration project._

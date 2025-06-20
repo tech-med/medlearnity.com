@@ -4,10 +4,6 @@ pubDate: 2020-04-30
 description: 'Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX'
 ---
 
-
-
-
-
 ### Which COMLEX Exam Are You Preparing For?
 
 **Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX**
@@ -40,24 +36,24 @@ I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things
 
 Your COMLEX exams are among the most important tests you'll take throughout your medical school career and beyond. If you want to earn a competitive score, exceed your own expectations and match with a prestigious residency program, Medlearnity is the COMLEX tutoring company you're looking for. **Our personal tutors are experienced physicians from top hospitals across the country as well as talented educators.** With Medlearnity, you'll get a customized study plan based on your goals and learning style. One-on-one, online coaching sessions with a professional tutor will prepare you for every level of the COMLEX, improve your test-taking skills and help you succeed in your medical career.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl_parent_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl_parent_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
 [](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [book now](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-vs-usmle-scores/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-vs-usmle-scores/)
 
-## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ "COMLEX vs. USMLE Scores")
+## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ 'COMLEX vs. USMLE Scores')
 
 [](https://www.medlearnity.com/ut-blanditiis-ut-dol/)
 
-## [What To Know About NBME Free Self-Assessments](https://www.medlearnity.com/ut-blanditiis-ut-dol/ "What To Know About NBME Free Self-Assessments")
+## [What To Know About NBME Free Self-Assessments](https://www.medlearnity.com/ut-blanditiis-ut-dol/ 'What To Know About NBME Free Self-Assessments')
 
 [](https://www.medlearnity.com/comlex-usa-exam/)
 
-## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ "The Right Approach To The COMLEX-USA Exam – Tips & Tricks")
+## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ 'The Right Approach To The COMLEX-USA Exam – Tips & Tricks')

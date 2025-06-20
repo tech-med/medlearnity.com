@@ -1,14 +1,11 @@
 ---
-
-title: "A Comprehensive Guide to Preparing for the ABSITE: Essential Resources and High-Yield Topics for Surgical Residents"
+title: 'A Comprehensive Guide to Preparing for the ABSITE: Essential Resources and High-Yield Topics for Surgical Residents'
 pubDate: 2023-01-25
-categories: 
-  - "residency"
-  - "residency-board-exams"
-description: "As a surgical resident, the American Board of Surgery InTraining Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual "
-
+categories:
+  - 'residency'
+  - 'residency-board-exams'
+description: 'As a surgical resident, the American Board of Surgery InTraining Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual '
 ---
-
 
 As a surgical resident, the American Board of Surgery In-Training Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual in-training exam used to evaluate general surgery trainees, and it is usually taken at the end of your first and second years of general surgery residency. The ABSITE measures your knowledge and skills in general surgery, as well as your readiness for the board certification exam and practice.
 
@@ -50,4 +47,4 @@ It is also important to balance your ABSITE preparation with other aspects of yo
 
 Medlearnity has a wealth of experience and expertise in helping students prepare for the ABSITE, and has received impressive student reviews for its tutoring services. With the right preparation and support, you can succeed in the ABSITE and your surgical training.
 
-\[thrive\_leads id='9644'\]
+\[thrive_leads id='9644'\]

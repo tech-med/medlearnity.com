@@ -1,12 +1,8 @@
 ---
 title: 'Alexandra Townsend'
 pubDate: 2023-02-28
-description: "\"Board exams require students to know so many intricate details about a variety of topics but what I found most rewarding is when students become masters a"
+description: '"Board exams require students to know so many intricate details about a variety of topics but what I found most rewarding is when students become masters a'
 ---
-
-
-
-
 
 # Meet Alexandra Townsend
 
@@ -14,7 +10,7 @@ PERSONAL STATEMENT
 
 _"Board exams require students to know so many intricate details about a variety of topics but what I found most rewarding is when students become masters at test taking and how to take apart a question. I can't wait to help you become more knowledgeable and an even better tester!"_
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 
 **Alexandra Townsend, MD**
 
@@ -47,6 +43,6 @@ Exam Scores
 
 Sign up for our one-hour discounted session. You'll receive an email or phone call from us shortly thereafter for some more information so we can understand your particular situation and assess your personal needs to pair you up with the tutor that's a perfect fit. This way, we're off to a very productive and personalized start, right from your very first session.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 
 **Alexandra Townsend, MD**

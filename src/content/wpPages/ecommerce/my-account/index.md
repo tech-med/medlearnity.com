@@ -4,8 +4,4 @@ pubDate: 2021-03-25
 description: '\[woocommerce\my\account\]'
 ---
 
-
-
-
-
-\[woocommerce\_my\_account\]
+\[woocommerce_my_account\]

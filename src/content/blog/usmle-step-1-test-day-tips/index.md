@@ -1,13 +1,10 @@
 ---
-
-title: "6 USMLE Step 1 Tips To Succeed On Test Day"
+title: '6 USMLE Step 1 Tips To Succeed On Test Day'
 pubDate: 2021-07-20
-categories: 
-  - "usmle-step-1"
-description: "The  is enough to stress out even the calmest medical students. Most individuals have two or three years of schooling behind them before taking the exam, b"
-
+categories:
+  - 'usmle-step-1'
+description: 'The  is enough to stress out even the calmest medical students. Most individuals have two or three years of schooling behind them before taking the exam, b'
 ---
-
 
 # 6 USMLE Step 1 Test Day Tips
 

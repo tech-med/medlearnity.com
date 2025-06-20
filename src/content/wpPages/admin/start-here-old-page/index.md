@@ -4,15 +4,11 @@ pubDate: 2020-05-26
 description: 'Fill out the contact form below to schedule your free trial and meet your new tutor!'
 ---
 
-
-
-
-
 Fill out the contact form below to schedule your free trial and meet your new tutor!
 
 \[gravityform id="4" title="false" description="false" ajax="true"\]
 
-![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
+![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png 'MG-how-to-book-your-free-trial')
 
 At Medlearnity, **every new prospective student receives a free one-hour trial session**. We know that the high-quality of our services and the expertise of our team is truly unmatched, and we want you to experience it without any obligation. 
 
@@ -38,7 +34,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **What to Expect**
 
-- **A tutor who is an expert educator who has scored exceptionally well****on medical school examinations** (90+ percentile, i.e., 250+ on the USMLE exams) **and who is training at one of the top hospitals****in the country**
+- **A tutor who is an expert educator who has scored exceptionally well\*\***on medical school examinations** (90+ percentile, i.e., 250+ on the USMLE exams) **and who is training at one of the top hospitals\***\*in the country**
 - We meet with you on an easy-to-access online platform that allows us to write on the screen like a whiteboard. **All session recordings are emailed to you after the session in HD quality,** so you can review them on 1.5x or 2x speed at your convenience. This helps to **maximize your learning and retention** for each tutoring session.
 - **Constant communication and scheduling** via email and phone in-between sessions. We will make sure your daily schedule is extremely efficient **so that you can get the highest score possible on test day**. For admissions consulting, our team is in constant communication with you to ensure that you are putting together the ideal application that reflects your strengths.
 - **Test-taking advice and drills**. During your sessions, you will do intense drills with your tutor to make sure you have no weaknesses on test day. You and your tutor will work through high-yield content, test-taking advice, and study strategies that are tailored to your particular situation.

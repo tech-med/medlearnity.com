@@ -1,13 +1,10 @@
 ---
-
-title: "How to Study for Your Third Year Shelf Exams"
+title: 'How to Study for Your Third Year Shelf Exams'
 pubDate: 2020-07-29
-categories: 
-  - "shelf-exams"
-description: "Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive"
-
+categories:
+  - 'shelf-exams'
+description: 'Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive'
 ---
-
 
 Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive extension of your undergraduate experience: go to class, take notes, study really hard, take exams, and then put it all together to ace USMLE Step 1.
 
@@ -26,22 +23,22 @@ That’s why you need a plan in place to study for your third-year shelf exa
 #### Table of Contents
 
 - [What Are Shelf Exams?](#What-Are-Shelf-Exams)
-    - [Where Do Shelf Exam Questions Come From?](#Where-Do-Shelf-Exam-Questions-Come-From)
-    - [How Are Shelf Exam Questions Administered?](#How-Are-Shelf-Exams-Administered)
-    - [Are Shelf Exams Mandatory?](#Are-Shelf-Exams-Mandatory)
-    - [When Do I Take My Shelf Exams?](#When-Do-I-Take-My-Shelf-Exams)
-    - [How Difficult Are Shelf Exams?](#How-Difficult-Are-Shelf-Exams)
+  - [Where Do Shelf Exam Questions Come From?](#Where-Do-Shelf-Exam-Questions-Come-From)
+  - [How Are Shelf Exam Questions Administered?](#How-Are-Shelf-Exams-Administered)
+  - [Are Shelf Exams Mandatory?](#Are-Shelf-Exams-Mandatory)
+  - [When Do I Take My Shelf Exams?](#When-Do-I-Take-My-Shelf-Exams)
+  - [How Difficult Are Shelf Exams?](#How-Difficult-Are-Shelf-Exams)
 - [Why Are Shelf Exams Important?](#Why-Are-Shelf-Exams-Important)
-    - [Step 2 CK vs. Shelf Exams](#Step-2-CK-vs.-Shelf-Exams)
-    - [Do I need to Score High on My Shelf Exam to Pass My Clinical Clerkship?](#Do-I-need-to-Score-High-on-My-Shelf-Exam-to-Pass-My-Clinical-Clerkship)
+  - [Step 2 CK vs. Shelf Exams](#Step-2-CK-vs.-Shelf-Exams)
+  - [Do I need to Score High on My Shelf Exam to Pass My Clinical Clerkship?](#Do-I-need-to-Score-High-on-My-Shelf-Exam-to-Pass-My-Clinical-Clerkship)
 - [How to Study for Your Third-Year Shelf Exams](#How-to-Study-for-Your-Third-Year-Shelf-Exams)
-    - [Medicine](#Medicine)
-    - [Family Medicine](#Family-Medicine)
-    - [Neurology](#Neurology)
-    - [OB/GYN](#Ob/Gyn)
-    - [Pediatrics](#Pediatrics)
-    - [Psychiatry](#Psychiatry)
-    - [Surgery](#Surgery)
+  - [Medicine](#Medicine)
+  - [Family Medicine](#Family-Medicine)
+  - [Neurology](#Neurology)
+  - [OB/GYN](#Ob/Gyn)
+  - [Pediatrics](#Pediatrics)
+  - [Psychiatry](#Psychiatry)
+  - [Surgery](#Surgery)
 
 ## What Are Shelf Exams?
 
@@ -224,6 +221,6 @@ There will be days when it won’t be possible to meet the daily goals you’v
 
 ## Would You Like Some Help Planning for Your Third-Year Shelf Exams and Beyond?
 
-Best of luck during clerkship year! Don’t hesitate to reach out to the [Medlearnity team](https://www.medlearnity.com/about/) if you have any questions or need guidance on how to prepare for [shelf exams](https://www.medlearnity.com/nbme-shelf-exams/) or [Step 2 CK](https://www.medlearnity.com/step-2ck-usmle/). Our tutors are exceptional educators who can help you honor your shelf exams and boost your Step 2 CK score. 
+Best of luck during clerkship year! Don’t hesitate to reach out to the [Medlearnity team](https://www.medlearnity.com/about/) if you have any questions or need guidance on how to prepare for [shelf exams](https://www.medlearnity.com/nbme-shelf-exams/) or [Step 2 CK](https://www.medlearnity.com/step-2ck-usmle/). Our tutors are exceptional educators who can help you honor your shelf exams and boost your Step 2 CK score.
 
 <script type="application/ld+json">{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type": "Question", "name": "What Are Shelf Exams?", "acceptedAnswer": { "@type": "Answer", "text": "The NBME Shelf Exams are administered at the end of specific third-year rotations: <div></div> Internal Medicine Family Medicine Neurology OB-GYN Pediatrics Psychiatry Surgery" } },{ "@type": "Question", "name": "Where Do Shelf Exam Questions Come From?", "acceptedAnswer": { "@type": "Answer", "text": "The questions on shelf exams consist of retired USMLE questions that have been “shelved,” meaning they are no longer used on USMLE Step 1 and Step 2 Clinical Knowledge (CK) exams. Many questions that you will see on the shelf exams will be VERY similar to what you saw on your Step 1 exam and what you will see on Step 2 CK." } },{ "@type": "Question", "name": "How Are Shelf Exams Administered?", "acceptedAnswer": { "@type": "Answer", "text": "Each shelf exam has 110 multiple-choice questions and is 2 hours and 45 minutes long. Every shelf exam is computer-based and is administered using NBME’s portal. Depending on the shelf exam, you will either take it at your institution or a Prometric center." } },{ "@type": "Question", "name": "Are Shelf Exams Mandatory?", "acceptedAnswer": { "@type": "Answer", "text": "Not all medical school programs require shelf exams, and you do not need them to obtain a United States medical license. Still, many schools use this testing method to evaluate knowledge gained during clinical rotations. In some medical school programs, the results may determine whether you pass or fail your medical clerkship. <div></div> Whether you must take shelf exams depends on the medical school program you choose. Different programs may also give more or less weight to your shelf exam scores. Some determine grades almost solely off your test scores, while others might weigh in your clinical performance a bit more." } },{ "@type": "Question", "name": "When Do I Take My Shelf Exams?", "acceptedAnswer": { "@type": "Answer", "text": "Medical students take shelf exams during the third year of medical school during clinical rotations. Shelf exams often occur between USMLE Step 1, which students take after their second year of medical school, and USMLE Step 2, which students take in the fourth year of medical school." } },{ "@type": "Question", "name": "How Difficult Are Shelf Exams?", "acceptedAnswer": { "@type": "Answer", "text": "Many consider these exams quite demanding. They cover a broad range of topics across all seven medical school rotations. To pass them, you must memorize many topics you study during your rotations. Then, you must apply this knowledge to hypothetical scenarios. Since the shelf exams use the same questions as USMLE exams, you can assess the difficulty based on your success on USMLE Step 1." } },{ "@type": "Question", "name": "Why Are Shelf Exams Important?", "acceptedAnswer": { "@type": "Answer", "text": "There are two main reasons why your shelf exams are important: (1) clerkship grades and (2) Step 2 CK Preparation. <div></div> Your shelf exam score is used to calculate your grade for each clerkship. Depending on how your medical school determines final grades for each clerkship, how well you do on the shelf exam can significantly impact your final grade." } },{ "@type": "Question", "name": "Do I Need to Score High on My Shelf Exam to Pass My Clinical Clerkship?", "acceptedAnswer": { "@type": "Answer", "text": "While your shelf exams are not the only deciding factor in passing clinical clerkships, your third-year clerkship grades will hinge more on your shelf exam than your other clinical evaluations. Some schools don’t use shelf exams, so you won’t need those scores to pass your clerkship. <div></div> If your school uses shelf exams, you should aim for a high score, as your score can impact your grade. Your grade influences whether you pass and also shows up on your transcript. Residency programs might see a low clinical clerkship grade and decide not to accept you." } },{ "@type": "Question", "name": "How to Study for Your Third-Year Shelf Exams", "acceptedAnswer": { "@type": "Answer", "text": "The two most important steps you can take to ensure you are studying effectively for your shelf exams are: <div></div> (1) create a study schedule and be diligent about studying during each rotation <div></div> (2) decide which resources you will use in your NBME shelf exam test preparation." } }] }</script>

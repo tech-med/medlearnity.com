@@ -1,14 +1,11 @@
 ---
-
-title: "How to Study For the Psychiatry Shelf Exam"
+title: 'How to Study For the Psychiatry Shelf Exam'
 pubDate: 2020-08-27
-categories: 
-  - "shelf-exams"
-  - "study-schedule"
-description: "How can you prepare for your Psychiatry Shelf Exam?"
-
+categories:
+  - 'shelf-exams'
+  - 'study-schedule'
+description: 'How can you prepare for your Psychiatry Shelf Exam?'
 ---
-
 
 # How can you prepare for your Psychiatry Shelf Exam?
 

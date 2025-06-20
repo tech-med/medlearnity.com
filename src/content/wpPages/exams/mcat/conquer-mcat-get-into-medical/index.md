@@ -4,11 +4,7 @@ pubDate: 2020-10-02
 description: 'Get started with MCAT tutoring today and conquer the MCAT to get into medical school with personalized tutoring from professional physician tutors.'
 ---
 
-
-
-
-
-\[tcb\_logo href="https://www.medlearnity.com" data-id-d="12" data-dynamic-link="thrive\_global\_shortcode\_url" data-shortcode-id="0" data-img-style="width: 100%;" data-alt=""\]
+\[tcb_logo href="https://www.medlearnity.com" data-id-d="12" data-dynamic-link="thrive_global_shortcode_url" data-shortcode-id="0" data-img-style="width: 100%;" data-alt=""\]
 
 #### Get started with MCAT tutoring today
 
@@ -34,7 +30,7 @@ Thousands of students take the MCAT every year, and many of them find themselves
 
 Last year, the American Association of Medical Colleges (AAMC) [reported](https://www.aamc.org/system/files/2020-10/2020_FACTS_Table_A-16.pdf) that of 53,371 people who applied to med school, only 21,879 of them were successful. In other words, just 40% of those who apply to medical school succeed and end up matriculating as med students. It’s not likely to get any easier; applications are only increasing every year, as more people recognize the value of a career in medicine.
 
-[![](//www.medlearnity.com//images/wp/2020/09/Image-2020-09-02-at-1.31.43-AM-1024x791.png "Image 2020-09-02 at 1.31.43 AM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
+[![](//www.medlearnity.com//images/wp/2020/09/Image-2020-09-02-at-1.31.43-AM-1024x791.png 'Image 2020-09-02 at 1.31.43 AM')](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
 
 ## The MCAT is one of the primary factors in determining who gets into med school.
 
@@ -100,7 +96,7 @@ Our satisfied students speak for themselves.
 
 **Their assistance is worth every penny and I plan to use them in the future.**I could not have had a better experience working with Akshay and his team. They go above and beyond to help you achieve your goal of becoming a physician and prepare you to succeed. They helped me prepare for the MCAT by creating a study plan, keeping me accountable and explaining difficult topics. Their assistance is worth every penny and I plan to use them in the future for USMLE tutoring. I could not recommend the use of their services more.
 
-**Trinity S.****MCAT Student**
+**Trinity S.\*\***MCAT Student\*\*
 
 ## Get started with MCAT tutoring today, and be on your way to beginning your career in medicine.
 
@@ -110,7 +106,7 @@ At Medlearnity, we are so confident that you will find your tutoring effective, 
 
 ### "BAHA scored in the 98th percentile and has hundreds of hours of teaching pre-medical subjects for the MCAT. Work with him this week and achieve your MCAT goals."
 
-![](//www.medlearnity.com//images/wp/2020/09/Wrxr5Pvs-1024x488.png "Wrxr5Pvs")
+![](//www.medlearnity.com//images/wp/2020/09/Wrxr5Pvs-1024x488.png 'Wrxr5Pvs')
 
 Bahaa is a master educator for all subjects on the MCAT. He has tutored several students and been selected as the TA for course subjects including: General Biology, Cell Biology, General Chemistry I/II, Organic Chemistry I/II, Intro to Psychology, Intro to Sociology, Statistics, and more. When it comes to preparing for the MCAT, working with him is as good as it gets.
 
@@ -124,6 +120,6 @@ I truly appreciate all of \[Bahaa's\] help this semester. It really made a diffe
 
 Bahaa has helped me look deeper into concepts than just surface level really has helped me with ways to study and memorize some concepts
 
-![](//www.medlearnity.com//images/wp/2020/09/Bahaa-Abdellatif.png "Bahaa Abdellatif")
+![](//www.medlearnity.com//images/wp/2020/09/Bahaa-Abdellatif.png 'Bahaa Abdellatif')
 
 ## Schedule a Trial with Baha

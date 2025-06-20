@@ -4,17 +4,13 @@ pubDate: 2020-04-12
 description: 'Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl'
 ---
 
-
-
-
-
-![](//www.medlearnity.com//images/wp/2020/04/Medlearnity-Physician-Screen-scaled.jpg "Medlearnity Physician Screen")
+![](//www.medlearnity.com//images/wp/2020/04/Medlearnity-Physician-Screen-scaled.jpg 'Medlearnity Physician Screen')
 
 ### Our Story
 
 Medlearnity is an elite tutoring and consulting company that specializes in [**medical** **test preparation**](https://www.medlearnity.com/tutoring/), [**coursework**](https://www.medlearnity.com/coursework/), and [**admissions**](https://www.medlearnity.com/admissions/). For over 8 years, we have helped hundreds of aspiring doctors accomplish their goals on [**USMLE**](https://www.medlearnity.com/usmle/)**,** [**COMLEX**](https://www.medlearnity.com/comlex/)**,** [**Shelf Exams,**](https://www.medlearnity.com/nbme-shelf-exams/)[**Residency Board Exams**](https://www.medlearnity.com/residency-board-exams/), and [**MCAT**](https://www.medlearnity.com/mcat/).
 
-We pride ourselves on offering **the absolute highest quality tutoring, test preparation, and admissions consulting in the medical education industry**, which starts with our incredibly accomplished, experienced and compassionate tutors who deeply care about student success. [**Our tutors**](https://www.medlearnity.com/our-tutors/) **c****ome from the top medical schools and hospitals in the country, and average 90+ percentile scores on pre-medical, medical school, and residency exams**. The combination of their high scores and exceptional teaching skills are truly unmatched. While impressive scores are a nice metric on our [**Tutor Profiles**](https://www.medlearnity.com/our-tutors/), we focus on our ability to communicate the study methods and knowledge retention that have worked for us to our students.
+We pride ourselves on offering **the absolute highest quality tutoring, test preparation, and admissions consulting in the medical education industry**, which starts with our incredibly accomplished, experienced and compassionate tutors who deeply care about student success. [**Our tutors**](https://www.medlearnity.com/our-tutors/) **c\*\***ome from the top medical schools and hospitals in the country, and average 90+ percentile scores on pre-medical, medical school, and residency exams**. The combination of their high scores and exceptional teaching skills are truly unmatched. While impressive scores are a nice metric on our [**Tutor Profiles\*\*](https://www.medlearnity.com/our-tutors/), we focus on our ability to communicate the study methods and knowledge retention that have worked for us to our students.
 
 **At Medlearnity, students come first**. We understand preparing for a high-stakes exam or career prospect can be intimidating and deeply personal (to say the least). Therefore, **we approach every student's situation with our utmost attention to detail to see how we can best assist you**. Whether you are having challenges meeting your performance goals, or simply want to make sure you are on a path to success, our team is available to share our perspective. We know you will feel the **'Students First'** mentality at Medlearnity from the quality of your sessions and expertise of our team. See for yourself, the [**real** **testimonials given by real students**](https://www.medlearnity.com/student-testimonials/) who worked with our team to achieve their test preparation and career goals.
 
@@ -64,4 +60,4 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 ## **Our Tutors Have Trained at the Top Hospitals:**
 
-![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png "Penn Medicine Logo")![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo-e1591252543618.png "Columbia Medical Logo")![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Weill-Cornell-Logo.png "Weill Cornell Logo")![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png "Mayo v4")![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg "download-NYU MC")![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png "Mount Sinai logo")![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png "Johns Hopkins logo")![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png "Wake Forest Logo")
+![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png 'Penn Medicine Logo')![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo-e1591252543618.png 'Columbia Medical Logo')![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Weill-Cornell-Logo.png 'Weill Cornell Logo')![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png 'Mayo v4')![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg 'download-NYU MC')![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png 'Mount Sinai logo')![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png 'Johns Hopkins logo')![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png 'Wake Forest Logo')

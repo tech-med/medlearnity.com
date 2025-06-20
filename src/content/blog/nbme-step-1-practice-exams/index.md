@@ -1,14 +1,11 @@
 ---
-
-title: "Getting To Know The NBME Step 1 Practice Exams"
+title: 'Getting To Know The NBME Step 1 Practice Exams'
 pubDate: 2020-04-12
-categories: 
-  - "usmle"
-  - "usmle-step-1"
-description: "Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to becom"
-
+categories:
+  - 'usmle'
+  - 'usmle-step-1'
+description: 'Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to becom'
 ---
-
 
 Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to become a future doctor, the only way your mentors can prepare you is through letting you absorb as much knowledge as you possibly can. This way, when the time comes for you to make a crucial call, you’ll be doing it after much preparation. This is regardless of the results of your decision too. Whether you make a good or bad call, the most important thing is that you made that decision with as much consideration in mind. There’s a reason why it is called the “practice of medicine.” It’s because from the start till the end of your professional career, you won’t know for sure if you’re doing the right thing. The only thing you can do is learn so much that you, yourself, have faith in your own judgement.
 
@@ -42,7 +39,7 @@ As you may already know, the NBME or National Board of Medical Examiners is the 
 
 Needless to say, these practice exams would not be the same as the USMLE but it does help you prepare yourself mentally for the exams. It will cover similar topics and concepts to help you get a feel of what the real thing would look like. But keep note: While the USMLE Step 1 consists of 280 items, the CBSSA forms are far more plenty than that. So it’s not like the jurors are spoon-feeding you the answers to the Step 1 exam. One CBSSA form will have 200 questions. And guess what? You can take as many as 11 (or maybe even more if you back track other forms that have been retired already) forms before your actual exams. If each 200-item questionnaire takes up 5 hours of your time, imagine how long it would take you to finish 2200 questions. And you don’t even know which ones are going to be included in the actual exam! It will surely take a lot of brain and willpower but hey, it also means a golden opportunity to actually ace your exams.
 
-Recently, there have been changes in the CBSSA forms released by the NBME. For one, forms 3, 15, 16, 17, and 19 that have been used up until last year have been put to retirement already (18 is still available) and have been replaced with 20, 21, 22, 23, and 24. This means that there are five sets of new questions and since the CBSSA answer guides only _highlight_ and _not explain_ the answers, you probably won’t get anywhere trying to search for answer explanations online at this time. At the very least, it would take months or even years before someone somewhere gives rough explanations about the answers – not that you should trust them because they’re totally unverified so you may be lead to misconstrue and misunderstand some things.
+Recently, there have been changes in the CBSSA forms released by the NBME. For one, forms 3, 15, 16, 17, and 19 that have been used up until last year have been put to retirement already (18 is still available) and have been replaced with 20, 21, 22, 23, and 24. This means that there are five sets of new questions and since the CBSSA answer guides only *highlight* and *not explain* the answers, you probably won’t get anywhere trying to search for answer explanations online at this time. At the very least, it would take months or even years before someone somewhere gives rough explanations about the answers – not that you should trust them because they’re totally unverified so you may be lead to misconstrue and misunderstand some things.
 
 The best way to face NBME Step 1 Practice Exams is to have real, dedicated and knowledgeable mentors assist you every step of the way.
 

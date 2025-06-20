@@ -1,18 +1,14 @@
 ---
 title: 'USMLE Step 2 CK and CS Tutoring'
 pubDate: 2020-04-30
-description: 'Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn''t ideal. Even if you did do well on Step 1, a str'
+description: "Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn't ideal. Even if you did do well on Step 1, a str"
 ---
-
-
-
-
 
 ## Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn't ideal. Even if you did do well on Step 1, a strong performance on Step 2 CK demonstrates consistency and clinical excellence.
 
 ### USMLE Step 2 CK and CS Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_594717740.jpg "shutterstock_594717740")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_594717740.jpg 'shutterstock_594717740')
 
 Step 2 is taken during the third or fourth year of medical school. It consists of two parts:
 
@@ -40,19 +36,19 @@ The minimum passing score for Step 2 CK is 209, and the national average is a 24
 
 ## Why You Should Choose MED LEARNITY For Step 2 Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg "MCAT-Tutoring-1")
+![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
 Our team of Step 2 tutors at Medlearnity will help you meet and exceed expectations for your USMLE Step 2 CS, Clinical Skills, and Step 2 CK, Clinical Knowledge, during your third or fourth year of medical school. **A Medlearnity USMLE Step 2 CK tutor will take a personalized approach** to create sessions tailored to your learning goals and needs. All study sessions are emailed to you to maximize your learning and retention.
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg "Medical-Advicing-Services-1")
+![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
 
 ### Real Doctors
 
 **A physician-run company**, Medlearnity has built a reputation as having a high-quality user experience and the industry's most talented USMLE tutors. **Our tutors daily practice of medicine at the top hospitals in the U.S.** gives us the expertise to help you excel in clinical knowledge and medical skills. [Meet some of our world-class tutors](https://www.medlearnity.com/our-tutors/) and learn about their USMLE study experience before you get started.
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg "shutterstock_1043542105")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -62,7 +58,7 @@ Our team of Step 2 tutors at Medlearnity will help you meet and exceed expectati
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
 
 ## What to Expect From Our Step 2 Tutors
 
@@ -70,7 +66,7 @@ Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work 
 
 ### **What to Expect**
 
-- **A Step 2 tutor who is an expert educator who has scored exceptionally well****on the USMLE examinations** (90+ percentile, ~250+)
+- **A Step 2 tutor who is an expert educator who has scored exceptionally well\*\***on the USMLE examinations\*\* (90+ percentile, ~250+)
 - We meet with you on an easy-to-access online platform that allows us to write on the screen like a whiteboard. **All session recordings are emailed to you after the session in HD quality,** so you can review them on 1.5x or 2x speed at your convenience. This helps to **maximize your learning and retention** for each tutoring experience.
 - **Constant communication and scheduling** via email and phone in-between sessions. We will make sure your daily study schedule is extremely efficient **so that you can get the highest score possible on test day**.
 - **Test-taking advice and drills**. During your USMLE Step 2 tutoring sessions, you will do intense drills with your tutor to make sure you have no weaknesses on test day and recieve the score increase you're looking for. You and your tutor will work through high-yield content, test-taking advice, and study plans/strategies that are tailored to your particular situation.
@@ -129,18 +125,18 @@ I worked with my tutor for my Step 2 CK for the past 4 months. Throughout the pr
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/failed-step-2/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/failed-step-2/)
 
-## [Failed Step 2: What Should You Do Next?](https://www.medlearnity.com/failed-step-2/ "Failed Step 2: What Should You Do Next?")
+## [Failed Step 2: What Should You Do Next?](https://www.medlearnity.com/failed-step-2/ 'Failed Step 2: What Should You Do Next?')
 
 [](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/)
 
-## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ "Score High or Focus on Passing the USMLEs")
+## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ 'Score High or Focus on Passing the USMLEs')
 
 [](https://www.medlearnity.com/usmle-eligibility-and-requirements/)
 
-## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ "USMLE Eligibility & Requirements")
+## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ 'USMLE Eligibility & Requirements')
 
 [](https://www.medlearnity.com/usmle-step-1-vs-step-2/)
 
-## [Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge](https://www.medlearnity.com/usmle-step-1-vs-step-2/ "Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge")
+## [Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge](https://www.medlearnity.com/usmle-step-1-vs-step-2/ 'Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge')

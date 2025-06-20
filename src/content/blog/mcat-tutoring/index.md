@@ -1,15 +1,12 @@
 ---
-
-title: "MCAT Tutoring Is Your First Step To Med School"
+title: 'MCAT Tutoring Is Your First Step To Med School'
 pubDate: 2020-04-12
-categories: 
-  - "mcat"
-  - "medical-school-admissions"
-  - "medical-school-application-advising"
-description: "MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things a"
-
+categories:
+  - 'mcat'
+  - 'medical-school-admissions'
+  - 'medical-school-application-advising'
+description: 'MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things a'
 ---
-
 
 MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things about being a medical professional that are very fulfilling. Aside from the highly alluring pay, you get to create a difference in people’s lives. You get to help them overcome whatever it is that ails them and get paid a hefty sum too. If you ask me, this right here is the textbook example of “hitting two birds with one stone.” But seriously, being able to help the community and actually making an impact in other people’s lives, no matter how small, is the best feeling in the world – ever.
 
@@ -21,7 +18,7 @@ However, that’s also just it. Rooting for you is all that I can do. In fact, i
 
 Every professional starts out as a student just as every master starts out as an apprentice. You can’t become an expert at anything if you don’t take the time to learn thoroughly. Since medicine deals with real lives and real people, it’s a very strict discipline. You’ll find that this is all because of how important and dire the work involved is. When you work as an accountant and you make mistakes in your calculations, your company suffers financial losses. When you’re a doctor and you make a mistake, it’s not just money that’s lost. What may be put in peril is much more important than any paper currency – a life.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/MCAT-top1.jpg "MCAT-top1")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/MCAT-top1.jpg 'MCAT-top1')
 
 This is why the medical discipline is truly a strict one. It’s all for good reasons.
 
@@ -41,7 +38,7 @@ I just said that some of the most prestigious schools require applicants to hit 
 
 Still, if you’re aiming to enrol in one of the top tier schools of the country, then acing the MCAT is definitely something you should do. So, what is the MCAT really like?
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-Classes-1024x509.jpg "MCAT-Tutoring-Classes")
+![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-Classes-1024x509.jpg 'MCAT-Tutoring-Classes')
 
 ### **What Is The MCAT?**
 

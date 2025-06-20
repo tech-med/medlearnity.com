@@ -1,2162 +1,2158 @@
 {
-  "timestamp": "2025-06-20T15:29:23.858Z",
-  "totalDirectories": 126,
-  "categorized": {
-    "pages": [
-      "about",
-      "choosemedlearnity",
-      "frequently-asked-questions",
-      "our-services",
-      "our-tutors",
-      "start-here",
-      "student-testimonials"
-    ],
-    "specialty-boards": [
-      "abr-core-exam-tutoring",
-      "abs-certifying-exam",
-      "abs-exams",
-      "abs-exams-2",
-      "abs-qualifying-certifying",
-      "absite-core-shop",
-      "family-medicine-certification-exam-abfm",
-      "internal-medicine-boards",
-      "medlearnity-abr-core-exam-tutoring",
-      "medlearnity-abs-exam-tutoring",
-      "qlearn-absite",
-      "residency-board-exams"
-    ],
-    "services": [
-      "admissions",
-      "coursework",
-      "medical-remediation-tutoring",
-      "medical-school-admissions",
-      "professional-usmle-tutoring",
-      "residency-admissions",
-      "tutoring"
-    ],
-    "uncategorized": [
-      "alexandra-townsend",
-      "blog",
-      "checkout",
-      "comlex-tutoring",
-      "contact",
-      "generated-homepage",
-      "matthew-augustine",
-      "medlearnity-usmle-2",
-      "my-account",
-      "nader-mohamed",
-      "otp",
-      "professional-usmle-step-2-tutoring",
-      "radiology-core-review-24",
-      "scheduling",
-      "shop",
-      "sta-thank-you",
-      "thank-you",
-      "thankyou_speakwithadvisor",
-      "usmle-study-guide",
-      "usmle-videos",
-      "usmletutoring",
-      "v1-medlearnity-qlearn-terms-of-use"
-    ],
-    "tutors": [
-      "amit-syal",
-      "anna-chen",
-      "anthony",
-      "daksh-chauhan",
-      "dani-brown",
-      "dr-akshay-goel",
-      "eytan-palte",
-      "farid-ghamsari",
-      "fawaz-naeem",
-      "joseph-lu",
-      "justin-sardi",
-      "katherine-oakley",
-      "keith-cordner",
-      "ken-nakanote",
-      "keon-youssefzadeh",
-      "kush-patel",
-      "lucy-wang",
-      "madeleine-basist",
-      "max-frankfurter",
-      "melissa-wing",
-      "mimi-kim",
-      "pranav-rekapalli",
-      "radhika-srivastava",
-      "richard-wang",
-      "robert-rosen",
-      "sai-bhatte",
-      "sarah-bell",
-      "sylvia-rhodes",
-      "victoria-lord",
-      "viemma-nwigwe",
-      "walid-ashmeik",
-      "yehuda-elkaim"
-    ],
-    "ecommerce": [
-      "apprentice-registration-page",
-      "cart",
-      "competitor",
-      "payment-confirmation",
-      "payment-failed",
-      "thanks"
-    ],
-    "exams": [
-      "comlex",
-      "comlex-1",
-      "conquer-mcat-get-into-medical",
-      "failed-step-1-usmle-tutoring",
-      "level-2-ce-and-pe",
-      "level-3",
-      "mcat",
-      "nbme-shelf-exams",
-      "step-2ck-usmle",
-      "usmle",
-      "usmle-step-3",
-      "usmle-tutoring-step-1"
-    ],
-    "shop": [
-      "conquer-the-usmle",
-      "conquer-the-usmle-2",
-      "conquer-the-usmle-shop",
-      "premed-shop",
-      "radiology-core-shop"
-    ],
-    "marketing": [
-      "core-video-review",
-      "cvr-ft-thank-you",
-      "discounted-trial-session",
-      "discounted-trial-session-v2",
-      "ft-thank-you",
-      "how-can-we-assist-you",
-      "learn-more-via-email",
-      "lmve-thank-you",
-      "purchase-discounted-session",
-      "radreview",
-      "speak-to-advisor",
-      "test-learn-more-via-email",
-      "test-speak-to-advisor",
-      "trial-reservation-thank-you"
-    ],
-    "admin": [
-      "email-reviews",
-      "sitemap",
-      "start-here-old-page",
-      "test-form",
-      "testing",
-      "testing-2"
-    ],
-    "legal": [
-      "privacy-policy",
-      "qlearn-terms-of-use",
-      "terms-and-conditions"
-    ]
-  },
-  "detailed": [
-    {
-      "directory": "about",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "About Us",
-      "description": "Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl",
-      "pubDate": "2020-04-12",
-      "wordCount": 1114
-    },
-    {
-      "directory": "abr-core-exam-tutoring",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "American Board of Radiology (ABR) Qualifying Exam Tutors",
-      "description": "The American Board of Radiology",
-      "pubDate": "2021-11-18",
-      "wordCount": 1617
-    },
-    {
-      "directory": "abs-certifying-exam",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "ABS Certifying Exam (CE) Tutoring",
-      "description": "The ABS CE is the last step in obtaining general surgery board certification. ",
-      "pubDate": "2020-05-17",
-      "wordCount": 1230
-    },
-    {
-      "directory": "abs-exams",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "ABS In-Training Exam (ABSITE)",
-      "description": "Scoring well on the ABSITE has a major impact on resident promotion. Moreover, failing to score within the 50th percentile or better will warrant academic ",
-      "pubDate": "2020-05-16",
-      "wordCount": 1552
-    },
-    {
-      "directory": "abs-exams-2",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "ABS Exams",
-      "description": "As surgery attendings themselves, our tutors provide invaluable guidance and tutoring on the ABS exams",
-      "pubDate": "2020-05-17",
-      "wordCount": 654
-    },
-    {
-      "directory": "abs-qualifying-certifying",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "ABS Qualifying Exam (QE) Tutoring",
-      "description": "The ABS QE is the first of two exams required for board certification in general surgery.",
-      "pubDate": "2020-05-17",
-      "wordCount": 1236
-    },
-    {
-      "directory": "absite-core-shop",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Absite Core Shop",
-      "description": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low",
-      "pubDate": "2023-03-20",
-      "wordCount": 36
-    },
-    {
-      "directory": "admissions",
-      "category": "services",
-      "subcategory": "admissions",
-      "hasIndex": true,
-      "title": "Admissions Consulting",
-      "description": "Application Advising, Essay Editing, Interview Prep, and Strategy",
-      "pubDate": "2020-05-21",
-      "wordCount": 408
-    },
-    {
-      "directory": "alexandra-townsend",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Alexandra Townsend",
-      "description": "\\",
-      "pubDate": "2023-02-28",
-      "wordCount": 250
-    },
-    {
-      "directory": "amit-syal",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Amit Syal",
-      "description": "\\",
-      "pubDate": "2025-04-15",
-      "wordCount": 238
-    },
-    {
-      "directory": "anna-chen",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Anna Chen",
-      "description": "There is nothing more fulfilling than turning anxiety into empowerment and confusion into confidence. That is why I strive to equip students with the study",
-      "pubDate": "2024-09-30",
-      "wordCount": 313
-    },
-    {
-      "directory": "anthony",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Anthony",
-      "description": "\\",
-      "pubDate": "2023-09-26",
-      "wordCount": 1237
-    },
-    {
-      "directory": "apprentice-registration-page",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Apprentice registration page",
-      "description": "",
-      "pubDate": "2024-11-09",
-      "wordCount": 0
-    },
-    {
-      "directory": "blog",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Blog",
-      "description": "USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE ",
-      "pubDate": "2020-04-12",
-      "wordCount": 1400
-    },
-    {
-      "directory": "cart",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Cart",
-      "description": "\\[woocommerce\\cart\\]",
-      "pubDate": "2021-03-25",
-      "wordCount": 1
-    },
-    {
-      "directory": "checkout",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Checkout",
-      "description": "If you are reserving a trial, you can complete the .",
-      "pubDate": "2021-04-05",
-      "wordCount": 17
-    },
-    {
-      "directory": "choosemedlearnity",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Choose Medlearnity",
-      "description": "Whether you",
-      "pubDate": "2025-04-10",
-      "wordCount": 742
-    },
-    {
-      "directory": "comlex",
-      "category": "exams",
-      "subcategory": "comlex",
-      "hasIndex": true,
-      "title": "COMLEX",
-      "description": "Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX",
-      "pubDate": "2020-04-30",
-      "wordCount": 741
-    },
-    {
-      "directory": "comlex-1",
-      "category": "exams",
-      "subcategory": "comlex",
-      "hasIndex": true,
-      "title": "COMLEX Level 1 Tutoring",
-      "description": "Your COMLEX Level 1 score plays a large factor in determining which medical specialties you can pursue and what residency program you match into.",
-      "pubDate": "2020-05-01",
-      "wordCount": 1853
-    },
-    {
-      "directory": "comlex-tutoring",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Comlex Tutoring",
-      "description": "Personalized, proven COMLEX coaching by top 1% tutors – achieve your dream score with confidence.",
-      "pubDate": "2025-04-10",
-      "wordCount": 706
-    },
-    {
-      "directory": "competitor",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Competitor",
-      "description": "Medlearnity: The Smarter Choice for Medical Exam Success",
-      "pubDate": "2025-03-26",
-      "wordCount": 744
-    },
-    {
-      "directory": "conquer-mcat-get-into-medical",
-      "category": "exams",
-      "subcategory": "mcat",
-      "hasIndex": true,
-      "title": "Conquer the MCAT and Get Into Medical School",
-      "description": "Get started with MCAT tutoring today and conquer the MCAT to get into medical school with personalized tutoring from professional physician tutors.",
-      "pubDate": "2020-10-02",
-      "wordCount": 1292
-    },
-    {
-      "directory": "conquer-the-usmle",
-      "category": "shop",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Conquer the USMLE",
-      "description": " Conquer the USMLE and get into your firstchoice residency",
-      "pubDate": "2020-10-15",
-      "wordCount": 1627
-    },
-    {
-      "directory": "conquer-the-usmle-2",
-      "category": "shop",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Conquer the USMLE 2",
-      "description": "Conquer the USMLE and get into your firstchoice residency",
-      "pubDate": "2023-03-13",
-      "wordCount": 1618
-    },
-    {
-      "directory": "conquer-the-usmle-shop",
-      "category": "shop",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Conquer the USMLE Shop",
-      "description": "Learn more about Conquer the USMLE Shop and our comprehensive tutoring services.",
-      "pubDate": "2022-05-20",
-      "wordCount": 1162
-    },
-    {
-      "directory": "contact",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Contact",
-      "description": "Please fill out the contact form below and one of our customer service managers will get in touch!",
-      "pubDate": "2022-05-05",
-      "wordCount": 31
-    },
-    {
-      "directory": "core-video-review",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Core Video Review",
-      "description": "ExpertLed,HighYield Prepfor Your Radiology Core Exam",
-      "pubDate": "2025-03-31",
-      "wordCount": 1040
-    },
-    {
-      "directory": "coursework",
-      "category": "services",
-      "subcategory": "tutoring",
-      "hasIndex": true,
-      "title": "Medical Coursework Tutoring",
-      "description": "We tutor for premedical and medical school coursework tutoring and coaching. We have worked with many students who stay with us throughout their undergradu",
-      "pubDate": "2020-05-21",
-      "wordCount": 1426
-    },
-    {
-      "directory": "cvr-ft-thank-you",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "CVR Thank You",
-      "description": "Thanks for signing up! You’re now one step closer to smarter, more efficient board prep.",
-      "pubDate": "2025-04-08",
-      "wordCount": 54
-    },
-    {
-      "directory": "daksh-chauhan",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Daksh Chauhan",
-      "description": "Having tutored for nearly 5 years, I have developed a studentcentered style to teaching wherein I like to see the students perform as they would naturally ",
-      "pubDate": "2024-08-29",
-      "wordCount": 240
-    },
-    {
-      "directory": "dani-brown",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Dani Brown",
-      "description": "I love tutoring to help students build their clinical reasoning and testtaking skills! It is so rewarding to watch students develop confidence in their own",
-      "pubDate": "2024-07-12",
-      "wordCount": 223
-    },
-    {
-      "directory": "discounted-trial-session",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Discounted Trial Session",
-      "description": "Thank you for submitting your information — you’re one step closer to mastering your exam!",
-      "pubDate": "2025-05-21",
-      "wordCount": 214
-    },
-    {
-      "directory": "discounted-trial-session-v2",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Discounted Trial Session V2",
-      "description": "Thank you for submitting your information — you’re one step closer to mastering your exam",
-      "pubDate": "2025-05-26",
-      "wordCount": 210
-    },
-    {
-      "directory": "dr-akshay-goel",
-      "category": "tutors",
-      "subcategory": "leadership",
-      "hasIndex": true,
-      "title": "Dr. Akshay Goel",
-      "description": "Dr. Goel is a bodytrained radiologist and an expert in medical education and imaging informatics. He completed his Radiology Residency at Columbia Universi",
-      "pubDate": "2021-11-29",
-      "wordCount": 150
-    },
-    {
-      "directory": "email-reviews",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Email Feedback",
-      "description": "",
-      "pubDate": "2020-11-15",
-      "wordCount": 18
-    },
-    {
-      "directory": "eytan-palte",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Eytan Palte",
-      "description": "\\",
-      "pubDate": "2023-02-01",
-      "wordCount": 287
-    },
-    {
-      "directory": "failed-step-1-usmle-tutoring",
-      "category": "exams",
-      "subcategory": "usmle",
-      "hasIndex": true,
-      "title": "Failed Step 1?",
-      "description": "Learn more about Failed Step 1? and our comprehensive tutoring services.",
-      "pubDate": "2022-03-11",
-      "wordCount": 1591
-    },
-    {
-      "directory": "family-medicine-certification-exam-abfm",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Family Medicine Certification Exam (ABFM) Tutoring",
-      "description": "Family Medicine Certification Exam (ABFM) Overview",
-      "pubDate": "2020-05-17",
-      "wordCount": 1216
-    },
-    {
-      "directory": "farid-ghamsari",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Farid Ghamsari",
-      "description": "\\",
-      "pubDate": "2023-08-24",
-      "wordCount": 291
-    },
-    {
-      "directory": "fawaz-naeem",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Fawaz Naeem",
-      "description": "I am deeply passionate about tutoring because it allows me to transform complex concepts into accessible knowledge for my students. I love breaking down di",
-      "pubDate": "2024-08-19",
-      "wordCount": 251
-    },
-    {
-      "directory": "frequently-asked-questions",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Frequently Asked Questions",
-      "description": "Tutoring FAQs\n Admissions FAQs",
-      "pubDate": "2022-02-09",
-      "wordCount": 6
-    },
-    {
-      "directory": "ft-thank-you",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "FT Thank You",
-      "description": "Thank you for your interest in a trial session!",
-      "pubDate": "2024-01-05",
-      "wordCount": 434
-    },
-    {
-      "directory": "generated-homepage",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Home",
-      "description": "This has been autogenerated as a placeholder for homepage.",
-      "pubDate": "2020-04-12",
-      "wordCount": 9
-    },
-    {
-      "directory": "how-can-we-assist-you",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "How can we assist you?",
-      "description": "Learn more about How can we assist you? and our comprehensive tutoring services.",
-      "pubDate": "2024-07-05",
-      "wordCount": 2154
-    },
-    {
-      "directory": "internal-medicine-boards",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Internal Medicine Certification Exam (ABIM) Tutoring",
-      "description": "Internal Medicine Certification Exam (ABIM) Overview",
-      "pubDate": "2020-05-17",
-      "wordCount": 1380
-    },
-    {
-      "directory": "joseph-lu",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Joseph Lu",
-      "description": "With over 650 hours of dedicated tutoring experience, I have specialized in helping students excel in a wide range of standardized tests, including the MCA",
-      "pubDate": "2024-07-12",
-      "wordCount": 230
-    },
-    {
-      "directory": "justin-sardi",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Justin Sardi",
-      "description": "I am excited to help you build confidence and reach your goals with the ABR qualifying exam.",
-      "pubDate": "2025-01-03",
-      "wordCount": 209
-    },
-    {
-      "directory": "katherine-oakley",
-      "category": "tutors",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Katherine Oakley",
-      "description": "\\",
-      "pubDate": "2023-08-27",
-      "wordCount": 348
-    },
-    {
-      "directory": "keith-cordner",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Keith Cordner",
-      "description": "Tutoring has been an incredibly rewarding opportunity for me. It grants perspective, helps me stay fresh on more obscure content, and crystalizes my own un",
-      "pubDate": "2023-05-18",
-      "wordCount": 383
-    },
-    {
-      "directory": "ken-nakanote",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Ken Nakanote",
-      "description": "\\",
-      "pubDate": "2023-07-10",
-      "wordCount": 233
-    },
-    {
-      "directory": "keon-youssefzadeh",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Keon Youssefzadeh",
-      "description": "\\",
-      "pubDate": "2024-02-09",
-      "wordCount": 224
-    },
-    {
-      "directory": "kush-patel",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Kush Patel",
-      "description": "\\",
-      "pubDate": "2023-01-25",
-      "wordCount": 383
-    },
-    {
-      "directory": "learn-more-via-email",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Learn more via email",
-      "description": "",
-      "pubDate": "2024-07-05",
-      "wordCount": 0
-    },
-    {
-      "directory": "level-2-ce-and-pe",
-      "category": "exams",
-      "subcategory": "comlex",
-      "hasIndex": true,
-      "title": "COMLEX Level 2-CE and PE Tutoring",
-      "description": "A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn",
-      "pubDate": "2020-05-01",
-      "wordCount": 1563
-    },
-    {
-      "directory": "level-3",
-      "category": "exams",
-      "subcategory": "comlex",
-      "hasIndex": true,
-      "title": "COMLEX Level 3 Tutoring",
-      "description": "COMLEX Level 3 is the final hurdle in the COMLEX exam series, and is often the most underestimated by aspiring doctors. Don",
-      "pubDate": "2020-05-01",
-      "wordCount": 1582
-    },
-    {
-      "directory": "lmve-thank-you",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "LMVE Thank You",
-      "description": "Your request has been received, and we’ll send the information directly to your inbox shortly. If you don’t hear from us soon please check your spam folder",
-      "pubDate": "2024-09-17",
-      "wordCount": 58
-    },
-    {
-      "directory": "lucy-wang",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Lucy Wang",
-      "description": "Having previously tutored students across a wide range of subjects from organic chemistry to Roman poetry, I have a longstanding interest in teaching stude",
-      "pubDate": "2024-10-16",
-      "wordCount": 246
-    },
-    {
-      "directory": "madeleine-basist",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Madeleine Basist",
-      "description": "\\",
-      "pubDate": "2023-02-01",
-      "wordCount": 257
-    },
-    {
-      "directory": "matthew-augustine",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Matthew Augustine",
-      "description": "\\",
-      "pubDate": "2023-02-06",
-      "wordCount": 260
-    },
-    {
-      "directory": "max-frankfurter",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Max Frankfurter",
-      "description": "\\",
-      "pubDate": "2023-09-15",
-      "wordCount": 212
-    },
-    {
-      "directory": "mcat",
-      "category": "exams",
-      "subcategory": "mcat",
-      "hasIndex": true,
-      "title": "MCAT Tutoring",
-      "description": "Your MCAT score is one of the most important parts of your medical school application. It plays a large factor in determining which medical schools you are",
-      "pubDate": "2020-05-01",
-      "wordCount": 1605
-    },
-    {
-      "directory": "medical-remediation-tutoring",
-      "category": "services",
-      "subcategory": "tutoring",
-      "hasIndex": true,
-      "title": "Remediation Medical Coursework Tutoring",
-      "description": "Remediation Program for Medical School Students",
-      "pubDate": "2021-05-10",
-      "wordCount": 1382
-    },
-    {
-      "directory": "medical-school-admissions",
-      "category": "services",
-      "subcategory": "admissions",
-      "hasIndex": true,
-      "title": "Medical School Admissions Consulting",
-      "description": "Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal s",
-      "pubDate": "2020-05-21",
-      "wordCount": 707
-    },
-    {
-      "directory": "medlearnity-abr-core-exam-tutoring",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity ABR CORE Exam Tutoring",
-      "description": " Excel on your ABR Core Exam with an Expert Tutor",
-      "pubDate": "2023-05-16",
-      "wordCount": 945
-    },
-    {
-      "directory": "medlearnity-abs-exam-tutoring",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity ABS Exam Tutoring",
-      "description": "Excel on your American Board of Surgery Exam with an Expert Tutor",
-      "pubDate": "2023-04-17",
-      "wordCount": 1109
-    },
-    {
-      "directory": "medlearnity-usmle-2",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity USMLE",
-      "description": " Conquer the USMLE and get into your firstchoice residency",
-      "pubDate": "2023-04-13",
-      "wordCount": 1380
-    },
-    {
-      "directory": "melissa-wing",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Melissa Wing",
-      "description": "\\",
-      "pubDate": "2023-02-01",
-      "wordCount": 377
-    },
-    {
-      "directory": "mimi-kim",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Mimi Kim",
-      "description": "I am passionate about teaching and find a lot of joy in helping students approach their exams with less anxiety. My tutoring approach focuses on mastering ",
-      "pubDate": "2025-01-03",
-      "wordCount": 238
-    },
-    {
-      "directory": "my-account",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "My account",
-      "description": "\\[woocommerce\\my\\account\\]",
-      "pubDate": "2021-03-25",
-      "wordCount": 1
-    },
-    {
-      "directory": "nader-mohamed",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Nader Mohamed",
-      "description": "I am a seasoned medical and anatomy tutor with a rich history of guiding students through intricate medical subjects. My journey as a medical tutor began, ",
-      "pubDate": "2023-08-24",
-      "wordCount": 304
-    },
-    {
-      "directory": "nbme-shelf-exams",
-      "category": "exams",
-      "subcategory": "shelf-exams",
-      "hasIndex": true,
-      "title": "Shelf Exam Tutoring",
-      "description": "The NBME Shelf Exams, administered after clerkship rotations during your third year, test your subjectspecific knowledge after each rotation and serve as t",
-      "pubDate": "2020-05-17",
-      "wordCount": 1619
-    },
-    {
-      "directory": "otp",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "OTP",
-      "description": "",
-      "pubDate": "2024-07-02",
-      "wordCount": 0
-    },
-    {
-      "directory": "our-services",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Our Services",
-      "description": "We tutor for USMLE Exams (Step 1, Step 2 CK and CS, and Step 3), COMLEX Exams (Level 1, Level 2CE and PE, and Level 3), Shelf/NBME Exams, Advanced Residenc",
-      "pubDate": "2020-07-30",
-      "wordCount": 186
-    },
-    {
-      "directory": "our-tutors",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity Tutors",
-      "description": "Our tutors come from the top medical schools and hospitals in the country. They are expert educators who have truly mastered medical knowledge and testtaki",
-      "pubDate": "2021-09-28",
-      "wordCount": 640
-    },
-    {
-      "directory": "payment-confirmation",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Payment Confirmation",
-      "description": "\\[simpay\\payment\\receipt\\]",
-      "pubDate": "2020-06-11",
-      "wordCount": 1
-    },
-    {
-      "directory": "payment-failed",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Payment Failed",
-      "description": "We",
-      "pubDate": "2020-06-11",
-      "wordCount": 17
-    },
-    {
-      "directory": "pranav-rekapalli",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Pranav Rekapalli",
-      "description": "Tutoring is most rewarding for me when I",
-      "pubDate": "2023-07-19",
-      "wordCount": 221
-    },
-    {
-      "directory": "premed-shop",
-      "category": "shop",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Premed Shop",
-      "description": "\\[tcb\\woo\\shop limit=",
-      "pubDate": "2021-07-20",
-      "wordCount": 28
-    },
-    {
-      "directory": "privacy-policy",
-      "category": "legal",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Privacy Policy",
-      "description": "Medlearnity services, including (without limitation) all websites, mobile applications and other interactive properties through which the service is delive",
-      "pubDate": "2020-04-12",
-      "wordCount": 1698
-    },
-    {
-      "directory": "professional-usmle-step-2-tutoring",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Professional USMLE Step 2 Tutoring",
-      "description": "Learn more about Professional USMLE Step 2 Tutoring and our comprehensive tutoring services.",
-      "pubDate": "2021-12-17",
-      "wordCount": 1646
-    },
-    {
-      "directory": "professional-usmle-tutoring",
-      "category": "services",
-      "subcategory": "tutoring",
-      "hasIndex": true,
-      "title": "Professional USMLE Tutoring",
-      "description": "Learn more about Professional USMLE Tutoring and our comprehensive tutoring services.",
-      "pubDate": "2021-12-17",
-      "wordCount": 1606
-    },
-    {
-      "directory": "purchase-discounted-session",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Purchase Discounted Session",
-      "description": "Learn more about Purchase Discounted Session and our comprehensive tutoring services.",
-      "pubDate": "2024-07-25",
-      "wordCount": 225
-    },
-    {
-      "directory": "qlearn-absite",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Qlearn ABSITE",
-      "description": "Our QBank features over 2,000 questions, crafted by exceptional educators who scored above the 90th percentile on ABSITE exams and have thousands of hours ",
-      "pubDate": "2025-02-04",
-      "wordCount": 260
-    },
-    {
-      "directory": "qlearn-terms-of-use",
-      "category": "legal",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity QLearn",
-      "description": "These Terms of Use set forth the terms and conditions of an agreement (this \\",
-      "pubDate": "2024-12-26",
-      "wordCount": 5006
-    },
-    {
-      "directory": "radhika-srivastava",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Radhika Srivastava",
-      "description": "\\",
-      "pubDate": "2023-02-01",
-      "wordCount": 257
-    },
-    {
-      "directory": "radiology-core-review-24",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Radiology Core Review ",
-      "description": "",
-      "pubDate": "2024-11-09",
-      "wordCount": 0
-    },
-    {
-      "directory": "radiology-core-shop",
-      "category": "shop",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Radiology Core Shop",
-      "description": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low",
-      "pubDate": "2021-09-14",
-      "wordCount": 88
-    },
-    {
-      "directory": "radreview",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Radiology Review",
-      "description": "Welcome to Medlearnity",
-      "pubDate": "2023-07-31",
-      "wordCount": 1362
-    },
-    {
-      "directory": "residency-admissions",
-      "category": "services",
-      "subcategory": "admissions",
-      "hasIndex": true,
-      "title": "Residency Admissions &#038; Match Consulting",
-      "description": "Our residency admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your match list and ERAS application",
-      "pubDate": "2020-05-21",
-      "wordCount": 1303
-    },
-    {
-      "directory": "residency-board-exams",
-      "category": "specialty-boards",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Residency Board Exams",
-      "description": "Our tutors have trained at the top hospitals in the country, and provide invaluable guidance and tutoring for residency board exams, including the ABSITE, ",
-      "pubDate": "2020-05-01",
-      "wordCount": 709
-    },
-    {
-      "directory": "richard-wang",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Richard Wang",
-      "description": "My goal is to equip my students with the tools and knowledge they need to approach this exam with assurance and proficiency. I take pride in tailoring my t",
-      "pubDate": "2024-07-09",
-      "wordCount": 214
-    },
-    {
-      "directory": "robert-rosen",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Robert Rosen",
-      "description": "\\",
-      "pubDate": "2024-06-26",
-      "wordCount": 223
-    },
-    {
-      "directory": "sai-bhatte",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Sai Bhatte",
-      "description": "My primary goal for students is to foster a comfortable and supportive learning environment. I am passionate about providing a space where students can con",
-      "pubDate": "2024-07-12",
-      "wordCount": 200
-    },
-    {
-      "directory": "sarah-bell",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Sarah Bell",
-      "description": "\\",
-      "pubDate": "2025-04-26",
-      "wordCount": 264
-    },
-    {
-      "directory": "scheduling",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Schedule Your Trial Session",
-      "description": "Please be comprehensive with your responses as this helps us schedule your trial without delays.",
-      "pubDate": "2022-06-15",
-      "wordCount": 24
-    },
-    {
-      "directory": "shop",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity Education",
-      "description": "",
-      "pubDate": "2021-03-25",
-      "wordCount": 0
-    },
-    {
-      "directory": "sitemap",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Sitemap",
-      "description": "",
-      "pubDate": "2021-03-23",
-      "wordCount": 134
-    },
-    {
-      "directory": "speak-to-advisor",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "speak to advisor",
-      "description": "Learn more about speak to advisor and our comprehensive tutoring services.",
-      "pubDate": "2024-06-25",
-      "wordCount": 4
-    },
-    {
-      "directory": "sta-thank-you",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "STA Thank You",
-      "description": "Your consultation has been successfully scheduled, and one of our advisors will connect with you at the selected time. If you don’t hear from us soon pleas",
-      "pubDate": "2024-09-17",
-      "wordCount": 63
-    },
-    {
-      "directory": "start-here",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Start Here",
-      "description": "Learn more about Start Here and our comprehensive tutoring services.",
-      "pubDate": "2024-12-27",
-      "wordCount": 1254
-    },
-    {
-      "directory": "start-here-old-page",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Discounted Session Sign-Up",
-      "description": "Fill out the contact form below to schedule your free trial and meet your new tutor!",
-      "pubDate": "2020-05-26",
-      "wordCount": 1307
-    },
-    {
-      "directory": "step-2ck-usmle",
-      "category": "exams",
-      "subcategory": "usmle",
-      "hasIndex": true,
-      "title": "USMLE Step 2 CK and CS Tutoring",
-      "description": "Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn",
-      "pubDate": "2020-04-30",
-      "wordCount": 2406
-    },
-    {
-      "directory": "student-testimonials",
-      "category": "pages",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Student Testimonials",
-      "description": "We’ve helped over 500 students prepare for their highstakes medical exams. See what they have to say!",
-      "pubDate": "2020-05-26",
-      "wordCount": 9210
-    },
-    {
-      "directory": "sylvia-rhodes",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Sylvia Rhodes",
-      "description": "\\",
-      "pubDate": "2023-06-20",
-      "wordCount": 349
-    },
-    {
-      "directory": "terms-and-conditions",
-      "category": "legal",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Terms and Conditions",
-      "description": "These are the terms and conditions for usage of the website of Medlearnity LLC. Please read our terms and conditions carefully before using the website. Yo",
-      "pubDate": "2020-05-29",
-      "wordCount": 2072
-    },
-    {
-      "directory": "test-form",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "test-form",
-      "description": "",
-      "pubDate": "2020-11-02",
-      "wordCount": 0
-    },
-    {
-      "directory": "test-learn-more-via-email",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Test Learn More Via Email",
-      "description": "Learn more about Test Learn More Via Email and our comprehensive tutoring services.",
-      "pubDate": "2024-09-09",
-      "wordCount": 1384
-    },
-    {
-      "directory": "test-speak-to-advisor",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Test Speak To Advisor",
-      "description": "Learn more about Test Speak To Advisor and our comprehensive tutoring services.",
-      "pubDate": "2024-09-09",
-      "wordCount": 1441
-    },
-    {
-      "directory": "testing",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Testing",
-      "description": "\\[MANILA\\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong",
-      "pubDate": "2021-01-13",
-      "wordCount": 415
-    },
-    {
-      "directory": "testing-2",
-      "category": "admin",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Testing 2",
-      "description": "\\[MANILA\\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong",
-      "pubDate": "2021-01-21",
-      "wordCount": 827
-    },
-    {
-      "directory": "thank-you",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Thank You",
-      "description": "Thanks for reaching out! We",
-      "pubDate": "2021-03-12",
-      "wordCount": 16
-    },
-    {
-      "directory": "thanks",
-      "category": "ecommerce",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Thanks",
-      "description": "Thanks for scheduling your trial session! Your Medlearnity tutor will be in touch shortly to confirm your time and date.",
-      "pubDate": "2022-08-17",
-      "wordCount": 24
-    },
-    {
-      "directory": "thankyou_speakwithadvisor",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Welcome to Medlearnity",
-      "description": "Thank you for your interest in speaking with an advisor.  Your info was submitted. We will contact you shortly.  If you would prefer, you can schedule a ti",
-      "pubDate": "2025-01-29",
-      "wordCount": 43
-    },
-    {
-      "directory": "trial-reservation-thank-you",
-      "category": "marketing",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Trial Reservation Thank You",
-      "description": "Thank you for expressing interest in a trial with MedLearnity. To secure your spot, please schedule your trial using the form provided below. Additionally,",
-      "pubDate": "2024-01-05",
-      "wordCount": 141
-    },
-    {
-      "directory": "tutoring",
-      "category": "services",
-      "subcategory": "tutoring",
-      "hasIndex": true,
-      "title": "Test Preparation",
-      "description": "We know how important highstakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for th",
-      "pubDate": "2020-04-12",
-      "wordCount": 660
-    },
-    {
-      "directory": "usmle",
-      "category": "exams",
-      "subcategory": "usmle",
-      "hasIndex": true,
-      "title": "USMLE Tutoring",
-      "description": "Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE",
-      "pubDate": "2020-04-29",
-      "wordCount": 1118
-    },
-    {
-      "directory": "usmle-step-3",
-      "category": "exams",
-      "subcategory": "usmle",
-      "hasIndex": true,
-      "title": "USMLE Step 3 Tutoring",
-      "description": "USMLE Step 3 is the final hurdle in the USMLE exam series and is often the most underestimated by aspiring doctors. Don",
-      "pubDate": "2020-04-30",
-      "wordCount": 2527
-    },
-    {
-      "directory": "usmle-study-guide",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "USMLE Study Guide Sign-Up",
-      "description": "Level up your USMLE gameplan with a comprehensive study guide",
-      "pubDate": "2023-03-15",
-      "wordCount": 17
-    },
-    {
-      "directory": "usmle-tutoring-step-1",
-      "category": "exams",
-      "subcategory": "usmle",
-      "hasIndex": true,
-      "title": "USMLE Step 1 Tutoring",
-      "description": "Passing the USMLE Step 1 in 2025 is extremely important, as it plays a large role in determining which medical specialties you can pursue & what residency ",
-      "pubDate": "2020-04-25",
-      "wordCount": 2184
-    },
-    {
-      "directory": "usmle-videos",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "USMLE Videos",
-      "description": "Level up your USMLE study plan with over 60 questions, trainings, tips, and more!",
-      "pubDate": "2022-09-09",
-      "wordCount": 20
-    },
-    {
-      "directory": "usmletutoring",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "USMLE Tutoring",
-      "description": "Personalized, proven USMLE coaching by top 1% tutors – achieve your dream score with confidence.",
-      "pubDate": "2025-03-18",
-      "wordCount": 707
-    },
-    {
-      "directory": "v1-medlearnity-qlearn-terms-of-use",
-      "category": "uncategorized",
-      "subcategory": null,
-      "hasIndex": true,
-      "title": "Medlearnity QLearn Terms of Use",
-      "description": "These Terms of Use set forth the terms and conditions of an agreement (this \\",
-      "pubDate": "2024-07-01",
-      "wordCount": 4989
-    },
-    {
-      "directory": "victoria-lord",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Victoria Lord",
-      "description": "\\",
-      "pubDate": "2023-03-30",
-      "wordCount": 441
-    },
-    {
-      "directory": "viemma-nwigwe",
-      "category": "tutors",
-      "subcategory": "medical-doctors",
-      "hasIndex": true,
-      "title": "Viemma Nwigwe",
-      "description": "\\",
-      "pubDate": "2023-02-01",
-      "wordCount": 389
-    },
-    {
-      "directory": "walid-ashmeik",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Walid Ashmeik",
-      "description": "My goal is to foster a supportive and engaging environment, tailor my approach to each individual",
-      "pubDate": "2024-10-17",
-      "wordCount": 202
-    },
-    {
-      "directory": "yehuda-elkaim",
-      "category": "tutors",
-      "subcategory": "medical-students",
-      "hasIndex": true,
-      "title": "Yehuda Elkaim",
-      "description": "Over the years, I have tutored students in English, math, music, and medical school courses, among other subjects. One of the most fulfilling aspects of my",
-      "pubDate": "2025-05-25",
-      "wordCount": 259
-    }
-  ],
-  "reorganizationPlan": {
-    "commands": [
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/about src/content/wpPages/pages/about",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/choosemedlearnity src/content/wpPages/pages/choosemedlearnity",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/frequently-asked-questions src/content/wpPages/pages/frequently-asked-questions",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/our-services src/content/wpPages/pages/our-services",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/our-tutors src/content/wpPages/pages/our-tutors",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/start-here src/content/wpPages/pages/start-here",
-      "mkdir -p src/content/wpPages/pages",
-      "mv src/content/wpPages/student-testimonials src/content/wpPages/pages/student-testimonials",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/abr-core-exam-tutoring src/content/wpPages/specialty-boards/abr-core-exam-tutoring",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/abs-certifying-exam src/content/wpPages/specialty-boards/abs-certifying-exam",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/abs-exams src/content/wpPages/specialty-boards/abs-exams",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/abs-exams-2 src/content/wpPages/specialty-boards/abs-exams-2",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/abs-qualifying-certifying src/content/wpPages/specialty-boards/abs-qualifying-certifying",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/absite-core-shop src/content/wpPages/specialty-boards/absite-core-shop",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/family-medicine-certification-exam-abfm src/content/wpPages/specialty-boards/family-medicine-certification-exam-abfm",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/internal-medicine-boards src/content/wpPages/specialty-boards/internal-medicine-boards",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/medlearnity-abr-core-exam-tutoring src/content/wpPages/specialty-boards/medlearnity-abr-core-exam-tutoring",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/medlearnity-abs-exam-tutoring src/content/wpPages/specialty-boards/medlearnity-abs-exam-tutoring",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/qlearn-absite src/content/wpPages/specialty-boards/qlearn-absite",
-      "mkdir -p src/content/wpPages/specialty-boards",
-      "mv src/content/wpPages/residency-board-exams src/content/wpPages/specialty-boards/residency-board-exams",
-      "mkdir -p src/content/wpPages/services/admissions",
-      "mv src/content/wpPages/admissions src/content/wpPages/services/admissions/admissions",
-      "mkdir -p src/content/wpPages/services/tutoring",
-      "mv src/content/wpPages/coursework src/content/wpPages/services/tutoring/coursework",
-      "mkdir -p src/content/wpPages/services/tutoring",
-      "mv src/content/wpPages/medical-remediation-tutoring src/content/wpPages/services/tutoring/medical-remediation-tutoring",
-      "mkdir -p src/content/wpPages/services/admissions",
-      "mv src/content/wpPages/medical-school-admissions src/content/wpPages/services/admissions/medical-school-admissions",
-      "mkdir -p src/content/wpPages/services/tutoring",
-      "mv src/content/wpPages/professional-usmle-tutoring src/content/wpPages/services/tutoring/professional-usmle-tutoring",
-      "mkdir -p src/content/wpPages/services/admissions",
-      "mv src/content/wpPages/residency-admissions src/content/wpPages/services/admissions/residency-admissions",
-      "mkdir -p src/content/wpPages/services/tutoring",
-      "mv src/content/wpPages/tutoring src/content/wpPages/services/tutoring/tutoring",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/amit-syal src/content/wpPages/tutors/medical-students/amit-syal",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/anna-chen src/content/wpPages/tutors/medical-students/anna-chen",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/anthony src/content/wpPages/tutors/medical-students/anthony",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/daksh-chauhan src/content/wpPages/tutors/medical-students/daksh-chauhan",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/dani-brown src/content/wpPages/tutors/medical-students/dani-brown",
-      "mkdir -p src/content/wpPages/tutors/leadership",
-      "mv src/content/wpPages/dr-akshay-goel src/content/wpPages/tutors/leadership/dr-akshay-goel",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/eytan-palte src/content/wpPages/tutors/medical-doctors/eytan-palte",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/farid-ghamsari src/content/wpPages/tutors/medical-students/farid-ghamsari",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/fawaz-naeem src/content/wpPages/tutors/medical-students/fawaz-naeem",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/joseph-lu src/content/wpPages/tutors/medical-students/joseph-lu",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/justin-sardi src/content/wpPages/tutors/medical-students/justin-sardi",
-      "mkdir -p src/content/wpPages/tutors",
-      "mv src/content/wpPages/katherine-oakley src/content/wpPages/tutors/katherine-oakley",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/keith-cordner src/content/wpPages/tutors/medical-students/keith-cordner",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/ken-nakanote src/content/wpPages/tutors/medical-doctors/ken-nakanote",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/keon-youssefzadeh src/content/wpPages/tutors/medical-students/keon-youssefzadeh",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/kush-patel src/content/wpPages/tutors/medical-doctors/kush-patel",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/lucy-wang src/content/wpPages/tutors/medical-students/lucy-wang",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/madeleine-basist src/content/wpPages/tutors/medical-doctors/madeleine-basist",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/max-frankfurter src/content/wpPages/tutors/medical-students/max-frankfurter",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/melissa-wing src/content/wpPages/tutors/medical-doctors/melissa-wing",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/mimi-kim src/content/wpPages/tutors/medical-students/mimi-kim",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/pranav-rekapalli src/content/wpPages/tutors/medical-students/pranav-rekapalli",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/radhika-srivastava src/content/wpPages/tutors/medical-doctors/radhika-srivastava",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/richard-wang src/content/wpPages/tutors/medical-doctors/richard-wang",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/robert-rosen src/content/wpPages/tutors/medical-students/robert-rosen",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/sai-bhatte src/content/wpPages/tutors/medical-students/sai-bhatte",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/sarah-bell src/content/wpPages/tutors/medical-students/sarah-bell",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/sylvia-rhodes src/content/wpPages/tutors/medical-students/sylvia-rhodes",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/victoria-lord src/content/wpPages/tutors/medical-students/victoria-lord",
-      "mkdir -p src/content/wpPages/tutors/medical-doctors",
-      "mv src/content/wpPages/viemma-nwigwe src/content/wpPages/tutors/medical-doctors/viemma-nwigwe",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/walid-ashmeik src/content/wpPages/tutors/medical-students/walid-ashmeik",
-      "mkdir -p src/content/wpPages/tutors/medical-students",
-      "mv src/content/wpPages/yehuda-elkaim src/content/wpPages/tutors/medical-students/yehuda-elkaim",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/apprentice-registration-page src/content/wpPages/ecommerce/apprentice-registration-page",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/cart src/content/wpPages/ecommerce/cart",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/competitor src/content/wpPages/ecommerce/competitor",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/payment-confirmation src/content/wpPages/ecommerce/payment-confirmation",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/payment-failed src/content/wpPages/ecommerce/payment-failed",
-      "mkdir -p src/content/wpPages/ecommerce",
-      "mv src/content/wpPages/thanks src/content/wpPages/ecommerce/thanks",
-      "mkdir -p src/content/wpPages/exams/comlex",
-      "mv src/content/wpPages/comlex src/content/wpPages/exams/comlex/comlex",
-      "mkdir -p src/content/wpPages/exams/comlex",
-      "mv src/content/wpPages/comlex-1 src/content/wpPages/exams/comlex/comlex-1",
-      "mkdir -p src/content/wpPages/exams/mcat",
-      "mv src/content/wpPages/conquer-mcat-get-into-medical src/content/wpPages/exams/mcat/conquer-mcat-get-into-medical",
-      "mkdir -p src/content/wpPages/exams/usmle",
-      "mv src/content/wpPages/failed-step-1-usmle-tutoring src/content/wpPages/exams/usmle/failed-step-1-usmle-tutoring",
-      "mkdir -p src/content/wpPages/exams/comlex",
-      "mv src/content/wpPages/level-2-ce-and-pe src/content/wpPages/exams/comlex/level-2-ce-and-pe",
-      "mkdir -p src/content/wpPages/exams/comlex",
-      "mv src/content/wpPages/level-3 src/content/wpPages/exams/comlex/level-3",
-      "mkdir -p src/content/wpPages/exams/mcat",
-      "mv src/content/wpPages/mcat src/content/wpPages/exams/mcat/mcat",
-      "mkdir -p src/content/wpPages/exams/shelf-exams",
-      "mv src/content/wpPages/nbme-shelf-exams src/content/wpPages/exams/shelf-exams/nbme-shelf-exams",
-      "mkdir -p src/content/wpPages/exams/usmle",
-      "mv src/content/wpPages/step-2ck-usmle src/content/wpPages/exams/usmle/step-2ck-usmle",
-      "mkdir -p src/content/wpPages/exams/usmle",
-      "mv src/content/wpPages/usmle src/content/wpPages/exams/usmle/usmle",
-      "mkdir -p src/content/wpPages/exams/usmle",
-      "mv src/content/wpPages/usmle-step-3 src/content/wpPages/exams/usmle/usmle-step-3",
-      "mkdir -p src/content/wpPages/exams/usmle",
-      "mv src/content/wpPages/usmle-tutoring-step-1 src/content/wpPages/exams/usmle/usmle-tutoring-step-1",
-      "mkdir -p src/content/wpPages/shop",
-      "mv src/content/wpPages/conquer-the-usmle src/content/wpPages/shop/conquer-the-usmle",
-      "mkdir -p src/content/wpPages/shop",
-      "mv src/content/wpPages/conquer-the-usmle-2 src/content/wpPages/shop/conquer-the-usmle-2",
-      "mkdir -p src/content/wpPages/shop",
-      "mv src/content/wpPages/conquer-the-usmle-shop src/content/wpPages/shop/conquer-the-usmle-shop",
-      "mkdir -p src/content/wpPages/shop",
-      "mv src/content/wpPages/premed-shop src/content/wpPages/shop/premed-shop",
-      "mkdir -p src/content/wpPages/shop",
-      "mv src/content/wpPages/radiology-core-shop src/content/wpPages/shop/radiology-core-shop",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/core-video-review src/content/wpPages/marketing/core-video-review",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/cvr-ft-thank-you src/content/wpPages/marketing/cvr-ft-thank-you",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/discounted-trial-session src/content/wpPages/marketing/discounted-trial-session",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/discounted-trial-session-v2 src/content/wpPages/marketing/discounted-trial-session-v2",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/ft-thank-you src/content/wpPages/marketing/ft-thank-you",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/how-can-we-assist-you src/content/wpPages/marketing/how-can-we-assist-you",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/learn-more-via-email src/content/wpPages/marketing/learn-more-via-email",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/lmve-thank-you src/content/wpPages/marketing/lmve-thank-you",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/purchase-discounted-session src/content/wpPages/marketing/purchase-discounted-session",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/radreview src/content/wpPages/marketing/radreview",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/speak-to-advisor src/content/wpPages/marketing/speak-to-advisor",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/test-learn-more-via-email src/content/wpPages/marketing/test-learn-more-via-email",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/test-speak-to-advisor src/content/wpPages/marketing/test-speak-to-advisor",
-      "mkdir -p src/content/wpPages/marketing",
-      "mv src/content/wpPages/trial-reservation-thank-you src/content/wpPages/marketing/trial-reservation-thank-you",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/email-reviews src/content/wpPages/admin/email-reviews",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/sitemap src/content/wpPages/admin/sitemap",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/start-here-old-page src/content/wpPages/admin/start-here-old-page",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/test-form src/content/wpPages/admin/test-form",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/testing src/content/wpPages/admin/testing",
-      "mkdir -p src/content/wpPages/admin",
-      "mv src/content/wpPages/testing-2 src/content/wpPages/admin/testing-2",
-      "mkdir -p src/content/wpPages/legal",
-      "mv src/content/wpPages/privacy-policy src/content/wpPages/legal/privacy-policy",
-      "mkdir -p src/content/wpPages/legal",
-      "mv src/content/wpPages/qlearn-terms-of-use src/content/wpPages/legal/qlearn-terms-of-use",
-      "mkdir -p src/content/wpPages/legal",
-      "mv src/content/wpPages/terms-and-conditions src/content/wpPages/legal/terms-and-conditions"
-    ],
-    "redirects": [
-      {
-        "source": "/about/",
-        "destination": "/pages/about/",
-        "permanent": true
-      },
-      {
-        "source": "/choosemedlearnity/",
-        "destination": "/pages/choosemedlearnity/",
-        "permanent": true
-      },
-      {
-        "source": "/frequently-asked-questions/",
-        "destination": "/pages/frequently-asked-questions/",
-        "permanent": true
-      },
-      {
-        "source": "/our-services/",
-        "destination": "/pages/our-services/",
-        "permanent": true
-      },
-      {
-        "source": "/our-tutors/",
-        "destination": "/pages/our-tutors/",
-        "permanent": true
-      },
-      {
-        "source": "/start-here/",
-        "destination": "/pages/start-here/",
-        "permanent": true
-      },
-      {
-        "source": "/student-testimonials/",
-        "destination": "/pages/student-testimonials/",
-        "permanent": true
-      },
-      {
-        "source": "/abr-core-exam-tutoring/",
-        "destination": "/specialty-boards/abr-core-exam-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/abs-certifying-exam/",
-        "destination": "/specialty-boards/abs-certifying-exam/",
-        "permanent": true
-      },
-      {
-        "source": "/abs-exams/",
-        "destination": "/specialty-boards/abs-exams/",
-        "permanent": true
-      },
-      {
-        "source": "/abs-exams-2/",
-        "destination": "/specialty-boards/abs-exams-2/",
-        "permanent": true
-      },
-      {
-        "source": "/abs-qualifying-certifying/",
-        "destination": "/specialty-boards/abs-qualifying-certifying/",
-        "permanent": true
-      },
-      {
-        "source": "/absite-core-shop/",
-        "destination": "/specialty-boards/absite-core-shop/",
-        "permanent": true
-      },
-      {
-        "source": "/family-medicine-certification-exam-abfm/",
-        "destination": "/specialty-boards/family-medicine-certification-exam-abfm/",
-        "permanent": true
-      },
-      {
-        "source": "/internal-medicine-boards/",
-        "destination": "/specialty-boards/internal-medicine-boards/",
-        "permanent": true
-      },
-      {
-        "source": "/medlearnity-abr-core-exam-tutoring/",
-        "destination": "/specialty-boards/medlearnity-abr-core-exam-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/medlearnity-abs-exam-tutoring/",
-        "destination": "/specialty-boards/medlearnity-abs-exam-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/qlearn-absite/",
-        "destination": "/specialty-boards/qlearn-absite/",
-        "permanent": true
-      },
-      {
-        "source": "/residency-board-exams/",
-        "destination": "/specialty-boards/residency-board-exams/",
-        "permanent": true
-      },
-      {
-        "source": "/admissions/",
-        "destination": "/services/admissions/admissions/",
-        "permanent": true
-      },
-      {
-        "source": "/coursework/",
-        "destination": "/services/tutoring/coursework/",
-        "permanent": true
-      },
-      {
-        "source": "/medical-remediation-tutoring/",
-        "destination": "/services/tutoring/medical-remediation-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/medical-school-admissions/",
-        "destination": "/services/admissions/medical-school-admissions/",
-        "permanent": true
-      },
-      {
-        "source": "/professional-usmle-tutoring/",
-        "destination": "/services/tutoring/professional-usmle-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/residency-admissions/",
-        "destination": "/services/admissions/residency-admissions/",
-        "permanent": true
-      },
-      {
-        "source": "/tutoring/",
-        "destination": "/services/tutoring/tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/amit-syal/",
-        "destination": "/tutors/medical-students/amit-syal/",
-        "permanent": true
-      },
-      {
-        "source": "/anna-chen/",
-        "destination": "/tutors/medical-students/anna-chen/",
-        "permanent": true
-      },
-      {
-        "source": "/anthony/",
-        "destination": "/tutors/medical-students/anthony/",
-        "permanent": true
-      },
-      {
-        "source": "/daksh-chauhan/",
-        "destination": "/tutors/medical-students/daksh-chauhan/",
-        "permanent": true
-      },
-      {
-        "source": "/dani-brown/",
-        "destination": "/tutors/medical-students/dani-brown/",
-        "permanent": true
-      },
-      {
-        "source": "/dr-akshay-goel/",
-        "destination": "/tutors/leadership/dr-akshay-goel/",
-        "permanent": true
-      },
-      {
-        "source": "/eytan-palte/",
-        "destination": "/tutors/medical-doctors/eytan-palte/",
-        "permanent": true
-      },
-      {
-        "source": "/farid-ghamsari/",
-        "destination": "/tutors/medical-students/farid-ghamsari/",
-        "permanent": true
-      },
-      {
-        "source": "/fawaz-naeem/",
-        "destination": "/tutors/medical-students/fawaz-naeem/",
-        "permanent": true
-      },
-      {
-        "source": "/joseph-lu/",
-        "destination": "/tutors/medical-students/joseph-lu/",
-        "permanent": true
-      },
-      {
-        "source": "/justin-sardi/",
-        "destination": "/tutors/medical-students/justin-sardi/",
-        "permanent": true
-      },
-      {
-        "source": "/katherine-oakley/",
-        "destination": "/tutors/katherine-oakley/",
-        "permanent": true
-      },
-      {
-        "source": "/keith-cordner/",
-        "destination": "/tutors/medical-students/keith-cordner/",
-        "permanent": true
-      },
-      {
-        "source": "/ken-nakanote/",
-        "destination": "/tutors/medical-doctors/ken-nakanote/",
-        "permanent": true
-      },
-      {
-        "source": "/keon-youssefzadeh/",
-        "destination": "/tutors/medical-students/keon-youssefzadeh/",
-        "permanent": true
-      },
-      {
-        "source": "/kush-patel/",
-        "destination": "/tutors/medical-doctors/kush-patel/",
-        "permanent": true
-      },
-      {
-        "source": "/lucy-wang/",
-        "destination": "/tutors/medical-students/lucy-wang/",
-        "permanent": true
-      },
-      {
-        "source": "/madeleine-basist/",
-        "destination": "/tutors/medical-doctors/madeleine-basist/",
-        "permanent": true
-      },
-      {
-        "source": "/max-frankfurter/",
-        "destination": "/tutors/medical-students/max-frankfurter/",
-        "permanent": true
-      },
-      {
-        "source": "/melissa-wing/",
-        "destination": "/tutors/medical-doctors/melissa-wing/",
-        "permanent": true
-      },
-      {
-        "source": "/mimi-kim/",
-        "destination": "/tutors/medical-students/mimi-kim/",
-        "permanent": true
-      },
-      {
-        "source": "/pranav-rekapalli/",
-        "destination": "/tutors/medical-students/pranav-rekapalli/",
-        "permanent": true
-      },
-      {
-        "source": "/radhika-srivastava/",
-        "destination": "/tutors/medical-doctors/radhika-srivastava/",
-        "permanent": true
-      },
-      {
-        "source": "/richard-wang/",
-        "destination": "/tutors/medical-doctors/richard-wang/",
-        "permanent": true
-      },
-      {
-        "source": "/robert-rosen/",
-        "destination": "/tutors/medical-students/robert-rosen/",
-        "permanent": true
-      },
-      {
-        "source": "/sai-bhatte/",
-        "destination": "/tutors/medical-students/sai-bhatte/",
-        "permanent": true
-      },
-      {
-        "source": "/sarah-bell/",
-        "destination": "/tutors/medical-students/sarah-bell/",
-        "permanent": true
-      },
-      {
-        "source": "/sylvia-rhodes/",
-        "destination": "/tutors/medical-students/sylvia-rhodes/",
-        "permanent": true
-      },
-      {
-        "source": "/victoria-lord/",
-        "destination": "/tutors/medical-students/victoria-lord/",
-        "permanent": true
-      },
-      {
-        "source": "/viemma-nwigwe/",
-        "destination": "/tutors/medical-doctors/viemma-nwigwe/",
-        "permanent": true
-      },
-      {
-        "source": "/walid-ashmeik/",
-        "destination": "/tutors/medical-students/walid-ashmeik/",
-        "permanent": true
-      },
-      {
-        "source": "/yehuda-elkaim/",
-        "destination": "/tutors/medical-students/yehuda-elkaim/",
-        "permanent": true
-      },
-      {
-        "source": "/apprentice-registration-page/",
-        "destination": "/ecommerce/apprentice-registration-page/",
-        "permanent": true
-      },
-      {
-        "source": "/cart/",
-        "destination": "/ecommerce/cart/",
-        "permanent": true
-      },
-      {
-        "source": "/competitor/",
-        "destination": "/ecommerce/competitor/",
-        "permanent": true
-      },
-      {
-        "source": "/payment-confirmation/",
-        "destination": "/ecommerce/payment-confirmation/",
-        "permanent": true
-      },
-      {
-        "source": "/payment-failed/",
-        "destination": "/ecommerce/payment-failed/",
-        "permanent": true
-      },
-      {
-        "source": "/thanks/",
-        "destination": "/ecommerce/thanks/",
-        "permanent": true
-      },
-      {
-        "source": "/comlex/",
-        "destination": "/exams/comlex/comlex/",
-        "permanent": true
-      },
-      {
-        "source": "/comlex-1/",
-        "destination": "/exams/comlex/comlex-1/",
-        "permanent": true
-      },
-      {
-        "source": "/conquer-mcat-get-into-medical/",
-        "destination": "/exams/mcat/conquer-mcat-get-into-medical/",
-        "permanent": true
-      },
-      {
-        "source": "/failed-step-1-usmle-tutoring/",
-        "destination": "/exams/usmle/failed-step-1-usmle-tutoring/",
-        "permanent": true
-      },
-      {
-        "source": "/level-2-ce-and-pe/",
-        "destination": "/exams/comlex/level-2-ce-and-pe/",
-        "permanent": true
-      },
-      {
-        "source": "/level-3/",
-        "destination": "/exams/comlex/level-3/",
-        "permanent": true
-      },
-      {
-        "source": "/mcat/",
-        "destination": "/exams/mcat/mcat/",
-        "permanent": true
-      },
-      {
-        "source": "/nbme-shelf-exams/",
-        "destination": "/exams/shelf-exams/nbme-shelf-exams/",
-        "permanent": true
-      },
-      {
-        "source": "/step-2ck-usmle/",
-        "destination": "/exams/usmle/step-2ck-usmle/",
-        "permanent": true
-      },
-      {
-        "source": "/usmle/",
-        "destination": "/exams/usmle/usmle/",
-        "permanent": true
-      },
-      {
-        "source": "/usmle-step-3/",
-        "destination": "/exams/usmle/usmle-step-3/",
-        "permanent": true
-      },
-      {
-        "source": "/usmle-tutoring-step-1/",
-        "destination": "/exams/usmle/usmle-tutoring-step-1/",
-        "permanent": true
-      },
-      {
-        "source": "/conquer-the-usmle/",
-        "destination": "/shop/conquer-the-usmle/",
-        "permanent": true
-      },
-      {
-        "source": "/conquer-the-usmle-2/",
-        "destination": "/shop/conquer-the-usmle-2/",
-        "permanent": true
-      },
-      {
-        "source": "/conquer-the-usmle-shop/",
-        "destination": "/shop/conquer-the-usmle-shop/",
-        "permanent": true
-      },
-      {
-        "source": "/premed-shop/",
-        "destination": "/shop/premed-shop/",
-        "permanent": true
-      },
-      {
-        "source": "/radiology-core-shop/",
-        "destination": "/shop/radiology-core-shop/",
-        "permanent": true
-      },
-      {
-        "source": "/core-video-review/",
-        "destination": "/marketing/core-video-review/",
-        "permanent": true
-      },
-      {
-        "source": "/cvr-ft-thank-you/",
-        "destination": "/marketing/cvr-ft-thank-you/",
-        "permanent": true
-      },
-      {
-        "source": "/discounted-trial-session/",
-        "destination": "/marketing/discounted-trial-session/",
-        "permanent": true
-      },
-      {
-        "source": "/discounted-trial-session-v2/",
-        "destination": "/marketing/discounted-trial-session-v2/",
-        "permanent": true
-      },
-      {
-        "source": "/ft-thank-you/",
-        "destination": "/marketing/ft-thank-you/",
-        "permanent": true
-      },
-      {
-        "source": "/how-can-we-assist-you/",
-        "destination": "/marketing/how-can-we-assist-you/",
-        "permanent": true
-      },
-      {
-        "source": "/learn-more-via-email/",
-        "destination": "/marketing/learn-more-via-email/",
-        "permanent": true
-      },
-      {
-        "source": "/lmve-thank-you/",
-        "destination": "/marketing/lmve-thank-you/",
-        "permanent": true
-      },
-      {
-        "source": "/purchase-discounted-session/",
-        "destination": "/marketing/purchase-discounted-session/",
-        "permanent": true
-      },
-      {
-        "source": "/radreview/",
-        "destination": "/marketing/radreview/",
-        "permanent": true
-      },
-      {
-        "source": "/speak-to-advisor/",
-        "destination": "/marketing/speak-to-advisor/",
-        "permanent": true
-      },
-      {
-        "source": "/test-learn-more-via-email/",
-        "destination": "/marketing/test-learn-more-via-email/",
-        "permanent": true
-      },
-      {
-        "source": "/test-speak-to-advisor/",
-        "destination": "/marketing/test-speak-to-advisor/",
-        "permanent": true
-      },
-      {
-        "source": "/trial-reservation-thank-you/",
-        "destination": "/marketing/trial-reservation-thank-you/",
-        "permanent": true
-      },
-      {
-        "source": "/email-reviews/",
-        "destination": "/admin/email-reviews/",
-        "permanent": true
-      },
-      {
-        "source": "/sitemap/",
-        "destination": "/admin/sitemap/",
-        "permanent": true
-      },
-      {
-        "source": "/start-here-old-page/",
-        "destination": "/admin/start-here-old-page/",
-        "permanent": true
-      },
-      {
-        "source": "/test-form/",
-        "destination": "/admin/test-form/",
-        "permanent": true
-      },
-      {
-        "source": "/testing/",
-        "destination": "/admin/testing/",
-        "permanent": true
-      },
-      {
-        "source": "/testing-2/",
-        "destination": "/admin/testing-2/",
-        "permanent": true
-      },
-      {
-        "source": "/privacy-policy/",
-        "destination": "/legal/privacy-policy/",
-        "permanent": true
-      },
-      {
-        "source": "/qlearn-terms-of-use/",
-        "destination": "/legal/qlearn-terms-of-use/",
-        "permanent": true
-      },
-      {
-        "source": "/terms-and-conditions/",
-        "destination": "/legal/terms-and-conditions/",
-        "permanent": true
-      }
-    ],
-    "summary": {
-      "pages": 7,
-      "specialty-boards": 12,
-      "services": 7,
-      "tutors": 32,
-      "ecommerce": 6,
-      "exams": 12,
-      "shop": 5,
-      "marketing": 14,
-      "admin": 6,
-      "legal": 3
-    }
-  }
+	"timestamp": "2025-06-20T15:29:23.858Z",
+	"totalDirectories": 126,
+	"categorized": {
+		"pages": [
+			"about",
+			"choosemedlearnity",
+			"frequently-asked-questions",
+			"our-services",
+			"our-tutors",
+			"start-here",
+			"student-testimonials"
+		],
+		"specialty-boards": [
+			"abr-core-exam-tutoring",
+			"abs-certifying-exam",
+			"abs-exams",
+			"abs-exams-2",
+			"abs-qualifying-certifying",
+			"absite-core-shop",
+			"family-medicine-certification-exam-abfm",
+			"internal-medicine-boards",
+			"medlearnity-abr-core-exam-tutoring",
+			"medlearnity-abs-exam-tutoring",
+			"qlearn-absite",
+			"residency-board-exams"
+		],
+		"services": [
+			"admissions",
+			"coursework",
+			"medical-remediation-tutoring",
+			"medical-school-admissions",
+			"professional-usmle-tutoring",
+			"residency-admissions",
+			"tutoring"
+		],
+		"uncategorized": [
+			"alexandra-townsend",
+			"blog",
+			"checkout",
+			"comlex-tutoring",
+			"contact",
+			"generated-homepage",
+			"matthew-augustine",
+			"medlearnity-usmle-2",
+			"my-account",
+			"nader-mohamed",
+			"otp",
+			"professional-usmle-step-2-tutoring",
+			"radiology-core-review-24",
+			"scheduling",
+			"shop",
+			"sta-thank-you",
+			"thank-you",
+			"thankyou_speakwithadvisor",
+			"usmle-study-guide",
+			"usmle-videos",
+			"usmletutoring",
+			"v1-medlearnity-qlearn-terms-of-use"
+		],
+		"tutors": [
+			"amit-syal",
+			"anna-chen",
+			"anthony",
+			"daksh-chauhan",
+			"dani-brown",
+			"dr-akshay-goel",
+			"eytan-palte",
+			"farid-ghamsari",
+			"fawaz-naeem",
+			"joseph-lu",
+			"justin-sardi",
+			"katherine-oakley",
+			"keith-cordner",
+			"ken-nakanote",
+			"keon-youssefzadeh",
+			"kush-patel",
+			"lucy-wang",
+			"madeleine-basist",
+			"max-frankfurter",
+			"melissa-wing",
+			"mimi-kim",
+			"pranav-rekapalli",
+			"radhika-srivastava",
+			"richard-wang",
+			"robert-rosen",
+			"sai-bhatte",
+			"sarah-bell",
+			"sylvia-rhodes",
+			"victoria-lord",
+			"viemma-nwigwe",
+			"walid-ashmeik",
+			"yehuda-elkaim"
+		],
+		"ecommerce": [
+			"apprentice-registration-page",
+			"cart",
+			"competitor",
+			"payment-confirmation",
+			"payment-failed",
+			"thanks"
+		],
+		"exams": [
+			"comlex",
+			"comlex-1",
+			"conquer-mcat-get-into-medical",
+			"failed-step-1-usmle-tutoring",
+			"level-2-ce-and-pe",
+			"level-3",
+			"mcat",
+			"nbme-shelf-exams",
+			"step-2ck-usmle",
+			"usmle",
+			"usmle-step-3",
+			"usmle-tutoring-step-1"
+		],
+		"shop": [
+			"conquer-the-usmle",
+			"conquer-the-usmle-2",
+			"conquer-the-usmle-shop",
+			"premed-shop",
+			"radiology-core-shop"
+		],
+		"marketing": [
+			"core-video-review",
+			"cvr-ft-thank-you",
+			"discounted-trial-session",
+			"discounted-trial-session-v2",
+			"ft-thank-you",
+			"how-can-we-assist-you",
+			"learn-more-via-email",
+			"lmve-thank-you",
+			"purchase-discounted-session",
+			"radreview",
+			"speak-to-advisor",
+			"test-learn-more-via-email",
+			"test-speak-to-advisor",
+			"trial-reservation-thank-you"
+		],
+		"admin": [
+			"email-reviews",
+			"sitemap",
+			"start-here-old-page",
+			"test-form",
+			"testing",
+			"testing-2"
+		],
+		"legal": ["privacy-policy", "qlearn-terms-of-use", "terms-and-conditions"]
+	},
+	"detailed": [
+		{
+			"directory": "about",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "About Us",
+			"description": "Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl",
+			"pubDate": "2020-04-12",
+			"wordCount": 1114
+		},
+		{
+			"directory": "abr-core-exam-tutoring",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "American Board of Radiology (ABR) Qualifying Exam Tutors",
+			"description": "The American Board of Radiology",
+			"pubDate": "2021-11-18",
+			"wordCount": 1617
+		},
+		{
+			"directory": "abs-certifying-exam",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "ABS Certifying Exam (CE) Tutoring",
+			"description": "The ABS CE is the last step in obtaining general surgery board certification. ",
+			"pubDate": "2020-05-17",
+			"wordCount": 1230
+		},
+		{
+			"directory": "abs-exams",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "ABS In-Training Exam (ABSITE)",
+			"description": "Scoring well on the ABSITE has a major impact on resident promotion. Moreover, failing to score within the 50th percentile or better will warrant academic ",
+			"pubDate": "2020-05-16",
+			"wordCount": 1552
+		},
+		{
+			"directory": "abs-exams-2",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "ABS Exams",
+			"description": "As surgery attendings themselves, our tutors provide invaluable guidance and tutoring on the ABS exams",
+			"pubDate": "2020-05-17",
+			"wordCount": 654
+		},
+		{
+			"directory": "abs-qualifying-certifying",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "ABS Qualifying Exam (QE) Tutoring",
+			"description": "The ABS QE is the first of two exams required for board certification in general surgery.",
+			"pubDate": "2020-05-17",
+			"wordCount": 1236
+		},
+		{
+			"directory": "absite-core-shop",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Absite Core Shop",
+			"description": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low",
+			"pubDate": "2023-03-20",
+			"wordCount": 36
+		},
+		{
+			"directory": "admissions",
+			"category": "services",
+			"subcategory": "admissions",
+			"hasIndex": true,
+			"title": "Admissions Consulting",
+			"description": "Application Advising, Essay Editing, Interview Prep, and Strategy",
+			"pubDate": "2020-05-21",
+			"wordCount": 408
+		},
+		{
+			"directory": "alexandra-townsend",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Alexandra Townsend",
+			"description": "\\",
+			"pubDate": "2023-02-28",
+			"wordCount": 250
+		},
+		{
+			"directory": "amit-syal",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Amit Syal",
+			"description": "\\",
+			"pubDate": "2025-04-15",
+			"wordCount": 238
+		},
+		{
+			"directory": "anna-chen",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Anna Chen",
+			"description": "There is nothing more fulfilling than turning anxiety into empowerment and confusion into confidence. That is why I strive to equip students with the study",
+			"pubDate": "2024-09-30",
+			"wordCount": 313
+		},
+		{
+			"directory": "anthony",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Anthony",
+			"description": "\\",
+			"pubDate": "2023-09-26",
+			"wordCount": 1237
+		},
+		{
+			"directory": "apprentice-registration-page",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Apprentice registration page",
+			"description": "",
+			"pubDate": "2024-11-09",
+			"wordCount": 0
+		},
+		{
+			"directory": "blog",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Blog",
+			"description": "USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE ",
+			"pubDate": "2020-04-12",
+			"wordCount": 1400
+		},
+		{
+			"directory": "cart",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Cart",
+			"description": "\\[woocommerce\\cart\\]",
+			"pubDate": "2021-03-25",
+			"wordCount": 1
+		},
+		{
+			"directory": "checkout",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Checkout",
+			"description": "If you are reserving a trial, you can complete the .",
+			"pubDate": "2021-04-05",
+			"wordCount": 17
+		},
+		{
+			"directory": "choosemedlearnity",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Choose Medlearnity",
+			"description": "Whether you",
+			"pubDate": "2025-04-10",
+			"wordCount": 742
+		},
+		{
+			"directory": "comlex",
+			"category": "exams",
+			"subcategory": "comlex",
+			"hasIndex": true,
+			"title": "COMLEX",
+			"description": "Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX",
+			"pubDate": "2020-04-30",
+			"wordCount": 741
+		},
+		{
+			"directory": "comlex-1",
+			"category": "exams",
+			"subcategory": "comlex",
+			"hasIndex": true,
+			"title": "COMLEX Level 1 Tutoring",
+			"description": "Your COMLEX Level 1 score plays a large factor in determining which medical specialties you can pursue and what residency program you match into.",
+			"pubDate": "2020-05-01",
+			"wordCount": 1853
+		},
+		{
+			"directory": "comlex-tutoring",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Comlex Tutoring",
+			"description": "Personalized, proven COMLEX coaching by top 1% tutors – achieve your dream score with confidence.",
+			"pubDate": "2025-04-10",
+			"wordCount": 706
+		},
+		{
+			"directory": "competitor",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Competitor",
+			"description": "Medlearnity: The Smarter Choice for Medical Exam Success",
+			"pubDate": "2025-03-26",
+			"wordCount": 744
+		},
+		{
+			"directory": "conquer-mcat-get-into-medical",
+			"category": "exams",
+			"subcategory": "mcat",
+			"hasIndex": true,
+			"title": "Conquer the MCAT and Get Into Medical School",
+			"description": "Get started with MCAT tutoring today and conquer the MCAT to get into medical school with personalized tutoring from professional physician tutors.",
+			"pubDate": "2020-10-02",
+			"wordCount": 1292
+		},
+		{
+			"directory": "conquer-the-usmle",
+			"category": "shop",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Conquer the USMLE",
+			"description": " Conquer the USMLE and get into your firstchoice residency",
+			"pubDate": "2020-10-15",
+			"wordCount": 1627
+		},
+		{
+			"directory": "conquer-the-usmle-2",
+			"category": "shop",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Conquer the USMLE 2",
+			"description": "Conquer the USMLE and get into your firstchoice residency",
+			"pubDate": "2023-03-13",
+			"wordCount": 1618
+		},
+		{
+			"directory": "conquer-the-usmle-shop",
+			"category": "shop",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Conquer the USMLE Shop",
+			"description": "Learn more about Conquer the USMLE Shop and our comprehensive tutoring services.",
+			"pubDate": "2022-05-20",
+			"wordCount": 1162
+		},
+		{
+			"directory": "contact",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Contact",
+			"description": "Please fill out the contact form below and one of our customer service managers will get in touch!",
+			"pubDate": "2022-05-05",
+			"wordCount": 31
+		},
+		{
+			"directory": "core-video-review",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Core Video Review",
+			"description": "ExpertLed,HighYield Prepfor Your Radiology Core Exam",
+			"pubDate": "2025-03-31",
+			"wordCount": 1040
+		},
+		{
+			"directory": "coursework",
+			"category": "services",
+			"subcategory": "tutoring",
+			"hasIndex": true,
+			"title": "Medical Coursework Tutoring",
+			"description": "We tutor for premedical and medical school coursework tutoring and coaching. We have worked with many students who stay with us throughout their undergradu",
+			"pubDate": "2020-05-21",
+			"wordCount": 1426
+		},
+		{
+			"directory": "cvr-ft-thank-you",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "CVR Thank You",
+			"description": "Thanks for signing up! You’re now one step closer to smarter, more efficient board prep.",
+			"pubDate": "2025-04-08",
+			"wordCount": 54
+		},
+		{
+			"directory": "daksh-chauhan",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Daksh Chauhan",
+			"description": "Having tutored for nearly 5 years, I have developed a studentcentered style to teaching wherein I like to see the students perform as they would naturally ",
+			"pubDate": "2024-08-29",
+			"wordCount": 240
+		},
+		{
+			"directory": "dani-brown",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Dani Brown",
+			"description": "I love tutoring to help students build their clinical reasoning and testtaking skills! It is so rewarding to watch students develop confidence in their own",
+			"pubDate": "2024-07-12",
+			"wordCount": 223
+		},
+		{
+			"directory": "discounted-trial-session",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Discounted Trial Session",
+			"description": "Thank you for submitting your information — you’re one step closer to mastering your exam!",
+			"pubDate": "2025-05-21",
+			"wordCount": 214
+		},
+		{
+			"directory": "discounted-trial-session-v2",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Discounted Trial Session V2",
+			"description": "Thank you for submitting your information — you’re one step closer to mastering your exam",
+			"pubDate": "2025-05-26",
+			"wordCount": 210
+		},
+		{
+			"directory": "dr-akshay-goel",
+			"category": "tutors",
+			"subcategory": "leadership",
+			"hasIndex": true,
+			"title": "Dr. Akshay Goel",
+			"description": "Dr. Goel is a bodytrained radiologist and an expert in medical education and imaging informatics. He completed his Radiology Residency at Columbia Universi",
+			"pubDate": "2021-11-29",
+			"wordCount": 150
+		},
+		{
+			"directory": "email-reviews",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Email Feedback",
+			"description": "",
+			"pubDate": "2020-11-15",
+			"wordCount": 18
+		},
+		{
+			"directory": "eytan-palte",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Eytan Palte",
+			"description": "\\",
+			"pubDate": "2023-02-01",
+			"wordCount": 287
+		},
+		{
+			"directory": "failed-step-1-usmle-tutoring",
+			"category": "exams",
+			"subcategory": "usmle",
+			"hasIndex": true,
+			"title": "Failed Step 1?",
+			"description": "Learn more about Failed Step 1? and our comprehensive tutoring services.",
+			"pubDate": "2022-03-11",
+			"wordCount": 1591
+		},
+		{
+			"directory": "family-medicine-certification-exam-abfm",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Family Medicine Certification Exam (ABFM) Tutoring",
+			"description": "Family Medicine Certification Exam (ABFM) Overview",
+			"pubDate": "2020-05-17",
+			"wordCount": 1216
+		},
+		{
+			"directory": "farid-ghamsari",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Farid Ghamsari",
+			"description": "\\",
+			"pubDate": "2023-08-24",
+			"wordCount": 291
+		},
+		{
+			"directory": "fawaz-naeem",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Fawaz Naeem",
+			"description": "I am deeply passionate about tutoring because it allows me to transform complex concepts into accessible knowledge for my students. I love breaking down di",
+			"pubDate": "2024-08-19",
+			"wordCount": 251
+		},
+		{
+			"directory": "frequently-asked-questions",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Frequently Asked Questions",
+			"description": "Tutoring FAQs\n Admissions FAQs",
+			"pubDate": "2022-02-09",
+			"wordCount": 6
+		},
+		{
+			"directory": "ft-thank-you",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "FT Thank You",
+			"description": "Thank you for your interest in a trial session!",
+			"pubDate": "2024-01-05",
+			"wordCount": 434
+		},
+		{
+			"directory": "generated-homepage",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Home",
+			"description": "This has been autogenerated as a placeholder for homepage.",
+			"pubDate": "2020-04-12",
+			"wordCount": 9
+		},
+		{
+			"directory": "how-can-we-assist-you",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "How can we assist you?",
+			"description": "Learn more about How can we assist you? and our comprehensive tutoring services.",
+			"pubDate": "2024-07-05",
+			"wordCount": 2154
+		},
+		{
+			"directory": "internal-medicine-boards",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Internal Medicine Certification Exam (ABIM) Tutoring",
+			"description": "Internal Medicine Certification Exam (ABIM) Overview",
+			"pubDate": "2020-05-17",
+			"wordCount": 1380
+		},
+		{
+			"directory": "joseph-lu",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Joseph Lu",
+			"description": "With over 650 hours of dedicated tutoring experience, I have specialized in helping students excel in a wide range of standardized tests, including the MCA",
+			"pubDate": "2024-07-12",
+			"wordCount": 230
+		},
+		{
+			"directory": "justin-sardi",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Justin Sardi",
+			"description": "I am excited to help you build confidence and reach your goals with the ABR qualifying exam.",
+			"pubDate": "2025-01-03",
+			"wordCount": 209
+		},
+		{
+			"directory": "katherine-oakley",
+			"category": "tutors",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Katherine Oakley",
+			"description": "\\",
+			"pubDate": "2023-08-27",
+			"wordCount": 348
+		},
+		{
+			"directory": "keith-cordner",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Keith Cordner",
+			"description": "Tutoring has been an incredibly rewarding opportunity for me. It grants perspective, helps me stay fresh on more obscure content, and crystalizes my own un",
+			"pubDate": "2023-05-18",
+			"wordCount": 383
+		},
+		{
+			"directory": "ken-nakanote",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Ken Nakanote",
+			"description": "\\",
+			"pubDate": "2023-07-10",
+			"wordCount": 233
+		},
+		{
+			"directory": "keon-youssefzadeh",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Keon Youssefzadeh",
+			"description": "\\",
+			"pubDate": "2024-02-09",
+			"wordCount": 224
+		},
+		{
+			"directory": "kush-patel",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Kush Patel",
+			"description": "\\",
+			"pubDate": "2023-01-25",
+			"wordCount": 383
+		},
+		{
+			"directory": "learn-more-via-email",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Learn more via email",
+			"description": "",
+			"pubDate": "2024-07-05",
+			"wordCount": 0
+		},
+		{
+			"directory": "level-2-ce-and-pe",
+			"category": "exams",
+			"subcategory": "comlex",
+			"hasIndex": true,
+			"title": "COMLEX Level 2-CE and PE Tutoring",
+			"description": "A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn",
+			"pubDate": "2020-05-01",
+			"wordCount": 1563
+		},
+		{
+			"directory": "level-3",
+			"category": "exams",
+			"subcategory": "comlex",
+			"hasIndex": true,
+			"title": "COMLEX Level 3 Tutoring",
+			"description": "COMLEX Level 3 is the final hurdle in the COMLEX exam series, and is often the most underestimated by aspiring doctors. Don",
+			"pubDate": "2020-05-01",
+			"wordCount": 1582
+		},
+		{
+			"directory": "lmve-thank-you",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "LMVE Thank You",
+			"description": "Your request has been received, and we’ll send the information directly to your inbox shortly. If you don’t hear from us soon please check your spam folder",
+			"pubDate": "2024-09-17",
+			"wordCount": 58
+		},
+		{
+			"directory": "lucy-wang",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Lucy Wang",
+			"description": "Having previously tutored students across a wide range of subjects from organic chemistry to Roman poetry, I have a longstanding interest in teaching stude",
+			"pubDate": "2024-10-16",
+			"wordCount": 246
+		},
+		{
+			"directory": "madeleine-basist",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Madeleine Basist",
+			"description": "\\",
+			"pubDate": "2023-02-01",
+			"wordCount": 257
+		},
+		{
+			"directory": "matthew-augustine",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Matthew Augustine",
+			"description": "\\",
+			"pubDate": "2023-02-06",
+			"wordCount": 260
+		},
+		{
+			"directory": "max-frankfurter",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Max Frankfurter",
+			"description": "\\",
+			"pubDate": "2023-09-15",
+			"wordCount": 212
+		},
+		{
+			"directory": "mcat",
+			"category": "exams",
+			"subcategory": "mcat",
+			"hasIndex": true,
+			"title": "MCAT Tutoring",
+			"description": "Your MCAT score is one of the most important parts of your medical school application. It plays a large factor in determining which medical schools you are",
+			"pubDate": "2020-05-01",
+			"wordCount": 1605
+		},
+		{
+			"directory": "medical-remediation-tutoring",
+			"category": "services",
+			"subcategory": "tutoring",
+			"hasIndex": true,
+			"title": "Remediation Medical Coursework Tutoring",
+			"description": "Remediation Program for Medical School Students",
+			"pubDate": "2021-05-10",
+			"wordCount": 1382
+		},
+		{
+			"directory": "medical-school-admissions",
+			"category": "services",
+			"subcategory": "admissions",
+			"hasIndex": true,
+			"title": "Medical School Admissions Consulting",
+			"description": "Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal s",
+			"pubDate": "2020-05-21",
+			"wordCount": 707
+		},
+		{
+			"directory": "medlearnity-abr-core-exam-tutoring",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity ABR CORE Exam Tutoring",
+			"description": " Excel on your ABR Core Exam with an Expert Tutor",
+			"pubDate": "2023-05-16",
+			"wordCount": 945
+		},
+		{
+			"directory": "medlearnity-abs-exam-tutoring",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity ABS Exam Tutoring",
+			"description": "Excel on your American Board of Surgery Exam with an Expert Tutor",
+			"pubDate": "2023-04-17",
+			"wordCount": 1109
+		},
+		{
+			"directory": "medlearnity-usmle-2",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity USMLE",
+			"description": " Conquer the USMLE and get into your firstchoice residency",
+			"pubDate": "2023-04-13",
+			"wordCount": 1380
+		},
+		{
+			"directory": "melissa-wing",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Melissa Wing",
+			"description": "\\",
+			"pubDate": "2023-02-01",
+			"wordCount": 377
+		},
+		{
+			"directory": "mimi-kim",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Mimi Kim",
+			"description": "I am passionate about teaching and find a lot of joy in helping students approach their exams with less anxiety. My tutoring approach focuses on mastering ",
+			"pubDate": "2025-01-03",
+			"wordCount": 238
+		},
+		{
+			"directory": "my-account",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "My account",
+			"description": "\\[woocommerce\\my\\account\\]",
+			"pubDate": "2021-03-25",
+			"wordCount": 1
+		},
+		{
+			"directory": "nader-mohamed",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Nader Mohamed",
+			"description": "I am a seasoned medical and anatomy tutor with a rich history of guiding students through intricate medical subjects. My journey as a medical tutor began, ",
+			"pubDate": "2023-08-24",
+			"wordCount": 304
+		},
+		{
+			"directory": "nbme-shelf-exams",
+			"category": "exams",
+			"subcategory": "shelf-exams",
+			"hasIndex": true,
+			"title": "Shelf Exam Tutoring",
+			"description": "The NBME Shelf Exams, administered after clerkship rotations during your third year, test your subjectspecific knowledge after each rotation and serve as t",
+			"pubDate": "2020-05-17",
+			"wordCount": 1619
+		},
+		{
+			"directory": "otp",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "OTP",
+			"description": "",
+			"pubDate": "2024-07-02",
+			"wordCount": 0
+		},
+		{
+			"directory": "our-services",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Our Services",
+			"description": "We tutor for USMLE Exams (Step 1, Step 2 CK and CS, and Step 3), COMLEX Exams (Level 1, Level 2CE and PE, and Level 3), Shelf/NBME Exams, Advanced Residenc",
+			"pubDate": "2020-07-30",
+			"wordCount": 186
+		},
+		{
+			"directory": "our-tutors",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity Tutors",
+			"description": "Our tutors come from the top medical schools and hospitals in the country. They are expert educators who have truly mastered medical knowledge and testtaki",
+			"pubDate": "2021-09-28",
+			"wordCount": 640
+		},
+		{
+			"directory": "payment-confirmation",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Payment Confirmation",
+			"description": "\\[simpay\\payment\\receipt\\]",
+			"pubDate": "2020-06-11",
+			"wordCount": 1
+		},
+		{
+			"directory": "payment-failed",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Payment Failed",
+			"description": "We",
+			"pubDate": "2020-06-11",
+			"wordCount": 17
+		},
+		{
+			"directory": "pranav-rekapalli",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Pranav Rekapalli",
+			"description": "Tutoring is most rewarding for me when I",
+			"pubDate": "2023-07-19",
+			"wordCount": 221
+		},
+		{
+			"directory": "premed-shop",
+			"category": "shop",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Premed Shop",
+			"description": "\\[tcb\\woo\\shop limit=",
+			"pubDate": "2021-07-20",
+			"wordCount": 28
+		},
+		{
+			"directory": "privacy-policy",
+			"category": "legal",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Privacy Policy",
+			"description": "Medlearnity services, including (without limitation) all websites, mobile applications and other interactive properties through which the service is delive",
+			"pubDate": "2020-04-12",
+			"wordCount": 1698
+		},
+		{
+			"directory": "professional-usmle-step-2-tutoring",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Professional USMLE Step 2 Tutoring",
+			"description": "Learn more about Professional USMLE Step 2 Tutoring and our comprehensive tutoring services.",
+			"pubDate": "2021-12-17",
+			"wordCount": 1646
+		},
+		{
+			"directory": "professional-usmle-tutoring",
+			"category": "services",
+			"subcategory": "tutoring",
+			"hasIndex": true,
+			"title": "Professional USMLE Tutoring",
+			"description": "Learn more about Professional USMLE Tutoring and our comprehensive tutoring services.",
+			"pubDate": "2021-12-17",
+			"wordCount": 1606
+		},
+		{
+			"directory": "purchase-discounted-session",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Purchase Discounted Session",
+			"description": "Learn more about Purchase Discounted Session and our comprehensive tutoring services.",
+			"pubDate": "2024-07-25",
+			"wordCount": 225
+		},
+		{
+			"directory": "qlearn-absite",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Qlearn ABSITE",
+			"description": "Our QBank features over 2,000 questions, crafted by exceptional educators who scored above the 90th percentile on ABSITE exams and have thousands of hours ",
+			"pubDate": "2025-02-04",
+			"wordCount": 260
+		},
+		{
+			"directory": "qlearn-terms-of-use",
+			"category": "legal",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity QLearn",
+			"description": "These Terms of Use set forth the terms and conditions of an agreement (this \\",
+			"pubDate": "2024-12-26",
+			"wordCount": 5006
+		},
+		{
+			"directory": "radhika-srivastava",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Radhika Srivastava",
+			"description": "\\",
+			"pubDate": "2023-02-01",
+			"wordCount": 257
+		},
+		{
+			"directory": "radiology-core-review-24",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Radiology Core Review ",
+			"description": "",
+			"pubDate": "2024-11-09",
+			"wordCount": 0
+		},
+		{
+			"directory": "radiology-core-shop",
+			"category": "shop",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Radiology Core Shop",
+			"description": "Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low",
+			"pubDate": "2021-09-14",
+			"wordCount": 88
+		},
+		{
+			"directory": "radreview",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Radiology Review",
+			"description": "Welcome to Medlearnity",
+			"pubDate": "2023-07-31",
+			"wordCount": 1362
+		},
+		{
+			"directory": "residency-admissions",
+			"category": "services",
+			"subcategory": "admissions",
+			"hasIndex": true,
+			"title": "Residency Admissions &#038; Match Consulting",
+			"description": "Our residency admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your match list and ERAS application",
+			"pubDate": "2020-05-21",
+			"wordCount": 1303
+		},
+		{
+			"directory": "residency-board-exams",
+			"category": "specialty-boards",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Residency Board Exams",
+			"description": "Our tutors have trained at the top hospitals in the country, and provide invaluable guidance and tutoring for residency board exams, including the ABSITE, ",
+			"pubDate": "2020-05-01",
+			"wordCount": 709
+		},
+		{
+			"directory": "richard-wang",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Richard Wang",
+			"description": "My goal is to equip my students with the tools and knowledge they need to approach this exam with assurance and proficiency. I take pride in tailoring my t",
+			"pubDate": "2024-07-09",
+			"wordCount": 214
+		},
+		{
+			"directory": "robert-rosen",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Robert Rosen",
+			"description": "\\",
+			"pubDate": "2024-06-26",
+			"wordCount": 223
+		},
+		{
+			"directory": "sai-bhatte",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Sai Bhatte",
+			"description": "My primary goal for students is to foster a comfortable and supportive learning environment. I am passionate about providing a space where students can con",
+			"pubDate": "2024-07-12",
+			"wordCount": 200
+		},
+		{
+			"directory": "sarah-bell",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Sarah Bell",
+			"description": "\\",
+			"pubDate": "2025-04-26",
+			"wordCount": 264
+		},
+		{
+			"directory": "scheduling",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Schedule Your Trial Session",
+			"description": "Please be comprehensive with your responses as this helps us schedule your trial without delays.",
+			"pubDate": "2022-06-15",
+			"wordCount": 24
+		},
+		{
+			"directory": "shop",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity Education",
+			"description": "",
+			"pubDate": "2021-03-25",
+			"wordCount": 0
+		},
+		{
+			"directory": "sitemap",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Sitemap",
+			"description": "",
+			"pubDate": "2021-03-23",
+			"wordCount": 134
+		},
+		{
+			"directory": "speak-to-advisor",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "speak to advisor",
+			"description": "Learn more about speak to advisor and our comprehensive tutoring services.",
+			"pubDate": "2024-06-25",
+			"wordCount": 4
+		},
+		{
+			"directory": "sta-thank-you",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "STA Thank You",
+			"description": "Your consultation has been successfully scheduled, and one of our advisors will connect with you at the selected time. If you don’t hear from us soon pleas",
+			"pubDate": "2024-09-17",
+			"wordCount": 63
+		},
+		{
+			"directory": "start-here",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Start Here",
+			"description": "Learn more about Start Here and our comprehensive tutoring services.",
+			"pubDate": "2024-12-27",
+			"wordCount": 1254
+		},
+		{
+			"directory": "start-here-old-page",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Discounted Session Sign-Up",
+			"description": "Fill out the contact form below to schedule your free trial and meet your new tutor!",
+			"pubDate": "2020-05-26",
+			"wordCount": 1307
+		},
+		{
+			"directory": "step-2ck-usmle",
+			"category": "exams",
+			"subcategory": "usmle",
+			"hasIndex": true,
+			"title": "USMLE Step 2 CK and CS Tutoring",
+			"description": "Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn",
+			"pubDate": "2020-04-30",
+			"wordCount": 2406
+		},
+		{
+			"directory": "student-testimonials",
+			"category": "pages",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Student Testimonials",
+			"description": "We’ve helped over 500 students prepare for their highstakes medical exams. See what they have to say!",
+			"pubDate": "2020-05-26",
+			"wordCount": 9210
+		},
+		{
+			"directory": "sylvia-rhodes",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Sylvia Rhodes",
+			"description": "\\",
+			"pubDate": "2023-06-20",
+			"wordCount": 349
+		},
+		{
+			"directory": "terms-and-conditions",
+			"category": "legal",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Terms and Conditions",
+			"description": "These are the terms and conditions for usage of the website of Medlearnity LLC. Please read our terms and conditions carefully before using the website. Yo",
+			"pubDate": "2020-05-29",
+			"wordCount": 2072
+		},
+		{
+			"directory": "test-form",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "test-form",
+			"description": "",
+			"pubDate": "2020-11-02",
+			"wordCount": 0
+		},
+		{
+			"directory": "test-learn-more-via-email",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Test Learn More Via Email",
+			"description": "Learn more about Test Learn More Via Email and our comprehensive tutoring services.",
+			"pubDate": "2024-09-09",
+			"wordCount": 1384
+		},
+		{
+			"directory": "test-speak-to-advisor",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Test Speak To Advisor",
+			"description": "Learn more about Test Speak To Advisor and our comprehensive tutoring services.",
+			"pubDate": "2024-09-09",
+			"wordCount": 1441
+		},
+		{
+			"directory": "testing",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Testing",
+			"description": "\\[MANILA\\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong",
+			"pubDate": "2021-01-13",
+			"wordCount": 415
+		},
+		{
+			"directory": "testing-2",
+			"category": "admin",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Testing 2",
+			"description": "\\[MANILA\\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong",
+			"pubDate": "2021-01-21",
+			"wordCount": 827
+		},
+		{
+			"directory": "thank-you",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Thank You",
+			"description": "Thanks for reaching out! We",
+			"pubDate": "2021-03-12",
+			"wordCount": 16
+		},
+		{
+			"directory": "thanks",
+			"category": "ecommerce",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Thanks",
+			"description": "Thanks for scheduling your trial session! Your Medlearnity tutor will be in touch shortly to confirm your time and date.",
+			"pubDate": "2022-08-17",
+			"wordCount": 24
+		},
+		{
+			"directory": "thankyou_speakwithadvisor",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Welcome to Medlearnity",
+			"description": "Thank you for your interest in speaking with an advisor.  Your info was submitted. We will contact you shortly.  If you would prefer, you can schedule a ti",
+			"pubDate": "2025-01-29",
+			"wordCount": 43
+		},
+		{
+			"directory": "trial-reservation-thank-you",
+			"category": "marketing",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Trial Reservation Thank You",
+			"description": "Thank you for expressing interest in a trial with MedLearnity. To secure your spot, please schedule your trial using the form provided below. Additionally,",
+			"pubDate": "2024-01-05",
+			"wordCount": 141
+		},
+		{
+			"directory": "tutoring",
+			"category": "services",
+			"subcategory": "tutoring",
+			"hasIndex": true,
+			"title": "Test Preparation",
+			"description": "We know how important highstakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for th",
+			"pubDate": "2020-04-12",
+			"wordCount": 660
+		},
+		{
+			"directory": "usmle",
+			"category": "exams",
+			"subcategory": "usmle",
+			"hasIndex": true,
+			"title": "USMLE Tutoring",
+			"description": "Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE",
+			"pubDate": "2020-04-29",
+			"wordCount": 1118
+		},
+		{
+			"directory": "usmle-step-3",
+			"category": "exams",
+			"subcategory": "usmle",
+			"hasIndex": true,
+			"title": "USMLE Step 3 Tutoring",
+			"description": "USMLE Step 3 is the final hurdle in the USMLE exam series and is often the most underestimated by aspiring doctors. Don",
+			"pubDate": "2020-04-30",
+			"wordCount": 2527
+		},
+		{
+			"directory": "usmle-study-guide",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "USMLE Study Guide Sign-Up",
+			"description": "Level up your USMLE gameplan with a comprehensive study guide",
+			"pubDate": "2023-03-15",
+			"wordCount": 17
+		},
+		{
+			"directory": "usmle-tutoring-step-1",
+			"category": "exams",
+			"subcategory": "usmle",
+			"hasIndex": true,
+			"title": "USMLE Step 1 Tutoring",
+			"description": "Passing the USMLE Step 1 in 2025 is extremely important, as it plays a large role in determining which medical specialties you can pursue & what residency ",
+			"pubDate": "2020-04-25",
+			"wordCount": 2184
+		},
+		{
+			"directory": "usmle-videos",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "USMLE Videos",
+			"description": "Level up your USMLE study plan with over 60 questions, trainings, tips, and more!",
+			"pubDate": "2022-09-09",
+			"wordCount": 20
+		},
+		{
+			"directory": "usmletutoring",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "USMLE Tutoring",
+			"description": "Personalized, proven USMLE coaching by top 1% tutors – achieve your dream score with confidence.",
+			"pubDate": "2025-03-18",
+			"wordCount": 707
+		},
+		{
+			"directory": "v1-medlearnity-qlearn-terms-of-use",
+			"category": "uncategorized",
+			"subcategory": null,
+			"hasIndex": true,
+			"title": "Medlearnity QLearn Terms of Use",
+			"description": "These Terms of Use set forth the terms and conditions of an agreement (this \\",
+			"pubDate": "2024-07-01",
+			"wordCount": 4989
+		},
+		{
+			"directory": "victoria-lord",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Victoria Lord",
+			"description": "\\",
+			"pubDate": "2023-03-30",
+			"wordCount": 441
+		},
+		{
+			"directory": "viemma-nwigwe",
+			"category": "tutors",
+			"subcategory": "medical-doctors",
+			"hasIndex": true,
+			"title": "Viemma Nwigwe",
+			"description": "\\",
+			"pubDate": "2023-02-01",
+			"wordCount": 389
+		},
+		{
+			"directory": "walid-ashmeik",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Walid Ashmeik",
+			"description": "My goal is to foster a supportive and engaging environment, tailor my approach to each individual",
+			"pubDate": "2024-10-17",
+			"wordCount": 202
+		},
+		{
+			"directory": "yehuda-elkaim",
+			"category": "tutors",
+			"subcategory": "medical-students",
+			"hasIndex": true,
+			"title": "Yehuda Elkaim",
+			"description": "Over the years, I have tutored students in English, math, music, and medical school courses, among other subjects. One of the most fulfilling aspects of my",
+			"pubDate": "2025-05-25",
+			"wordCount": 259
+		}
+	],
+	"reorganizationPlan": {
+		"commands": [
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/about src/content/wpPages/pages/about",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/choosemedlearnity src/content/wpPages/pages/choosemedlearnity",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/frequently-asked-questions src/content/wpPages/pages/frequently-asked-questions",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/our-services src/content/wpPages/pages/our-services",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/our-tutors src/content/wpPages/pages/our-tutors",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/start-here src/content/wpPages/pages/start-here",
+			"mkdir -p src/content/wpPages/pages",
+			"mv src/content/wpPages/student-testimonials src/content/wpPages/pages/student-testimonials",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/abr-core-exam-tutoring src/content/wpPages/specialty-boards/abr-core-exam-tutoring",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/abs-certifying-exam src/content/wpPages/specialty-boards/abs-certifying-exam",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/abs-exams src/content/wpPages/specialty-boards/abs-exams",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/abs-exams-2 src/content/wpPages/specialty-boards/abs-exams-2",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/abs-qualifying-certifying src/content/wpPages/specialty-boards/abs-qualifying-certifying",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/absite-core-shop src/content/wpPages/specialty-boards/absite-core-shop",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/family-medicine-certification-exam-abfm src/content/wpPages/specialty-boards/family-medicine-certification-exam-abfm",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/internal-medicine-boards src/content/wpPages/specialty-boards/internal-medicine-boards",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/medlearnity-abr-core-exam-tutoring src/content/wpPages/specialty-boards/medlearnity-abr-core-exam-tutoring",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/medlearnity-abs-exam-tutoring src/content/wpPages/specialty-boards/medlearnity-abs-exam-tutoring",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/qlearn-absite src/content/wpPages/specialty-boards/qlearn-absite",
+			"mkdir -p src/content/wpPages/specialty-boards",
+			"mv src/content/wpPages/residency-board-exams src/content/wpPages/specialty-boards/residency-board-exams",
+			"mkdir -p src/content/wpPages/services/admissions",
+			"mv src/content/wpPages/admissions src/content/wpPages/services/admissions/admissions",
+			"mkdir -p src/content/wpPages/services/tutoring",
+			"mv src/content/wpPages/coursework src/content/wpPages/services/tutoring/coursework",
+			"mkdir -p src/content/wpPages/services/tutoring",
+			"mv src/content/wpPages/medical-remediation-tutoring src/content/wpPages/services/tutoring/medical-remediation-tutoring",
+			"mkdir -p src/content/wpPages/services/admissions",
+			"mv src/content/wpPages/medical-school-admissions src/content/wpPages/services/admissions/medical-school-admissions",
+			"mkdir -p src/content/wpPages/services/tutoring",
+			"mv src/content/wpPages/professional-usmle-tutoring src/content/wpPages/services/tutoring/professional-usmle-tutoring",
+			"mkdir -p src/content/wpPages/services/admissions",
+			"mv src/content/wpPages/residency-admissions src/content/wpPages/services/admissions/residency-admissions",
+			"mkdir -p src/content/wpPages/services/tutoring",
+			"mv src/content/wpPages/tutoring src/content/wpPages/services/tutoring/tutoring",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/amit-syal src/content/wpPages/tutors/medical-students/amit-syal",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/anna-chen src/content/wpPages/tutors/medical-students/anna-chen",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/anthony src/content/wpPages/tutors/medical-students/anthony",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/daksh-chauhan src/content/wpPages/tutors/medical-students/daksh-chauhan",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/dani-brown src/content/wpPages/tutors/medical-students/dani-brown",
+			"mkdir -p src/content/wpPages/tutors/leadership",
+			"mv src/content/wpPages/dr-akshay-goel src/content/wpPages/tutors/leadership/dr-akshay-goel",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/eytan-palte src/content/wpPages/tutors/medical-doctors/eytan-palte",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/farid-ghamsari src/content/wpPages/tutors/medical-students/farid-ghamsari",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/fawaz-naeem src/content/wpPages/tutors/medical-students/fawaz-naeem",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/joseph-lu src/content/wpPages/tutors/medical-students/joseph-lu",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/justin-sardi src/content/wpPages/tutors/medical-students/justin-sardi",
+			"mkdir -p src/content/wpPages/tutors",
+			"mv src/content/wpPages/katherine-oakley src/content/wpPages/tutors/katherine-oakley",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/keith-cordner src/content/wpPages/tutors/medical-students/keith-cordner",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/ken-nakanote src/content/wpPages/tutors/medical-doctors/ken-nakanote",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/keon-youssefzadeh src/content/wpPages/tutors/medical-students/keon-youssefzadeh",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/kush-patel src/content/wpPages/tutors/medical-doctors/kush-patel",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/lucy-wang src/content/wpPages/tutors/medical-students/lucy-wang",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/madeleine-basist src/content/wpPages/tutors/medical-doctors/madeleine-basist",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/max-frankfurter src/content/wpPages/tutors/medical-students/max-frankfurter",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/melissa-wing src/content/wpPages/tutors/medical-doctors/melissa-wing",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/mimi-kim src/content/wpPages/tutors/medical-students/mimi-kim",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/pranav-rekapalli src/content/wpPages/tutors/medical-students/pranav-rekapalli",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/radhika-srivastava src/content/wpPages/tutors/medical-doctors/radhika-srivastava",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/richard-wang src/content/wpPages/tutors/medical-doctors/richard-wang",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/robert-rosen src/content/wpPages/tutors/medical-students/robert-rosen",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/sai-bhatte src/content/wpPages/tutors/medical-students/sai-bhatte",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/sarah-bell src/content/wpPages/tutors/medical-students/sarah-bell",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/sylvia-rhodes src/content/wpPages/tutors/medical-students/sylvia-rhodes",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/victoria-lord src/content/wpPages/tutors/medical-students/victoria-lord",
+			"mkdir -p src/content/wpPages/tutors/medical-doctors",
+			"mv src/content/wpPages/viemma-nwigwe src/content/wpPages/tutors/medical-doctors/viemma-nwigwe",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/walid-ashmeik src/content/wpPages/tutors/medical-students/walid-ashmeik",
+			"mkdir -p src/content/wpPages/tutors/medical-students",
+			"mv src/content/wpPages/yehuda-elkaim src/content/wpPages/tutors/medical-students/yehuda-elkaim",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/apprentice-registration-page src/content/wpPages/ecommerce/apprentice-registration-page",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/cart src/content/wpPages/ecommerce/cart",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/competitor src/content/wpPages/ecommerce/competitor",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/payment-confirmation src/content/wpPages/ecommerce/payment-confirmation",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/payment-failed src/content/wpPages/ecommerce/payment-failed",
+			"mkdir -p src/content/wpPages/ecommerce",
+			"mv src/content/wpPages/thanks src/content/wpPages/ecommerce/thanks",
+			"mkdir -p src/content/wpPages/exams/comlex",
+			"mv src/content/wpPages/comlex src/content/wpPages/exams/comlex/comlex",
+			"mkdir -p src/content/wpPages/exams/comlex",
+			"mv src/content/wpPages/comlex-1 src/content/wpPages/exams/comlex/comlex-1",
+			"mkdir -p src/content/wpPages/exams/mcat",
+			"mv src/content/wpPages/conquer-mcat-get-into-medical src/content/wpPages/exams/mcat/conquer-mcat-get-into-medical",
+			"mkdir -p src/content/wpPages/exams/usmle",
+			"mv src/content/wpPages/failed-step-1-usmle-tutoring src/content/wpPages/exams/usmle/failed-step-1-usmle-tutoring",
+			"mkdir -p src/content/wpPages/exams/comlex",
+			"mv src/content/wpPages/level-2-ce-and-pe src/content/wpPages/exams/comlex/level-2-ce-and-pe",
+			"mkdir -p src/content/wpPages/exams/comlex",
+			"mv src/content/wpPages/level-3 src/content/wpPages/exams/comlex/level-3",
+			"mkdir -p src/content/wpPages/exams/mcat",
+			"mv src/content/wpPages/mcat src/content/wpPages/exams/mcat/mcat",
+			"mkdir -p src/content/wpPages/exams/shelf-exams",
+			"mv src/content/wpPages/nbme-shelf-exams src/content/wpPages/exams/shelf-exams/nbme-shelf-exams",
+			"mkdir -p src/content/wpPages/exams/usmle",
+			"mv src/content/wpPages/step-2ck-usmle src/content/wpPages/exams/usmle/step-2ck-usmle",
+			"mkdir -p src/content/wpPages/exams/usmle",
+			"mv src/content/wpPages/usmle src/content/wpPages/exams/usmle/usmle",
+			"mkdir -p src/content/wpPages/exams/usmle",
+			"mv src/content/wpPages/usmle-step-3 src/content/wpPages/exams/usmle/usmle-step-3",
+			"mkdir -p src/content/wpPages/exams/usmle",
+			"mv src/content/wpPages/usmle-tutoring-step-1 src/content/wpPages/exams/usmle/usmle-tutoring-step-1",
+			"mkdir -p src/content/wpPages/shop",
+			"mv src/content/wpPages/conquer-the-usmle src/content/wpPages/shop/conquer-the-usmle",
+			"mkdir -p src/content/wpPages/shop",
+			"mv src/content/wpPages/conquer-the-usmle-2 src/content/wpPages/shop/conquer-the-usmle-2",
+			"mkdir -p src/content/wpPages/shop",
+			"mv src/content/wpPages/conquer-the-usmle-shop src/content/wpPages/shop/conquer-the-usmle-shop",
+			"mkdir -p src/content/wpPages/shop",
+			"mv src/content/wpPages/premed-shop src/content/wpPages/shop/premed-shop",
+			"mkdir -p src/content/wpPages/shop",
+			"mv src/content/wpPages/radiology-core-shop src/content/wpPages/shop/radiology-core-shop",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/core-video-review src/content/wpPages/marketing/core-video-review",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/cvr-ft-thank-you src/content/wpPages/marketing/cvr-ft-thank-you",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/discounted-trial-session src/content/wpPages/marketing/discounted-trial-session",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/discounted-trial-session-v2 src/content/wpPages/marketing/discounted-trial-session-v2",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/ft-thank-you src/content/wpPages/marketing/ft-thank-you",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/how-can-we-assist-you src/content/wpPages/marketing/how-can-we-assist-you",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/learn-more-via-email src/content/wpPages/marketing/learn-more-via-email",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/lmve-thank-you src/content/wpPages/marketing/lmve-thank-you",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/purchase-discounted-session src/content/wpPages/marketing/purchase-discounted-session",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/radreview src/content/wpPages/marketing/radreview",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/speak-to-advisor src/content/wpPages/marketing/speak-to-advisor",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/test-learn-more-via-email src/content/wpPages/marketing/test-learn-more-via-email",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/test-speak-to-advisor src/content/wpPages/marketing/test-speak-to-advisor",
+			"mkdir -p src/content/wpPages/marketing",
+			"mv src/content/wpPages/trial-reservation-thank-you src/content/wpPages/marketing/trial-reservation-thank-you",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/email-reviews src/content/wpPages/admin/email-reviews",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/sitemap src/content/wpPages/admin/sitemap",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/start-here-old-page src/content/wpPages/admin/start-here-old-page",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/test-form src/content/wpPages/admin/test-form",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/testing src/content/wpPages/admin/testing",
+			"mkdir -p src/content/wpPages/admin",
+			"mv src/content/wpPages/testing-2 src/content/wpPages/admin/testing-2",
+			"mkdir -p src/content/wpPages/legal",
+			"mv src/content/wpPages/privacy-policy src/content/wpPages/legal/privacy-policy",
+			"mkdir -p src/content/wpPages/legal",
+			"mv src/content/wpPages/qlearn-terms-of-use src/content/wpPages/legal/qlearn-terms-of-use",
+			"mkdir -p src/content/wpPages/legal",
+			"mv src/content/wpPages/terms-and-conditions src/content/wpPages/legal/terms-and-conditions"
+		],
+		"redirects": [
+			{
+				"source": "/about/",
+				"destination": "/pages/about/",
+				"permanent": true
+			},
+			{
+				"source": "/choosemedlearnity/",
+				"destination": "/pages/choosemedlearnity/",
+				"permanent": true
+			},
+			{
+				"source": "/frequently-asked-questions/",
+				"destination": "/pages/frequently-asked-questions/",
+				"permanent": true
+			},
+			{
+				"source": "/our-services/",
+				"destination": "/pages/our-services/",
+				"permanent": true
+			},
+			{
+				"source": "/our-tutors/",
+				"destination": "/pages/our-tutors/",
+				"permanent": true
+			},
+			{
+				"source": "/start-here/",
+				"destination": "/pages/start-here/",
+				"permanent": true
+			},
+			{
+				"source": "/student-testimonials/",
+				"destination": "/pages/student-testimonials/",
+				"permanent": true
+			},
+			{
+				"source": "/abr-core-exam-tutoring/",
+				"destination": "/specialty-boards/abr-core-exam-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/abs-certifying-exam/",
+				"destination": "/specialty-boards/abs-certifying-exam/",
+				"permanent": true
+			},
+			{
+				"source": "/abs-exams/",
+				"destination": "/specialty-boards/abs-exams/",
+				"permanent": true
+			},
+			{
+				"source": "/abs-exams-2/",
+				"destination": "/specialty-boards/abs-exams-2/",
+				"permanent": true
+			},
+			{
+				"source": "/abs-qualifying-certifying/",
+				"destination": "/specialty-boards/abs-qualifying-certifying/",
+				"permanent": true
+			},
+			{
+				"source": "/absite-core-shop/",
+				"destination": "/specialty-boards/absite-core-shop/",
+				"permanent": true
+			},
+			{
+				"source": "/family-medicine-certification-exam-abfm/",
+				"destination": "/specialty-boards/family-medicine-certification-exam-abfm/",
+				"permanent": true
+			},
+			{
+				"source": "/internal-medicine-boards/",
+				"destination": "/specialty-boards/internal-medicine-boards/",
+				"permanent": true
+			},
+			{
+				"source": "/medlearnity-abr-core-exam-tutoring/",
+				"destination": "/specialty-boards/medlearnity-abr-core-exam-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/medlearnity-abs-exam-tutoring/",
+				"destination": "/specialty-boards/medlearnity-abs-exam-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/qlearn-absite/",
+				"destination": "/specialty-boards/qlearn-absite/",
+				"permanent": true
+			},
+			{
+				"source": "/residency-board-exams/",
+				"destination": "/specialty-boards/residency-board-exams/",
+				"permanent": true
+			},
+			{
+				"source": "/admissions/",
+				"destination": "/services/admissions/admissions/",
+				"permanent": true
+			},
+			{
+				"source": "/coursework/",
+				"destination": "/services/tutoring/coursework/",
+				"permanent": true
+			},
+			{
+				"source": "/medical-remediation-tutoring/",
+				"destination": "/services/tutoring/medical-remediation-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/medical-school-admissions/",
+				"destination": "/services/admissions/medical-school-admissions/",
+				"permanent": true
+			},
+			{
+				"source": "/professional-usmle-tutoring/",
+				"destination": "/services/tutoring/professional-usmle-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/residency-admissions/",
+				"destination": "/services/admissions/residency-admissions/",
+				"permanent": true
+			},
+			{
+				"source": "/tutoring/",
+				"destination": "/services/tutoring/tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/amit-syal/",
+				"destination": "/tutors/medical-students/amit-syal/",
+				"permanent": true
+			},
+			{
+				"source": "/anna-chen/",
+				"destination": "/tutors/medical-students/anna-chen/",
+				"permanent": true
+			},
+			{
+				"source": "/anthony/",
+				"destination": "/tutors/medical-students/anthony/",
+				"permanent": true
+			},
+			{
+				"source": "/daksh-chauhan/",
+				"destination": "/tutors/medical-students/daksh-chauhan/",
+				"permanent": true
+			},
+			{
+				"source": "/dani-brown/",
+				"destination": "/tutors/medical-students/dani-brown/",
+				"permanent": true
+			},
+			{
+				"source": "/dr-akshay-goel/",
+				"destination": "/tutors/leadership/dr-akshay-goel/",
+				"permanent": true
+			},
+			{
+				"source": "/eytan-palte/",
+				"destination": "/tutors/medical-doctors/eytan-palte/",
+				"permanent": true
+			},
+			{
+				"source": "/farid-ghamsari/",
+				"destination": "/tutors/medical-students/farid-ghamsari/",
+				"permanent": true
+			},
+			{
+				"source": "/fawaz-naeem/",
+				"destination": "/tutors/medical-students/fawaz-naeem/",
+				"permanent": true
+			},
+			{
+				"source": "/joseph-lu/",
+				"destination": "/tutors/medical-students/joseph-lu/",
+				"permanent": true
+			},
+			{
+				"source": "/justin-sardi/",
+				"destination": "/tutors/medical-students/justin-sardi/",
+				"permanent": true
+			},
+			{
+				"source": "/katherine-oakley/",
+				"destination": "/tutors/katherine-oakley/",
+				"permanent": true
+			},
+			{
+				"source": "/keith-cordner/",
+				"destination": "/tutors/medical-students/keith-cordner/",
+				"permanent": true
+			},
+			{
+				"source": "/ken-nakanote/",
+				"destination": "/tutors/medical-doctors/ken-nakanote/",
+				"permanent": true
+			},
+			{
+				"source": "/keon-youssefzadeh/",
+				"destination": "/tutors/medical-students/keon-youssefzadeh/",
+				"permanent": true
+			},
+			{
+				"source": "/kush-patel/",
+				"destination": "/tutors/medical-doctors/kush-patel/",
+				"permanent": true
+			},
+			{
+				"source": "/lucy-wang/",
+				"destination": "/tutors/medical-students/lucy-wang/",
+				"permanent": true
+			},
+			{
+				"source": "/madeleine-basist/",
+				"destination": "/tutors/medical-doctors/madeleine-basist/",
+				"permanent": true
+			},
+			{
+				"source": "/max-frankfurter/",
+				"destination": "/tutors/medical-students/max-frankfurter/",
+				"permanent": true
+			},
+			{
+				"source": "/melissa-wing/",
+				"destination": "/tutors/medical-doctors/melissa-wing/",
+				"permanent": true
+			},
+			{
+				"source": "/mimi-kim/",
+				"destination": "/tutors/medical-students/mimi-kim/",
+				"permanent": true
+			},
+			{
+				"source": "/pranav-rekapalli/",
+				"destination": "/tutors/medical-students/pranav-rekapalli/",
+				"permanent": true
+			},
+			{
+				"source": "/radhika-srivastava/",
+				"destination": "/tutors/medical-doctors/radhika-srivastava/",
+				"permanent": true
+			},
+			{
+				"source": "/richard-wang/",
+				"destination": "/tutors/medical-doctors/richard-wang/",
+				"permanent": true
+			},
+			{
+				"source": "/robert-rosen/",
+				"destination": "/tutors/medical-students/robert-rosen/",
+				"permanent": true
+			},
+			{
+				"source": "/sai-bhatte/",
+				"destination": "/tutors/medical-students/sai-bhatte/",
+				"permanent": true
+			},
+			{
+				"source": "/sarah-bell/",
+				"destination": "/tutors/medical-students/sarah-bell/",
+				"permanent": true
+			},
+			{
+				"source": "/sylvia-rhodes/",
+				"destination": "/tutors/medical-students/sylvia-rhodes/",
+				"permanent": true
+			},
+			{
+				"source": "/victoria-lord/",
+				"destination": "/tutors/medical-students/victoria-lord/",
+				"permanent": true
+			},
+			{
+				"source": "/viemma-nwigwe/",
+				"destination": "/tutors/medical-doctors/viemma-nwigwe/",
+				"permanent": true
+			},
+			{
+				"source": "/walid-ashmeik/",
+				"destination": "/tutors/medical-students/walid-ashmeik/",
+				"permanent": true
+			},
+			{
+				"source": "/yehuda-elkaim/",
+				"destination": "/tutors/medical-students/yehuda-elkaim/",
+				"permanent": true
+			},
+			{
+				"source": "/apprentice-registration-page/",
+				"destination": "/ecommerce/apprentice-registration-page/",
+				"permanent": true
+			},
+			{
+				"source": "/cart/",
+				"destination": "/ecommerce/cart/",
+				"permanent": true
+			},
+			{
+				"source": "/competitor/",
+				"destination": "/ecommerce/competitor/",
+				"permanent": true
+			},
+			{
+				"source": "/payment-confirmation/",
+				"destination": "/ecommerce/payment-confirmation/",
+				"permanent": true
+			},
+			{
+				"source": "/payment-failed/",
+				"destination": "/ecommerce/payment-failed/",
+				"permanent": true
+			},
+			{
+				"source": "/thanks/",
+				"destination": "/ecommerce/thanks/",
+				"permanent": true
+			},
+			{
+				"source": "/comlex/",
+				"destination": "/exams/comlex/comlex/",
+				"permanent": true
+			},
+			{
+				"source": "/comlex-1/",
+				"destination": "/exams/comlex/comlex-1/",
+				"permanent": true
+			},
+			{
+				"source": "/conquer-mcat-get-into-medical/",
+				"destination": "/exams/mcat/conquer-mcat-get-into-medical/",
+				"permanent": true
+			},
+			{
+				"source": "/failed-step-1-usmle-tutoring/",
+				"destination": "/exams/usmle/failed-step-1-usmle-tutoring/",
+				"permanent": true
+			},
+			{
+				"source": "/level-2-ce-and-pe/",
+				"destination": "/exams/comlex/level-2-ce-and-pe/",
+				"permanent": true
+			},
+			{
+				"source": "/level-3/",
+				"destination": "/exams/comlex/level-3/",
+				"permanent": true
+			},
+			{
+				"source": "/mcat/",
+				"destination": "/exams/mcat/mcat/",
+				"permanent": true
+			},
+			{
+				"source": "/nbme-shelf-exams/",
+				"destination": "/exams/shelf-exams/nbme-shelf-exams/",
+				"permanent": true
+			},
+			{
+				"source": "/step-2ck-usmle/",
+				"destination": "/exams/usmle/step-2ck-usmle/",
+				"permanent": true
+			},
+			{
+				"source": "/usmle/",
+				"destination": "/exams/usmle/usmle/",
+				"permanent": true
+			},
+			{
+				"source": "/usmle-step-3/",
+				"destination": "/exams/usmle/usmle-step-3/",
+				"permanent": true
+			},
+			{
+				"source": "/usmle-tutoring-step-1/",
+				"destination": "/exams/usmle/usmle-tutoring-step-1/",
+				"permanent": true
+			},
+			{
+				"source": "/conquer-the-usmle/",
+				"destination": "/shop/conquer-the-usmle/",
+				"permanent": true
+			},
+			{
+				"source": "/conquer-the-usmle-2/",
+				"destination": "/shop/conquer-the-usmle-2/",
+				"permanent": true
+			},
+			{
+				"source": "/conquer-the-usmle-shop/",
+				"destination": "/shop/conquer-the-usmle-shop/",
+				"permanent": true
+			},
+			{
+				"source": "/premed-shop/",
+				"destination": "/shop/premed-shop/",
+				"permanent": true
+			},
+			{
+				"source": "/radiology-core-shop/",
+				"destination": "/shop/radiology-core-shop/",
+				"permanent": true
+			},
+			{
+				"source": "/core-video-review/",
+				"destination": "/marketing/core-video-review/",
+				"permanent": true
+			},
+			{
+				"source": "/cvr-ft-thank-you/",
+				"destination": "/marketing/cvr-ft-thank-you/",
+				"permanent": true
+			},
+			{
+				"source": "/discounted-trial-session/",
+				"destination": "/marketing/discounted-trial-session/",
+				"permanent": true
+			},
+			{
+				"source": "/discounted-trial-session-v2/",
+				"destination": "/marketing/discounted-trial-session-v2/",
+				"permanent": true
+			},
+			{
+				"source": "/ft-thank-you/",
+				"destination": "/marketing/ft-thank-you/",
+				"permanent": true
+			},
+			{
+				"source": "/how-can-we-assist-you/",
+				"destination": "/marketing/how-can-we-assist-you/",
+				"permanent": true
+			},
+			{
+				"source": "/learn-more-via-email/",
+				"destination": "/marketing/learn-more-via-email/",
+				"permanent": true
+			},
+			{
+				"source": "/lmve-thank-you/",
+				"destination": "/marketing/lmve-thank-you/",
+				"permanent": true
+			},
+			{
+				"source": "/purchase-discounted-session/",
+				"destination": "/marketing/purchase-discounted-session/",
+				"permanent": true
+			},
+			{
+				"source": "/radreview/",
+				"destination": "/marketing/radreview/",
+				"permanent": true
+			},
+			{
+				"source": "/speak-to-advisor/",
+				"destination": "/marketing/speak-to-advisor/",
+				"permanent": true
+			},
+			{
+				"source": "/test-learn-more-via-email/",
+				"destination": "/marketing/test-learn-more-via-email/",
+				"permanent": true
+			},
+			{
+				"source": "/test-speak-to-advisor/",
+				"destination": "/marketing/test-speak-to-advisor/",
+				"permanent": true
+			},
+			{
+				"source": "/trial-reservation-thank-you/",
+				"destination": "/marketing/trial-reservation-thank-you/",
+				"permanent": true
+			},
+			{
+				"source": "/email-reviews/",
+				"destination": "/admin/email-reviews/",
+				"permanent": true
+			},
+			{
+				"source": "/sitemap/",
+				"destination": "/admin/sitemap/",
+				"permanent": true
+			},
+			{
+				"source": "/start-here-old-page/",
+				"destination": "/admin/start-here-old-page/",
+				"permanent": true
+			},
+			{
+				"source": "/test-form/",
+				"destination": "/admin/test-form/",
+				"permanent": true
+			},
+			{
+				"source": "/testing/",
+				"destination": "/admin/testing/",
+				"permanent": true
+			},
+			{
+				"source": "/testing-2/",
+				"destination": "/admin/testing-2/",
+				"permanent": true
+			},
+			{
+				"source": "/privacy-policy/",
+				"destination": "/legal/privacy-policy/",
+				"permanent": true
+			},
+			{
+				"source": "/qlearn-terms-of-use/",
+				"destination": "/legal/qlearn-terms-of-use/",
+				"permanent": true
+			},
+			{
+				"source": "/terms-and-conditions/",
+				"destination": "/legal/terms-and-conditions/",
+				"permanent": true
+			}
+		],
+		"summary": {
+			"pages": 7,
+			"specialty-boards": 12,
+			"services": 7,
+			"tutors": 32,
+			"ecommerce": 6,
+			"exams": 12,
+			"shop": 5,
+			"marketing": 14,
+			"admin": 6,
+			"legal": 3
+		}
+	}
 }

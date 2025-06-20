@@ -1,15 +1,12 @@
 ---
-
-title: "What You Should Know About Creating A USMLE Step 1 Study Schedule"
+title: 'What You Should Know About Creating A USMLE Step 1 Study Schedule'
 pubDate: 2020-04-12
-categories: 
-  - "study-schedule"
-  - "usmle"
-  - "usmle-step-1"
-description: "It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived"
-
+categories:
+  - 'study-schedule'
+  - 'usmle'
+  - 'usmle-step-1'
+description: 'It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived'
 ---
-
 
 It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived on career day wearing a lab coat and stethoscope on your neck. And of course, the look wouldn’t be complete without a humongous toy injection in one hand. Becoming a doctor is a noble profession, even as children we already know that.
 
@@ -17,7 +14,7 @@ However, the only thing that changes over the years is our motivations to become
 
 Not that you can easily become one as soon as you wish for it, though.
 
-As much as it is promising, the path of a medical professional is also a thorny one. It is not for the faint of heart. We’re talking about going for long hours without proper sleep, reading dozens of reference and research books way past your bed time, dealing with work assignments, internship trainings, lectures, and many other responsibilities. The path of a medical professional is an overbearing and lonely one. _Why?_ Let’s just say that for the next four or five years of your life, you can give up on having any meaningful social connections. All you’re going to do is get your nose in the books.
+As much as it is promising, the path of a medical professional is also a thorny one. It is not for the faint of heart. We’re talking about going for long hours without proper sleep, reading dozens of reference and research books way past your bed time, dealing with work assignments, internship trainings, lectures, and many other responsibilities. The path of a medical professional is an overbearing and lonely one. *Why?* Let’s just say that for the next four or five years of your life, you can give up on having any meaningful social connections. All you’re going to do is get your nose in the books.
 
 But if this is really your dream, nothing I say will discourage you from going down this path. You at least need that much resolve and determination if you are ever to expect passing medical school with flying colors.
 

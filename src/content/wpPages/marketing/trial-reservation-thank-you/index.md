@@ -4,10 +4,6 @@ pubDate: 2024-01-05
 description: 'Thank you for expressing interest in a trial with MedLearnity. To secure your spot, please schedule your trial using the form provided below. Additionally,'
 ---
 
-
-
-
-
 # Thank You for Choosing Medlearnity!
 
 ## Trial Scheduling

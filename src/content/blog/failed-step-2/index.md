@@ -1,13 +1,10 @@
 ---
-
-title: "Failed Step 2: What Should You Do Next?"
+title: 'Failed Step 2: What Should You Do Next?'
 pubDate: 2023-02-15
-categories: 
-  - "usmle-step-2"
+categories:
+  - 'usmle-step-2'
 description: "After receiving your Step 2 clinical knowledge (CK) scores, you might find out you didn't meet the passing requirements. From here, you need to know the ne"
-
 ---
-
 
 After receiving your Step 2 clinical knowledge (CK) scores, you might find out you didn't meet the passing requirements. From here, you need to know the next best steps and determine if you can take a second attempt.
 

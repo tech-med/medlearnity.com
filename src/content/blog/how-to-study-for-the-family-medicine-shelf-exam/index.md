@@ -1,13 +1,10 @@
 ---
-
-title: "How to Study for the Family Medicine Shelf Exam"
+title: 'How to Study for the Family Medicine Shelf Exam'
 pubDate: 2020-09-10
-categories: 
-  - "shelf-exams"
-description: "How to Prepare for the Family Medicine Shelf Exam"
-
+categories:
+  - 'shelf-exams'
+description: 'How to Prepare for the Family Medicine Shelf Exam'
 ---
-
 
 # How to Prepare for the Family Medicine Shelf Exam
 

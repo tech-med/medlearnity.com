@@ -4,10 +4,6 @@ pubDate: 2020-04-29
 description: 'Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE'
 ---
 
-
-
-
-
 ### Which USMLE Exam Are You Preparing For?
 
 **Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE**
@@ -40,7 +36,7 @@ It is a **two-day exam**, with a 7 hour test session on day 1, and 9 hours on da
 
 If you want to excel on your USMLE exams, **Medlearnity is the best source for professional tutors and personalized learning** plans. We'll get to know you and your individual needs as you study for some of the most important tests you'll ever take, allowing us to craft unique study guides just for you. All of our one-on-one tutoring sessions use high-quality audio and video, and we'll send you the recordings for you to study and review as much as you want.
 
-**[**O****ur professional USMLE tutors**](https://www.medlearnity.com/our-tutors/) are expert educators and practicing physicians from some of the country's top hospitals, in addition to being high scorers**. They've taken these exams and excelled with scores over 250 and above the 90th percentile. Medlearnity tutors dedicate themselves to helping you during your customized tutoring sessions and answering your questions.
+**[**O\***\*ur professional USMLE tutors**](https://www.medlearnity.com/our-tutors/) are expert educators and practicing physicians from some of the country's top hospitals, in addition to being high scorers\*\*. They've taken these exams and excelled with scores over 250 and above the 90th percentile. Medlearnity tutors dedicate themselves to helping you during your customized tutoring sessions and answering your questions.
 
 When you work with Medlearnity, you'll see results. **[We've helped over 500 medical students](https://www.medlearnity.com/student-testimonials/) meet and exceed their goals for every step of the USMLE**. Whether you've never taken a USMLE exam before or you're making a repeat attempt, our tutors are available to craft the best plan for you. Live online coaching sessions with experts, study schedules and test-taking drills will help you prepare and excel on your USMLE exams.
 
@@ -66,28 +62,28 @@ Starting from my very first session with Akshay, I knew that he was the right tu
 
 With Akshay's help and support, I was able to successfully pass Step 2 CK by a good margin and ended up matching into a University residency program. I now apply his methods to all of my learning and never hesitate to recommend him to people I know.
 
-![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. Y.USMLE Step 2 CK Student\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. Y.USMLE Step 2 CK Student\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl_parent_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl_parent_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
 [](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [book now](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-vs-usmle-scores/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-vs-usmle-scores/)
 
-## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ "COMLEX vs. USMLE Scores")
+## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ 'COMLEX vs. USMLE Scores')
 
 [](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/)
 
-## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ "Score High or Focus on Passing the USMLEs")
+## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ 'Score High or Focus on Passing the USMLEs')
 
 [](https://www.medlearnity.com/usmle-eligibility-and-requirements/)
 
-## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ "USMLE Eligibility & Requirements")
+## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ 'USMLE Eligibility & Requirements')
 
 [](https://www.medlearnity.com/usmle-step-1-vs-step-2/)
 
-## [Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge](https://www.medlearnity.com/usmle-step-1-vs-step-2/ "Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge")
+## [Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge](https://www.medlearnity.com/usmle-step-1-vs-step-2/ 'Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge')

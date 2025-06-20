@@ -66,14 +66,16 @@ src/content/wpPages/
 ```
 
 ### **SEO Redirects Implemented**
-```json
+```javascript
 // Pattern-based redirects (efficient)
-"/our-tutors/:tutor": "/tutors/:tutor/"
-"/category/:category": "/blog/"
+"/our-tutors/:tutor": "/tutors/:tutor/",
+"/category/:category": "/blog/",
 "/product/:path*": "/contact/"
+```
 
+```javascript
 // Plus 80+ specific redirects for reorganized content
-"/dr-akshay-goel/": "/tutors/dr-akshay-goel/"
+"/dr-akshay-goel/": "/tutors/dr-akshay-goel/",
 "/professional-usmle-tutoring/": "/services/tutoring/professional-usmle-tutoring/"
 ```
 

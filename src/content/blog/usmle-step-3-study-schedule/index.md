@@ -1,17 +1,14 @@
 ---
-
-title: "Improving Your USMLE Step 3 Study Schedule"
+title: 'Improving Your USMLE Step 3 Study Schedule'
 pubDate: 2020-04-12
-categories: 
-  - "study-schedule"
-  - "usmle"
-  - "usmle-step-3"
-tags: 
-  - "usmle-step-3"
-description: "How to Create the Optimal USMLE Step 3 Study Schedule"
-
+categories:
+  - 'study-schedule'
+  - 'usmle'
+  - 'usmle-step-3'
+tags:
+  - 'usmle-step-3'
+description: 'How to Create the Optimal USMLE Step 3 Study Schedule'
 ---
-
 
 # How to Create the Optimal USMLE Step 3 Study Schedule
 
@@ -21,7 +18,7 @@ By the time you get to this point, you have plenty of experience with taking sta
 
 How should you create your USMLE Step 3 study schedule? What does your Step 3 score mean for your future in medicine? Should you even bother to worry about it? To answer these questions, it helps to begin with an overview of the whole USMLE process.
 
-![med student taking notes](//www.medlearnity.com//images/wp/2020/04/study-schedule-1024x768.jpg "study-schedule")
+![med student taking notes](//www.medlearnity.com//images/wp/2020/04/study-schedule-1024x768.jpg 'study-schedule')
 
 ## What you need to know about the USMLE
 
@@ -51,7 +48,7 @@ You don't have to schedule the two days of Step 3 back-to-back. However, you mus
 
 Honestly, the answer to this question depends on what your future in medicine looks like. If you're planning to go straight into practice after your residency ends, then it may not be particularly important how well you score on this exam – as long as you pass it, of course. If you're thinking of continuing your education after residency, such as by doing a fellowship in a subspecialty, then your particular Step 3 score may become more important, especially if you've chosen a more competitive field.
 
-![test prep on a laptop](//www.medlearnity.com//images/wp/2020/04/USMLE-study-schedule-1024x682.jpg "USMLE-study-schedule")
+![test prep on a laptop](//www.medlearnity.com//images/wp/2020/04/USMLE-study-schedule-1024x682.jpg 'USMLE-study-schedule')
 
 ## How can you prepare the right USMLE Step 3 study schedule?
 

@@ -1,14 +1,11 @@
 ---
-
-title: "USMLE Step 3 Percentiles: What You Need to Know"
+title: 'USMLE Step 3 Percentiles: What You Need to Know'
 pubDate: 2020-04-12
-categories: 
-  - "usmle"
-  - "usmle-step-3"
-description: "USMLE Step 3 Percentiles: What You Need to Know"
-
+categories:
+  - 'usmle'
+  - 'usmle-step-3'
+description: 'USMLE Step 3 Percentiles: What You Need to Know'
 ---
-
 
 # USMLE Step 3 Percentiles: What You Need to Know
 
@@ -145,7 +142,7 @@ We know it’s tempting to focus on your best subjects. But that will not help
 
 We recommend that you prioritize completing your UWorld USMLE Step 3 question bank. Make sure that you thoroughly review any missed questions. But, you will need material to review to refresh your memory and strengthen your understanding of a given topic.
 
-Therefore, you should buy a textbook to guide your USMLE Step 3 study sessions. There’s really no gold standard for study materials. _Step-Up to USMLE Step 3_, _First Aid for the USMLE_ _Step 3_ and _Master the Boards USMLE Step_ _3_ are a few helpful resources. You should use them to supplement your weaknesses and guide you through the question bank.
+Therefore, you should buy a textbook to guide your USMLE Step 3 study sessions. There’s really no gold standard for study materials. *Step-Up to USMLE Step 3*, *First Aid for the USMLE* *Step 3* and *Master the Boards USMLE Step* *3* are a few helpful resources. You should use them to supplement your weaknesses and guide you through the question bank.
 
 ### What’s the Best Way to Study With Practice NBMEs?
 
@@ -159,6 +156,6 @@ You should do all you can to get your best score in the USMLE Step 3 percenti
 
 Let our team of expert physicians guide you in the best ways to approach your weaker topics and master them. We are here to help you successfully cross the threshold into practicing medicine. So, [book your free 1-hour session today](https://www.medlearnity.com/usmle-step-3/) to see how we can help you achieve this dream.
 
-[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/) 
+[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
 
 <script type="application/ld+json">{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type": "Question", "name": "What’s the Passing Score for Step 3?", "acceptedAnswer": { "@type": "Answer", "text": "The recommended USMLE Step 3 minimum passing score has changed from 196 to 198. This change went into effect for examinees who took a Step 3 examination on or after January 1, 2020." } },{ "@type": "Question", "name": "What’s a Good Step 3 Score?", "acceptedAnswer": { "@type": "Answer", "text": "Any score above 230 is considered good. Mean scores usually rest slightly below 230. Scores above 240 are considered excellent because a score of 240 puts you in the 79th percentile of all test takers." } },{ "@type": "Question", "name": "Does the Step 3 Score Matter?", "acceptedAnswer": { "@type": "Answer", "text": "Your Step 3 grading will not impact your medical licensing unless you fail because you likely have a residency before you take this Step. If you plan to apply for a fellowship, your Step 3 score matters a bit more because it can bolster your application to help you achieve a better spot. In that case, you should strive to do more than pass. A 230 or 240 will look much better than a barely passing score. <div></div> Whether you plan to apply for a fellowship or not, you should maintain the consistent study habits you developed for the earlier tests. Set aside time every day for a few months to study question banks and other focused materials. During heavier rotations, you may decrease your review time. Then, reserve more study time during lighter rotations. Creating a schedule can increase your chances of passing the exam on your first attempt." } },{ "@type": "Question", "name": "What’s the Step 3 Pass Rate?", "acceptedAnswer": { "@type": "Answer", "text": "In 2021, 97% of test takers passed the examination. This number includes all United States and Canadian test takers. Over the past 10 years, the pass rate has varied only slightly. Some years had pass rates of 96%, while others had pass rates up to 98%. <div></div> Step 1 and Step 2 typically also have pass rates above 95%. These high pass rates come from dedicated study, so don’t assume that your previous studies and experience taking the earlier Steps will be enough to pass. Sticking to a strict study schedule will help you achieve success." } },{ "@type": "Question", "name": "How Many Times Can You Fail Step 3?", "acceptedAnswer": { "@type": "Answer", "text": "Different states vary in their requirements for your initial medical licensure. Your best option is to look up your state on the Federation of State Medical Boards (FSMB) website or contact a state medical board. The number of attempts varies from about 2 per Step to an unlimited number depending on the state." } },{ "@type": "Question", "name": "Should I Use a Question Bank or Focus on Covering the Material?", "acceptedAnswer": { "@type": "Answer", "text": "We recommend that you prioritize completing your UWorld USMLE Step 3 question bank. Make sure that you thoroughly review any missed questions. But, you will need material to review to refresh your memory and strengthen your understanding of a given topic. <div></div> Therefore, you should buy a textbook to guide your USMLE Step 3 study sessions. There’s really no gold standard for study materials. Step-Up to USMLE Step 3, First Aid for the USMLE Step 3 and Master the Boards USMLE Step 3 are a few helpful resources. You should use them to supplement your weaknesses and guide you through the question bank." } },{ "@type": "Question", "name": "What’s the Best Way to Study With Practice NBMEs?", "acceptedAnswer": { "@type": "Answer", "text": "We recommend that you take a practice National Board of Medical Examiners (NBME) exam when you first start studying for USMLE Step 3. You won’t know whether you’re improving if you don’t know your baseline score. <div></div> Taking a practice NBME will also highlight your weaknesses. This test will let you know what areas you should first target in your study sessions. Depending on your test date and study time frame, schedule your next practice NBME so that it’s three weeks from your first one. Track your progress and identify your weaknesses. Then, continue to go through the UWorld question bank for USMLE Step 3. You can also turn to Amboss if you need more questions." } }] }</script>

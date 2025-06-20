@@ -1,14 +1,11 @@
 ---
-
-title: "Why Is Dermatology Such a Competitive Specialty?"
+title: 'Why Is Dermatology Such a Competitive Specialty?'
 pubDate: 2022-10-06
-categories: 
-  - "residency"
-  - "residency-admissions"
-description: "Why Is Dermatology Such a Competitive Specialty?"
-
+categories:
+  - 'residency'
+  - 'residency-admissions'
+description: 'Why Is Dermatology Such a Competitive Specialty?'
 ---
-
 
 ## ![explaining Why Is Dermatology Such a Competitive Specialty?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/01-Why-Is-Dermatology-Such-a-Competitive-Specialty.jpg)
 

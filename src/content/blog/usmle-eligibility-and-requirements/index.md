@@ -1,16 +1,13 @@
 ---
-
-title: "USMLE Eligibility & Requirements"
+title: 'USMLE Eligibility & Requirements'
 pubDate: 2021-12-17
-categories: 
-  - "usmle"
-  - "usmle-step-1"
-  - "usmle-step-2"
-  - "usmle-step-3"
-description: "Passing the United States Medical Licensing Exam is essential to becoming a doctor and earning your license to practice medicine in the U.S. The USMLE has "
-
+categories:
+  - 'usmle'
+  - 'usmle-step-1'
+  - 'usmle-step-2'
+  - 'usmle-step-3'
+description: 'Passing the United States Medical Licensing Exam is essential to becoming a doctor and earning your license to practice medicine in the U.S. The USMLE has '
 ---
-
 
 ![USMLE Eligibility](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-usmle-eligibility.jpg)
 

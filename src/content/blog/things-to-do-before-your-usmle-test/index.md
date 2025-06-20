@@ -1,22 +1,19 @@
 ---
-
 title: "It's Exam Season! Things To Do Before Your USMLE Test"
 pubDate: 2020-07-06
-categories: 
-  - "usmle"
-  - "usmle-step-1"
-  - "usmle-step-2"
-  - "usmle-step-3"
-tags: 
-  - "usmle"
-  - "usmle-step-1"
-  - "usmle-step-2-ck"
-  - "usmle-step-2-cs"
-  - "usmle-step-3"
+categories:
+  - 'usmle'
+  - 'usmle-step-1'
+  - 'usmle-step-2'
+  - 'usmle-step-3'
+tags:
+  - 'usmle'
+  - 'usmle-step-1'
+  - 'usmle-step-2-ck'
+  - 'usmle-step-2-cs'
+  - 'usmle-step-3'
 description: "The USMLE exams are an important part of your journey to become a medical doctor. Whether it's USMLE Step 1, USMLE Step 2, or USMLE Step 3, you are likely "
-
 ---
-
 
 The USMLE exams are an important part of your journey to become a medical doctor. Whether it's USMLE Step 1, USMLE Step 2, or USMLE Step 3, you are likely feeling a bit nervous - and that's normal. However, we want you to get past those feelings to actively plan and prepare to ace the test! Now let's consider some of the things you can do before your USMLE test to ensure your best performance.
 

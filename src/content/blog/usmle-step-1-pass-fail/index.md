@@ -1,13 +1,10 @@
 ---
-
-title: "The USMLE Step 1 Test is Becoming Pass/Fail"
+title: 'The USMLE Step 1 Test is Becoming Pass/Fail'
 pubDate: 2021-07-20
-categories: 
-  - "usmle-step-1"
-description: "Medical students see the acronym, USMLE and start thinking about the hours of studying they need to do for a sufficient score. The  determine what types of"
-
+categories:
+  - 'usmle-step-1'
+description: 'Medical students see the acronym, USMLE and start thinking about the hours of studying they need to do for a sufficient score. The  determine what types of'
 ---
-
 
 # USMLE Step 1 Test Is Becoming Pass/Fail
 

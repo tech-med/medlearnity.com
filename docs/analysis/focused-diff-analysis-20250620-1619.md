@@ -1,4 +1,5 @@
 # Focused Migration Diff Analysis
+
 **Generated**: Fri Jun 20 16:19:44 EDT 2025  
 **Repository**: medlearnity.com  
 **Comparison**: `main` → `wordpress-content-migration`  
@@ -8,14 +9,15 @@
 
 ## 📊 Summary Statistics
 
-| Metric | Value |
-|--------|-------|
-| **Branches** | `main` → `wordpress-content-migration` |
-| **Total Files Changed** | 224 |
-| **Commits Ahead** | 12 |
-| **Analysis Date** | Fri Jun 20 16:19:44 EDT 2025 |
+| Metric                  | Value                                  |
+| ----------------------- | -------------------------------------- |
+| **Branches**            | `main` → `wordpress-content-migration` |
+| **Total Files Changed** | 224                                    |
+| **Commits Ahead**       | 12                                     |
+| **Analysis Date**       | Fri Jun 20 16:19:44 EDT 2025           |
 
 ### File Types Changed
+
 ```
  197 md
    9 js
@@ -35,6 +37,7 @@
 ## 🔑 Key Configuration Changes
 
 ### package.json
+
 ```
 package.json
 ```
@@ -90,14 +93,17 @@ index 8b66103..684001c 100644
 \ No newline at end of file
 +}
 ```
+
 </details>
 
-### astro.config.*
+### astro.config.\*
+
 ```
 astro.config.mjs
 ```
 
 ### vercel.json
+
 ```
 vercel.json
 ```
@@ -156,9 +162,11 @@ index 0000000..0a8a62d
 +    {
 +      "source": "/comlex-level-1-pass-fail",
 ```
+
 </details>
 
 ### .env.example
+
 ```
 .env.example
 ```
@@ -189,9 +197,11 @@ index 0000000..6de99ff
 +# Note: NODE_ENV is automatically set by Vercel and your dev environment
 +# Do not set NODE_ENV=production in local development
 ```
+
 </details>
 
 ### README.md
+
 ```
 README.md
 docs/README.md
@@ -202,6 +212,7 @@ docs/README.md
 ### src/ (182 files changed)
 
 **File Types:**
+
 ```
  176 md
    3 ts
@@ -209,6 +220,7 @@ docs/README.md
 ```
 
 **Recent Files:**
+
 ```
 M	src/components/BaseHead.astro
 M	src/consts.ts
@@ -225,12 +237,14 @@ A	src/content/blog/comlex-vs-usmle-scores/index.md
 ### docs/ (20 files changed)
 
 **File Types:**
+
 ```
   19 md
    1 json
 ```
 
 **Recent Files:**
+
 ```
 A	docs/README.md
 R100	docs/generating-migration-diff-analysis.md	docs/analysis/generating-migration-diff-analysis.md
@@ -247,11 +261,13 @@ A	docs/current/wpPages-organization-options.md
 ### scripts/ (8 files changed)
 
 **File Types:**
+
 ```
    8 js
 ```
 
 **Recent Files:**
+
 ```
 A	scripts/add-descriptions.js
 A	scripts/analyze-wpPages-structure.js
@@ -266,11 +282,13 @@ A	scripts/validate-yaml-frontmatter.js
 ### .github/ (1 files changed)
 
 **File Types:**
+
 ```
    1 yml
 ```
 
 **Recent Files:**
+
 ```
 A	.github/workflows/ci.yml
 ```
@@ -287,6 +305,7 @@ A	.github/workflows/ci.yml
 ## 📋 Files Changed (Focused)
 
 ### High Priority Files
+
 ```
 A	PR_SUMMARY.md
 M	README.md
@@ -311,6 +330,7 @@ A	docs/historical/migration-analysis-20250619.md
 ```
 
 ### New Files Added
+
 ```
 A	.env.example
 A	.eslintignore
@@ -330,6 +350,7 @@ A	docs/current/resolution-summary-jan-3-2025.md
 ```
 
 ### Files Deleted
+
 ```
 D	docs/developer-guide.md
 D	docs/migration-status.md
@@ -363,4 +384,5 @@ npm run check
 ```
 
 ---
-*Analysis completed at Fri Jun 20 16:19:44 EDT 2025*
+
+_Analysis completed at Fri Jun 20 16:19:44 EDT 2025_

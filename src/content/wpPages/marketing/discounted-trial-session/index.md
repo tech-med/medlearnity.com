@@ -4,10 +4,6 @@ pubDate: 2025-05-21
 description: 'Thank you for submitting your information — you’re one step closer to mastering your exam!'
 ---
 
-
-
-
-
 ## Thank you for submitting your information — you’re one step closer to mastering your exam!
 
 ## Discounted Session Overview

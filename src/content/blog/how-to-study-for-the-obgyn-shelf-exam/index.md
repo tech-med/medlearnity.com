@@ -1,13 +1,10 @@
 ---
-
-title: "How to Study for the OBGYN Shelf Exam"
+title: 'How to Study for the OBGYN Shelf Exam'
 pubDate: 2020-08-18
-categories: 
-  - "shelf-exams"
-description: "How can you prepare for the OBGYN Shelf Exam?"
-
+categories:
+  - 'shelf-exams'
+description: 'How can you prepare for the OBGYN Shelf Exam?'
 ---
-
 
 # How can you prepare for the OBGYN Shelf Exam?
 

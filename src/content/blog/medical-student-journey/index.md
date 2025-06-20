@@ -1,15 +1,12 @@
 ---
-
-title: "The Medical Student Journey"
+title: 'The Medical Student Journey'
 pubDate: 2021-12-17
-categories: 
-  - "medical-school-admissions"
-  - "medical-school-application-advising"
-  - "residency"
+categories:
+  - 'medical-school-admissions'
+  - 'medical-school-application-advising'
+  - 'residency'
 description: "There is no doubt that the medical journey is a challenging one. There are so many exams you need to pass, and don't forget about all the studying you have"
-
 ---
-
 
 [![a graphic showing the journey a medical student must take to become a doctor](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/Medical-School-Journey-rev2.jpg)](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/Medical-School-Journey-rev2.jpg)
 

@@ -1,14 +1,11 @@
 ---
-
-title: "USMLE Step 1 Percentiles: What You Need to Know"
+title: 'USMLE Step 1 Percentiles: What You Need to Know'
 pubDate: 2020-04-15
-categories: 
-  - "usmle"
-  - "usmle-step-1"
-description: "As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be on"
-
+categories:
+  - 'usmle'
+  - 'usmle-step-1'
+description: 'As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be on'
 ---
-
 
 As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be one of your biggest fears. It’s that big hurdle you just want to be over and done with! But, USMLE Step 1 is the first in three exams leading up to the end of your residency internship and can affect your residency matching. So let's explore what you need to know about USMLE Step 1 and how you can get your best test score!
 
@@ -42,7 +39,7 @@ Being an aspiring medical professional is difficult. You will need to focus on p
 
 However, in spite of this extremely challenging path, the rewards that await you are great. Becoming a doctor (or any medical professional) is truly commendable. It's a noble profession that allows you to serve humanity and it is rewarding in many aspects. But, making this dream a reality means that you need to put in the necessary effort and study time.
 
-![a stethoscope laying on a USMLE textbook](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg "Exams-Medical-Aspirants-scaled")
+![a stethoscope laying on a USMLE textbook](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
 
 The path of a medical professional is filled with many arduous tests. If you really want to become a physician, then you should be aware of what you're getting yourself into. You don't want to waste your time, effort and other valuable resources. You will need to dedicate every waking moment of your life to honing your medical skills. And these examinations are meant to test your resolve and commitment to medicine. _How far will you go? How much effort are you willing to expend?_
 
@@ -72,7 +69,7 @@ Is USMLE Step 1 going to be difficult? Well, yes, but not in the way you think i
 
 The Step 1 exam evaluates how much you've learned in your first two years of medical school. It covers basic sciences as well as all the subjects you have taken in these two years. So what makes the USMLE Step 1 exam difficult is the volume of material to cover. You must plan your study schedule well so that you can cover all the material that is included in the exam. We have plenty of [study resources](https://www.medlearnity.com/blog/) as well as [a quick guide](https://www.medlearnity.com/usmle-step-1-study-schedule/) to help your study schedule, so be sure to check it out!
 
-![USMLE step 1 scores and percentile chart](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Chart6.png "Chart6")
+![USMLE step 1 scores and percentile chart](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Chart6.png 'Chart6')
 
 ## What's the Score to Pass USMLE Step 1?
 

@@ -1,15 +1,12 @@
 ---
-
-title: "How to Write a Great Personal Statement for Residency"
+title: 'How to Write a Great Personal Statement for Residency'
 pubDate: 2020-07-24
-categories: 
-  - "medical-school-admissions"
-  - "residency"
-  - "residency-admissions"
-description: "7 tips to help you write your personal statement for residency and improve your chances of landing your dream program"
-
+categories:
+  - 'medical-school-admissions'
+  - 'residency'
+  - 'residency-admissions'
+description: '7 tips to help you write your personal statement for residency and improve your chances of landing your dream program'
 ---
-
 
 # 7 tips to help you write your personal statement for residency and improve your chances of landing your dream program
 

@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main, astro-migration]
+    branches: [main, astro-migration, wordpress-content-migration]
   pull_request: {}
 
 jobs:

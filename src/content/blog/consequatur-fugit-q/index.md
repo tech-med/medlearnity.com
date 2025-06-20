@@ -1,13 +1,10 @@
 ---
-
-title: "Failing Step 1"
+title: 'Failing Step 1'
 pubDate: 2020-06-19
-categories: 
-  - "usmle"
-description: "I Failed USMLE Step 1: How to Get Back Up and Excel"
-
+categories:
+  - 'usmle'
+description: 'I Failed USMLE Step 1: How to Get Back Up and Excel'
 ---
-
 
 # I Failed USMLE Step 1: How to Get Back Up and Excel
 

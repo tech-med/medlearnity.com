@@ -1,18 +1,14 @@
 ---
 title: 'COMLEX Level 2-CE and PE Tutoring'
 pubDate: 2020-05-01
-description: 'A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn''t ideal. Even if you did do well on Le'
+description: "A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn't ideal. Even if you did do well on Le"
 ---
-
-
-
-
 
 ## A strong score on COMLEX Level 2-CE bolsters your residency application, especially if your COMLEX Level 1 score wasn't ideal. Even if you did do well on Level 1, a strong performance on Level 2-CE demonstrates consistency and clinical excellence.
 
 ## COMLEX Level 2-CE and Level 2-PE Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_594717740.jpg "shutterstock_594717740")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_594717740.jpg 'shutterstock_594717740')
 
 COMLEX Level 2 is taken during the third or fourth year of medical school. It consists of two parts, **Level 2-CE**, Cognitive Evaluation and **Level 2-PE**, Performance Evaluation. 
 
@@ -30,19 +26,19 @@ A passing score on Level 2-CE is 400, and the national average is approximately 
 
 ## Why You Should Choose MED LEARNITY For Level 2 Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg "MCAT-Tutoring-1")
+![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
-We'll assess your strengths and weaknesses when it comes to the COMLEX and match you with the perfect tutor. **Our COMLEX Level 2 t****utors customize every lesson just for you**. We offer flexible scheduling, comprehensive study guides and recordings of each session so you have all the resources you need for success.
+We'll assess your strengths and weaknesses when it comes to the COMLEX and match you with the perfect tutor. **Our COMLEX Level 2 t\*\***utors customize every lesson just for you\*\*. We offer flexible scheduling, comprehensive study guides and recordings of each session so you have all the resources you need for success.
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg "Medical-Advicing-Services-1")
+![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
 
 ### Real Doctors
 
 **Our COMLEX tutors are real physicians who have trained at the top hospitals in the country**. They're excellent educators with superior COMLEX scores and practical experience. Medlearnity tutors are available to help you reach your own goals on your journey to practice medicine. [Meet our tutors](https://www.medlearnity.com/our-tutors/)!
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg "shutterstock_1043542105")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -54,7 +50,7 @@ We'll assess your strengths and weaknesses when it comes to the COMLEX and match
 
 ### **What to Expect**
 
-- **A COMLEX tutor who is an expert educator who has scored exceptionally well****on the USMLE/COMLEX examinations** (90+ percentile, ~250+ USMLE, ~650+ COMLEX)
+- **A COMLEX tutor who is an expert educator who has scored exceptionally well\*\***on the USMLE/COMLEX examinations\*\* (90+ percentile, ~250+ USMLE, ~650+ COMLEX)
 - We meet with you on an easy-to-access online platform that allows us to write on the screen like a whiteboard. **All session recordings are emailed to you after the session in HD quality,** so you can review them on 1.5x or 2x speed at your convenience. This helps to **maximize your learning and retention** for each tutoring session.
 - **Constant communication and scheduling** via email and phone in-between sessions. We will make sure your daily schedule is extremely efficient **so that you can get the highest score possible on test day**.
 - **Test-taking advice and drills**. During your COMLEX Level 2 tutoring sessions, you will do intense drills with your tutor to make sure you have no weaknesses on test day. You and your tutor will work through high-yield content, test-taking advice, and study strategies that are tailored to your particular situation.
@@ -74,13 +70,13 @@ You'll receive an email **introducing you to your new COMLEX Level 2 tutor**, an
 
 After your trial session, **we'll send you a feedback report with next steps, our recommendations and a recording of your session** so you can review any material you went over with your tutor. If you decide you'd like to continue working with us to achieve your goals, we'll set you up with a tutoring package that works best for you.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl_parent_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl_parent_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
 [](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [book now](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 ## **Real Medical Student Reviews**
 
@@ -102,6 +98,6 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-usa-exam/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-usa-exam/)
 
-## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ "The Right Approach To The COMLEX-USA Exam – Tips & Tricks")
+## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ 'The Right Approach To The COMLEX-USA Exam – Tips & Tricks')

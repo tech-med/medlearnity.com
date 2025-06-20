@@ -1,20 +1,17 @@
 ---
-
-title: "Brosencephalon for Step 1 Review"
+title: 'Brosencephalon for Step 1 Review'
 pubDate: 2020-08-02
-categories: 
-  - "usmle"
-  - "usmle-step-1"
-description: "Is Brosencephalon a good resource for USMLE Step 1 review?"
-
+categories:
+  - 'usmle'
+  - 'usmle-step-1'
+description: 'Is Brosencephalon a good resource for USMLE Step 1 review?'
 ---
-
 
 # Is Brosencephalon a good resource for USMLE Step 1 review?
 
 If you've begun the process of reviewing for [USMLE Step 1](https://www.medlearnity.com/usmle-tutoring-step-1/), then you might have encountered a resource called Brosencephalon. This is one of a few popular resources that many medical students use for reviewing for Step 1. Is Brosencephalon worth your time? Should you give this resource a try as you [prepare](https://www.medlearnity.com/how-to-study-for-usmle-step-1/) for Step 1, or should you focus your attention elsewhere? We took a comprehensive look at this resource, so we could present you with the pros and cons of using Brosencephalon for Step 1 review.
 
-##  **\[thrive\_lead\_lock id='3912'\]**Brosencephalon is a flashcard deck
+##  **\[thrive_lead_lock id='3912'\]**Brosencephalon is a flashcard deck
 
 Brosencephalon is a pre-made deck of Anki flashcards. For those who aren't already familiar with Anki, it's a flashcard app that uses spaced repetition to help you learn. The design of Anki takes into account decades of research on memory, in order to present cards at the optimal intervals to help you learn information as efficiently as possible. You can create your own Anki flashcards, or upload premade flashcard decks into it. In order to use Brosencephalon, you'll need Anki.
 
@@ -42,4 +39,4 @@ Because it needs to be used daily, Anki can actually be a great way to build a s
 
 If you're considering using Brosencephalon, we recommend giving it a try as a secondary review resource. Make sure that you're prioritizing using other resources, including at least one QBank as your primary resource. However, adding Brosencephalon may make a difference for some students, especially those who feel that they would benefit from being more efficient at remembering facts.
 
-Every student is different. As with every resource, Brosencephalon will be right for some students and not as useful for others. Creating a personalized study plan based on your strengths and weaknesses is essential for success on the USMLE Step 1. A tutor may be helpful in creating the best plan for you, to help you do well on this exam and move forward in your medical career with confidence. Medlearnity's [tutors](https://www.medlearnity.com/our-tutors/) are highly experienced and have helped many students achieve success with Step 1 and beyond. If you'd like to try out a one-hour tutoring session for free, please contact us [here](https://www.medlearnity.com/start-here/).**\[/thrive\_lead\_lock\]**
+Every student is different. As with every resource, Brosencephalon will be right for some students and not as useful for others. Creating a personalized study plan based on your strengths and weaknesses is essential for success on the USMLE Step 1. A tutor may be helpful in creating the best plan for you, to help you do well on this exam and move forward in your medical career with confidence. Medlearnity's [tutors](https://www.medlearnity.com/our-tutors/) are highly experienced and have helped many students achieve success with Step 1 and beyond. If you'd like to try out a one-hour tutoring session for free, please contact us [here](https://www.medlearnity.com/start-here/).**\[/thrive_lead_lock\]**

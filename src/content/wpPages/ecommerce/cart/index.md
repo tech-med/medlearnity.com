@@ -4,8 +4,4 @@ pubDate: 2021-03-25
 description: '\[woocommerce\cart\]'
 ---
 
-
-
-
-
-\[woocommerce\_cart\]
+\[woocommerce_cart\]

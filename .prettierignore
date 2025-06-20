@@ -1,3 +1,8 @@
+# Files with syntax that Prettier can't parse
+docs/guides/wordpress-to-astro-migration-guide.md
+PR_SUMMARY.md
+
+# Standard ignores
 node_modules/
 dist/
 .astro/

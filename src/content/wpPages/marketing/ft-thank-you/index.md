@@ -4,13 +4,9 @@ pubDate: 2024-01-05
 description: 'Thank you for your interest in a trial session!'
 ---
 
-
-
-
-
 # Thank you for your interest in a trial session!
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Medlearnity-Physician-Screen.webp "Medlearnity-Physician-Screen")An email will be sent to you shortly to explain the process of reserving and scheduling a trial session. You can also see the instruction below to get started right away.If you do not receive an email, please check your spam folder or contact us at[support@medlearnity.com](mailto:support@medlearnity.com).
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Medlearnity-Physician-Screen.webp 'Medlearnity-Physician-Screen')An email will be sent to you shortly to explain the process of reserving and scheduling a trial session. You can also see the instruction below to get started right away.If you do not receive an email, please check your spam folder or contact us at[support@medlearnity.com](mailto:support@medlearnity.com).
 
 Medlearnity Team
 
@@ -28,7 +24,7 @@ Your trial takes place over a high-quality Zoom Meeting. The goal for our trial 
 
 ## Background on Medlearnity
 
-At Medlearnity, our mission is to provide the absolute highest quality of medical tutoring available.Please see some of our reviews at [TrustPilot](https://www.trustpilot.com/review/medlearnity.com) | [Google](https://www.google.com/maps/place/Medlearnity+Tutoring+\(USMLE+Step+1-2-3,+MCAT,+ABIM,+ABFM,+ABSITE\)/@40.7206058,-74.0014893,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25981baf77257:0xf372ef78c42cfd0b!8m2!3d40.7206058!4d-74.0014893!16s%2Fg%2F11h27bg2pb) | [Testimonials](https://www.medlearnity.com/student-testimonials/) | [Email Feedback](https://www.medlearnity.com/email-reviews/) to learn more about our students' experiences with our tutoring services.When working with Medlearnity tutors you can expect:
+At Medlearnity, our mission is to provide the absolute highest quality of medical tutoring available.Please see some of our reviews at [TrustPilot](https://www.trustpilot.com/review/medlearnity.com) | [Google](<https://www.google.com/maps/place/Medlearnity+Tutoring+(USMLE+Step+1-2-3,+MCAT,+ABIM,+ABFM,+ABSITE)/@40.7206058,-74.0014893,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25981baf77257:0xf372ef78c42cfd0b!8m2!3d40.7206058!4d-74.0014893!16s%2Fg%2F11h27bg2pb>) | [Testimonials](https://www.medlearnity.com/student-testimonials/) | [Email Feedback](https://www.medlearnity.com/email-reviews/) to learn more about our students' experiences with our tutoring services.When working with Medlearnity tutors you can expect:
 
 - **A tutor who has scored exceptionally well on their examinations (90th+ percentile)**. Our tutors are exceptional in their knowledge, test-taking skills, and teaching ability.
 - **All session recordings are emailed to you in HD quality** after the session ends. You can later review these recordings on 1.5x or 2x speed at your convenience.

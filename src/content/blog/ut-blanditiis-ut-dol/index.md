@@ -1,18 +1,15 @@
 ---
-
-title: "What To Know About NBME Free Self-Assessments"
+title: 'What To Know About NBME Free Self-Assessments'
 pubDate: 2020-06-19
-categories: 
-  - "comlex"
-  - "internal-medicine-board-exam"
-  - "medlearnity-news"
-  - "shelf-exams"
-  - "study-schedule"
-  - "usmle-step-3"
-description: "Seven NBME free practice exams are now available to help students work on applying their medical knowledge to practical clinical scenarios in testtaking fo"
-
+categories:
+  - 'comlex'
+  - 'internal-medicine-board-exam'
+  - 'medlearnity-news'
+  - 'shelf-exams'
+  - 'study-schedule'
+  - 'usmle-step-3'
+description: 'Seven NBME free practice exams are now available to help students work on applying their medical knowledge to practical clinical scenarios in testtaking fo'
 ---
-
 
 Seven NBME **free** practice exams are now available to help students work on applying their medical knowledge to practical clinical scenarios in test-taking form. These **free NBME Self-Assessments are available through September 30, 2020** and are essential for preparing for the USMLE Step exams**.** They are intended to help students continue to sharpen their knowledge during the **testing delays arising from the COVID-19 pandemic**.
 

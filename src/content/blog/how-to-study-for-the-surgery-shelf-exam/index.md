@@ -1,14 +1,11 @@
 ---
-
-title: "How to Study for the Surgery Shelf Exam"
+title: 'How to Study for the Surgery Shelf Exam'
 pubDate: 2020-09-01
-categories: 
-  - "shelf-exams"
-  - "study-schedule"
-description: "How can you prepare for your General Surgery Shelf Exam?"
-
+categories:
+  - 'shelf-exams'
+  - 'study-schedule'
+description: 'How can you prepare for your General Surgery Shelf Exam?'
 ---
-
 
 # How can you prepare for your General Surgery Shelf Exam?
 

@@ -1,19 +1,16 @@
 ---
-
-title: "How to Study for USMLE in Quarantine: Expert Tips"
+title: 'How to Study for USMLE in Quarantine: Expert Tips'
 pubDate: 2020-04-11
-categories: 
-  - "medlearnity-news"
-tags: 
-  - "quarantine-study"
-  - "study-for-usmle"
-  - "trial-session"
-  - "usmle"
-  - "video-chat"
-description: "Times are challenging. The pandemic has changed a lot – how we travel, shop, and socialize. But most of all, it has taught us that doctors and healthcare p"
-
+categories:
+  - 'medlearnity-news'
+tags:
+  - 'quarantine-study'
+  - 'study-for-usmle'
+  - 'trial-session'
+  - 'usmle'
+  - 'video-chat'
+description: 'Times are challenging. The pandemic has changed a lot – how we travel, shop, and socialize. But most of all, it has taught us that doctors and healthcare p'
 ---
-
 
 Times are challenging. The pandemic has changed a lot – how we travel, shop, and socialize. But most of all, it has taught us that doctors and healthcare professionals are fundamental to the existence of the human race. There has never been a more urgent time to study medicine. But, the self-isolation measures we are all taking to flatten the curve may have left you wondering how to study for USMLE in quarantine.
 

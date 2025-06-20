@@ -1,19 +1,16 @@
 ---
-
-title: "USMLE Step 2 in COVID-19: Testing Suspended"
+title: 'USMLE Step 2 in COVID-19: Testing Suspended'
 pubDate: 2020-04-11
-categories: 
-  - "medlearnity-news"
-tags: 
-  - "usmle"
-  - "usmle-step-2"
-  - "usmle-step-2-cs"
-  - "usmle-step-2-cs-suspension"
-  - "usmle-step-2-testing-suspension"
-description: "USMLE Step 2 in COVID19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees"
-
+categories:
+  - 'medlearnity-news'
+tags:
+  - 'usmle'
+  - 'usmle-step-2'
+  - 'usmle-step-2-cs'
+  - 'usmle-step-2-cs-suspension'
+  - 'usmle-step-2-testing-suspension'
+description: 'USMLE Step 2 in COVID19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees'
 ---
-
 
 **USMLE Step 2 in COVID-19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees**
 

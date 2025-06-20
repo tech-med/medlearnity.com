@@ -4,10 +4,6 @@ pubDate: 2021-05-10
 description: 'Remediation Program for Medical School Students'
 ---
 
-
-
-
-
 ### Remediation Program for Medical School Students
 
 If you've been struggling with your pre-medical or medical school coursework, **Medlearnity can help you build a personalized learning plan to cement foundational curriculum concepts** in your mind. You'll receive individualized remediation tutoring for medical school from our experienced educators that enables you to master the curriculum, become confident in your test-taking skills, and start excelling in your studies.   
@@ -16,7 +12,7 @@ If you've been struggling with your pre-medical or medical school coursework, **
 
 ### Pre-Medical Coursework
 
-![](//www.medlearnity.com//images/wp/2020/05/LEARNING-1-scaled-1.jpg "LEARNING-1-scaled")
+![](//www.medlearnity.com//images/wp/2020/05/LEARNING-1-scaled-1.jpg 'LEARNING-1-scaled')
 
 Having a solid foundation in your pre-medical coursework is essential to succeeding in medical school. **Our curriculum features biology, biochemistry, chemistry, physics, and organic chemistry** so you can feel confident about your coursework and show medical schools your full potential.
 
@@ -24,13 +20,13 @@ Our tutors know the secrets to excelling in pre-medical coursework, and they're 
 
 ### Medical School Coursework
 
-![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg "Exams-Medical-Aspirants-scaled")
+![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
 
 The demanding curriculum of medical school is a big leap away from pre-med. At Medlearnity, we serve as a mentor throughout your medical school journey and have the insight to help you [excel on your USMLE](https://www.medlearnity.com/usmle/), [COMLEX](https://www.medlearnity.com/comlex/), and [Shelf Exams](https://www.medlearnity.com/nbme-shelf-exams/). Prepare for medical school and beyond with tutors from Medlearnity.
 
 ## Why You Should Choose MED LEARNITY
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg "MCAT-Tutoring-1")
+![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
@@ -38,7 +34,7 @@ Our tutors know how to **customize sessions specifically** **for you** and asses
 
 We take the initiative to pair you with a tutor who is right for you and is an expert in the areas and tests you're studying for. **Every session is recorded and emailed to you so that you can review it at any time**.
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg "Medical-Advicing-Services-1")
+![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
 
 ### Real Doctors
 
@@ -46,7 +42,7 @@ Our tutoring team is made up of physicians who have practiced and trained at the
 
 We **provide a comprehensive and unrivaled understanding of the current state of medicine** and how current admissions and residency programs work. 
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg "shutterstock_1043542105")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -62,7 +58,7 @@ A remediation plan for failing students is a unique chance to learn from your pa
 
 ### **What to Expect**
 
-- **A tutor who is an expert educator who has performed exceptionally well****in pre-medical and medical school coursework** (90+ percentile)
+- **A tutor who is an expert educator who has performed exceptionally well\*\***in pre-medical and medical school coursework\*\* (90+ percentile)
 - We meet with you on an easy-to-access online platform that allows us to write on the screen like a whiteboard. **All session recordings are emailed to you after the session in HD quality,** so you can review them on 1.5x or 2x speed at your convenience. This helps to **maximize your learning and retention** for each tutoring session.
 - **Constant communication and scheduling** via email and phone in-between sessions. We will make sure your daily schedule is extremely efficient **so that you can get the highest score possible on test day**.
 - **Test-taking advice and drills**. During your sessions, you will do intense drills with your tutor to make sure you have no weaknesses on test day. You and your tutor will work through high-yield content, test-taking advice, and study strategies that are tailored to your particular situation.
@@ -86,7 +82,7 @@ After your free trial session, **we'll send you a feedback report with next step
 
 **The trial session is completely free, so that you can experience the high-quality tutoring we provide**. We know that the high-caliber of our services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-![](//www.medlearnity.com//images/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg "87111525_10157936509629477_2364165572716920832_o")
+![](//www.medlearnity.com//images/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg '87111525_10157936509629477_2364165572716920832_o')
 
 Turja C.
 
@@ -98,20 +94,20 @@ USMLE Step 1 and 2 CK Student
 
 [](https://www.medlearnity.com/comlex-vs-usmle-scores/)
 
-## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ "COMLEX vs. USMLE Scores")
+## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ 'COMLEX vs. USMLE Scores')
 
 [](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/)
 
-## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ "Score High or Focus on Passing the USMLEs")
+## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ 'Score High or Focus on Passing the USMLEs')
 
 [](https://www.medlearnity.com/usmle-eligibility-and-requirements/)
 
-## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ "USMLE Eligibility & Requirements")
+## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ 'USMLE Eligibility & Requirements')
 
 [](https://www.medlearnity.com/medical-student-journey/)
 
-## [The Medical Student Journey](https://www.medlearnity.com/medical-student-journey/ "The Medical Student Journey")
+## [The Medical Student Journey](https://www.medlearnity.com/medical-student-journey/ 'The Medical Student Journey')
 
 [](https://www.medlearnity.com/internal-medicine-board-exam/)
 
-## [Introducing The World Of Internal Medicine – & How You Can Be Part of It](https://www.medlearnity.com/internal-medicine-board-exam/ "Introducing The World Of Internal Medicine – & How You Can Be Part of It")
+## [Introducing The World Of Internal Medicine – & How You Can Be Part of It](https://www.medlearnity.com/internal-medicine-board-exam/ 'Introducing The World Of Internal Medicine – & How You Can Be Part of It')

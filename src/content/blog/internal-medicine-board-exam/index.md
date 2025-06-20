@@ -1,14 +1,11 @@
 ---
-
-title: "Introducing The World Of Internal Medicine - & How You Can Be Part of It"
+title: 'Introducing The World Of Internal Medicine - & How You Can Be Part of It'
 pubDate: 2021-12-07
-categories: 
-  - "internal-medicine-board-exam"
-  - "residency-board-exams"
-description: "Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with "
-
+categories:
+  - 'internal-medicine-board-exam'
+  - 'residency-board-exams'
+description: 'Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with '
 ---
-
 
 Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with the title “Doctor of Internal Medicine” right under an MDs name. You see it all the time but do you actually understand what it means? For all you know, you’ve been using this term wrong after all this time.
 
@@ -16,7 +13,7 @@ The common understanding is that internal medicine strictly has to do with deali
 
 _If there is internal medicine, then is there external medicine?_
 
-_If internal medicine covers diseases and medical conditions that manifests “internally,” then is it safe to assume that it can cater to any part of the world’s demographic, adults and children included, as long as the symptoms manifest in the inside of the body?_ 
+*If internal medicine covers diseases and medical conditions that manifests “internally,” then is it safe to assume that it can cater to any part of the world’s demographic, adults and children included, as long as the symptoms manifest in the inside of the body?* 
 
 ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Internal-Medicine-1-1024x682.jpg)
 

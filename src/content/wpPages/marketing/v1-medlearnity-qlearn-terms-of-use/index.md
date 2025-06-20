@@ -1,12 +1,8 @@
 ---
 title: 'Medlearnity QLearn Terms of Use'
 pubDate: 2024-07-01
-description: "These Terms of Use set forth the terms and conditions of an agreement (this \"agreement\") between (a) you, as an individual who has purchased a subscription"
+description: 'These Terms of Use set forth the terms and conditions of an agreement (this "agreement") between (a) you, as an individual who has purchased a subscription'
 ---
-
-
-
-
 
 These Terms of Use set forth the terms and conditions of an agreement (this "agreement") between (a) you, as an individual who has purchased a subscription to products and/or services available through [https://qlearn.medlearnity.com/](https://qlearn.medlearnity.com/) (collectively the "services"), (b) you, on behalf of an institution or other entity that has purchased a subscription to the services, or (c) you, as a user of the services either (i) under a subscription purchased by you or another subscriber or (ii) in any other capacity. Purchase of a subscription to use the services, or use of the services by other means, constitutes your agreement with these Terms of Use. If you do not agree, or do not intend to comply, with these Terms of Use, please do not purchase a subscription to use, or use, the services.
 

@@ -1,18 +1,15 @@
 ---
-
-title: "The Best Resources for Step 2 CK Preparation"
+title: 'The Best Resources for Step 2 CK Preparation'
 pubDate: 2020-07-25
-categories: 
-  - "usmle"
-  - "usmle-step-2"
-tags: 
-  - "medical-test-prep"
-  - "test-prep"
-  - "testing-resourced"
-description: "Students often ask us our advice on what the best resources are for USMLE Step 2 CK test preparation, especially because Step 2 CK doesn’t have a goto reso"
-
+categories:
+  - 'usmle'
+  - 'usmle-step-2'
+tags:
+  - 'medical-test-prep'
+  - 'test-prep'
+  - 'testing-resourced'
+description: 'Students often ask us our advice on what the best resources are for USMLE Step 2 CK test preparation, especially because Step 2 CK doesn’t have a goto reso'
 ---
-
 
 Students often ask us our advice on what the best resources are for USMLE Step 2 CK test preparation, especially because Step 2 CK doesn’t have a go-to resource the way USMLE Step 1 does with _First Aid_. We also know that there are a lot of resources available for Step 2 CK preparation – the sheer number and volume of what’s available can be overwhelming. **To help you prep for Step 2 CK, we compiled together the resource advice of some of our tutors who scored 279-281 on Step 2 CK**.
 

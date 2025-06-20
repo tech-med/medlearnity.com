@@ -4,17 +4,13 @@ pubDate: 2020-04-12
 description: 'USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE '
 ---
 
-
-
-
-
 USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE or short. It’s that big hurdle you just want to be over and done with. Unfortunately, it doesn’t get to be done until after your residency internship – what, with having three-parts and all.
 
 Being an aspiring medical professional is hard. Every single day, you face constant defeat. Many aspects of your life are thrown into disarray because your focus is entirely set on passing the course requirements for a medical student. You let go of family time, you don’t have time to look for or establish meaningful relationships, and you can rarely even treat yourself to a day off. The life of a med student is hard but if it’s really your dream, what are you to do about it?
 
 Despite being an extremely challenging path, however, what waits on the other side is greatly rewarding – I’ll give you that. You get to help people, save lives – and hey, the pay isn’t so bad either. Anyway, I believe most people would agree with me when I say that becoming a doctor, or any medical professional for that matter, is truly commendable. It’s a noble profession that is financially, emotionally, and psychologically rewarding. But in order to make this dream a reality, one just has to put in the extra effort. And by that, I do mean a whole load of extra.
 
-One very discomforting fact about treading the path of a medical professional is that it is ridden with strenuous, intensive, and arduous tests. I will not mince words here. After all, I figured that if you really want to become a physician, you should be fully aware of what you’re getting yourself into. Otherwise, you’ll only be wasting time, effort, and your parents’ money. If you’re going to do this, then you really have to be into it. You have to dedicate every waking moment of your life to honing and bettering your skills as a man of medicine. And these examinations are meant to really put your determination to the test. _How far will you go? How much effort are you willing to expend?_
+One very discomforting fact about treading the path of a medical professional is that it is ridden with strenuous, intensive, and arduous tests. I will not mince words here. After all, I figured that if you really want to become a physician, you should be fully aware of what you’re getting yourself into. Otherwise, you’ll only be wasting time, effort, and your parents’ money. If you’re going to do this, then you really have to be into it. You have to dedicate every waking moment of your life to honing and bettering your skills as a man of medicine. And these examinations are meant to really put your determination to the test. *How far will you go? How much effort are you willing to expend?*
 
 Anyhow, these tests are put in place for good reason – especially the USMLE.
 

@@ -1,13 +1,10 @@
 ---
-
-title: "How To Study For the Internal Medicine Shelf Exam"
+title: 'How To Study For the Internal Medicine Shelf Exam'
 pubDate: 2020-08-20
-categories: 
-  - "shelf-exams"
-description: "How can you prepare for the Internal Medicine Shelf Exam?"
-
+categories:
+  - 'shelf-exams'
+description: 'How can you prepare for the Internal Medicine Shelf Exam?'
 ---
-
 
 # How can you prepare for the Internal Medicine Shelf Exam?
 

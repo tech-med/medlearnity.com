@@ -4,11 +4,7 @@ pubDate: 2021-12-17
 description: 'Learn more about Professional USMLE Step 2 Tutoring and our comprehensive tutoring services.'
 ---
 
-
-
-
-
-\[tcb\_logo href="https://www.medlearnity.com" data-id-d="10" data-dynamic-link="thrive\_global\_shortcode\_url" data-shortcode-id="0" data-img-style="width: 100%;" data-id-m="11" data-alt=""\]
+\[tcb_logo href="https://www.medlearnity.com" data-id-d="10" data-dynamic-link="thrive_global_shortcode_url" data-shortcode-id="0" data-img-style="width: 100%;" data-id-m="11" data-alt=""\]
 
 #### Get started with USMLE tutoring today
 
@@ -34,7 +30,7 @@ Thousands of med students take the USMLE every year. Many of them struggle to ge
 
 Data from the NRMP (the National Residency Matching Program, the program that administers the Match) indicate that residency directors rank applicant’s scores on USMLE Step 1 and Step 2 CK among the most important factors in determining who gets invited for an interview. Your performance on these exams could determine whether you even get a chance to interview at the program of your choice.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png "Image 2020-10-17 at 7.04.02 PM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png 'Image 2020-10-17 at 7.04.02 PM')](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
 
 Residency directors give a lot of weight to USMLE scores, because they’re standardized and easily comparable across different med schools. This gives them a unique weight in your residency application.If you’re planning to apply for a fellowship after your residency, then your Step 3 scores will also become important in your application. At the same time, Step 1 and Step 2 CK scores continue to be important even into fellowship. This is why it’s crucial to achieve the best possible scores on these exams; a less-than-stellar performance on Step 1 or Step 2 CK could put limits on your career choices years later.Your USMLE scores are crucial to your future in medicine. Your choice of specialty, residency location, and other program specifics depends heavily on your USMLE scores.
 
@@ -96,7 +92,7 @@ Our satisfied students speak for themselves.
 
 I was having a lot of difficulties with USMLE Step 2 CK. I had reached a point where I had thought that I had peaked since my practice scores weren't improving after having already completed UWorld. They helped me with my approach to the questions and taught me methods to better retain what I was learning over longer periods of time. My tutor even helped me prioritize my learning and continued to work with me to create an adaptive study schedule that fit my lifestyle. It really improved my confidence with my knowledge which was reflected in the scores I was seeing. I ended up passing CK with a score that I was really happy with and matched into residency. I never hesitate to recommend their services to anyone I think might benefit.
 
-**Michael Yeung****Step 2 CK student**
+**Michael Yeung\*\***Step 2 CK student\*\*
 
 There are not enough words to express my gratitude for Akshay and his team. I used tutors through medlearnity for step 1 and step 2. I worked with Henry throughout most of second year tutoring for step 1. My institution did a poor job preparing for step 1, but with Henry's help and guidance I was able to pass step 1
 
@@ -106,7 +102,7 @@ Leading up to step 2, I worked with Isao along with Radhika. They started to hel
 
 Akshay is an amazing educator who truly cares about his students! I would highly recommend Medlearnity to anyone who needs that extra guidance and help for step 1 and step 2.
 
-**Mae L.****Step 1 and Step 2 CK student**
+**Mae L.\*\***Step 1 and Step 2 CK student\*\*
 
 ## Get started with Step 2 tutoring today, and be on your way to matching with the program of your choice.
 
@@ -118,6 +114,6 @@ During your free session, your tutor can answer any questions you may have, cove
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.

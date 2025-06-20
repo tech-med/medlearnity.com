@@ -1,13 +1,10 @@
 ---
-
 title: "COMLEX Level 1's New Parameters"
 pubDate: 2021-11-19
-categories: 
-  - "comlex-level-1"
-description: "Recent announcements from the National Board of Osteopathic Medical Examiners (NBOME) express changes to the COMLEX Level 1 exam. The test, which assesses "
-
+categories:
+  - 'comlex-level-1'
+description: 'Recent announcements from the National Board of Osteopathic Medical Examiners (NBOME) express changes to the COMLEX Level 1 exam. The test, which assesses '
 ---
-
 
 Recent announcements from the National Board of Osteopathic Medical Examiners (NBOME) express changes to the COMLEX Level 1 exam. The test, which assesses a student's ability to recognize patient symptoms and solve problems, is dropping its numerical scores in favor of a pass or fail system. The changes will impact how Doctor of Osteopathic Medicine (DO) programs evaluate students and how students prepare for their exams. The new scoring system takes effect in May of 2022.
 

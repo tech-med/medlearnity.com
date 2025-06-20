@@ -1,12 +1,8 @@
 ---
 title: 'American Board of Radiology (ABR) Qualifying Exam Tutors'
 pubDate: 2021-11-18
-description: 'The American Board of Radiology''s Qualifying Exam is an essential step for many radiology residents, and Medlearnity is here to help you ace it.'
+description: "The American Board of Radiology's Qualifying Exam is an essential step for many radiology residents, and Medlearnity is here to help you ace it."
 ---
-
-
-
-
 
 ## The American Board of Radiology's Qualifying Exam is an essential step for many radiology residents, and Medlearnity is here to help you ace it.
 
@@ -32,19 +28,19 @@ The ABR Qualifying Exam is a rigorous test that can challenge medical students. 
 
 ## Why You Should Choose MED LEARNITY for ABR Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg "MCAT-Tutoring-1")
+![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Tutoring Packages
 
 We invest the time to assess **your personal needs** and pair you with the ABR tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg "Medical-Advicing-Services-1")
+![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
 
 ### Real Doctors From Top Hospitals
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg "shutterstock_1043542105")
+![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results For All Students
 
@@ -88,13 +84,13 @@ You can receive two possible scores on the ABR Qualifying Exam — either a pass
 
 The ABR Qualifying Exam is available twice a year to those who are at least 12 months removed from their diagnostic radiology residency and have previously passed the core exam. You can [view the ABR's exam schedule](https://www.theabr.org/diagnostic-radiology/initial-certification/exam-dates-locations) online. 
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl_parent_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl_parent_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
 [](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [book now](/purchase-discounted-session/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 ## Real ABR CORE Student Reviews
 
@@ -112,4 +108,4 @@ I had a great experience studying for the radiology CORE exam with the resources
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)

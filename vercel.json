@@ -1,642 +1,642 @@
 {
-  "rewrites": [
-    {
-      "source": "/images/wp/:file*",
-      "destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/our-tutors/:tutor",
-      "destination": "/:tutor/",
-      "permanent": true
-    },
-    {
-      "source": "/category/:category",
-      "destination": "/blog/",
-      "permanent": true
-    },
-    {
-      "source": "/product/:path*",
-      "destination": "/contact/",
-      "permanent": true
-    },
-    {
-      "source": "/13-tips-for-expert-abr-preparation",
-      "destination": "/blog/13-tips-for-expert-abr-preparation/",
-      "permanent": true
-    },
-    {
-      "source": "/abim-preparation-guide",
-      "destination": "/blog/abim-preparation-guide/",
-      "permanent": true
-    },
-    {
-      "source": "/best-resources-for-step-2-ck-prep",
-      "destination": "/blog/best-resources-for-step-2-ck-prep/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex-level-1-pass-fail",
-      "destination": "/blog/comlex-level-1-pass-fail/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex-usa-exam",
-      "destination": "/blog/comlex-usa-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex-vs-usmle-scores",
-      "destination": "/blog/comlex-vs-usmle-scores/",
-      "permanent": true
-    },
-    {
-      "source": "/common-reasons-to-fail-usmle-step-1",
-      "destination": "/blog/common-reasons-to-fail-usmle-step-1/",
-      "permanent": true
-    },
-    {
-      "source": "/comprehensive-guide-preparing-for-the-absite",
-      "destination": "/blog/comprehensive-guide-preparing-for-the-absite/",
-      "permanent": true
-    },
-    {
-      "source": "/failed-absite-now-what",
-      "destination": "/blog/failed-absite-now-what/",
-      "permanent": true
-    },
-    {
-      "source": "/failed-step-2",
-      "destination": "/blog/failed-step-2/",
-      "permanent": true
-    },
-    {
-      "source": "/family-medicine-board-exams",
-      "destination": "/blog/family-medicine-board-exams/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-score-280-on-usmle-step-2-ck",
-      "destination": "/blog/how-to-score-280-on-usmle-step-2-ck/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-the-family-medicine-shelf-exam",
-      "destination": "/blog/how-to-study-for-the-family-medicine-shelf-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-the-internal-medicine-shelf-exam",
-      "destination": "/blog/how-to-study-for-the-internal-medicine-shelf-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-the-mcat",
-      "destination": "/blog/how-to-study-for-the-mcat/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-the-obgyn-shelf-exam",
-      "destination": "/blog/how-to-study-for-the-obgyn-shelf-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-the-pediatrics-shelf-exam",
-      "destination": "/blog/how-to-study-for-the-pediatrics-shelf-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-study-for-usmle-step-1",
-      "destination": "/blog/how-to-study-for-usmle-step-1/",
-      "permanent": true
-    },
-    {
-      "source": "/how-to-write-a-great-personal-statement-for-residency",
-      "destination": "/blog/how-to-write-a-great-personal-statement-for-residency/",
-      "permanent": true
-    },
-    {
-      "source": "/internal-medicine-board-exam",
-      "destination": "/blog/internal-medicine-board-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/is-uworld-worth-it-for-usmle",
-      "destination": "/blog/is-uworld-worth-it-for-usmle/",
-      "permanent": true
-    },
-    {
-      "source": "/mcat-tutoring",
-      "destination": "/blog/mcat-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/medical-school-application-advising-services",
-      "destination": "/blog/medical-school-application-advising-services/",
-      "permanent": true
-    },
-    {
-      "source": "/medical-student-journey",
-      "destination": "/blog/medical-student-journey/",
-      "permanent": true
-    },
-    {
-      "source": "/nbme-step-1-practice-exams",
-      "destination": "/blog/nbme-step-1-practice-exams/",
-      "permanent": true
-    },
-    {
-      "source": "/score-high-or-focus-on-passing-usmle",
-      "destination": "/blog/score-high-or-focus-on-passing-usmle/",
-      "permanent": true
-    },
-    {
-      "source": "/things-to-do-before-your-usmle-test",
-      "destination": "/blog/things-to-do-before-your-usmle-test/",
-      "permanent": true
-    },
-    {
-      "source": "/tips-for-med-school-test-anxiety",
-      "destination": "/blog/tips-for-med-school-test-anxiety/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-eligibility-and-requirements",
-      "destination": "/blog/usmle-eligibility-and-requirements/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-1-pass-fail",
-      "destination": "/blog/usmle-step-1-pass-fail/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-1-percentiles",
-      "destination": "/blog/usmle-step-1-percentiles/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-1-vs-step-2",
-      "destination": "/blog/usmle-step-1-vs-step-2/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-2-cs-cancelled",
-      "destination": "/blog/usmle-step-2-cs-cancelled/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-2-percentiles",
-      "destination": "/blog/usmle-step-2-percentiles/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-3-percentiles",
-      "destination": "/blog/usmle-step-3-percentiles/",
-      "permanent": true
-    },
-    {
-      "source": "/whats-your-usmle-step-1-mentality",
-      "destination": "/blog/whats-your-usmle-step-1-mentality/",
-      "permanent": true
-    },
-    {
-      "source": "/dr-akshay-goel/",
-      "destination": "/tutors/dr-akshay-goel/",
-      "permanent": true
-    },
-    {
-      "source": "/eytan-palte/",
-      "destination": "/tutors/eytan-palte/",
-      "permanent": true
-    },
-    {
-      "source": "/madeleine-basist/",
-      "destination": "/tutors/madeleine-basist/",
-      "permanent": true
-    },
-    {
-      "source": "/radhika-srivastava/",
-      "destination": "/tutors/radhika-srivastava/",
-      "permanent": true
-    },
-    {
-      "source": "/viemma-nwigwe/",
-      "destination": "/tutors/viemma-nwigwe/",
-      "permanent": true
-    },
-    {
-      "source": "/keith-cordner/",
-      "destination": "/tutors/keith-cordner/",
-      "permanent": true
-    },
-    {
-      "source": "/melissa-wing/",
-      "destination": "/tutors/melissa-wing/",
-      "permanent": true
-    },
-    {
-      "source": "/kush-patel/",
-      "destination": "/tutors/kush-patel/",
-      "permanent": true
-    },
-    {
-      "source": "/ken-nakanote/",
-      "destination": "/tutors/ken-nakanote/",
-      "permanent": true
-    },
-    {
-      "source": "/victoria-lord/",
-      "destination": "/tutors/victoria-lord/",
-      "permanent": true
-    },
-    {
-      "source": "/pranav-rekapalli/",
-      "destination": "/tutors/pranav-rekapalli/",
-      "permanent": true
-    },
-    {
-      "source": "/sylvia-rhodes/",
-      "destination": "/tutors/sylvia-rhodes/",
-      "permanent": true
-    },
-    {
-      "source": "/lucy-wang/",
-      "destination": "/tutors/lucy-wang/",
-      "permanent": true
-    },
-    {
-      "source": "/max-frankfurter/",
-      "destination": "/tutors/max-frankfurter/",
-      "permanent": true
-    },
-    {
-      "source": "/farid-ghamsari/",
-      "destination": "/tutors/farid-ghamsari/",
-      "permanent": true
-    },
-    {
-      "source": "/keon-youssefzadeh/",
-      "destination": "/tutors/keon-youssefzadeh/",
-      "permanent": true
-    },
-    {
-      "source": "/robert-rosen/",
-      "destination": "/tutors/robert-rosen/",
-      "permanent": true
-    },
-    {
-      "source": "/richard-wang/",
-      "destination": "/tutors/richard-wang/",
-      "permanent": true
-    },
-    {
-      "source": "/walid-ashmeik/",
-      "destination": "/tutors/walid-ashmeik/",
-      "permanent": true
-    },
-    {
-      "source": "/sai-bhatte/",
-      "destination": "/tutors/sai-bhatte/",
-      "permanent": true
-    },
-    {
-      "source": "/dani-brown/",
-      "destination": "/tutors/dani-brown/",
-      "permanent": true
-    },
-    {
-      "source": "/fawaz-naeem/",
-      "destination": "/tutors/fawaz-naeem/",
-      "permanent": true
-    },
-    {
-      "source": "/joseph-lu/",
-      "destination": "/tutors/joseph-lu/",
-      "permanent": true
-    },
-    {
-      "source": "/anna-chen/",
-      "destination": "/tutors/anna-chen/",
-      "permanent": true
-    },
-    {
-      "source": "/mimi-kim/",
-      "destination": "/tutors/mimi-kim/",
-      "permanent": true
-    },
-    {
-      "source": "/justin-sardi/",
-      "destination": "/tutors/justin-sardi/",
-      "permanent": true
-    },
-    {
-      "source": "/amit-syal/",
-      "destination": "/tutors/amit-syal/",
-      "permanent": true
-    },
-    {
-      "source": "/sarah-bell/",
-      "destination": "/tutors/sarah-bell/",
-      "permanent": true
-    },
-    {
-      "source": "/yehuda-elkaim/",
-      "destination": "/tutors/yehuda-elkaim/",
-      "permanent": true
-    },
-    {
-      "source": "/anthony/",
-      "destination": "/tutors/anthony/",
-      "permanent": true
-    },
-    {
-      "source": "/alexandra-townsend/",
-      "destination": "/tutors/alexandra-townsend/",
-      "permanent": true
-    },
-    {
-      "source": "/daksh-chauhan/",
-      "destination": "/tutors/daksh-chauhan/",
-      "permanent": true
-    },
-    {
-      "source": "/katherine-oakley/",
-      "destination": "/tutors/katherine-oakley/",
-      "permanent": true
-    },
-    {
-      "source": "/matthew-augustine/",
-      "destination": "/tutors/matthew-augustine/",
-      "permanent": true
-    },
-    {
-      "source": "/nader-mohamed/",
-      "destination": "/tutors/nader-mohamed/",
-      "permanent": true
-    },
-    {
-      "source": "/professional-usmle-tutoring/",
-      "destination": "/services/tutoring/professional-usmle-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/medical-remediation-tutoring/",
-      "destination": "/services/tutoring/medical-remediation-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/coursework/",
-      "destination": "/services/tutoring/coursework/",
-      "permanent": true
-    },
-    {
-      "source": "/tutoring/",
-      "destination": "/services/tutoring/tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/medical-school-admissions/",
-      "destination": "/services/admissions/medical-school-admissions/",
-      "permanent": true
-    },
-    {
-      "source": "/residency-admissions/",
-      "destination": "/services/admissions/residency-admissions/",
-      "permanent": true
-    },
-    {
-      "source": "/admissions/",
-      "destination": "/services/admissions/admissions/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle/",
-      "destination": "/exams/usmle/usmle/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-tutoring-step-1/",
-      "destination": "/exams/usmle/usmle-tutoring-step-1/",
-      "permanent": true
-    },
-    {
-      "source": "/step-2ck-usmle/",
-      "destination": "/exams/usmle/step-2ck-usmle/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-step-3/",
-      "destination": "/exams/usmle/usmle-step-3/",
-      "permanent": true
-    },
-    {
-      "source": "/failed-step-1-usmle-tutoring/",
-      "destination": "/exams/usmle/failed-step-1-usmle-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/professional-usmle-step-2-tutoring/",
-      "destination": "/exams/usmle/professional-usmle-step-2-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/usmletutoring/",
-      "destination": "/exams/usmle/usmletutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/usmle-study-guide/",
-      "destination": "/exams/usmle/usmle-study-guide/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex/",
-      "destination": "/exams/comlex/comlex/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex-1/",
-      "destination": "/exams/comlex/comlex-1/",
-      "permanent": true
-    },
-    {
-      "source": "/level-2-ce-and-pe/",
-      "destination": "/exams/comlex/level-2-ce-and-pe/",
-      "permanent": true
-    },
-    {
-      "source": "/level-3/",
-      "destination": "/exams/comlex/level-3/",
-      "permanent": true
-    },
-    {
-      "source": "/comlex-tutoring/",
-      "destination": "/exams/comlex/comlex-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/mcat/",
-      "destination": "/exams/mcat/mcat/",
-      "permanent": true
-    },
-    {
-      "source": "/conquer-mcat-get-into-medical/",
-      "destination": "/exams/mcat/conquer-mcat-get-into-medical/",
-      "permanent": true
-    },
-    {
-      "source": "/nbme-shelf-exams/",
-      "destination": "/exams/shelf-exams/nbme-shelf-exams/",
-      "permanent": true
-    },
-    {
-      "source": "/residency-board-exams/",
-      "destination": "/specialty-boards/residency-board-exams/",
-      "permanent": true
-    },
-    {
-      "source": "/abs-exams/",
-      "destination": "/specialty-boards/abs-exams/",
-      "permanent": true
-    },
-    {
-      "source": "/abs-exams-2/",
-      "destination": "/specialty-boards/abs-exams-2/",
-      "permanent": true
-    },
-    {
-      "source": "/abs-qualifying-certifying/",
-      "destination": "/specialty-boards/abs-qualifying-certifying/",
-      "permanent": true
-    },
-    {
-      "source": "/abs-certifying-exam/",
-      "destination": "/specialty-boards/abs-certifying-exam/",
-      "permanent": true
-    },
-    {
-      "source": "/internal-medicine-boards/",
-      "destination": "/specialty-boards/internal-medicine-boards/",
-      "permanent": true
-    },
-    {
-      "source": "/family-medicine-certification-exam-abfm/",
-      "destination": "/specialty-boards/family-medicine-certification-exam-abfm/",
-      "permanent": true
-    },
-    {
-      "source": "/abr-core-exam-tutoring/",
-      "destination": "/specialty-boards/abr-core-exam-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/medlearnity-abr-core-exam-tutoring/",
-      "destination": "/specialty-boards/medlearnity-abr-core-exam-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/medlearnity-abs-exam-tutoring/",
-      "destination": "/specialty-boards/medlearnity-abs-exam-tutoring/",
-      "permanent": true
-    },
-    {
-      "source": "/qlearn-absite/",
-      "destination": "/specialty-boards/qlearn-absite/",
-      "permanent": true
-    },
-    {
-      "source": "/about/",
-      "destination": "/pages/about/",
-      "permanent": true
-    },
-    {
-      "source": "/our-services/",
-      "destination": "/pages/our-services/",
-      "permanent": true
-    },
-    {
-      "source": "/our-tutors/",
-      "destination": "/pages/our-tutors/",
-      "permanent": true
-    },
-    {
-      "source": "/start-here/",
-      "destination": "/pages/start-here/",
-      "permanent": true
-    },
-    {
-      "source": "/student-testimonials/",
-      "destination": "/pages/student-testimonials/",
-      "permanent": true
-    },
-    {
-      "source": "/frequently-asked-questions/",
-      "destination": "/pages/frequently-asked-questions/",
-      "permanent": true
-    },
-    {
-      "source": "/cart/",
-      "destination": "/ecommerce/cart/",
-      "permanent": true
-    },
-    {
-      "source": "/checkout/",
-      "destination": "/ecommerce/checkout/",
-      "permanent": true
-    },
-    {
-      "source": "/payment-confirmation/",
-      "destination": "/ecommerce/payment-confirmation/",
-      "permanent": true
-    },
-    {
-      "source": "/payment-failed/",
-      "destination": "/ecommerce/payment-failed/",
-      "permanent": true
-    },
-    {
-      "source": "/terms-and-conditions/",
-      "destination": "/legal/terms-and-conditions/",
-      "permanent": true
-    },
-    {
-      "source": "/privacy-policy/",
-      "destination": "/legal/privacy-policy/",
-      "permanent": true
-    },
-    {
-      "source": "/qlearn-terms-of-use/",
-      "destination": "/legal/qlearn-terms-of-use/",
-      "permanent": true
-    }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Frame-Options",
-          "value": "DENY"
-        },
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        },
-        {
-          "key": "Strict-Transport-Security",
-          "value": "max-age=31536000; includeSubDomains"
-        },
-        {
-          "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://form.jotform.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https: blob:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https:; frame-src https://form.jotform.com; object-src 'none';"
-        }
-      ]
-    }
-  ]
-} 
+	"rewrites": [
+		{
+			"source": "/images/wp/:file*",
+			"destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
+		}
+	],
+	"redirects": [
+		{
+			"source": "/our-tutors/:tutor",
+			"destination": "/:tutor/",
+			"permanent": true
+		},
+		{
+			"source": "/category/:category",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/product/:path*",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/13-tips-for-expert-abr-preparation",
+			"destination": "/blog/13-tips-for-expert-abr-preparation/",
+			"permanent": true
+		},
+		{
+			"source": "/abim-preparation-guide",
+			"destination": "/blog/abim-preparation-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/best-resources-for-step-2-ck-prep",
+			"destination": "/blog/best-resources-for-step-2-ck-prep/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-level-1-pass-fail",
+			"destination": "/blog/comlex-level-1-pass-fail/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-usa-exam",
+			"destination": "/blog/comlex-usa-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-vs-usmle-scores",
+			"destination": "/blog/comlex-vs-usmle-scores/",
+			"permanent": true
+		},
+		{
+			"source": "/common-reasons-to-fail-usmle-step-1",
+			"destination": "/blog/common-reasons-to-fail-usmle-step-1/",
+			"permanent": true
+		},
+		{
+			"source": "/comprehensive-guide-preparing-for-the-absite",
+			"destination": "/blog/comprehensive-guide-preparing-for-the-absite/",
+			"permanent": true
+		},
+		{
+			"source": "/failed-absite-now-what",
+			"destination": "/blog/failed-absite-now-what/",
+			"permanent": true
+		},
+		{
+			"source": "/failed-step-2",
+			"destination": "/blog/failed-step-2/",
+			"permanent": true
+		},
+		{
+			"source": "/family-medicine-board-exams",
+			"destination": "/blog/family-medicine-board-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-score-280-on-usmle-step-2-ck",
+			"destination": "/blog/how-to-score-280-on-usmle-step-2-ck/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-family-medicine-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-family-medicine-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-internal-medicine-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-internal-medicine-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-mcat",
+			"destination": "/blog/how-to-study-for-the-mcat/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-obgyn-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-obgyn-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-pediatrics-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-pediatrics-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-usmle-step-1",
+			"destination": "/blog/how-to-study-for-usmle-step-1/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-write-a-great-personal-statement-for-residency",
+			"destination": "/blog/how-to-write-a-great-personal-statement-for-residency/",
+			"permanent": true
+		},
+		{
+			"source": "/internal-medicine-board-exam",
+			"destination": "/blog/internal-medicine-board-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/is-uworld-worth-it-for-usmle",
+			"destination": "/blog/is-uworld-worth-it-for-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/mcat-tutoring",
+			"destination": "/blog/mcat-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-school-application-advising-services",
+			"destination": "/blog/medical-school-application-advising-services/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-student-journey",
+			"destination": "/blog/medical-student-journey/",
+			"permanent": true
+		},
+		{
+			"source": "/nbme-step-1-practice-exams",
+			"destination": "/blog/nbme-step-1-practice-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/score-high-or-focus-on-passing-usmle",
+			"destination": "/blog/score-high-or-focus-on-passing-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/things-to-do-before-your-usmle-test",
+			"destination": "/blog/things-to-do-before-your-usmle-test/",
+			"permanent": true
+		},
+		{
+			"source": "/tips-for-med-school-test-anxiety",
+			"destination": "/blog/tips-for-med-school-test-anxiety/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-eligibility-and-requirements",
+			"destination": "/blog/usmle-eligibility-and-requirements/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-pass-fail",
+			"destination": "/blog/usmle-step-1-pass-fail/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-percentiles",
+			"destination": "/blog/usmle-step-1-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-vs-step-2",
+			"destination": "/blog/usmle-step-1-vs-step-2/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-cs-cancelled",
+			"destination": "/blog/usmle-step-2-cs-cancelled/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-percentiles",
+			"destination": "/blog/usmle-step-2-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-3-percentiles",
+			"destination": "/blog/usmle-step-3-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/whats-your-usmle-step-1-mentality",
+			"destination": "/blog/whats-your-usmle-step-1-mentality/",
+			"permanent": true
+		},
+		{
+			"source": "/dr-akshay-goel/",
+			"destination": "/tutors/dr-akshay-goel/",
+			"permanent": true
+		},
+		{
+			"source": "/eytan-palte/",
+			"destination": "/tutors/eytan-palte/",
+			"permanent": true
+		},
+		{
+			"source": "/madeleine-basist/",
+			"destination": "/tutors/madeleine-basist/",
+			"permanent": true
+		},
+		{
+			"source": "/radhika-srivastava/",
+			"destination": "/tutors/radhika-srivastava/",
+			"permanent": true
+		},
+		{
+			"source": "/viemma-nwigwe/",
+			"destination": "/tutors/viemma-nwigwe/",
+			"permanent": true
+		},
+		{
+			"source": "/keith-cordner/",
+			"destination": "/tutors/keith-cordner/",
+			"permanent": true
+		},
+		{
+			"source": "/melissa-wing/",
+			"destination": "/tutors/melissa-wing/",
+			"permanent": true
+		},
+		{
+			"source": "/kush-patel/",
+			"destination": "/tutors/kush-patel/",
+			"permanent": true
+		},
+		{
+			"source": "/ken-nakanote/",
+			"destination": "/tutors/ken-nakanote/",
+			"permanent": true
+		},
+		{
+			"source": "/victoria-lord/",
+			"destination": "/tutors/victoria-lord/",
+			"permanent": true
+		},
+		{
+			"source": "/pranav-rekapalli/",
+			"destination": "/tutors/pranav-rekapalli/",
+			"permanent": true
+		},
+		{
+			"source": "/sylvia-rhodes/",
+			"destination": "/tutors/sylvia-rhodes/",
+			"permanent": true
+		},
+		{
+			"source": "/lucy-wang/",
+			"destination": "/tutors/lucy-wang/",
+			"permanent": true
+		},
+		{
+			"source": "/max-frankfurter/",
+			"destination": "/tutors/max-frankfurter/",
+			"permanent": true
+		},
+		{
+			"source": "/farid-ghamsari/",
+			"destination": "/tutors/farid-ghamsari/",
+			"permanent": true
+		},
+		{
+			"source": "/keon-youssefzadeh/",
+			"destination": "/tutors/keon-youssefzadeh/",
+			"permanent": true
+		},
+		{
+			"source": "/robert-rosen/",
+			"destination": "/tutors/robert-rosen/",
+			"permanent": true
+		},
+		{
+			"source": "/richard-wang/",
+			"destination": "/tutors/richard-wang/",
+			"permanent": true
+		},
+		{
+			"source": "/walid-ashmeik/",
+			"destination": "/tutors/walid-ashmeik/",
+			"permanent": true
+		},
+		{
+			"source": "/sai-bhatte/",
+			"destination": "/tutors/sai-bhatte/",
+			"permanent": true
+		},
+		{
+			"source": "/dani-brown/",
+			"destination": "/tutors/dani-brown/",
+			"permanent": true
+		},
+		{
+			"source": "/fawaz-naeem/",
+			"destination": "/tutors/fawaz-naeem/",
+			"permanent": true
+		},
+		{
+			"source": "/joseph-lu/",
+			"destination": "/tutors/joseph-lu/",
+			"permanent": true
+		},
+		{
+			"source": "/anna-chen/",
+			"destination": "/tutors/anna-chen/",
+			"permanent": true
+		},
+		{
+			"source": "/mimi-kim/",
+			"destination": "/tutors/mimi-kim/",
+			"permanent": true
+		},
+		{
+			"source": "/justin-sardi/",
+			"destination": "/tutors/justin-sardi/",
+			"permanent": true
+		},
+		{
+			"source": "/amit-syal/",
+			"destination": "/tutors/amit-syal/",
+			"permanent": true
+		},
+		{
+			"source": "/sarah-bell/",
+			"destination": "/tutors/sarah-bell/",
+			"permanent": true
+		},
+		{
+			"source": "/yehuda-elkaim/",
+			"destination": "/tutors/yehuda-elkaim/",
+			"permanent": true
+		},
+		{
+			"source": "/anthony/",
+			"destination": "/tutors/anthony/",
+			"permanent": true
+		},
+		{
+			"source": "/alexandra-townsend/",
+			"destination": "/tutors/alexandra-townsend/",
+			"permanent": true
+		},
+		{
+			"source": "/daksh-chauhan/",
+			"destination": "/tutors/daksh-chauhan/",
+			"permanent": true
+		},
+		{
+			"source": "/katherine-oakley/",
+			"destination": "/tutors/katherine-oakley/",
+			"permanent": true
+		},
+		{
+			"source": "/matthew-augustine/",
+			"destination": "/tutors/matthew-augustine/",
+			"permanent": true
+		},
+		{
+			"source": "/nader-mohamed/",
+			"destination": "/tutors/nader-mohamed/",
+			"permanent": true
+		},
+		{
+			"source": "/professional-usmle-tutoring/",
+			"destination": "/services/tutoring/professional-usmle-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-remediation-tutoring/",
+			"destination": "/services/tutoring/medical-remediation-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/coursework/",
+			"destination": "/services/tutoring/coursework/",
+			"permanent": true
+		},
+		{
+			"source": "/tutoring/",
+			"destination": "/services/tutoring/tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-school-admissions/",
+			"destination": "/services/admissions/medical-school-admissions/",
+			"permanent": true
+		},
+		{
+			"source": "/residency-admissions/",
+			"destination": "/services/admissions/residency-admissions/",
+			"permanent": true
+		},
+		{
+			"source": "/admissions/",
+			"destination": "/services/admissions/admissions/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle/",
+			"destination": "/exams/usmle/usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-tutoring-step-1/",
+			"destination": "/exams/usmle/usmle-tutoring-step-1/",
+			"permanent": true
+		},
+		{
+			"source": "/step-2ck-usmle/",
+			"destination": "/exams/usmle/step-2ck-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-3/",
+			"destination": "/exams/usmle/usmle-step-3/",
+			"permanent": true
+		},
+		{
+			"source": "/failed-step-1-usmle-tutoring/",
+			"destination": "/exams/usmle/failed-step-1-usmle-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/professional-usmle-step-2-tutoring/",
+			"destination": "/exams/usmle/professional-usmle-step-2-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/usmletutoring/",
+			"destination": "/exams/usmle/usmletutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-study-guide/",
+			"destination": "/exams/usmle/usmle-study-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex/",
+			"destination": "/exams/comlex/comlex/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-1/",
+			"destination": "/exams/comlex/comlex-1/",
+			"permanent": true
+		},
+		{
+			"source": "/level-2-ce-and-pe/",
+			"destination": "/exams/comlex/level-2-ce-and-pe/",
+			"permanent": true
+		},
+		{
+			"source": "/level-3/",
+			"destination": "/exams/comlex/level-3/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-tutoring/",
+			"destination": "/exams/comlex/comlex-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/mcat/",
+			"destination": "/exams/mcat/mcat/",
+			"permanent": true
+		},
+		{
+			"source": "/conquer-mcat-get-into-medical/",
+			"destination": "/exams/mcat/conquer-mcat-get-into-medical/",
+			"permanent": true
+		},
+		{
+			"source": "/nbme-shelf-exams/",
+			"destination": "/exams/shelf-exams/nbme-shelf-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/residency-board-exams/",
+			"destination": "/specialty-boards/residency-board-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/abs-exams/",
+			"destination": "/specialty-boards/abs-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/abs-exams-2/",
+			"destination": "/specialty-boards/abs-exams-2/",
+			"permanent": true
+		},
+		{
+			"source": "/abs-qualifying-certifying/",
+			"destination": "/specialty-boards/abs-qualifying-certifying/",
+			"permanent": true
+		},
+		{
+			"source": "/abs-certifying-exam/",
+			"destination": "/specialty-boards/abs-certifying-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/internal-medicine-boards/",
+			"destination": "/specialty-boards/internal-medicine-boards/",
+			"permanent": true
+		},
+		{
+			"source": "/family-medicine-certification-exam-abfm/",
+			"destination": "/specialty-boards/family-medicine-certification-exam-abfm/",
+			"permanent": true
+		},
+		{
+			"source": "/abr-core-exam-tutoring/",
+			"destination": "/specialty-boards/abr-core-exam-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medlearnity-abr-core-exam-tutoring/",
+			"destination": "/specialty-boards/medlearnity-abr-core-exam-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medlearnity-abs-exam-tutoring/",
+			"destination": "/specialty-boards/medlearnity-abs-exam-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/qlearn-absite/",
+			"destination": "/specialty-boards/qlearn-absite/",
+			"permanent": true
+		},
+		{
+			"source": "/about/",
+			"destination": "/pages/about/",
+			"permanent": true
+		},
+		{
+			"source": "/our-services/",
+			"destination": "/pages/our-services/",
+			"permanent": true
+		},
+		{
+			"source": "/our-tutors/",
+			"destination": "/pages/our-tutors/",
+			"permanent": true
+		},
+		{
+			"source": "/start-here/",
+			"destination": "/pages/start-here/",
+			"permanent": true
+		},
+		{
+			"source": "/student-testimonials/",
+			"destination": "/pages/student-testimonials/",
+			"permanent": true
+		},
+		{
+			"source": "/frequently-asked-questions/",
+			"destination": "/pages/frequently-asked-questions/",
+			"permanent": true
+		},
+		{
+			"source": "/cart/",
+			"destination": "/ecommerce/cart/",
+			"permanent": true
+		},
+		{
+			"source": "/checkout/",
+			"destination": "/ecommerce/checkout/",
+			"permanent": true
+		},
+		{
+			"source": "/payment-confirmation/",
+			"destination": "/ecommerce/payment-confirmation/",
+			"permanent": true
+		},
+		{
+			"source": "/payment-failed/",
+			"destination": "/ecommerce/payment-failed/",
+			"permanent": true
+		},
+		{
+			"source": "/terms-and-conditions/",
+			"destination": "/legal/terms-and-conditions/",
+			"permanent": true
+		},
+		{
+			"source": "/privacy-policy/",
+			"destination": "/legal/privacy-policy/",
+			"permanent": true
+		},
+		{
+			"source": "/qlearn-terms-of-use/",
+			"destination": "/legal/qlearn-terms-of-use/",
+			"permanent": true
+		}
+	],
+	"headers": [
+		{
+			"source": "/(.*)",
+			"headers": [
+				{
+					"key": "X-Frame-Options",
+					"value": "DENY"
+				},
+				{
+					"key": "X-Content-Type-Options",
+					"value": "nosniff"
+				},
+				{
+					"key": "Referrer-Policy",
+					"value": "strict-origin-when-cross-origin"
+				},
+				{
+					"key": "Strict-Transport-Security",
+					"value": "max-age=31536000; includeSubDomains"
+				},
+				{
+					"key": "Content-Security-Policy",
+					"value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://form.jotform.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https: blob:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https:; frame-src https://form.jotform.com; object-src 'none';"
+				}
+			]
+		}
+	]
+}

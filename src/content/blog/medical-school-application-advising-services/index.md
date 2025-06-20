@@ -1,19 +1,16 @@
 ---
-
-title: "Medical School Application Advising Services"
+title: 'Medical School Application Advising Services'
 pubDate: 2020-04-15
-categories: 
-  - "mcat"
-  - "medical-school-admissions"
-  - "medical-school-application-advising"
-description: "Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we bre"
-
+categories:
+  - 'mcat'
+  - 'medical-school-admissions'
+  - 'medical-school-application-advising'
+description: 'Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we bre'
 ---
-
 
 Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we break down our work: 
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Discussion-about-Medical-Advicing-Services.jpg "Discussion-about-Medical-Advicing-Services")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Discussion-about-Medical-Advicing-Services.jpg 'Discussion-about-Medical-Advicing-Services')
 
 **Brainstorming (i.e., for personal statements and secondary applications), Mock Interviews and Application Strategy:** This time is one-to-one meeting time on Zoom. Getting feedback to help brainstorm before writing can often help you form a more persuasive statement earlier and save you frustration down the road. Furthermore, like anything competitive, having an organized approach and strategy can make a significant impact! I can’t tell you how many times a well-placed email to admissions has opened significant doors and opportunities. 
 
