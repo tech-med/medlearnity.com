@@ -5,6 +5,7 @@
 **Branch**: `main` (merged from `astro-migration`)  
 **Started**: January 22, 2025  
 **Last Major Update**: December 19, 2024 (PR #1 merged)
+**Last Major Update**: June 20, 2025 (content migration in progress)
 
 ---
 
@@ -34,13 +35,17 @@
 - [x] **Performance Optimization** - ✅ Image optimization, WebP conversion
 - [x] **Build Validation** - ✅ Zero TypeScript errors, 9 pages built successfully
 
-### 🟡 Phase 3: Content Migration 🚧 PENDING WORDPRESS EXPORT
+### 🟡 Phase 3: Content Migration 🛠️ IN PROGRESS
 - [ ] **Export WordPress XML** - ⚠️ PENDING: Need to access WordPress admin
+<!-- Export XML bullet removed (now completed) -->
 - [ ] **Convert XML to Markdown** - ⚠️ PENDING: After XML export
-- [ ] **Review and organize Markdown** - ⚠️ PENDING: Content review needed
-- [ ] **Copy content to Astro** - ⚠️ PENDING: Replace sample blog posts
-- [ ] **Update image links** - ⚠️ PENDING: After content migration
-- [x] **Content Collections** - ✅ Properly configured and validated
+<!-- Convert XML bullet removed (now completed) -->
+- [ ] **Review and organize Markdown** - 🚧 In progress (move into Astro collections)
+- [ ] **Copy media assets** - ⚠️ Pending (rsync uploads → `public/images/wp`)
+- [ ] **Update image links** - ⚠️ Pending (sed replacement)
+- [x] **Content Collections** - ✅ Config validated
+- [x] **Export WordPress XML** - ✅ Completed *Jun 20 2025* (4 XML files)
+- [x] **Convert XML to Markdown** - ✅ Completed *Jun 20 2025* (`npx wordpress-export-to-markdown`)
 
 ### 🟡 Phase 4: Forms & Features 🚧 READY FOR IMPLEMENTATION
 - [ ] **Preserve JotForm embeds** - ⚠️ PENDING: Identify current forms
@@ -123,7 +128,7 @@
 - **PR Status**: #1 merged successfully
 
 ### Project Structure
-```
+``` 
 medlearnity.com/
 ├── .github/workflows/       # CI/CD pipeline
 ├── docs/                    # Documentation
@@ -131,102 +136,54 @@ medlearnity.com/
 │   ├── migration-status.md  # This file
 │   └── migration-analysis-*.md # Migration reports
 ├── src/
-│   ├── content/
-│   │   ├── blog/           # Sample blog posts (ready for real content)
-│   │   └── config.ts       # Content collections config
+│   ├── content/            # Migrated blog & pages (pending move)
 │   ├── components/         # Reusable Astro components
-│   ├── layouts/           # Page layouts with SEO
-│   ├── pages/             # Routes (/, /blog, /about, /404)
-│   └── styles/           # Global CSS
-├── public/               # Static assets with optimization
-├── astro.config.mjs     # Production-ready Astro config
-├── vercel.json          # Deployment configuration
-├── eslint.config.js     # Modern ESLint v9 config
-├── .prettierrc          # Code formatting
-└── package.json         # Complete metadata and scripts
+│   ├── layouts/            # Page layouts with SEO
+│   └── pages/              # Routes (/, /blog, /about, /404)
+├── public/                 # Static assets (images etc.)
+├── backups/                # WordPress XML + DB backups
+├── astro.config.mjs        # Production-ready Astro config
+├── vercel.json             # Deployment configuration
+└── package.json            # Metadata and scripts
 ```
 
 ---
 
 ## Next Steps (Priority Order)
 
-### 🎯 Critical Path to Go-Live
-1. **WordPress Content Export** - Export XML from current WordPress site
-2. **Content Audit** - List all pages, posts, forms, media, and special features
-3. **Content Migration** - Convert WordPress content to Astro markdown
-4. **URL Mapping** - Plan redirect strategy for SEO preservation
-5. **Analytics Setup** - Configure GTM/GA4 with proper tracking
-6. **Final Testing** - Content validation and user journey testing
-7. **DNS Cutover** - Switch domain to Vercel deployment
+### 🎯 Critical Path to Go-Live (Updated)
+1. **Move Markdown into Astro collections** (`src/content/...`)  
+2. **Sync media assets** (`public/images/wp`)  
+3. **Update internal image links & permalinks**  
+4. **Content Audit & QA** – fix front-matter, broken links  
+5. **URL Mapping** – build redirects list  
+6. **Analytics Setup** – add GTM / GA4 IDs  
+7. **Final Testing & DNS Cut-over**
 
 ### 🔄 Development Workflow
 ```bash
 # Development
-npm run dev                    # Start dev server
-npm run build                  # Build for production
-npm run preview               # Test production build
-
+npm run dev        # Start dev server
 # Quality checks
-npm run lint                   # ESLint validation
-npm run format                 # Prettier formatting
-npm run astro:check           # TypeScript validation
-
-# Deployment
-vercel                        # Preview deployment
-vercel --prod                 # Production deployment
+npm run lint && npm run astro:check && npm run build
+# Deployment preview
+vercel
 ```
 
 ---
 
-## Blocking Issues & Next Actions
+## Blocking Issues & Next Actions (Updated)
 
 ### 🚫 Current Blockers
-1. **WordPress Access Needed** - To export content and audit current site
-2. **Analytics IDs Needed** - GTM container and GA4 property IDs
-3. **Content Migration Time** - Manual review of exported content required
+1. **Analytics IDs Needed** – GTM container and GA4 property IDs
+2. **Redirect Mapping Effort** – needs completed URL audit
 
-### 🟢 Ready for Implementation (No Blockers)
-- **Vercel Deployment** - Can deploy current version immediately
-- **Analytics Integration** - Infrastructure ready for tracking codes
-- **Form Integration** - Components ready for JotForm embeds
-- **Custom Content** - Ready to replace sample blog posts
-- **A/B Testing** - Ready for GrowthBook integration
-
-### 💡 Recommendations
-1. **Deploy current version** as staging environment for testing
-2. **Parallel work streams** - Set up analytics while working on content
-3. **Incremental migration** - Move content in phases rather than all at once
-4. **Redirect planning** - Start URL mapping before content migration
+### 🟢 Ready for Implementation
+• Markdown & media move  
+• Image URL replacement  
+• Staging deployment on Vercel
 
 ---
 
-## Resources & References
-
-- **Developer Guide**: `/docs/developer-guide.md` - Complete workflow commands
-- **Migration Analysis**: `/docs/migration-analysis-*.md` - Detailed technical reports
-- **Astro Docs**: https://docs.astro.build/
-- **Vercel Docs**: https://vercel.com/docs
-- **Repository**: https://github.com/tech-med/medlearnity.com
-
----
-
-## Quality Metrics
-
-### Code Quality Achievements
-- **Zero TypeScript Errors**: 17 files validated
-- **Zero Linting Issues**: ESLint v9 with modern config
-- **100% Formatted**: Prettier with Astro plugin
-- **Complete CI/CD**: Automated quality gates
-- **Security Headers**: Production security implemented
-
-### Performance Achievements  
-- **Fast Builds**: 9 pages in ~950ms
-- **Optimized Images**: WebP conversion with 40-75% size reduction
-- **Edge Deployment**: Vercel Edge Network ready
-- **Static Generation**: Pre-rendered pages for speed
-
----
-
-*Last Updated: December 19, 2024 (Post-PR #1 merge)*  
-*Status: Production-ready infrastructure complete, pending WordPress content export*  
-*Next Review: After WordPress content audit completion* 
+*Last Updated: June 20, 2025*  
+*Status: Infrastructure complete, content migration in progress*

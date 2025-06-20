@@ -1,0 +1,307 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.hd-careers-form label.gfield_label {
+    font-family: Muli;
+    font-size: 14px !important;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.hd-careers-form span.gfield_required {
+    color: #ff001f !important;
+}
+
+.hd-careers-form .gform_wrapper ul li.gfield{
+  margin-top: 0px;
+}
+
+.hd-careers-form  li#field_5_10 {
+    padding-bottom: 13px;
+}
+
+.hd-careers-form  li#field_5_14 {
+    padding-bottom: 5px;
+}
+
+.hd-careers-form  li#field_5_15 {
+    padding-bottom: 5px;
+}
+
+.hd-careers-form .gform_wrapper ul li.field_description_below div.ginput_container_radio{
+  margin-top: 0px
+}
+
+.hd-careers-form input.button {
+    width: 142px !important;
+    height: 45px !important;
+    background-color: #e66b00;
+    font-family: Muli !important;
+    font-size: 14px !important;
+    font-weight: 800 !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  
+}
+
+.hd-careers-form input[type=button]:focus {
+ border: unset !important;
+}
+
+.hd-careers-form input#gform_next_button_5_1 {
+    float: right;
+  text-transform: uppercase;
+}
+
+.hd-careers-form .gform_wrapper .gform_page_footer {
+    margin: 4px 0;
+    border-top: unset;
+    padding: 0px;
+   min-height: 35px;
+}
+
+.hd-careers-form .gform_wrapper li.gfield.gfield_error, .hd-careers-form .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {
+    background-color: #fff;
+    margin-bottom: 0;
+    border-top: unset;
+    border-bottom: unset;
+    padding-bottom: 0px;
+    padding-top: 0;
+    box-sizing: border-box;
+}
+
+.hd-careers-form .gform_wrapper .field_description_below .gfield_description {
+    padding-top: 5px;
+}
+
+.hd-careers-form .gform_wrapper .validation_message {
+    color: #ff001f;
+    font-weight: 600;
+    letter-spacing: normal;
+}
+
+.hd-careers-form input#gform_next_button_5_26 {
+    float: right;
+      text-transform: uppercase;
+}
+.hd-careers-form input#gform_previous_button_5_26{
+  text-transform: uppercase;
+}
+.thrv_wrapper.thrv_text_element.hd-careers-form {
+    margin-top: 20px;
+    padding: 30px 7px 30px 25px;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.tcb-style-wrap p {
+    clear: both;
+}
+
+.hd-careers-form input#gform_submit_button_5 {
+    float: right;
+  text-transform: uppercase;
+}
+
+.hd-careers-form input#gform_previous_button_5{
+   text-transform: uppercase;
+}
+
+.hd-careers-form .ginput_container.ginput_container_radio ul li label {
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.hd-careers-form .gform_wrapper .gfield_radio li label {
+    margin: 5px 0 0 8px;
+}
+
+.hd-careers-form li#field_5_3,li#field_5_28 {
+    padding-bottom: 0;
+}
+
+.hd-careers-form .validation_error {
+    display: none;
+}
+
+.hd-careers-form .gform_wrapper .gfield_error .gfield_label{
+  color:#000;
+}
+.hd-careers-form .gform_wrapper li.gfield_error input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]),
+.hd-careers-form .gform_wrapper li.gfield_error textarea{
+  border-color: #ff001f !important;
+}
+
+.hd-career-text-1 p {
+    padding: 0 !important;
+    font-family: Muli !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000 !important;
+}
+
+.hd-career-text-2 p {
+    font-family: Muli !important;
+    font-size: 16px !important;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5 !important;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000 !important;
+}
+
+.hd-career-text-3 p {
+    font-family: Muli !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center !important;
+    color: #000 !important;
+      padding-top: 0 !important;
+}
+
+div#gform_confirmation_message_5 p {
+    font-family: Literata;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #e66b00;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+  height:200px
+}
+
+.hd-careers-form input[type=text], .hd-careers-form textarea {
+    
+    border-radius: 0px !important;
+
+}
+
+.hd-careers-form .gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
+    padding: 10px 4px;
+   font-size: 14px;
+  color: #000;
+}
+
+ul#input_5_15 ,ul#input_5_14{
+  margin-left: 0;
+}
+
+.hd-careers-form .gform_wrapper textarea{
+  font-size: 14px;
+}
+
+div#gform_wrapper_6 input#gform_submit_button_6 {
+    width: 200px !important;
+}
+
+div#gform_wrapper_6 .gform_footer.top_label {
+  text-align: center;
+    padding: 0 !important;
+    margin: 0!important;
+}
+input#gform_submit_button_6 {
+    text-transform: uppercase;
+}
+li#field_6_6{
+  padding-bottom: 16px !important;
+}
+li#field_6_6 input.hd-gform-close {
+    color: #fff;
+    text-transform: uppercase;
+}
+li#field_6_6 {
+    padding: 0;
+    position: relative;
+    bottom: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+  
+  
+}
+
+@media only screen and (max-width: 767px) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+#hd-feedbacks-form {
+    padding-left: 10px !important;
+}
+
+.hd-careers-form .gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
+    padding: 4px 4px;
+}
+
+  .thrv_wrapper.thrv_text_element.hd-careers-form {
+    padding: 5px 7px 10px 8px;
+  }
+  
+  .hd-careers-form .gform_wrapper ul.gform_fields li.gfield.gfield_error+li.gfield.gfield_error {
+    margin-top: 5px;
+}
+  
+  li#field_6_2 p {
+    text-align: justify !important;
+    margin-bottom: 10px !important;
+    padding: 0 !important;
+}
+  
+  .tcb-style-wrap li {
+    padding-bottom: 10px !important;
+}
+  
+}
+
+.thrive-blog-list .tcb-post-thumbnail img {
+    min-height: 230px;
+    object-fit: cover;
+}
+
+ .hd-col-partner .tve_image_caption .tve_image {
+    height: 80px !important;
+    width: 90% !important;
+    margin: auto !important;
+    object-fit: contain !important;
+}
+
+.hd-abs-exams-i-used .tvo-testimonials-display.tvo-set2-template .tvo-testimonial-quote:before {
+    line-height: 0px;
+}
+
+.hd-abs-exams-i-used .tvo-set2-template .tvo-testimonial-display-item.custom-set6-slider .quote-title-holder {
+    margin-top: 30px;
+}
+
+.hd-col-partner span.tve_image_frame img {
+    height: 70px !important;
+    object-fit: fill !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

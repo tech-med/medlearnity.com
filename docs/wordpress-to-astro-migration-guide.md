@@ -396,14 +396,15 @@ wp export --dir=./wordpress-export/
 
 ```bash
 # Install conversion tool
-npm install -g wordpress-export-to-markdown
+npm install --save-dev wordpress-export-to-markdown
 
-# Convert WordPress XML to Markdown
-wordpress-export-to-markdown \
-  --input=wordpress-export.xml \
+# Convert all XML files non-interactively
+npx wordpress-export-to-markdown \
+  --input=backups/wordpress-export \
   --output=./content-export \
   --post-folders=true \
-  --save-attached-images=true
+  --save-images none \
+  --wizard false
 ```
 
 ### Content Organization

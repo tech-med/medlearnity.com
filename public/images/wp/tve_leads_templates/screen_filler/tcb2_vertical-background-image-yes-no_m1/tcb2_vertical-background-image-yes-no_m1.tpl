@@ -1,0 +1,17 @@
+<div class="thrv-leads-screen-filler tve_no_drag tve_no_icons thrv_wrapper tve_editor_main_content tve_empty_dropzone" data-css="tve-u-15da26e5cb0" style="">
+	<div class="thrv_wrapper thrv_icon tcb-icon-display tve_evt_manager_listen tve_et_click tve_ea_thrive_leads_form_close tcb-local-vars-root" data-css="tve-u-15da26b73a7" data-tcb-events="__TCB_EVENT_[{&quot;a&quot;:&quot;thrive_leads_form_close&quot;,&quot;t&quot;:&quot;click&quot;}]_TNEVE_BCT__" style="" data-tcb_hover_state_parent="">
+		<svg class="tcb-icon" viewBox="0 0 30 32" data-name="close"><path d="M0.655 2.801l1.257-1.257 27.655 27.655-1.257 1.257-27.655-27.655z"></path><path d="M28.31 1.543l1.257 1.257-27.655 27.655-1.257-1.257 27.655-27.655z"></path></svg>
+	</div>
+	<div class="thrv_wrapper thrv-page-section" data-css="tve-u-15da26dc524" style="">
+		<div class="tve-page-section-out" style="" data-css="tve-u-17f1cf14093"></div>
+		<div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-17f1cf072b2" style=""><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-17f1cf03cca" style=""><p data-css="tve-u-17f1cf03ccf" style="">Get a <strong>10%</strong> discount</p></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-17f1cf03cc9" style=""><p data-css="tve-u-17f1cf03cd1" style="">Subscribe today and get a special gift, just for you!</p></div><div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tcb-with-icon tcb-flip tve_ea_thrive_animation tve_anim_hang tve_ea_tl_state_switch" data-button-style="btn-tpl-58420" data-css="tve-u-17f1cf89513" data-tcb_hover_state_parent="" style=""><div class="thrive-colors-palette-config" style="display: none !important">__CONFIG_colors_palette__{"active_palette":0,"config":{"colors":{"37fed":{"name":"Main Accent","parent":-1}},"gradients":[]},"palettes":[{"name":"Default Palette","value":{"colors":{"37fed":{"val":"rgb(195, 104, 83)"}},"gradients":[]},"original":{"colors":{"37fed":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":[]}}]}__CONFIG_colors_palette__</div>
+	
+	<a href="" class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover tve_et_click" data-tcb-events="|open_state_2|" style=""><span class="tcb-button-icon" style="">
+	<div class="thrv_wrapper thrv_icon tve_no_drag tve_no_icons tcb-icon-inherit-style tcb-local-vars-root tcb-icon-display" data-css="tve-u-17f1cf89514" data-tcb_hover_state_parent="" style=""><svg class="tcb-icon" viewBox="0 0 24 24" data-id="icon-arrow_forward-duotone" data-name=""><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8-8-8z"></path></svg></div>
+</span>
+
+		<span class="tcb-button-texts" style=""><span class="tcb-button-text thrv-inline-text" style="">Yes, please!</span></span>
+	</a>
+</div><div class="thrv_wrapper thrv_text_element tve_ea_thrive_leads_form_close" data-css="tve-u-17f1d08adb7" style="">	<p style="" data-css="tve-u-17f1d067c6b"><a href="javascript:void(0)" data-tcb-events="__TCB_EVENT_[{&quot;a&quot;:&quot;thrive_leads_form_close&quot;,&quot;t&quot;:&quot;click&quot;,&quot;config&quot;:{}}]_TNEVE_BCT__" class="tve_evt_manager_listen tve_et_click tve-froala fr-basic" target="_blank" style="outline: none;" data-css="tve-u-17f1d06b336">No, thanks.</a></p></div></div>
+	</div>
+</div>

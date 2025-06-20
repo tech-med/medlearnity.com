@@ -11,6 +11,7 @@ A comprehensive guide for developers working on the medlearnity.com Astro projec
 - [Git Workflow](#git-workflow)
 - [Testing & Validation](#testing--validation)
 - [Content Management](#content-management)
+- [WordPress Content Export](#wordpress-content-export)
 - [Troubleshooting](#troubleshooting)
 
 ## Project Setup
@@ -280,9 +281,183 @@ tree src/content/
 grep -r "collection:" src/content/
 ```
 
+---
+
+## WordPress Content Export
+
+### Flywheel SSH Setup
+
+**Initial SSH Connection Test**
+```bash
+# Test SSH connection to Flywheel
+ssh -o BatchMode=yes -o ConnectTimeout=10 team+medlearnity+medlearnity@ssh.getflywheel.com "echo 'SSH connection successful!'"
+```
+
+**Connect to WordPress Site**
+```bash
+# Connect directly to medlearnity site
+ssh team+medlearnity+medlearnity@ssh.getflywheel.com
+
+# Or use generic connection and select from menu
+ssh team+medlearnity+medlearnity@ssh.getflywheel.com
+```
+
+### Content Export Commands
+
+**WordPress XML Export**
+```bash
+# Create export directory (run locally first)
+mkdir -p backups/wordpress-export
+
+# Connect to Flywheel and export content
+ssh team+medlearnity+medlearnity@ssh.getflywheel.com
+
+# Once connected to WordPress site:
+wp export --dir=~/exports/
+wp export --dir=~/exports/ --post_type=post,page --with_attachments
+
+# Download exported files via SFTP
+sftp team+medlearnity+medlearnity@ssh.getflywheel.com
+get -r exports/
+```
+
+**Site Audit Commands (on Flywheel)**
+```bash
+# List all posts and pages
+wp post list --post_type=post,page --format=table
+
+# Check for custom post types
+wp post-type list
+
+# List installed plugins
+wp plugin list
+
+# Check for forms and custom fields
+wp post meta list --post_id=1
+grep -r "jotform\|contact.*form" wp-content/themes/
+```
+
+**Database Export (if needed)**
+```bash
+# Export database
+wp db export ~/exports/database-$(date +%Y%m%d).sql
+
+# Export specific tables
+wp db export ~/exports/posts-$(date +%Y%m%d).sql --tables=wp_posts,wp_postmeta
+```
+
+### Content Conversion Workflow
+
+**Convert WordPress XML to Markdown**
+```bash
+# Install conversion tool
+npm install --save-dev wordpress-export-to-markdown
+
+# Convert *all* exported XML files in one pass (non-interactive)
+npx wordpress-export-to-markdown \
+  --input=backups/wordpress-export \
+  --output=./content-converted \
+  --post-folders=true \
+  --save-images none \
+  --wizard false
+
+# Organize converted content
+mkdir -p src/content/blog src/content/pages public/images/wp
+mv content-converted/posts/*  src/content/blog/
+mv content-converted/pages/*  src/content/pages/
+
+# Copy WordPress uploads (media)
+rsync -a /path/to/wp-content/uploads/ public/images/wp/
+
+# Update image references inside Markdown
+grep -rl "wp-content/uploads" src/content | xargs sed -i '' 's|wp-content/uploads|/images/wp|g'
+```
+
+**Content Validation After Import**
+```bash
+# Validate frontmatter structure
+grep -r "^---$" src/content/blog/ | wc -l  # Should be even number
+
+# Check for required fields
+grep -L "title:" src/content/blog/*.md
+grep -L "pubDate:" src/content/blog/*.md
+
+# Validate with Astro
+npm run astro:check
+
+# Preview content
+npm run dev
+```
+
+**Content Cleanup Scripts**
+```bash
+# Fix common frontmatter issues
+find src/content -name "*.md" -exec sed -i 's/date:/pubDate:/g' {} \;
+
+# Remove WordPress shortcodes
+find src/content -name "*.md" -exec sed -i 's/\[caption[^\]]*\]//g' {} \;
+
+# Convert WordPress image syntax
+find src/content -name "*.md" -exec sed -i 's/wp-content\/uploads/images/g' {} \;
+```
+
+### Backup and Archive
+
+**Create Migration Backup**
+```bash
+# Archive WordPress export
+tar -czf backups/wordpress-export-$(date +%Y%m%d).tar.gz backups/wordpress-export/
+
+# Archive converted content
+tar -czf backups/content-converted-$(date +%Y%m%d).tar.gz content-converted/
+
+# Create migration log
+echo "Migration started: $(date)" > logs/migration-$(date +%Y%m%d).log
+echo "WordPress export completed: $(date)" >> logs/migration-$(date +%Y%m%d).log
+```
+
 ## Troubleshooting
 
 ### Common Issues
+
+#### SSH Connection Issues
+```bash
+# Add Flywheel host key if needed
+ssh-keyscan ssh.getflywheel.com >> ~/.ssh/known_hosts
+
+# Check SSH key is loaded
+ssh-add -l
+
+# Verbose SSH connection for debugging
+ssh -vvv team+medlearnity+medlearnity@ssh.getflywheel.com
+```
+
+#### WordPress Export Issues
+```bash
+# Check WP-CLI version on Flywheel
+wp --version
+
+# Test WP-CLI connection
+wp option get siteurl
+
+# Check disk space for exports
+df -h ~/exports/
+
+# Alternative export methods if WP-CLI fails
+wp db export - | gzip > backup.sql.gz
+```
+
+#### Content Conversion Issues
+```bash
+# Check XML file validity
+xmllint --noout backups/wordpress-export/export.xml
+
+# Validate converted markdown
+find content-converted -name "*.md" -exec head -5 {} \;
+
+# Check for encoding issues
+file -bi content-converted/posts/*.md
+```
 
 #### Build Failures
 ```bash
@@ -399,4 +574,5 @@ git archive --format=tar.gz --output=snapshots/project-$(date +%Y%m%d).tar.gz HE
 
 ---
 
-*Last updated: December 2024* 
+*Last updated: December 2024*
++*Last updated: June 2025* 
