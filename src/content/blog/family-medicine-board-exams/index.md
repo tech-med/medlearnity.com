@@ -16,7 +16,7 @@ Luckily, there are websites like ours that genuinely want to help you out when t
 
 Today, we are going to walk you through the Family Medicine Board Exams – what it is, why you need to take it (or should you even take it?), and how you can be qualified for it.
 
-![](https://www.medlearnity.com//images/wp/2020/04/Health-Professional-1024x682.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Health-Professional-1024x682.jpg)
 
 ## **Determining Your Specialization**
 
@@ -56,7 +56,7 @@ Make sure that your application to take the exam is approved (you can check this
 
 There are many measures you can take in order to ensure the success of your test results.
 
-![](https://www.medlearnity.com//images/wp/2020/04/Family-Medicine-1024x509.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Family-Medicine-1024x509.jpg)
 
 ## **What To Expect In The FMBE?**
 

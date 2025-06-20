@@ -21,7 +21,7 @@ That’s right horrific, stressful, and nerve-wracking exams. From the start of 
 
 But before that, let’s do a quick run down memory lane:
 
-![](https://www.medlearnity.com//images/wp/2021/06/Exams-Medical-Aspirants-ML.jpg "Exams-Medical-Aspirants-ML")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/06/Exams-Medical-Aspirants-ML.jpg "Exams-Medical-Aspirants-ML")
 
 ### **Exams Medical Aspirants Need To Take**
 

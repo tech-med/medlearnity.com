@@ -27,13 +27,13 @@ description: "Our tutors have trained at the top hospitals in the country, and a
 
 I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
 I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 ## Why Choose Medlearnity For COMLEX Tutoring?
 

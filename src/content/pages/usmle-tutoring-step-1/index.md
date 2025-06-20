@@ -57,7 +57,7 @@ Our team of practicing physicians will email all tutoring sessions to you to max
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://www.medlearnity.com//images/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
 
 ## What To Expect From Our USMLE Step 1 Tutors
 
@@ -123,19 +123,19 @@ Now that you've taken the United States Medical Licensing Examination once, you 
 
 Akshay is a very patient tutor who focuses on strengthening an individual's weaknesses to promote a successful outcome, whether their weaknesses be timing, fund of knowledge, poor sleeping habits, level of testing anxiety or a combination of the above. I personally struggled with the Step 1 Medical exam and sought out help. I was fortunate enough to work with Akshay who focused on me as a whole rather than just the fund of knowledge. After just a few months of online tutoring services with Akshay, I successfully passed Step 1 with significant improvement compared to my prior failed attempts. I was able to use the tools and skills learned during our sessions to successfully complete the remaining Medical Step exams allowing me to continue on the path of pursuing my goal of being a Pediatrician. After my success, I referred my friend to work with him and she had similar success.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/Nicole-S-picture.jpg)Nicole S.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Nicole-S-picture.jpg)Nicole S.USMLE Step 1 Student
 
 #### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
 
 I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### I am happy to report that not only did I pass Step 1 with a much stronger score, but, even after we stopped working together, I continued to use his strategies as I prepared for subsequent tests and recently aced my specialty boards.
 
 I initially worked with Akshay a few years ago after I had failed Step 1. We worked together via video chat which worked out great for both of our busy schedules and allowed Akshay to utilize technology to enhance my learning experience. Each session, Akshay used technology creatively to track my progress, to address my personal weaknesses and then to build skills and techniques to target my individual needs. Akshay is compassionate and patient with his students; he greatly improved my confidence as a test taker and helped me strengthen my knowledge base. I am happy to report that not only did I pass Step 1 with a much stronger score, but, even after we stopped working together, I continued to use his strategies as I prepared for subsequent tests and recently aced my specialty boards. I've worked with various tutors throughout my life and I would definitely say that Akshay stands out as unique. Akshay is clearly passionate about teaching and I would recommend him highly to anyone who is struggling or just looking to improve their score or medical knowledge.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)A. P.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)A. P.USMLE Step 1 Student
 
 **Our students love us! See more student reviews on:**
 

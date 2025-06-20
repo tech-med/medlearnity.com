@@ -81,13 +81,13 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 I initially worked with Akshay a few years ago after I had failed Step 1. We worked together via video chat which worked out great for both of our busy schedules and allowed Akshay to utilize technology to enhance my learning experience. Each session, Akshay used technology creatively to track my progress, to address my personal weaknesses and then to build skills and techniques to target my individual needs. Akshay is compassionate and patient with his students; he greatly improved my confidence as a test taker and helped me strengthen my knowledge base. I am happy to report that not only did I pass Step 1 with a much stronger score, but, even after we stopped working together, I continued to use his strategies as I prepared for subsequent tests and recently aced my specialty boards. I've worked with various tutors throughout my life and I would definitely say that Akshay stands out as unique. Akshay is clearly passionate about teaching and I would recommend him highly to anyone who is struggling or just looking to improve their score or medical knowledge.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)A. P.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)A. P.USMLE Step 1 Student
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
 I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 **Our students love us! See more student reviews on:**
 

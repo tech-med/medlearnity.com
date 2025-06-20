@@ -56,7 +56,7 @@ Now that you're clear on what each USMLE test entails, let's consider some usefu
 
 ### Get a Study Plan
 
-![You need to have a study plan for your USMLE test. ](https://www.medlearnity.com//images/wp/2020/07/study-1968077_1920-1024x682.jpg)
+![You need to have a study plan for your USMLE test. ](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/study-1968077_1920-1024x682.jpg)
 
 If you fail to plan, then you plan to fail. And we don't want you to fail; we want you to excel. The first step is to get a schedule in place. No, you won't study when you have time - we know what happens when you leave studying for your "free" time: it never happens!
 
@@ -98,7 +98,7 @@ You have studied and practiced as much as you can. Now, you also need to **creat
 
 ### Plan for Your Test Day
 
-![Plan for your USMLE test day.](https://www.medlearnity.com//images/wp/2020/07/plan-2372176_1920-1024x682.jpg)
+![Plan for your USMLE test day.](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/plan-2372176_1920-1024x682.jpg)
 
 You will likely need to travel to your test site. Make sure that you **map out your travel route and time to avoid any problems with traffic and late arrival**. Figure out all the parking details ahead of time as well. You can take a practice drive and park at the test center a few days before your USMLE test date. If possible, tour the test center and figure out where the restrooms and other facilities are located. You don't want to waste valuable minutes on your test day.
 

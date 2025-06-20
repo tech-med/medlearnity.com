@@ -45,13 +45,13 @@ The [MCAT](https://www.medlearnity.com/mcat/) is a standardized test required fo
 
 I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
 
 This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"4be87":{"name":"Main Accent","parent":-1},"47b6f":{"name":"Accent Transparent","parent":"4be87"}},"gradients":\[\]},"palettes":\[{"name":"Default","value":{"colors":{"4be87":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.45}},"47b6f":{"val":"rgba(230, 103, 0, 0.4)","hsl\_parent\_dependency":{"h":27,"l":0.45,"s":1}}},"gradients":\[\]},"original":{"colors":{"4be87":{"val":"rgb(32, 205, 166)","hsl":{"h":166,"s":0.72,"l":0.46}},"47b6f":{"val":"rgba(32, 205, 166, 0.4)","hsl\_parent\_dependency":{"h":166,"s":0.72,"l":0.46}}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 

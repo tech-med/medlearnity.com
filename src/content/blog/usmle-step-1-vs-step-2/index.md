@@ -11,7 +11,7 @@ description: "If you're preparing to take the United States Medical Licensing Ex
 ---
 
 
-# ![Guide to USMLE Step 1 vs Step 2 CK](https://www.medlearnity.com//images/wp/2021/12/01-guide-to-usmle.png)
+# ![Guide to USMLE Step 1 vs Step 2 CK](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-guide-to-usmle.png)
 
 # Guide to USMLE: Step 1 vs. Step 2 CK
 
@@ -35,7 +35,7 @@ Step 2 is designed to test your knowledge and skills regarding clinical medicine
 
 Step 2 ultimately determines whether the student is ready to interact with patients in a clinical setting. It's a good idea to study the aspects of successfully applying patient care and health maintenance, diagnosis and management.
 
-![If you plan on becoming a neurologist, achieving close to or above a 230 and a 240 will ensure you're keeping pace with your peers](https://www.medlearnity.com//images/wp/2021/12/02-if-you-plan.png)
+![If you plan on becoming a neurologist, achieving close to or above a 230 and a 240 will ensure you're keeping pace with your peers](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/02-if-you-plan.png)
 
 ## Test Scoring Differences
 
@@ -47,7 +47,7 @@ The required minimum score to pass Step 1 is 194. However, you'll find varying a
 
 Note that USMLE Step 1 and Step 2 scores vary widely among residents and in specialties. If you plan on becoming a neurologist, achieving close to or above a 230 and a 240 will ensure you're keeping pace with your peers. Be sure to keep that in mind as you prepare to take the tests.
 
-[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://www.medlearnity.com//images/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
+[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
 
 ## USMLE Step 1 vs. Step 2 Difficulty
 
@@ -71,7 +71,7 @@ By obtaining strong letters of recommendation and improving your applications in
 
 Overall, Step 1 and Step 2 are equally as important for most medical students.
 
-[![medlearnity has helped hundreds of medical students prepare to take their USMLE, and our services prove to help them even after the exam. Sign up for a free trial](https://www.medlearnity.com//images/wp/2021/12/03-medlearnity-has-helped.png)](https://www.medlearnity.com/start-here/)
+[![medlearnity has helped hundreds of medical students prepare to take their USMLE, and our services prove to help them even after the exam. Sign up for a free trial](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/03-medlearnity-has-helped.png)](https://www.medlearnity.com/start-here/)
 
 ## Prepare for the USMLE With Medlearnity Tutoring
 

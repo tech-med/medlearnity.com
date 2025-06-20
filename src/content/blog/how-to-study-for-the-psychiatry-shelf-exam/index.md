@@ -20,7 +20,7 @@ sych questions will also show up on [Step 2 CK](https://www.medlearnity.com/step
 
 How can you study for the Psychiatry Shelf Exam? How should you create your study schedule, and what should you focus on?
 
-![Psychiatry Shelf Exam](https://www.medlearnity.com//images/wp/2020/08/shutterstock_1153332985.jpg)
+![Psychiatry Shelf Exam](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1153332985.jpg)
 
 ## What are the best resources to study for the Psychiatry Shelf Exam?
 
@@ -62,7 +62,7 @@ With only 310 questions, you should be able to get through these fairly quickly.
 
 Your colleagues who have already finished their psych rotations can be great sources of information about the exam. They may even be willing to share resources with you; for example, some med students trade books with their friends when they both move to a new clerkship. Residents are also a great source of tips for the exam, because they've taken their Shelf Exams fairly recently.
 
-![Psychiatry Shelf Exam](https://www.medlearnity.com//images/wp/2020/08/shutterstock_621983594.jpg)
+![Psychiatry Shelf Exam](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_621983594.jpg)
 
 Preparing for your [Shelf Exams](https://www.medlearnity.com/nbme-shelf-exams/) throughout third year is important not only to allow you to get honors on as many rotations as possible but also to ensure that you're well-prepared for Step 2 CK.
 
@@ -76,4 +76,4 @@ To find out what tutoring is like, you can book a [free one-hour Shelf Exam tuto
 
 The psychiatry clerkship can be a challenging one, and can sometimes feel emotionally draining to many med students. At the same time, it can be a very interesting and rewarding experience.
 
-[![get a customized study plan based on your goals and learning style](https://www.medlearnity.com//images/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
+[![get a customized study plan based on your goals and learning style](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)

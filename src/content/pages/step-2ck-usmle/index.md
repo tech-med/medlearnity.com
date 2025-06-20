@@ -61,7 +61,7 @@ Our team of Step 2 tutors at Medlearnity will help you meet and exceed expectati
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://www.medlearnity.com//images/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
 
 ## What to Expect From Our Step 2 Tutors
 
@@ -112,19 +112,19 @@ Dr. Goel created a plan that accurately and efficiently addressed the weaknesses
 
 Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
 
 #### I ended up passing CK with a score that I was really happy with and matched into residency.
 
 I was having a lot of difficulties with USMLE Step 2 CK. I had reached a point where I had thought that I had peaked since my practice scores weren't improving after having already completed UWorld. They helped me with my approach to the questions and taught me methods to better retain what I was learning over longer periods of time. My tutor even helped me prioritize my learning and continued to work with me to create an adaptive study schedule that fit my lifestyle. It really improved my confidence with my knowledge which was reflected in the scores I was seeing. I ended up passing CK with a score that I was really happy with and matched into residency. I never hesitate to recommend their services to anyone I think might benefit. [Reference Link](https://g.co/kgs/YzAg2K).
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/1656236_10100895093307841_1181605648_n.jpg)Michael YeungUSMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/1656236_10100895093307841_1181605648_n.jpg)Michael YeungUSMLE Step 2 CK Student
 
 #### Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity!
 
 I worked with my tutor for my Step 2 CK for the past 4 months. Throughout the process, he completely changed my way of approaching questions! Even though there was an adjustment period, his techniques proved to be extremely helpful and useful. He was also extremely patient and understanding throughout the entire process. His explanations of medical concepts and problems were very clear and thorough. He was also motivating with his frequent check-ins, which ensured that I gave my maximum effort on a daily basis. Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity! [Reference Link](https://www.trustpilot.com/reviews/64bde837f6bc322f521a3031).
 
-![profile-pic](https://www.medlearnity.com//images/wp/2021/03/oliver_photo.png)Oliver Y.USMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/oliver_photo.png)Oliver Y.USMLE Step 2 CK Student
 
 **Our students love us! See more student reviews on:**
 

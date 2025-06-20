@@ -16,7 +16,7 @@ If you didn't score as highly as you hoped on the ABSITE, you're probably discou
 
 Learn what to do if you got a low score on the ABSITE test, and check out our tips to help you succeed on your next attempt.
 
-![Low Score on ABSITE: How to Get up and Excel](https://www.medlearnity.com//images/wp/2023/01/01-low-score-on-absite.jpg)
+![Low Score on ABSITE: How to Get up and Excel](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/01/01-low-score-on-absite.jpg)
 
 ## What Is a Good ABSITE Score?
 
@@ -38,7 +38,7 @@ A good ABSITE score, letters of recommendation and a respected residency program
 
 After an ABSITE failure, don't panic. Instead, view this setback as learning opportunity. While it's OK to feel upset, understand that you'll have chances to improve your score in the future. Talk with a supportive friend or loved one if you need extra motivation.
 
-![Immediate Next Steps After a Failed ABSITE](https://www.medlearnity.com//images/wp/2023/01/02-first-conduct-an-impartial-sincere-review.jpg)
+![Immediate Next Steps After a Failed ABSITE](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/01/02-first-conduct-an-impartial-sincere-review.jpg)
 
 You should first conduct an impartial, sincere review of your study habits leading up to the test. Did you start studying a few months ahead, giving yourself plenty of time to read a review text and answer a question bank? If so, you may need to reevaluate the study resources you used. You might also look at your clinical schedule for next year and try to avoid a challenging or busy rotation in the month before you take the ABSITE.
 
@@ -73,7 +73,7 @@ Incorporate these tips into your ABSITE study plan.
 5. **Study with a question bank:** Question banks contain questions similar to what you will face on the ABSITE, with thorough explanations of the answers. Completing a question bank can help you get familiar with the kinds of questions you will answer on the exam so you can confidently tackle them.
 6. **Hire a tutor:** A medical tutoring company can take your knowledge and comprehension of general surgery topics to the next level, helping you easily pass the ABSITE.
 
-[![Turn to Medlearnity for Elite Medical Tutoring](https://www.medlearnity.com//images/wp/2023/01/03-turn-to-medlearnity-for-elite-medical-tutoring.jpg)](https://www.medlearnity.com/start-here/)
+[![Turn to Medlearnity for Elite Medical Tutoring](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/01/03-turn-to-medlearnity-for-elite-medical-tutoring.jpg)](https://www.medlearnity.com/start-here/)
 
 ## Turn to Medlearnity for Elite Medical Tutoring
 

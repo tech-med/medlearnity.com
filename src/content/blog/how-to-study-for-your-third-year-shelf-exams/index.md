@@ -13,7 +13,7 @@ Third year rotations present unique challenges. While the first two years of med
 
 Third year of medical school, though, brings a whole new dimension to the medical school experience.
 
-![](https://www.medlearnity.com//images/wp/2021/10/Medical-School-Test-Anxiety-scaled.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/Medical-School-Test-Anxiety-scaled.jpg)
 
 Third-year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive extension of your undergraduate experience: go to class, take notes, study hard, take exams and then put it all together to ace United States Medical Licensing Examination (USMLE) Step 1.
 

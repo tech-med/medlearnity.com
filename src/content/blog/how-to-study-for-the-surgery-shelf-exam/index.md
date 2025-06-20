@@ -24,7 +24,7 @@ Although this is officially a surgery exam, it's common for students to report t
 
 If you've already taken your medicine clerkship, that will help; if not, then studying for the Surgery Shelf will help you later on the Medicine Shelf.
 
-![Surgery Shelf exams](https://www.medlearnity.com//images/wp/2020/08/shutterstock_164470781.jpg)
+![Surgery Shelf exams](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_164470781.jpg)
 
 Management of trauma is another high-yield topic. Remember that a patient must be stable (ABCs – Airway, Breathing, Circulation) before you send them for any imaging studies. Focus on the most urgent aspects of the patient's condition before you worry about making a detailed diagnosis.
 
@@ -60,7 +60,7 @@ The sections that are most relevant are those on the cardiovascular and GI syste
 
 The surgery rotation tends to be one of the busiest in terms of the number of hours spent in a clinical setting. We definitely recommend scrubbing into as many surgeries as you can, and participating actively in the care of as many patients as possible. These experiences will help you learn in a lasting way, since you'll have direct experience with the information. Don't miss out on any clinical experiences in order to have more study time.
 
-![Surgery Shelf exams tutor](https://www.medlearnity.com//images/wp/2020/08/shutterstock_791537770.jpg)
+![Surgery Shelf exams tutor](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_791537770.jpg)
 
 At the same time, this rotation can be one of the most difficult in terms of finding time to study. You'll need to be diligent from Day 1 about spending some of your spare time studying each day. At times, you may find it impossible to stick to your study schedule because you simply get too busy with patients.
 
@@ -84,4 +84,4 @@ Here at [Medlearnity](https://www.medlearnity.com/#about--us), each of [our Surg
 
 It's often difficult to find much time to study during the surgical rotation, so ensuring that you're efficient and that you stay on track is key. If you want to see what it would be like to learn with a tutor, you can try out a [free one-hour tutoring session](https://www.medlearnity.com/start-here/).
 
-[![explore our testimonials](https://www.medlearnity.com//images/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
+[![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)

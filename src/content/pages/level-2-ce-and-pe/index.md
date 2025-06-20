@@ -91,13 +91,13 @@ Dr. Goel created a plan that accurately and efficiently addressed the weaknesses
 
 Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
 
 This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
 
 **Our students love us! See more student reviews on:**
 

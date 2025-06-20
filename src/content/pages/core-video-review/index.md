@@ -7,7 +7,7 @@ description: "ExpertLed,HighYield Prepfor Your Radiology Core Exam"
 ---
 
 
-![Medlearnity logo](https://www.medlearnity.com//images/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
+![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
 
 ## Expert-Led,High-Yield Prepfor Your Radiology Core Exam
 
@@ -44,7 +44,7 @@ Radiology Resident
 
 - High-yield exam pearls and common pitfalls identified by top scorers.
 
-![](https://www.medlearnity.com//images/wp/2023/07/md-student.webp "md-student")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/07/md-student.webp "md-student")
 
 ## What's Included?
 

@@ -7,7 +7,7 @@ description: " Excel on your ABR Core Exam with an Expert Tutor"
 ---
 
 
-![Medlearnity logo](https://www.medlearnity.com//images/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
+![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
 
 # Get started with ABR Core exam tutoring
 
@@ -135,7 +135,7 @@ ABR Student
 
 ## Get started with Radiology Core tutoring today, and be on your way to matching with the program of your choice.
 
-![how to book your free tutoring trial with medlearnity](https://www.medlearnity.com//images/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
+![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
 
 ## **Book a DISCOUNTED Tutoring Trial**
 

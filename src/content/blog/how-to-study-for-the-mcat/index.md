@@ -15,7 +15,7 @@ description: "How To Prepare for the MCAT So You Can Ace It"
 
 All journeys begin with a single step, and for the medical profession, that first step is the Medical College Admission Test, or MCAT. The test itself is no mere formality, since how well you do on the MCAT is a strong indicator of your success in medical school. In this article, we’ll give you some of the most useful tips for how to study for the MCAT, and help kickstart your medical career.
 
-![](https://www.medlearnity.com//images/wp/2020/08/shutterstock_1723595515-1-300x225.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1723595515-1-300x225.jpg)
 
 ## **How to study for the MCAT**
 
@@ -63,7 +63,7 @@ The critical analysis and reasoning skills, or “CARS,” portion of the exam i
 
 Unlike in the other sections, the CARS section doesn’t require any specific prior content knowledge. All of the information needed to answer each question can be found in the relevant passage. Each passage is about 500-600 words, and could be related to any discipline from the social sciences and humanities. This section is not about content, but about reasoning ability.
 
-### ![](https://www.medlearnity.com//images/wp/2020/08/shutterstock_1535364272-1-300x200.jpg)
+### ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1535364272-1-300x200.jpg)
 
 ### Identify your weaknesses.
 
@@ -91,4 +91,4 @@ Doing well on the MCAT is definitely all about preparation. Knowing what to stud
 
 If you're curious about what it's like to work with a tutor, you can try out a [free trial session](https://www.medlearnity.com/start-here/).
 
-[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://www.medlearnity.com//images/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
+[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)

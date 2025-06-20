@@ -81,7 +81,7 @@ Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work 
 - **You'll get test-taking advice and take part in drills**. During your USMLE Step 3 tutoring sessions, you will do intense drills with your tutor to **eliminate weaknesses**. You and your tutor will work through high-yield content, test-taking advice and plan study strategies tailored to your specific situation and your preferred Step 3 resources (Amboss, UWorld, QBanks, etc.).
 - We'll offer **optimal study and strategy solutions**. We use unique methods like **spaced repetition and active recall** to help you understand foundational material and memorize high-yield Step 3 information. Study time is precious, and we want to optimize it with efficient techniques to ensure your pass rate.
 
-[![](https://www.medlearnity.com//images/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)Medlearnity has helped hundreds of medical students prepare to take their USMLE, and our services prove to help them even after the exam
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)Medlearnity has helped hundreds of medical students prepare to take their USMLE, and our services prove to help them even after the exam
 
 ## How to Get Started With USMLE Step 3 Tutoring
 
@@ -111,25 +111,25 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 #### I am forever grateful for their dedication in helping me pass.
 
 Dr. Goel and his tutors are life savers. I could not have passed my step 3 without them!!! I improved from 190 to 220. The tutors are highly qualified and really good at figuring out your strength and weakness and finding ways to overcome your weakness during the tutoring sessions. More importantly, they are always willing to work around your schedule. The tutors taught me the best strategies to tackle each questions and use effective techniques to look at the minor details which I was ignoring earlier and could not catch with my untrained eyes. Hence, I was getting a lot of the questions wrong. I was tutored for 30 hours and with each session my coannfidence and test taking strategies vastly improved. Within a month, I made a lot of improvement. I am forever grateful for their dedication in helping me pass. Dr. Geol was always a phone call or text away advising me, helping me calm my nerves before the exam. I can't thank them enough. I highly recommend them. They also offer financial aid/loan through a third party incase the money is an issue for you.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)M. M.USMLE Step 3 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. M.USMLE Step 3 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
 
 This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
 
 #### Through his help I went from failing USMLE Step 1 to getting my number one residency in my chosen specialty.
 
 Akshay is not only an expert in medical knowledge, but also a master educator who knows exactly how to tailor lesson plans to maximize retention, recall, and deep understanding of complex topics. Through his help I went from failing USMLE Step 1 to getting my number one residency in my chosen specialty. If I'd have found him sooner, I would have saved many hours and hundreds of dollars wasted on less worthy educational resources that I tried, including Kaplan and Doctors in Training. Now as a resident in clinical practice, the learning habits he taught me help me excel far beyond my peers. His methodology the epitome of "high-yield" learning. If you want the easiest, most efficient and most entertaining path to medical mastery, look no further!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)D. L.USMLE Step 1 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)D. L.USMLE Step 1 Student
 
 **Our students love us! See more student reviews on:**
 

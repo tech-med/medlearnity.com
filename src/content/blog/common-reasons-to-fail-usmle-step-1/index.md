@@ -30,7 +30,7 @@ Raw, factual information is important, but you need to remember that the USMLE e
 
 Some students don't take the USMLE Step 1 exam seriously enough. They'll take shortcuts or think that they've done enough in one area or another. Studying to pass will get you an average grade at best. You might even fail. 
 
-![a medical student not taking the USMLE seriously](https://www.medlearnity.com//images/wp/2021/10/01-not-taking-it-seriously-300x125.jpg)
+![a medical student not taking the USMLE seriously](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/01-not-taking-it-seriously-300x125.jpg)
 
 Instead, aim for [the highest score possible](https://www.usmle.org/sites/default/files/2022-05/USMLE%20Step%20Examination%20Score%20Interpretation%20Guidelines_5_24_22_0.pdf). That way, you'll push yourself to study and have more motivation. Even if you don't score as high as you aim, you're still bound to get a great score. Aiming higher helps you take your studies more seriously.
 
@@ -64,7 +64,7 @@ Setting an exam date gives you a deadline, which, in turn, makes your studying a
 
 It can be hazardous not to have a study schedule. It's easy to push things off until later if you don't put specific times aside to manage them. Exam prep should be your main priority.
 
-![a USMLE study schedule](https://www.medlearnity.com//images/wp/2021/10/02-not-creating-study-schedule-300x125.jpg)
+![a USMLE study schedule](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/02-not-creating-study-schedule-300x125.jpg)
 
 Designate study hours to your day and stick with it. Create a daily, weekly and monthly schedule, figuring out what you'll do with each hour of the day. It can seem excessive, but it will make it easier to get through the massive amount of information. Without a schedule, the task will seem daunting and easy to push off out of stress.
 
@@ -84,7 +84,7 @@ It's natural to go to the older students who have already passed their exams for
 
 If you're the kind of person who prefers advice and guidance over creating your own study schedules and materials, look into resources that offer tutoring and consulting.
 
-[![explore our testimonials](https://www.medlearnity.com//images/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
+[![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
 
 ### 11\. Cramming
 
@@ -102,7 +102,7 @@ It is possible to study more than necessary, and it could cause you to fail or r
 
 ## Utilize Medlearnity's USMLE Resources
 
-[![Medlearnity has USMLE resources that can help you pass](https://www.medlearnity.com//images/wp/2021/10/03-utilize-medlearnity-usmle-resources-300x125.jpg)](https://www.medlearnity.com/usmle-tutoring-step-1/)
+[![Medlearnity has USMLE resources that can help you pass](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/03-utilize-medlearnity-usmle-resources-300x125.jpg)](https://www.medlearnity.com/usmle-tutoring-step-1/)
 
 For over eight years, Medlearnity has helped hundreds of aspiring doctors achieve their goals on exams and admissions, including the USMLE. We offer medical tutoring and consulting that will prep you well for your exam date. On our website, you can meet [some of our tutors](https://www.medlearnity.com/our-tutors/) who scored 260 and up on the USMLE. We can create a personal study schedule based on your needs to maximize your learning gains. 
 

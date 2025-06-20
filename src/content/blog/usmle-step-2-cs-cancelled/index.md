@@ -36,4 +36,4 @@ Medlearnity offers current medical students help in their [USMLE test preparatio
 
 Ready to start learning with Medlearnity? Sign up for a [free trial](https://www.medlearnity.com/start-here/) today!
 
-[![our tutors have trained at the top hospitals in the country](https://www.medlearnity.com//images/wp/2022/06/04-our-tutors-have-trained.png)](https://www.medlearnity.com/start-here/)
+[![our tutors have trained at the top hospitals in the country](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/04-our-tutors-have-trained.png)](https://www.medlearnity.com/start-here/)

@@ -7,7 +7,7 @@ description: "Personalized, proven USMLE coaching by top 1% tutors – achieve y
 ---
 
 
-![Medlearnity logo](https://www.medlearnity.com//images/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
+![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")
 
 ## Personalized, proven USMLE coaching by top 1% tutors – achieve your dream score with confidence.
 
@@ -53,7 +53,7 @@ Medlearnity streamlines your learning with easy session scheduling, on-demand re
 
 ## Some of our exceptional tutors
 
-![](https://www.medlearnity.com//images/wp/2024/07/Dani.webp "Dani")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/Dani.webp "Dani")
 
 ### Dani Brown
 
@@ -63,7 +63,7 @@ University of Pennsylvania
 
 MCAT 522 | Step 2: 280 | Step 1: Pass
 
-![keith cordner](https://www.medlearnity.com//images/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
+![keith cordner](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
 
 ### Keith Cordner, MD
 
@@ -73,7 +73,7 @@ University of Minnesota
 
 MCAT: 517 | Step 1: 270 | Step 2: 275 | Step 3: 231
 
-![](https://www.medlearnity.com//images/wp/2024/09/Anna-Chen.webp "Anna Chen")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/09/Anna-Chen.webp "Anna Chen")
 
 ### Anna Chen
 
@@ -83,7 +83,7 @@ University of Pennsylvania 
 
 MCAT: 523 | Step 1: Pass | Step 2: 273
 
-![](https://www.medlearnity.com//images/wp/2024/08/Fawaz-Naeem-2.webp "Fawaz Naeem 2")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/08/Fawaz-Naeem-2.webp "Fawaz Naeem 2")
 
 ### Fawaz Naeem
 

@@ -36,7 +36,7 @@ Many aspiring doctors of osteopathy (DOs) take the COMLEX, as it's the only medi
 
 Additionally, while you may be able to match into a residency with only COMLEX scores, adding USMLE scores to your application can increase your chances of matching with your chosen specialty.
 
-![Which Score Is Used More to Apply for Residencies?](https://www.medlearnity.com//images/wp/2022/07/01-exams-and-qualifications.png)
+![Which Score Is Used More to Apply for Residencies?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/07/01-exams-and-qualifications.png)
 
 ## Which Score Is Used More to Apply for Residencies?
 
@@ -64,7 +64,7 @@ Inaccurate conversions are likely because the tests vary greatly in their subjec
 
 ### Pass/Fail Updates
 
-![Pass/Fail Updates](https://www.medlearnity.com//images/wp/2022/07/02-scoring-systems-transition.png)
+![Pass/Fail Updates](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/07/02-scoring-systems-transition.png)
 
 Both exams' scoring systems have or will eliminate numeric scores and transition to a pass/fail score reporting system — this happened on [January 26, 2022](https://www.usmle.org/usmle-step-1-transition-passfail-only-score-reporting), for the USMLE Step 1 and will happen on [May 10, 2022](https://www.nbome.org/news/comlex-usa-level-1-to-eliminate-numeric-scores/), for the COMLEX Level 1. If you take those exams on or after those dates, you'll receive a passing or failing score without a specified number.
 
@@ -78,4 +78,4 @@ Tutoring is a great way to supplement studying on your own. You'll talk to and l
 
 [Sign up for a free tutoring trial](https://www.medlearnity.com/start-here/) and find out how Medlearnity can help you advance your medical career!
 
-[![Prepare for Success With Medlearnity Expert Tutors](https://www.medlearnity.com//images/wp/2022/07/03-sign-up-for-free-tutoring.png)](https://www.medlearnity.com/start-here/)
+[![Prepare for Success With Medlearnity Expert Tutors](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/07/03-sign-up-for-free-tutoring.png)](https://www.medlearnity.com/start-here/)

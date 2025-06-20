@@ -70,4 +70,4 @@ Medlearnity has been helping doctors reach their USMLE goals for more than eight
 
 Medlearnity has a range of services to offer the exact USMLE help you need. Whether you need tutoring, a personalized learning plan, test-taking strategies or exam drills, our goal is to put your learning needs first. To see what we can do, [Book a DISCOUNTED, no-obligation one hour tutoring session](https://www.medlearnity.com/start-here/) to experience the power of Medlearnity for yourself.
 
-[![explore our testimonials](https://www.medlearnity.com//images/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
+[![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)

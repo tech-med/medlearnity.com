@@ -11,7 +11,7 @@ description: "There is no doubt that the medical journey is a challenging one. T
 ---
 
 
-[![a graphic showing the journey a medical student must take to become a doctor](https://www.medlearnity.com//images/wp/2021/12/Medical-School-Journey-rev2.jpg)](https://www.medlearnity.com//images/wp/2021/12/Medical-School-Journey-rev2.jpg)
+[![a graphic showing the journey a medical student must take to become a doctor](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/Medical-School-Journey-rev2.jpg)](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/Medical-School-Journey-rev2.jpg)
 
 There is no doubt that the medical journey is a challenging one. There are so many exams you need to pass, and don't forget about all the studying you have to do for exam preparation. It simply takes a lot of time, but it's worth the effort.
 
@@ -41,7 +41,7 @@ A post-BACC program is an excellent option for those who decide they want to bec
 
 Usually, after getting the undergraduate degree or any of the previously mentioned programs, students have to [take the MCAT exam](https://www.medlearnity.com/mcat/). All students have to take the Medical College Admission Test before applying to a med school. This exam is standardized and tests the ability to apply the students' knowledge and their potential.
 
-![the mcat exam is standardized and tests the ability to apply the students' knowledge and their potential](https://www.medlearnity.com//images/wp/2021/12/01-MCAT-Exam.png)
+![the mcat exam is standardized and tests the ability to apply the students' knowledge and their potential](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-MCAT-Exam.png)
 
 ### CASPer Test
 
@@ -79,7 +79,7 @@ As you continue your school journey to become a doctor, you'll encounter more ke
 
 M1, M2, M3 and M4 refer to the medical student timeline and represent what year you are in. For example, M1 is a first-year medical student.
 
-![The M1, M2, M3, and M4 refer to the medical student timeline and represent what year you are in. For example, M1 is a first-year medical student](https://www.medlearnity.com//images/wp/2021/12/02-M1-M2-M3-and-M4.png)
+![The M1, M2, M3, and M4 refer to the medical student timeline and represent what year you are in. For example, M1 is a first-year medical student](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/02-M1-M2-M3-and-M4.png)
 
 ### USMLE
 
@@ -118,7 +118,7 @@ Physicians that are trained further in their specialty have the option to take 
 
 An attending physician is someone who has already finished their training and is practicing independently. An attending physician is typically used to differentiate a junior physician from a senior-level physician.
 
-[![explore our testimonials](https://www.medlearnity.com//images/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
+[![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
 
 ## Get Tutoring for Your Exams With Medlearnity
 
@@ -126,4 +126,4 @@ From this medical student journey, you probably get the idea that there will be 
 
 We have expert tutors who have scored high in these exams to answer any of your questions and guide you through your studies. We specialize in USMLE, COMLEX, MCAT, Shelf/NBME, Residency Board Exams and Admission Consulting. Sign up for our [free trial](https://www.medlearnity.com/start-here/) today!
 
-[![get tutoring for your medical exams with medlearnity](https://www.medlearnity.com//images/wp/2021/12/03-Get-Tutoring-for-Your-Exams-With-Medlearnity.png)](https://www.medlearnity.com/start-here/)
+[![get tutoring for your medical exams with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/03-Get-Tutoring-for-Your-Exams-With-Medlearnity.png)](https://www.medlearnity.com/start-here/)

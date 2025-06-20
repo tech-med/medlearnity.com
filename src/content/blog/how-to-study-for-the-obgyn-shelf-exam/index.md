@@ -21,7 +21,7 @@ Whether you're considering going into OBGYN and need to honor this specific rota
 
 How can you prepare for the OBGYN Shelf Exam? What study resources are best, and how can you set up your study plan?
 
-![OBGYN](https://www.medlearnity.com//images/wp/2020/08/shutterstock_1374682136.jpg)
+![OBGYN](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1374682136.jpg)
 
 ## What are the best resources for studying for the OBGYN Shelf Exam?
 
@@ -47,7 +47,7 @@ Qbanks are excellent resources, but you'll want to supplement that with reading 
 
 If you're planning on an OBGYN residency, then you might want to choose Blueprints Obstetrics and Gynecology as your textbook. This one is more detailed, and so you'll need to dedicate more time to studying if you want to get through it. For most students, it's probably more than you need, but for those who are planning to go into OBGYN, it may be worth it.
 
-![Obgyn Shelf exams](https://www.medlearnity.com//images/wp/2020/08/shutterstock_528321097-3-1024x683.jpg)
+![Obgyn Shelf exams](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_528321097-3-1024x683.jpg)
 
 ## How can you create a study schedule?
 
@@ -67,4 +67,4 @@ Here at Medlearnity, [our OBGYN Shelf Exam tutors](https://www.medlearnity.com/o
 
 If you'd like to see what it's like to work with a tutor, we invite you to schedule a [free one-hour OBGYN Shelf Exam tutoring session](https://www.medlearnity.com/start-here/) with no obligation.
 
-[![get a customized study plan based on your goals and learning style](https://www.medlearnity.com//images/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
+[![get a customized study plan based on your goals and learning style](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)

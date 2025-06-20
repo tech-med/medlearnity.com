@@ -575,4 +575,61 @@ git archive --format=tar.gz --output=snapshots/project-$(date +%Y%m%d).tar.gz HE
 ---
 
 *Last updated: December 2024*
-+*Last updated: June 2025* 
++*Last updated: June 2025*
+
+## Media Storage with Vercel Blob
+
+WordPress media files are now stored in Vercel Blob Storage for optimal performance and cost efficiency.
+
+### Current Setup
+```bash
+# Blob store: wp-media (store_I2xFWZTD2kSBegsE)
+# URL pattern: https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/
+# File count: 5,841 WordPress uploads
+```
+
+### Managing Media Files
+
+**Upload new media:**
+```bash
+# Single file
+vercel blob put path/to/image.jpg --pathname "wp/image.jpg"
+
+# Bulk upload
+find media-folder -type f | while read file; do
+  vercel blob put "$file" --pathname "wp/$(basename "$file")"
+done
+```
+
+**List existing files:**
+```bash
+vercel blob list --prefix "wp/"
+```
+
+**Delete files:**
+```bash
+vercel blob del "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/filename.jpg"
+```
+
+### Image Path Management
+
+The `scripts/replace-image-paths.js` script handles URL rewriting:
+```bash
+npm run fix:image-paths  # Updates markdown files to use blob URLs
+```
+
+### Fallback Rewrites
+
+`vercel.json` ensures old `/images/wp/*` URLs still work:
+```json
+{
+  "rewrites": [
+    {
+      "source": "/images/wp/:file*",
+      "destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
+    }
+  ]
+}
+```
+
+--- 

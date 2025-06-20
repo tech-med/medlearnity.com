@@ -13,7 +13,7 @@ PERSONAL STATEMENT
 
 _Tutoring has been an incredibly rewarding opportunity for me. It grants perspective, helps me stay fresh on more obscure content, and crystalizes my own understanding of high yield topics by educating others. I strongly believe in using time effectively, focusing on quality over quantity. Yes, you can study 70 hours a week for marginal improvement on scores, but I prioritize high yield resources and mapping out exactly how my time needs to be allocated. Balancing medical success with a healthy personal life is critical to long term success, and I want to help you match into your dream program without alienating all of your friends and family._
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![keith cordner](https://www.medlearnity.com//images/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
+\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![keith cordner](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
 
 **Keith Cordner, MD**
 
@@ -44,6 +44,6 @@ Exam Scores
 
 Sign up for our one-hour discounted session. You'll receive an email or phone call from us shortly thereafter for some more information so we can understand your particular situation and assess your personal needs to pair you up with the tutor that's a perfect fit. This way, we're off to a very productive and personalized start, right from your very first session.
 
-\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![keith cordner](https://www.medlearnity.com//images/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
+\_\_CONFIG\_colors\_palette\_\_{"active\_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG\_colors\_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![keith cordner](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
 
 **Keith Cordner, MD**

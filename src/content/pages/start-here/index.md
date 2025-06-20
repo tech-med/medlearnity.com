@@ -7,7 +7,7 @@ description: "\[tcbscript type=\"text/javascript\" src=\"https://form.jotform.co
 ---
 
 
-\[tcb-script type="text/javascript" src="https://form.jotform.com/jsform/241902608612452"\]\[/tcb-script\]![](https://www.medlearnity.com//images/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")
+\[tcb-script type="text/javascript" src="https://form.jotform.com/jsform/241902608612452"\]\[/tcb-script\]![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")
 
 At Medlearnity, **every new prospective student receives a one-hour trial session**. We know that the high-quality of our services and the expertise of our team is truly unmatched, and we want you to experience it without any obligation. 
 
@@ -43,22 +43,22 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 I worked with my tutor for my Step 2 CK for the past 4 months. Throughout the process, he completely changed my way of approaching questions! Even though there was an adjustment period, his techniques proved to be extremely helpful and useful. He was also extremely patient and understanding throughout the entire process. His explanations of medical concepts and problems were very clear and thorough. He was also motivating with his frequent check-ins, which ensured that I gave my maximum effort on a daily basis. Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity! [Reference Link](https://www.trustpilot.com/reviews/64bde837f6bc322f521a3031).
 
-![profile-pic](https://www.medlearnity.com//images/wp/2021/03/oliver_photo.png)Oliver Y.USMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/oliver_photo.png)Oliver Y.USMLE Step 2 CK Student
 
 #### I ended up passing CK with a score that I was really happy with and matched into residency.
 
 I was having a lot of difficulties with USMLE Step 2 CK. I had reached a point where I had thought that I had peaked since my practice scores weren't improving after having already completed UWorld. They helped me with my approach to the questions and taught me methods to better retain what I was learning over longer periods of time. My tutor even helped me prioritize my learning and continued to work with me to create an adaptive study schedule that fit my lifestyle. It really improved my confidence with my knowledge which was reflected in the scores I was seeing. I ended up passing CK with a score that I was really happy with and matched into residency. I never hesitate to recommend their services to anyone I think might benefit. [Reference Link](https://g.co/kgs/YzAg2K).
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/1656236_10100895093307841_1181605648_n.jpg)Michael YeungUSMLE Step 2 CK Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/1656236_10100895093307841_1181605648_n.jpg)Michael YeungUSMLE Step 2 CK Student
 
 #### By the end of medical school, I had 38 interview invitations from Internal Medicine programs throughout the country, the highest number of interview invitations for my medical school class.
 
 Throughout medical school, my ambitions had always been high but my test taking skills, not always the best. Working with Akshay provided a transformative experience. I had my first session with him while preparing for Step 1, and I have never looked back. Akshay offers a very structured, detailed, and personalized study plan that helped improve my fund of knowledge on a daily basis. During our one on one study sessions, he would be sure to break down complex physiological concepts and focus on subject areas that needed improvement. We would work through test taking strategies that were practical and quickly helped turn around my practice test scores. Thanks to Akshay, my Step 1 Score opened the door to a world of opportunities. To continue this pattern of success, I returned to Akshay for both Step 2 CK and CS. The results of Akshay's training were remarkable. After undergrad, I had only 2 medical school interviews, primarily because of poor test taking. By the end of medical school, I had 38 interview invitations from Internal Medicine programs throughout the country, the highest number of interview invitations for my medical school class. Fortunately, I matched into my number 1 residency program at Johns Hopkins. I would recommend Akshay to anyone looking for a tried and tested strategy for success on the USMLE. More importantly, I thank him for giving me the tools to become a better doctor.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg)Turja C.USMLE Step 1 & 2 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg)Turja C.USMLE Step 1 & 2 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
 
 This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor

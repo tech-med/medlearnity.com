@@ -71,4 +71,8 @@ temp-content/
 *.backup
 
 # Local development
-.local 
+.local
+
+# Local WP media (migrated to Vercel Blob Storage)
+public/images/wp/ 
+.env*.local

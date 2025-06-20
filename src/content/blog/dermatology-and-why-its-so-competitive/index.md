@@ -10,7 +10,7 @@ description: "Why Is Dermatology Such a Competitive Specialty?"
 ---
 
 
-## ![explaining Why Is Dermatology Such a Competitive Specialty?](https://www.medlearnity.com//images/wp/2022/10/01-Why-Is-Dermatology-Such-a-Competitive-Specialty.jpg)
+## ![explaining Why Is Dermatology Such a Competitive Specialty?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/01-Why-Is-Dermatology-Such-a-Competitive-Specialty.jpg)
 
 ## Why Is Dermatology Such a Competitive Specialty?
 
@@ -48,7 +48,7 @@ You'll also need a strong score on the United States Medical Licensing Examinati
 
 If you have these items, you could be a good candidate for a dermatology residency training program. However, it's essential to remember that dermatology can be hard to get into and requires long-term commitment and study to obtain your license.
 
-![80.1% of students who apply to match into a dermatology residency program](https://www.medlearnity.com//images/wp/2022/10/02-Dermatology-Match-Statistics.jpg)
+![80.1% of students who apply to match into a dermatology residency program](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/02-Dermatology-Match-Statistics.jpg)
 
 ### What Percentage of Dermatology Applicants Match?
 
@@ -76,7 +76,7 @@ Dermatology is already a competitive specialty for students in the United States
 
 DO students who attempt to match into dermatology do so at a low percentage. In 2022, [40 DO seniors applied](https://www.nrmp.org//images/wp/2022/05/2022-Main-Match-Results-and-Data_Final.pdf) for a dermatology residency. Only three of those students matched, which doesn't make dermatology a particularly friendly field for osteopathic students. However, it's still possible to become a dermatologist if you're an osteopathic student, as long as you do the work.
 
-![should you become a dermatologist?](https://www.medlearnity.com//images/wp/2022/10/03-Should-You-Become-a-Dermatologist.jpg)
+![should you become a dermatologist?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/03-Should-You-Become-a-Dermatologist.jpg)
 
 ## Should You Become a Dermatologist?
 
@@ -97,7 +97,7 @@ Dermatology can be a lucrative career choice as the market [continues to see ste
 
 Knowing what to expect and what you may have to deal with can help you determine if dermatology is the right field for you. Consider the above before deciding to become a dermatologist.
 
-## ![steps to become a dermatologist](https://www.medlearnity.com//images/wp/2022/10/04-How-to-Be-a-Dermatologist.jpg)
+## ![steps to become a dermatologist](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/04-How-to-Be-a-Dermatologist.jpg)
 
 ## How to Be a Dermatologist
 
@@ -114,7 +114,7 @@ Dermatology can be a rewarding field since you'll be helping patients improve th
 
 Getting your degrees, taking the exams, completing your residency and getting your license can take many years, meaning you'll need to stay dedicated. However, the process becomes worth it once you can use your knowledge and skills to revolutionize people's lives.
 
-[![](https://www.medlearnity.com//images/wp/2022/10/05-About-the-Author.jpg)](https://www.medlearnity.com/start-here/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/05-About-the-Author.jpg)](https://www.medlearnity.com/start-here/)
 
 You may be at the very beginning of the process or deciding to change your specialty halfway through medical school. Regardless of when you choose to become a dermatologist, you can match into residency and earn your license at any stage. You can also receive tutoring if you need additional help with the course load and studying for your various exams. Tutoring from someone who has gone through the process can be a valuable tool to help you break into the competitive specialty.
 

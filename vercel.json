@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/images/wp/:file*",
+      "destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
+    }
+  ]
+} 

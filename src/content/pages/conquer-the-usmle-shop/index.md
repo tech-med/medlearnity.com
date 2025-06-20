@@ -31,7 +31,7 @@ Our students report improvements of 20 to 50 points on their USMLE scores. This 
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://www.medlearnity.com//images/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
 
 ## We Offer the Highest-Quality Tutoring Services
 

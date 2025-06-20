@@ -25,7 +25,7 @@ It's important to reassure yourself that you have more chances to pass after fa
 
 Next, find out what the process is for retaking Step 1 and how many times you can attempt the USMLE Step 1 retake. 
 
-### ![a student retaking the USMLE](https://www.medlearnity.com//images/wp/2020/06/01-can-you-retake-the-usmle-step-one-v01.png)
+### ![a student retaking the USMLE](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/06/01-can-you-retake-the-usmle-step-one-v01.png)
 
 ### Can You Retake The USMLE Step 1?
 
@@ -45,7 +45,7 @@ If you've failed USMLE Step 1, you should contact your medical school if you hav
 
 Below you will find some general testing advice and study tips for your retake. This advice comes straight from expert tutors who have helped students ace their USMLE Step 1 retake, with truly incredible success stories.
 
-[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://www.medlearnity.com//images/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
+[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
 
 ## How to Prepare for USMLE Step 1
 
@@ -81,7 +81,7 @@ Take your time and do not hurry to do your next retake. For the past eight years
 
 We cannot stress this enough. You need to allow yourself the time to learn the right study methods to prepare for this exam. Ensure that you are maximizing your learning and knowledge retention. According to the [2018 NBME Administrations Performance Data](https://www.usmle.org/performance-data/default.aspx#2018_step-1) on Step 1 repeat test-takers, 67% of U.S. MD, 76% of DO and 41% of International Step 1 repeaters passed the exam.
 
-![you need to understand exactly why the wrong answers are wrong and why the right answer is right](https://www.medlearnity.com//images/wp/2020/06/02-you-need-to-understand-v01.png)
+![you need to understand exactly why the wrong answers are wrong and why the right answer is right](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/06/02-you-need-to-understand-v01.png)
 
 You need to make sure that you are thoroughly reviewing every question you get wrong so you can recognize knowledge gaps and focus on the most important practice questions. Also, you need to understand exactly why the wrong answers are wrong and why the right answer is right. You need a structured plan of action. This plan means setting realistic goals for yourself every day and sticking to them. Once you can see your plan of action coming into fruition, then you can schedule your new USMLE Step 1 date with confidence. 
 
@@ -115,7 +115,7 @@ You need 10-12 weeks of dedicated study time. Your score reflects foundational w
 
 It's helpful to look over the NRMP's data regarding USMLE Step 1 Scores and U.S. MD Seniors to see where your score needs to be to achieve your preferred specialty. Gathering all of the information from this chart and everything you should know before taking the [USMLE Step 1 percentiles](https://www.medlearnity.com/usmle-step-1-percentiles/) can help get you in the right mindset before retaking the test.
 
-## [![see how medlearnity can help you succeed in your medical career](https://www.medlearnity.com//images/wp/2020/06/03-how-medlearnity-can-help-you-v02.png)](https://www.medlearnity.com/start-here/)
+## [![see how medlearnity can help you succeed in your medical career](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/06/03-how-medlearnity-can-help-you-v02.png)](https://www.medlearnity.com/start-here/)
 
 ## See How Medlearnity Can Help You Succeed in Your Medical Career!
 
@@ -123,4 +123,4 @@ The best thing you can do for yourself at this point is to get tutoring from pro
 
 A [Medlearnity tutor](https://www.medlearnity.com/our-tutors/) can do the same for you. Our tutors take a personalized approach to identify and improve on weaknesses to make a significant impact. We invite you to [reach out to our team](https://www.medlearnity.com/start-here/) with any questions you may have. Let us help you ace your USMLE Step 1 exam and excel in your medical career!
 
-[![explore our testimonials](https://www.medlearnity.com//images/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)
+[![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)

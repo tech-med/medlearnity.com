@@ -52,7 +52,7 @@ In line with the mission of producing highly capable and experienced individuals
 
 Now, that little pep talk didn’t come out the way I want it too but honesty is something that’s extremely valued in these parts of town so I guess I did you a favour by being brutally honest. If that gave you a scare but still refuse to give up on this dream of yours anyway, congratulations. You are emotionally ready to take on this conquest.
 
-![](https://www.medlearnity.com//images/wp/2020/04/Practice-Exam-1024x682.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Practice-Exam-1024x682.jpg)
 
 **Starting Your Career In The Medical Field**
 
@@ -78,7 +78,7 @@ With your schedule as hectic as it is even without the exams, it’s hard to fin
 
 As you may already know, the NBME or National Board of Medical Examiners is the governing body that administers the USMLE exams. Although they are behind the notorious test series that is feared by many examinees, they are not all that heartless. Otherwise, they wouldn’t have made the CBSSAs or Comprehensive Basic Science Self Assessments which are 200-item practice tests that is meant to help students prepare for the USMLE exams better.
 
-![](https://www.medlearnity.com//images/wp/2020/04/Practice-Exams-in-medical-1-1024x683.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Practice-Exams-in-medical-1-1024x683.jpg)
 
 Needless to say, these practice exams would not be the same as the USMLE but it does help you prepare yourself mentally for the exams. It will cover similar topics and concepts to help you get a feel of what the real thing would look like. But keep note: While the USMLE Step 1 consists of 280 items, the CBSSA forms are far more plenty than that. So it’s not like the jurors are spoon-feeding you the answers to the Step 1 exam. One CBSSA form will have 200 questions. And guess what? You can take as many as 11 (or maybe even more if you back track other forms that have been retired already) forms before your actual exams. If each 200-item questionnaire takes up 5 hours of your time, imagine how long it would take you to finish 2200 questions. And you don’t even know which ones are going to be included in the actual exam! It will surely take a lot of brain and willpower but hey, it also means a golden opportunity to actually ace your exams.
 

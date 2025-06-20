@@ -6,6 +6,16 @@
 **Started**: January 22, 2025  
 **Last Major Update**: December 19, 2024 (PR #1 merged)
 **Last Major Update**: June 20, 2025 (content migration in progress)
+**Last Major Update**: June 20, 2025 (content & media migration completed)
+
+## 📊 **Overall Progress: ~65% → 85% Complete**
+
+✅ **Production Infrastructure** (Astro, TypeScript, CI/CD, security)  
+✅ **Content Migration** (179 posts/pages, SEO descriptions, blob storage)  
+✅ **Media Migration** (5,841 files → Vercel Blob CDN)  
+🚧 **Analytics & Forms** (pending tracking codes)  
+🚧 **URL Redirects** (pending WordPress audit)  
+🚧 **Final Deployment** (staging ready, domain pending)
 
 ---
 
@@ -14,8 +24,8 @@
 ## Migration Progress Overview
 
 ### 🟢 Phase 1: Preparation and Planning ✅ COMPLETE
-- [x] **Backup WordPress site** - ⚠️ TODO: Export backup before go-live
-- [x] **Export content** - ⚠️ TODO: Export WordPress XML for content migration
+- [x] **Backup WordPress site** - ✅ Full Flywheel backup downloaded (1.3 GB zip)
+- [x] **Export content** - ✅ 4 XML files exported via WP-CLI
 - [x] **Identify assets & features** - ⚠️ TODO: Final audit of current WordPress site
 - [x] **Set up tools** - ✅ Node.js 20+, npm, GitHub CLI, Vercel CLI configured
 - [x] **Plan site structure** - ✅ Astro blog structure implemented
@@ -36,16 +46,20 @@
 - [x] **Build Validation** - ✅ Zero TypeScript errors, 9 pages built successfully
 
 ### 🟡 Phase 3: Content Migration 🛠️ IN PROGRESS
-- [ ] **Export WordPress XML** - ⚠️ PENDING: Need to access WordPress admin
-<!-- Export XML bullet removed (now completed) -->
-- [ ] **Convert XML to Markdown** - ⚠️ PENDING: After XML export
-<!-- Convert XML bullet removed (now completed) -->
-- [ ] **Review and organize Markdown** - 🚧 In progress (move into Astro collections)
-- [ ] **Copy media assets** - ⚠️ Pending (rsync uploads → `public/images/wp`)
-- [ ] **Update image links** - ⚠️ Pending (sed replacement)
-- [x] **Content Collections** - ✅ Config validated
 - [x] **Export WordPress XML** - ✅ Completed *Jun 20 2025* (4 XML files)
 - [x] **Convert XML to Markdown** - ✅ Completed *Jun 20 2025* (`npx wordpress-export-to-markdown`)
+- [x] **Review and organize Markdown** - ✅ All posts & pages moved to collections
+- [x] **Copy media assets** - ✅ WordPress uploads synced to `public/images/wp`
+- [x] **Update image links** - ✅ Internal links rewritten
+- [x] **Content Collections** - ✅ Config validated
+
+### 🟡 Phase 3: Content Migration ✅ COMPLETED
+- [x] **Export WordPress XML** - ✅ Completed *Jun 20 2025* (4 XML files)
+- [x] **Convert XML to Markdown** - ✅ Completed *Jun 20 2025* (`npx wordpress-export-to-markdown`)
+- [x] **Review and organize Markdown** - ✅ All posts & pages moved to collections
+- [x] **Migrate media to Vercel Blob Storage** - ✅ Completed *Jun 20 2025* (5,841 files → blob CDN)
+- [x] **Update image links** - ✅ All image URLs rewritten to blob storage
+- [x] **Content Collections** - ✅ Config validated with SEO descriptions
 
 ### 🟡 Phase 4: Forms & Features 🚧 READY FOR IMPLEMENTATION
 - [ ] **Preserve JotForm embeds** - ⚠️ PENDING: Identify current forms
@@ -151,23 +165,41 @@ medlearnity.com/
 
 ## Next Steps (Priority Order)
 
-### 🎯 Critical Path to Go-Live (Updated)
-1. **Move Markdown into Astro collections** (`src/content/...`)  
-2. **Sync media assets** (`public/images/wp`)  
-3. **Update internal image links & permalinks**  
-4. **Content Audit & QA** – fix front-matter, broken links  
-5. **URL Mapping** – build redirects list  
-6. **Analytics Setup** – add GTM / GA4 IDs  
-7. **Final Testing & DNS Cut-over**
+1. **Deploy to Vercel staging** - Infrastructure ready, content migrated
+2. **Analytics setup** - Need GTM container ID and GA4 property ID  
+3. **Form integration** - JotForm embeds for contact/lead capture
+4. **URL redirects** - WordPress → Astro URL mapping
+5. **Domain setup** - Point medlearnity.com to Vercel
+6. **SEO optimization** - Meta tags, structured data, sitemaps
 
-### 🔄 Development Workflow
-```bash
-# Development
-npm run dev        # Start dev server
-# Quality checks
-npm run lint && npm run astro:check && npm run build
-# Deployment preview
-vercel
+### Critical Path Blockers
+- Analytics tracking codes (GTM/GA4 IDs)
+- WordPress URL audit for redirect planning
+
+### Project Structure
+``` 
+medlearnity.com/
+├── .github/workflows/       # CI/CD pipeline
+├── docs/                    # Documentation
+│   ├── developer-guide.md   # Comprehensive dev guide
+│   ├── migration-status.md  # This file
+│   └── migration-analysis-*.md # Migration reports
+├── src/
+│   ├── content/            # All migrated blog posts & pages (179 items)
+│   ├── components/         # Reusable Astro components
+│   ├── layouts/            # Page layouts with SEO
+│   └── pages/              # Routes (/, /blog, /about, /404)
+├── public/                 # Static assets (no WP media - moved to blob)
+├── scripts/                # Automation helpers (descriptions, image paths)
+├── backups/                # WordPress XML + DB backups
+├── vercel.json             # Deployment config with blob rewrites
+└── .vercel/                # Project linking config
+
+### Media Storage
+- **Location**: Vercel Blob Storage (`wp-media` store)
+- **URL Pattern**: `https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/`
+- **File Count**: 5,841 WordPress uploads (images, PDFs, docs)
+- **Fallback**: `vercel.json` rewrites `/images/wp/*` → blob storage
 ```
 
 ---

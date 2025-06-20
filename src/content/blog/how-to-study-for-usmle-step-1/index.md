@@ -22,7 +22,7 @@ USMLE Step 1 is the first of three major exams that each student needs to comple
 
 ## Set Up Your USMLE Step 1 Study Schedule
 
-![a student creating a USMLE study schedule on a tablet](https://www.medlearnity.com//images/wp/2020/07/business-3054946_1920.jpg)
+![a student creating a USMLE study schedule on a tablet](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/business-3054946_1920.jpg)
 
 You need to **have a dedicated USMLE Step 1 preparation plan** to get the best out of your [USMLE Step 1 test prep](https://www.medlearnity.com/usmle-tutoring-step-1/). We recommend [setting up a daily schedule](https://www.medlearnity.com/usmle-step-1-study-schedule/) with **dedicated blocks of time to study each subject area**. Plan what material you will cover for every day of the week and at what time you will do so. Then, study according to that plan.
 
@@ -40,11 +40,11 @@ The USMLE Step 1 exam is a timed one. So **while you are completing these questi
 
 **Practice exams are another important resource. While UWorld also has self-assessments, you should also complete some NBME practice exams**. We recommend that you **take an NBME self-assessment at the start of your study program for USMLE Step 1**. This will help to set the baseline for you to assess how well you are doing as you prepare for the exam. Yes, the score will probably not be the best, but don't worry. You just need a baseline because your study sessions are going to make you perform much better on the subsequent practice exams! Keep a positive outlook! We are going for 250 and above here!
 
-[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://www.medlearnity.com//images/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
+[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
 
 ## How to Study for USMLE Step 1 in a Limited Time
 
-![a medical student timing his USMLE study session](https://www.medlearnity.com//images/wp/2020/07/time-2980690_1920.jpg)
+![a medical student timing his USMLE study session](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/time-2980690_1920.jpg)
 
 Are you worried that you don't have enough time to study for your test? It's possible to have an effective **USMLE Step 1 study schedule of 6 weeks**.
 
@@ -90,4 +90,4 @@ You've got some pro study tips on how to study for USMLE Step 1. But, we underst
 
 You need as much expert help as you can get, and [Medlearnity](https://www.medlearnity.com/about/) can help you streamline your entire USMLE Step 1 prep process. We have a team of practicing physicians who will guide you through your study for USMLE Step 1. So book your [free one-hour tutoring session](https://www.medlearnity.com/start-here/) today and experience the benefits of getting [expert USMLE Step 1 tutoring](https://www.medlearnity.com/usmle-tutoring-step-1/) customized just for you!
 
-[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://www.medlearnity.com//images/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
+[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)

@@ -87,7 +87,7 @@ You can work with an experienced tutor to help you prepare before taking a test.
 
 I was constantly being taught high-yield information. Anthony kept reinforcing the information I was not grasping right away, and he sensed that. He provided grafts, charts, and other methods of learning to solidify the important concepts. I was given recordings of our sessions, and I will have so much material to use from this point on (I'm a PGY1, and this is an incredible foundation).
 
-![profile-pic](https://www.medlearnity.com//images/wp/2021/03/Blake.png)Blake C.ABSITE Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Blake.png)Blake C.ABSITE Student
 
 #### Anthony’s experience in surgery... helped me hone in on my strengths
 
@@ -99,13 +99,13 @@ Thank you for everything!
 
 VH, PGY-3, General Surgery
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
 
 #### amazing job preparing me for my ABSITE exam
 
 Anthony has done an amazing job preparing me for my ABSITE exam. He was always punctual and encouraging for all of my 20hours of private lessons! He really catered to my weaknesses and helped really elaborate on concepts to help further my knowledge. I highly recommend him to anyone looking for tutoring. I'm extremely grateful to him and the whole Medlearnity team for continuously checking up on my progress.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2021/03/Peter.png)Peter I.ABSITE Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Peter.png)Peter I.ABSITE Student
 
 ### Take Your ABSITE Prep to the Next Level
 

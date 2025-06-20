@@ -17,7 +17,7 @@ Exam anxiety is something that nearly every student goes through at some point. 
 
 It is common to feel a little anxious before taking any test. A bit of nervousness before a test can even be helpful, as it aids in focusing your attention. However, some students can experience test anxiety on an entirely different level. Test anxiety can be considered a type of performance anxiety, as medical students have a tendency to put incredibly high expectations on themselves to exceed at everything. Test anxiety can cause intense physical and emotional reactions that hinder your ability to do well on your exams. This leaves medical students feeling miserable and helpless, no matter how much they study.
 
-![What Are the Symptoms of Test Anxiety?](https://www.medlearnity.com//images/wp/2021/10/01-Test-aniety-can-cause-intense-physical-and-emotional-reactions.png)
+![What Are the Symptoms of Test Anxiety?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/01-Test-aniety-can-cause-intense-physical-and-emotional-reactions.png)
 
 ## What Are the Symptoms of Test Anxiety?
 
@@ -52,7 +52,7 @@ It is important to note that test anxiety symptoms can range from mild to severe
 
 ## What Are the Causes of Test Anxiety?
 
-![What Are the Causes of Test Anxiety?[list]](https://www.medlearnity.com//images/wp/2021/10/02-What-Are-the-Causes-of-Test-Anxiety.png)
+![What Are the Causes of Test Anxiety?[list]](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/02-What-Are-the-Causes-of-Test-Anxiety.png)
 
 To treat med school test anxiety, you need to understand its causes. Medical students often have an increased risk of test anxiety because of the intense and competitive nature of this particular academic environment. There is usually not one sole reason for test anxiety. Rather, test anxiety typically manifests due to several different reasons, including:
 
@@ -88,4 +88,4 @@ After using these effective strategies to prepare leading up to the test, you ca
 
 Test anxiety is something that everyone experiences at some point in their academic career. Although you can’t always prevent test anxiety, the important thing is to find tips and strategies that work for you to overcome it. Medical students are under a considerable amount of stress as they work their way through med school. You can [work with an experienced tutor](https://www.medlearnity.com/our-tutors/) to help you prepare before taking a test. This is a great way to ensure you are physically, emotionally and cognitively in the right frame of mind to overcome your test anxiety. Time management is vitally important in studying, and [med school exam tutoring courses](https://www.medlearnity.com/tutoring/) can assist you in making the most of your time.  Learn more about Medlearnity's tutoring and test prep services by signing up for our [free trial](https://www.medlearnity.com/start-here/).
 
-[![Start Tutoring With Medlearnity](https://www.medlearnity.com//images/wp/2021/10/03-Start-Tutoring-With-Medlearnity.png)](https://www.medlearnity.com/start-here/)
+[![Start Tutoring With Medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/03-Start-Tutoring-With-Medlearnity.png)](https://www.medlearnity.com/start-here/)

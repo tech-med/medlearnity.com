@@ -45,7 +45,7 @@ We invest the time to assess **your personal needs** and pair you with the ABS C
 
 **We have helped over 500+ aspiring doctors achieve their goals on high-stakes exams**. Many of our students return for tutoring for subsequent exams as they realize the value of our services. We are confident that your performance will significantly improve after working with us.
 
-[![](https://www.medlearnity.com//images/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)
 
 ## What To Expect From ABS CE Tutoring
 

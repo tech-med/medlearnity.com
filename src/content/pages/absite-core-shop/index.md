@@ -11,7 +11,7 @@ Showing the single result
 
 Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low
 
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/Trial-Resrvation-V2-300x300.png)](https://www.medlearnity.com/product/absite-trial-reservation/)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Trial-Resrvation-V2-300x300.png)](https://www.medlearnity.com/product/absite-trial-reservation/)
     
     ## Absite Trial Reservation
     

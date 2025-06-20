@@ -26,7 +26,7 @@ Brosencephalon can be a great addition to your study toolkit. The Anki method is
 
 At the same time, we wouldn't recommend using this as your main study resource for Step 1. The flashcards are most useful for helping you to retain information that has already been learned, rather than for learning concepts for the first time. Keep in mind that a flashcard presents a small, isolated piece of information; this is helpful for remembering facts, but will not help you to connect different concepts in order to build your overall framework of understanding and clinical reasoning skills. Also, unlike other resources (such as [UWorld](https://www.uworld.com/)), this is not a QBank, meaning that the questions are not USMLE style. Brosencephalon is an excellent addition to other resources for Step 1 review, but is not suitable for being your primary resource.
 
-![](https://www.medlearnity.com//images/wp/2020/08/shutterstock-flash-card-300x200.png)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock-flash-card-300x200.png)
 
 ### Brosencephalon organization
 

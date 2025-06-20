@@ -21,7 +21,7 @@ However, that’s also just it. Rooting for you is all that I can do. In fact, i
 
 Every professional starts out as a student just as every master starts out as an apprentice. You can’t become an expert at anything if you don’t take the time to learn thoroughly. Since medicine deals with real lives and real people, it’s a very strict discipline. You’ll find that this is all because of how important and dire the work involved is. When you work as an accountant and you make mistakes in your calculations, your company suffers financial losses. When you’re a doctor and you make a mistake, it’s not just money that’s lost. What may be put in peril is much more important than any paper currency – a life.
 
-![](https://www.medlearnity.com//images/wp/2020/09/MCAT-top1.jpg "MCAT-top1")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/MCAT-top1.jpg "MCAT-top1")
 
 This is why the medical discipline is truly a strict one. It’s all for good reasons.
 

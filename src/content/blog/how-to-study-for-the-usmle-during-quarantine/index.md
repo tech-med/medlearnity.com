@@ -37,7 +37,7 @@ Time blocks are a great way to organize your day. You need to set distinct block
 
 Scrolling through social media outlets like Facebook and Instagram are time sinks. Hours might go by before you realize that you have spent so much time doing absolutely nothing. Every day, set aside a block of time that you will dedicate to studying: say 10:00 AM to 3:00 PM. Also turn your phone off during this time. Stay true to not touching your phone during this time. Fight the urge – and you will see that the returns that you gain from deep focus will be enormous.
 
-![](https://www.medlearnity.com//images/wp/2020/04/Study-for-the-USMLE-During-Quarantine-2-scaled.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Study-for-the-USMLE-During-Quarantine-2-scaled.jpg)
 
 ### 5\. Sign Up for Professional Tutoring
 

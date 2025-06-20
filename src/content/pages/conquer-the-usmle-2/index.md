@@ -15,7 +15,7 @@ The most significant challenge of your medical career can become your greatest o
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://www.medlearnity.com//images/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
 
 ## Shop Our USMLE Tutoring Packages
 
@@ -23,7 +23,7 @@ Showing all 4 results
 
 Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low
 
-- [![](https://www.medlearnity.com//images/wp/2021/04/1-Hour-300x300.png)
+- [![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/04/1-Hour-300x300.png)
     
     ## 1-Hour of Tutoring
     
@@ -32,7 +32,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4318)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/10-Hour-300x300.png)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/10-Hour-300x300.png)
     
     ## 10-Hour Package
     
@@ -41,7 +41,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4153)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/20-Hour-300x300.png)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/20-Hour-300x300.png)
     
     ## 20-Hour Package
     
@@ -50,7 +50,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4155)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/40-Hour-300x300.png)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/40-Hour-300x300.png)
     
     ## 40-Hour Package
     
@@ -138,7 +138,7 @@ Thousands of med students take the USMLE every year. Many of them struggle to ge
 
 Data from the NRMP (the National Residency Matching Program, the program that administers the Match) indicate that residency directors rank applicant’s scores on USMLE Step 1 and Step 2 CK among the most important factors in determining who gets invited for an interview. Your performance on these exams could determine whether you even get a chance to interview at the program of your choice.
 
-[![](https://www.medlearnity.com//images/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png "Image 2020-10-17 at 7.04.02 PM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png "Image 2020-10-17 at 7.04.02 PM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
 
 Residency directors give a lot of weight to USMLE scores, because they’re standardized and easily comparable across different med schools. This gives them a unique weight in your residency application.If you’re planning to apply for a fellowship after your residency, then your Step 3 scores will also become important in your application. At the same time, Step 1 and Step 2 CK scores continue to be important even into fellowship. This is why it’s crucial to achieve the best possible scores on these exams; a less-than-stellar performance on Step 1 or Step 2 CK could put limits on your career choices years later.Your USMLE scores are crucial to your future in medicine. Your choice of specialty, residency location, and other program specifics depends heavily on your USMLE scores.
 
@@ -152,7 +152,7 @@ Residency directors give a lot of weight to USMLE scores, because they’re stan
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.
 
-![how to book your free tutoring trial with medlearnity](https://www.medlearnity.com//images/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
+![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
 
 Personalized tutoring is the most powerful way to improve your USMLE score. We know that you’ll experience the same benefits as our hundreds of satisfied students. We want to see you get into your first-choice program.For those who are ready to work with a practicing physician tutor to conquer the USMLE, we offer a variety of packages at a significant discount off our regular hourly rate. We’re committed to bringing high-quality tutoring within reach for as many students as possible.We’re completely confident that once you experience our tutoring services, you’ll understand the value that we can bring to you. That’s why we offer a free one-hour tutoring session. There’s no obligation to continue with the service after your free session; this is just a chance for you to see for yourself what Medlearnity tutoring is like.
 

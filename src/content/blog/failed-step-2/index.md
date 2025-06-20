@@ -21,7 +21,7 @@ After a Step 2 CK failure, you might feel tempted to self-isolate or keep your s
 
 ### 2\. Contact Your Administration
 
-![Contact Your Administration](https://www.medlearnity.com//images/wp/2023/02/02-contact-your-administration.png)
+![Contact Your Administration](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/02/02-contact-your-administration.png)
 
 After receiving your test scores, you should also alert your medical school administration to discuss the next steps. As professionals in the field, they know how you should proceed and offer quality resources. If you have an academic advisor, they can be an excellent help. Going to someone you have a personal relationship with can also benefit you because they already know your professional and academic goals.
 
@@ -55,7 +55,7 @@ After failing Step 2, remember that your journey is not over. Each program and s
 
 ## Can You Retake Step 2?
 
-![Can You Retake Step 2?](https://www.medlearnity.com//images/wp/2023/02/03-Can-you-retake-step-2.png)
+![Can You Retake Step 2?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/02/03-Can-you-retake-step-2.png)
 
 Yes, you can retake the Step 2 exam. USMLE specifies that you have [up to four attempts](https://www.usmle.org/bulletin-information/eligibility) to take any of their medical exams. This provides students with a Step 2 failure some time to study and retake the exam to have a passing score they can use to apply for residency programs.
 
@@ -85,7 +85,7 @@ Practice tests are also great at identifying what concepts you need to review. B
 
 Medical students approaching their first attempt or a retake can [use several practice Step 2 exams](https://www.medlearnity.com/best-resources-for-step-2-ck-prep/), including:
 
-![Take Practice Tests](https://www.medlearnity.com//images/wp/2023/02/Pinterest.png)
+![Take Practice Tests](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/02/Pinterest.png)
 
 - **UWorld:** UWorld allows you to randomize questions and set timers, so the test feels like the actual exam, making it a valuable resource for medical students preparing for Step 2. You can also turn off the randomized feature to help you identify what concepts you need to study.
 - **Amboss:** Like UWorld, Amboss is another site where students can take accurate practice tests. This site is unique because it provides comprehensive explanations for answers that you can access anytime, helping boost learning by ensuring students can understand and fix their mistakes.
@@ -118,7 +118,7 @@ Tutors work with students to identify weaknesses and implement strategies that f
 
 ## Develop a Study Plan for Step 2 With Medlearnity
 
-[![Develop a Study Plan for Step 2 With Medlearnity ](https://www.medlearnity.com//images/wp/2023/02/05-CTA-39.png)](https://www.medlearnity.com/start-here/)
+[![Develop a Study Plan for Step 2 With Medlearnity ](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/02/05-CTA-39.png)](https://www.medlearnity.com/start-here/)
 
 When getting ready to retake Step 2, our tutors are here to help. With a comprehensive understanding of Step 2 CK, we can review materials and provide strategies to help students succeed.
 

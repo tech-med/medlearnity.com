@@ -39,7 +39,7 @@ Dermatology
 
 Columbia University, MD
 
-[![keith cordner](https://www.medlearnity.com//images/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
+[![keith cordner](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/05/Keith_Cordner.jpg "Keith_Cordner")
 
 ### Keith Cordner
 
@@ -47,13 +47,13 @@ Columbia University, MD
 
 **University of Minnesota,MD Candidate**
 
-[![](https://www.medlearnity.com//images/wp/2022/08/Melissa-Wing.webp "Melissa Wing")](https://www.medlearnity.com/our-tutors/melissa-wing/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/08/Melissa-Wing.webp "Melissa Wing")](https://www.medlearnity.com/our-tutors/melissa-wing/)
 
 ### Melissa Wing, MD
 
 Internal Medicine Residency at UC San Diego
 
-[![](https://www.medlearnity.com//images/wp/2022/08/Kush-Patel.webp "Kush Patel")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/08/Kush-Patel.webp "Kush Patel")
 
 ### Kush Patel, MD
 
@@ -61,7 +61,7 @@ Internal Medicine Residency at UC San Diego
 
 Internal Medicine Residency at Harvard (BWH)
 
-[![](https://www.medlearnity.com//images/wp/2023/07/Ken-Nakanote-1.webp "Ken-Nakanote-1")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/07/Ken-Nakanote-1.webp "Ken-Nakanote-1")
 
 ### Ken Nakanote, MD
 
@@ -69,7 +69,7 @@ Internal Medicine Residency at Harvard (BWH)
 
 Residency at University of Utah
 
-[![](https://www.medlearnity.com//images/wp/2022/09/Victoria-Lord.webp "Victoria Lord")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/09/Victoria-Lord.webp "Victoria Lord")
 
 ### Victoria Lord
 
@@ -77,7 +77,7 @@ Residency at University of Utah
 
 University of Pennsylvania,MD Candidate
 
-[![](https://www.medlearnity.com//images/wp/2023/07/PR.webp "PR")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/07/PR.webp "PR")
 
 ### Pranav Rekapalli
 
@@ -85,7 +85,7 @@ University of Pennsylvania,MD Candidate
 
 University of Pennsylvania, MD Candidate
 
-[![](https://www.medlearnity.com//images/wp/2023/08/Sylvia_Rhodes.webp "Sylvia_Rhodes")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/08/Sylvia_Rhodes.webp "Sylvia_Rhodes")
 
 ### Sylvia Rhodes
 
@@ -93,7 +93,7 @@ University of Pennsylvania, MD Candidate
 
 **University of Pennsylvania,MD Candidate**
 
-[![](https://www.medlearnity.com//images/wp/2024/10/Lucy-Wang.webp "Lucy Wang")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Lucy-Wang.webp "Lucy Wang")
 
 ### Lucy Wang
 
@@ -101,7 +101,7 @@ University of Pennsylvania, MD Candidate
 
 University of Pennsylvania
 
-[![](https://www.medlearnity.com//images/wp/2023/09/Max-f.webp "Max f")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/09/Max-f.webp "Max f")
 
 ### Max Frankfurter
 
@@ -109,7 +109,7 @@ University of Pennsylvania
 
 Perelman School of Medicine (MSTP), MD Candidate
 
-[![](https://www.medlearnity.com//images/wp/2023/09/Farid-Ghamsari1.webp "Farid Ghamsari1")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/09/Farid-Ghamsari1.webp "Farid Ghamsari1")
 
 ### Farid Ghamsari
 
@@ -117,7 +117,7 @@ Perelman School of Medicine (MSTP), MD Candidate
 
 University of Arizona, MD Candidate
 
-[![Keon Youssefzadeh - Medlearnity Tutor](https://www.medlearnity.com//images/wp/2024/02/Keon-Youssefzadeh.webp "Keon Youssefzadeh")
+[![Keon Youssefzadeh - Medlearnity Tutor](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/02/Keon-Youssefzadeh.webp "Keon Youssefzadeh")
 
 ### Keon Youssefzadeh
 
@@ -125,7 +125,7 @@ University of Arizona, MD Candidate
 
 Wake Forest School of Medicine
 
-[![](https://www.medlearnity.com//images/wp/2024/06/Robert-Rosen.webp "Robert Rosen")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/06/Robert-Rosen.webp "Robert Rosen")
 
 ### Robert Rosen
 
@@ -133,7 +133,7 @@ Wake Forest School of Medicine
 
 Robert Wood Johnson Medical School
 
-[![](https://www.medlearnity.com//images/wp/2024/07/Richard-Wang-1.webp "Richard Wang (1)")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/Richard-Wang-1.webp "Richard Wang (1)")
 
 ### Richard Wang, MD
 
@@ -141,7 +141,7 @@ Robert Wood Johnson Medical School
 
 University of Texas Southwestern
 
-[![](https://www.medlearnity.com//images/wp/2024/10/Walid-Ashmeik.webp "Walid Ashmeik")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Walid-Ashmeik.webp "Walid Ashmeik")
 
 ### Walid Ashmeik
 
@@ -149,7 +149,7 @@ University of Texas Southwestern
 
 University of California Los Angeles
 
-[![](https://www.medlearnity.com//images/wp/2024/07/Sai.webp "Sai")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/Sai.webp "Sai")
 
 ### Sai Bhatte
 
@@ -157,7 +157,7 @@ University of California Los Angeles
 
 University of Pennsylvania
 
-[![](https://www.medlearnity.com//images/wp/2024/07/Dani.webp "Dani")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/Dani.webp "Dani")
 
 ### Dani Brown
 
@@ -165,7 +165,7 @@ University of Pennsylvania
 
 University of Pennsylvania
 
-[![](https://www.medlearnity.com//images/wp/2024/08/Fawaz-Naeem-2.webp "Fawaz Naeem 2")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/08/Fawaz-Naeem-2.webp "Fawaz Naeem 2")
 
 ### Fawaz Naeem
 
@@ -173,7 +173,7 @@ University of Pennsylvania
 
 University of Pennsylvania
 
-[![Daksh Chauhan](https://www.medlearnity.com//images/wp/2024/08/Daksh-Chauhan.webp "Daksh Chauhan")
+[![Daksh Chauhan](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/08/Daksh-Chauhan.webp "Daksh Chauhan")
 
 ### Daksh Chauhan
 
@@ -181,7 +181,7 @@ University of Pennsylvania
 
 University of Pennsylvania
 
-[![](https://www.medlearnity.com//images/wp/2024/07/JL-600.webp "JL 600")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/JL-600.webp "JL 600")
 
 ### Joseph Lu
 
@@ -189,7 +189,7 @@ University of Pennsylvania
 
 Sidney Kimmel Medical College
 
-[![](https://www.medlearnity.com//images/wp/2024/09/Anna-Chen.webp "Anna Chen")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/09/Anna-Chen.webp "Anna Chen")
 
 ### Anna Chen
 
@@ -197,7 +197,7 @@ Sidney Kimmel Medical College
 
 University of Pennsylvania Perelman School of Medicine
 
-[![](https://www.medlearnity.com//images/wp/2025/01/Mimi-Kim.webp "Mimi Kim")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2025/01/Mimi-Kim.webp "Mimi Kim")
 
 ### Mimi Kim
 
@@ -205,7 +205,7 @@ University of Pennsylvania Perelman School of Medicine
 
 Perelman School of Medicine
 
-[![](https://www.medlearnity.com//images/wp/2025/01/Justin-Sardi.webp "Justin Sardi")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2025/01/Justin-Sardi.webp "Justin Sardi")
 
 ### Justin Sardi
 
@@ -213,73 +213,73 @@ Perelman School of Medicine
 
 Harvard Medical School
 
-![](https://www.medlearnity.com//images/wp/2024/10/Smrithi_.webp "Smrithi_")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Smrithi_.webp "Smrithi_")
 
 ### Smrithi Prem
 
 Rutgers-Robert Wood Johnson, MD/PhD Candidate
 
-![Shawn Sun, MD - Radiology at University of California Irvine and Med Learnity tutor for MCAT and USMLE Step 1 and Step 2](https://www.medlearnity.com//images/wp/2022/03/ShawnSun.jpeg "ShawnSun")
+![Shawn Sun, MD - Radiology at University of California Irvine and Med Learnity tutor for MCAT and USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/03/ShawnSun.jpeg "ShawnSun")
 
 ### Shawn Sun
 
 University of California Irvine Radiology
 
-![Dustin Crystal, MD - Plastic Surgery at the University of Pennsylvania and Med Learnity tutor for USMLE Step 1 and Step 2](https://www.medlearnity.com//images/wp/2020/04/Dustin-e1591253808115.png "Dustin")
+![Dustin Crystal, MD - Plastic Surgery at the University of Pennsylvania and Med Learnity tutor for USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Dustin-e1591253808115.png "Dustin")
 
 ### Dustin Crystal, MD
 
 University of Pennsylvania,Plastic Surgery
 
-![Surabhi Menon, MD - Pediatrics at Weill Cornell and Med Learnity tutor for USMLE Step 1 and Step 2](https://www.medlearnity.com//images/wp/2020/04/Surabhi.png "Surabhi")
+![Surabhi Menon, MD - Pediatrics at Weill Cornell and Med Learnity tutor for USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Surabhi.png "Surabhi")
 
 ### Surabhi Menon, MD
 
 Weill Cornell, Pediatrics
 
-![](https://www.medlearnity.com//images/wp/2024/10/Amelia.webp "Amelia")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Amelia.webp "Amelia")
 
 ### Amelia Lanier, MD
 
 NYU Langone, Radiology
 
-![Louis Fanucci, MD - Radiology residency at UC Irvine and IR fellow at Dotter Interventional Institute and MedLearnity tutor](https://www.medlearnity.com//images/wp/2022/08/Louis-Fanucci.webp "Louis Fanucci")
+![Louis Fanucci, MD - Radiology residency at UC Irvine and IR fellow at Dotter Interventional Institute and MedLearnity tutor](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/08/Louis-Fanucci.webp "Louis Fanucci")
 
 ### Louis Fanucci, MD
 
 IR Fellow at Dotter Interventional InstituteRadiology Residency at UC Irvine
 
-![](https://www.medlearnity.com//images/wp/2024/10/Zenas.webp "Zenas")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Zenas.webp "Zenas")
 
 ### Zenas Igbinoba, MD
 
 Columbia University, Radiology
 
-![Ashley London, MD candidate at Columbia University and Med Learnity tutor for USMLE Step 1 and Step 2](https://www.medlearnity.com//images/wp/2021/11/Ashley-London.jpeg "Ashley London")
+![Ashley London, MD candidate at Columbia University and Med Learnity tutor for USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/11/Ashley-London.jpeg "Ashley London")
 
 ### Ashley London
 
 Columbia University, MD Candidate
 
-![Nick Cuccolo, MD - Plastic Surgery at New York University Langone and Med Learnity tutor for USMLE Step 1](https://www.medlearnity.com//images/wp/2020/04/Nicholas.jpg "Nicholas")
+![Nick Cuccolo, MD - Plastic Surgery at New York University Langone and Med Learnity tutor for USMLE Step 1](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Nicholas.jpg "Nicholas")
 
 ### Nick Cuccolo, MD
 
 NYU Langone, Plastic Surgery
 
-![](https://www.medlearnity.com//images/wp/2024/10/Salman.webp "Salman")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/Salman.webp "Salman")
 
 ### Salman Alam
 
 NYIT SOM, DO Candidate
 
-![](https://www.medlearnity.com//images/wp/2024/10/benedict.webp "benedict")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/10/benedict.webp "benedict")
 
 ### Benedict Osorio, MD
 
 Weill Cornell, Internal Medicine
 
-[![](https://www.medlearnity.com//images/wp/2025/04/Amit-Syal.webp "Amit Syal")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2025/04/Amit-Syal.webp "Amit Syal")
 
 ### Amit Syal
 
@@ -287,7 +287,7 @@ Weill Cornell, Internal Medicine
 
 Sidney Kimmel Medical College at Thomas Jefferson University
 
-[![](https://www.medlearnity.com//images/wp/2025/04/Sarah-Bell-1.webp "Sarah Bell (1)")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2025/04/Sarah-Bell-1.webp "Sarah Bell (1)")
 
 ### Sarah Bell
 
@@ -295,7 +295,7 @@ Sidney Kimmel Medical College at Thomas Jefferson University
 
 Perelman School of Medicine at the University of Pennsylvania
 
-[![](https://www.medlearnity.com//images/wp/2025/05/Yehuda-Elkaim.webp "Yehuda Elkaim")
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2025/05/Yehuda-Elkaim.webp "Yehuda Elkaim")
 
 ### Yehuda Elkaim
 

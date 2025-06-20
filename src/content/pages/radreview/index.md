@@ -7,7 +7,7 @@ description: "Welcome to Medlearnity's Radiology Core Tutoring"
 ---
 
 
-[![Medlearnity logo](https://www.medlearnity.com//images/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")](/)
+[![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg "logo_Med_Learnity")](/)
 
 Welcome to Medlearnity's Radiology Core Tutoring
 
@@ -17,7 +17,7 @@ We specialize in turning the demanding ABR CORE exam into a manageable task, foc
 
 #### Get started with our Radiology Review today!
 
-[![](https://www.medlearnity.com//images/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -75,7 +75,7 @@ Our satisfied students speak for themselves.
 
 #### Get started with our Radiology Review today!
 
-[![](https://www.medlearnity.com//images/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -115,7 +115,7 @@ Showing all 4 results
 
 Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low
 
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/10-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-10-hour-package/)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/10-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-10-hour-package/)
     
     ## Radiology Core 10-Hour Package
     
@@ -124,7 +124,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4710)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/20-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-20-hour-package/)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/20-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-20-hour-package/)
     
     ## Radiology Core 20-Hour Package
     
@@ -133,7 +133,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4713)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/30-Hours-300x300.png)](https://www.medlearnity.com/product/radiology-core-30-hour-package/)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/30-Hours-300x300.png)](https://www.medlearnity.com/product/radiology-core-30-hour-package/)
     
     ## Radiology Core 30-Hour Package
     
@@ -142,7 +142,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     \-
     
     [Add to cart](?add-to-cart=4715)
-- [Sale!![](https://www.medlearnity.com//images/wp/2021/03/40-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-40-hour-package/)
+- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/40-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-40-hour-package/)
     
     ## Radiology Core 40-Hour Package
     
@@ -152,7 +152,7 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
     
     [Add to cart](?add-to-cart=4716)
 
-[![](https://www.medlearnity.com//images/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -164,6 +164,6 @@ This coupon with promotional pricing is active for new students only. If you hav
 
 This coupon with promotional pricing is active for new students only. If you have already had a session with Medlearnity, it does not apply.
 
-[![](https://www.medlearnity.com//images/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp "RadReviewbanner")](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)

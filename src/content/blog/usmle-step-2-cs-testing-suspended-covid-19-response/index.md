@@ -19,7 +19,7 @@ description: "USMLE Step 2 in COVID19: Testing Suspension in Place Until May 31,
 
 For persons scheduled to take USMLE Step 2 Clinical Skills (CS) through May 31, 2020, please note that all Clinical Skills Evaluation Collaboration (CSEC) Test Centers are closed temporarily. The USMLE has announced that they hope to resume operations of all centers on June 1, 2020 – though this is subject to change. The USMLE does not currently have an estimated timeline of when scheduling functionality on the Step 2 CS Calendar and Scheduling System will be restored. Please stay tuned for updates.
 
-![](https://www.medlearnity.com//images/wp/2020/04/person-holding-laboratory-flask-2280571-scaled.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/person-holding-laboratory-flask-2280571-scaled.jpg)
 
 ## **What This Means for Step 2 CS Examinees**
 
@@ -39,7 +39,7 @@ If you have registered for USMLE Step 2 CS, but have not yet scheduled an appoin
 
 ### Persons Planning to Register
 
-![](https://www.medlearnity.com//images/wp/2020/04/COVID-19-1024x683.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/COVID-19-1024x683.jpg)
 
 If you have not registered for USMLE Step 2 CS but were planning to do so, please note that the application processing and registration is still open. However, once your application is accepted, you can't schedule an appointment time until scheduling functionality is restored.
 

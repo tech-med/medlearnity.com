@@ -13,17 +13,17 @@ There really is a **right way to apply** to medical school and residency. Our 
 
 ### Medical School Admissions
 
-![](https://www.medlearnity.com//images/wp/2021/06/Exams-Medical-Aspirants-ML.jpg "Exams-Medical-Aspirants-ML")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/06/Exams-Medical-Aspirants-ML.jpg "Exams-Medical-Aspirants-ML")
 
 Our [medical school admissions consultants](https://www.medlearnity.com/medical-school-admissions/) are experts in helping aspiring medical students put together their application. They provide guidance through every step of applying to medical school -- from **application editing, to personal statement and secondary essay editing to interview preparation**. Our admissions consultants know what medical school admissions committees are looking for in a future medical student, and they will help you tell your story in a way that can best convey that. Their thoughtful advice and invaluable feedback has helped many students receive acceptances to their dream medical schools.
 
 ### Residency Program Admissions
 
-![](https://www.medlearnity.com//images/wp/2020/04/shutterstock_326305964-scaled-e1591531960687.jpg "shutterstock_326305964")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/shutterstock_326305964-scaled-e1591531960687.jpg "shutterstock_326305964")
 
 Our [residency admissions and match consultants](https://www.medlearnity.com/residency-admissions/) serve as an extremely helpful resource throughout the residency application and admission cycle. Not only have our consultants themselves matched at top residency programs and hospitals throughout the country, but they also have an insider's perspective on what it takes to get there. From **s****electing and applying to residency programs, to putting together the ideal application, and interviewing, to helping you formulate your rank order list**, our residency admissions and match consultants will guide you through every part of the process.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)
 
 #### This is an outstanding organization dedicated and fully committed to your success.
 

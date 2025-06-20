@@ -34,7 +34,7 @@ Thousands of med students take the USMLE every year. Many of them struggle to pa
 
 Data from the NRMP (the National Residency Matching Program, the program that administers the Match) indicate that residency directors rank applicant’s scores on USMLE Step 1 and Step 2 CK among the most important factors in determining who gets invited for an interview. Your performance on these exams could determine whether you even get a chance to interview at the program of your choice.
 
-[![](https://www.medlearnity.com//images/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png "Image 2020-10-17 at 7.04.02 PM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png "Image 2020-10-17 at 7.04.02 PM")](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
 
 Residency directors give a lot of weight to USMLE scores, because they’re standardized and easily comparable across different med schools. This gives them a unique weight in your residency application.If you’re planning to apply for a fellowship after your residency, then your Step 3 scores will also become important in your application. At the same time, passing Step 1 continues to be important even into fellowship. This is why it’s crucial to achieve the best possible scores on these exams; a less-than-stellar performance on Step 1 or Step 2 CK could put limits on your career choices years later.Passing step 1 is crucial to your future in medicine. Your choice of specialty, residency location, and other program specifics depends heavily on your USMLE scores.
 
@@ -104,7 +104,7 @@ Akshay is a very patient tutor who focuses on strengthening an individual's weak
 
 ### Check Us Out On Trustpilot And Google
 
-[![trustpilot reviews](https://www.medlearnity.com//images/wp/2021/08/42-421398_trustpilot-logo-png-transparent-png.jpg "Trustpilot logo")](https://www.trustpilot.com/review/medlearnity.com)[![](https://www.medlearnity.com//images/wp/2022/03/download.png "download")](https://www.google.com/search?q=medlearnity+&rlz=1C1GCEA_enUS967US967&ei=QtswYv9WspvBuQ_wwbeYBg&ved=0ahUKEwj__-_s38j2AhWyTTABHfDgDWMQ4dUDCA4&uact=5&oq=medlearnity+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEB4yBAgAEB4yBAgAEB5KBQg8EgExSgQIQRgBSgQIRhgAUNsCWNsCYN8DaAFwAHgBgAF6iAHlAZIBAzAuMpgBAKABAcABAQ&sclient=gws-wiz#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
+[![trustpilot reviews](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/08/42-421398_trustpilot-logo-png-transparent-png.jpg "Trustpilot logo")](https://www.trustpilot.com/review/medlearnity.com)[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/03/download.png "download")](https://www.google.com/search?q=medlearnity+&rlz=1C1GCEA_enUS967US967&ei=QtswYv9WspvBuQ_wwbeYBg&ved=0ahUKEwj__-_s38j2AhWyTTABHfDgDWMQ4dUDCA4&uact=5&oq=medlearnity+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEB4yBAgAEB4yBAgAEB5KBQg8EgExSgQIQRgBSgQIRhgAUNsCWNsCYN8DaAFwAHgBgAF6iAHlAZIBAzAuMpgBAKABAcABAQ&sclient=gws-wiz#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## Get started with Step 1 tutoring today, and be on your way to matching with the program of your choice.
 
@@ -116,6 +116,6 @@ During your free session, your tutor can answer any questions you may have, cove
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://www.medlearnity.com//images/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png "Surabhi Step 2 CK Report")
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.

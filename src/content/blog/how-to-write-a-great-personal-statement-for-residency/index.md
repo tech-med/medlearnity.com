@@ -13,7 +13,7 @@ description: "7 tips to help you write your personal statement for residency and
 
 # 7 tips to help you write your personal statement for residency and improve your chances of landing your dream program
 
-![Medical student surrounded by books, writing his personal statement for residency.](https://www.medlearnity.com//images/wp/2020/07/shutterstock_1750963505-2-300x200.jpg)
+![Medical student surrounded by books, writing his personal statement for residency.](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/shutterstock_1750963505-2-300x200.jpg)
 
 As you prepare to leave medical school and move on to the next stage of your medical career, the thought of residency applications will likely take up a significant amount of your attention. Among the factors you’ll need to consider is your residency personal statement. Sitting in front of a blank page, trying to get started with writing, can be one the most daunting parts of the whole residency application process.
 

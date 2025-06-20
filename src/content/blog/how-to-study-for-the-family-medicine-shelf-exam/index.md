@@ -17,7 +17,7 @@ At the same time, it's important not to get complacent on this rotation. A fully
 
 The Family Medicine Shelf Exam presents a unique challenge. The breadth of material that can potentially be covered on this exam is huge. You could have a question about a senior with dementia, followed by a question about a pregnant woman with depression, followed by a question about the vaccination schedule for infants. How can you possibly study for an exam that covers such a diverse range of topics?
 
-![family medicine shelf exams](https://www.medlearnity.com//images/wp/2020/09/shutterstock_1695205249-1.jpg)
+![family medicine shelf exams](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/shutterstock_1695205249-1.jpg)
 
  
 
@@ -69,7 +69,7 @@ This book is extremely high-yield for the Internal Medicine Shelf. It covers all
 
 You'll definitely want this book for both your Internal Medicine and Surgery Shelves, so it's worth the investment. If you get through the ambulatory care section in Step Up during your family med rotation, you should be well-prepared for the exam.
 
-![Family medicine Shelf exams](https://www.medlearnity.com//images/wp/2020/09/shutterstock_1759555454-1024x640.jpg)
+![Family medicine Shelf exams](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/shutterstock_1759555454-1024x640.jpg)
 
 ## 2\. Create a study schedule for the Family Medicine Shelf Exam
 
@@ -97,4 +97,4 @@ For those who want some extra help studying for their [Shelf Exams](https://www.
 
 We hope that you find your family medicine rotation enjoyable and rewarding.
 
-[![get a customized study plan based on your goals and learning style](https://www.medlearnity.com//images/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
+[![get a customized study plan based on your goals and learning style](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)

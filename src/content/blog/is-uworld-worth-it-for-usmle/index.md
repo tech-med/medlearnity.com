@@ -26,7 +26,7 @@ UWorld alone is not enough. You should use UWorld along with these tips to effec
 
 As with all study methods, UWorld requires effective usage to yield the best results. [Having the right mindset while studying for the USMLE Step 1](https://www.medlearnity.com/whats-your-usmle-step-1-mentality/) and practicing healthy habits will help you get the most out of your studies and establish an effective USMLE study schedule.
 
-![step 1 mindset advice](https://www.medlearnity.com//images/wp/2021/12/01-is-uworld-enough-for-step-1.jpg)
+![step 1 mindset advice](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-is-uworld-enough-for-step-1.jpg)
 
 ## When to Start Studying With UWorld
 
@@ -44,7 +44,7 @@ Being aware of potential pitfalls ensures you use UWorld correctly and effective
 - **Skimming explanations:** UWorld is a valuable resource — take advantage of it! Read every explanation to clarify any misunderstandings and get the most out of every question.
 - **Postponing question blocks:** Embracing challenges will help you on Step 1 and future tests. Dive into every block knowing you'll gain new knowledge and be 1% better than you were before.
 
-[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://www.medlearnity.com//images/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
+[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
 
 ## UWorld Step 1 FAQs
 

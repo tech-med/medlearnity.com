@@ -32,7 +32,7 @@ These percentiles mean that if you score at or below 232, you’re in the botto
 
 Yes! Step 2 CK scores impact your probability of matching to your first-choice program. Now that Step 1 has transitioned to a [pass/fail](https://www.medlearnity.com/usmle-step-1-pass-fail/) system, Step 2 will only matter more. 
 
-![step 2 ck percentiles score](https://www.medlearnity.com//images/wp/2020/04/Screenshot-2020-08-24-at-12.05.41-AM.png)
+![step 2 ck percentiles score](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Screenshot-2020-08-24-at-12.05.41-AM.png)
 
 ### What’s the Minimum Score to Pass Step 2 CK?
 
@@ -73,7 +73,7 @@ In general, the more competitive specialties often receive higher scores. You ma
 13. Psychiatry
 14. Family medicine
 
-[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://www.medlearnity.com//images/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
+[![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
 
 ## Step 1 vs. Step 2 Scores & Test Averages
 
@@ -95,7 +95,7 @@ To land [near the 75th percentile](https://www.usmle.org/sites/default/files/20
 
 Since Step 1 now operates on a pass/fail system, your percentile for that examination matters less. For the following two tests, however, a score in or above the 75th percentile can help you achieve your desired residency.
 
-![](https://www.medlearnity.com//images/wp/2020/04/LEARNING-1-1024x683.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/LEARNING-1-1024x683.jpg)
 
 ### When Should You Take Step 2?
 
@@ -119,7 +119,7 @@ Many students use this as an excuse not to bother studying for Step 2. They fi
 
 If you dedicate a significant amount of time to preparing for this exam, you’ll be ahead of many of your peers. If you [create a study plan](https://www.medlearnity.com/how-to-score-280-on-usmle-step-2-ck/) and stick to it, then you have the chance to do really well on Step 2 CK. Your extra studies could be the edge that gets you into your chosen residency program.
 
-[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://www.medlearnity.com//images/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
+[![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)
 
 ## Do You Have a Study Plan for Step 2 CK?
 

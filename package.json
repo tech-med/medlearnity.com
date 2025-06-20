@@ -8,7 +8,8 @@
     "astro:check": "astro check",
     "preview": "astro preview",
     "astro": "astro",
-    "fix:descriptions": "node scripts/add-descriptions.js"
+    "fix:descriptions": "node scripts/add-descriptions.js",
+    "fix:image-paths": "node scripts/replace-image-paths.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -20,6 +21,7 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
+    "@vercel/blob": "^1.1.1",
     "wordpress-export-to-markdown": "^3.0.4"
   }
 }

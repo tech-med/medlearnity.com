@@ -51,7 +51,7 @@ Medlearnity offers the highest quality medical consulting and tutoring in the in
 
 **Sign up for your [**free** **1 hour trial session**](https://www.medlearnity.com/start-here/) today!**
 
-[![](https://www.medlearnity.com//images/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp "how-to-book-your-first-session")](/purchase-discounted-session/)
 
 ## What To Expect From Our COMLEX Tutors
 
@@ -99,13 +99,13 @@ Thank you for everything!
 
 VH, PGY-3, General Surgery
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
 I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 **Our students love us! See more student reviews on:**
 

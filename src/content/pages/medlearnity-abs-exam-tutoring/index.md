@@ -149,7 +149,7 @@ After successfully completing the QE, a surgeon must pass the ABS CE to complete
 
 ## Get started with ABS tutoring today, and be on your way to matching with the program of your choice.
 
-![how to book your free tutoring trial with medlearnity](https://www.medlearnity.com//images/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
+![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png "MG-how-to-book-your-free-trial")
 
 ## **Book a DISCOUNTED Tutoring Trial**
 

@@ -89,7 +89,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 I have worked with multiple tutors from med Learnity for step 1 & the medicine shelf. I likely would not have made it this far without them. Every tutor I have worked with has been extremely knowledgable & has an amazing understanding of all the concepts of medicine. I have never had people answer my questions so well until I started working with med Learnity. Additionally, one of my biggest challenges is test anxiety and timing. Each of my tutors went out their way to keep adjusting our preparation techniques until I was able to succeed. They would even talk to me about struggles in life and how to overcome them to maintain focus on school. Lastly, med school is long and can cause burn out. The team wants you to succeed and will keep you accountable. They reignited my passion for medicine and kept me on track. I highly highly highly recommend med Learnity if you are struggling passing step 1 or a shelf. If you put in the work with them, you will succeed (if I can do it, trust me anyone can!!). The most recent tutor I had was Sadjad who is EXCEPTIONAL as both a person and a teacher. While med Learnity is expensive, it is an investment in your future and they will get you where you want to be.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2023/10/testimonial-placeholder.png)Stephanie T.USMLE Step 1 and Shelf Student
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Stephanie T.USMLE Step 1 and Shelf Student
 
 #### For anyone who needs that extra guidance and help for step 1 and step 2
 

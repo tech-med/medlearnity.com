@@ -12,7 +12,7 @@ description: "Passing the United States Medical Licensing Exam is essential to b
 ---
 
 
-![USMLE Eligibility](https://www.medlearnity.com//images/wp/2021/12/01-usmle-eligibility.jpg)
+![USMLE Eligibility](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-usmle-eligibility.jpg)
 
 Passing the United States Medical Licensing Exam is essential to becoming a doctor and earning your license to practice medicine in the U.S. The USMLE has three steps designed to test your ability to apply various concepts and principles learned in medical school. If you want to practice medicine in the United States, you'll need to ensure your eligibility before attempting and passing all three steps of the USMLE.
 
@@ -56,7 +56,7 @@ Once you've successfully applied for and passed step 3 of the USMLE, you're elig
 
 ## Are Osteopathic Physicians Eligible to Take the USMLE?
 
-![a medical student studying to become an osteopathic physician](https://www.medlearnity.com//images/wp/2021/12/02-are-osteopathic-physicians-eligible-to-take-the-usmle.jpg)
+![a medical student studying to become an osteopathic physician](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/02-are-osteopathic-physicians-eligible-to-take-the-usmle.jpg)
 
 Osteopathic doctors and physicians are eligible to take the USMLE and become licensed physicians. Medical school students striving to become osteopathic physicians are also [required to take and pass the COMLEX](https://www.medlearnity.com/comlex/) to earn a license and practice medicine. Generally, osteopathic physicians do not complete a residency, so they don't take USMLE step 3.
 
@@ -86,7 +86,7 @@ Once you pass a step of the USMLE, you'll have seven years to take and pass the 
 
 ## Study for Your USMLE With Medlearnity
 
-[![study for your USMLE with Medlearnity](https://www.medlearnity.com//images/wp/2021/12/03-study-for-your-usmle-with-medlearnity.jpg)](https://www.medlearnity.com/start-here/)
+[![study for your USMLE with Medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/03-study-for-your-usmle-with-medlearnity.jpg)](https://www.medlearnity.com/start-here/)
 
 Are you preparing to apply for and take any step of the USMLE? Passing the three steps of the USMLE is essential to becoming a licensed physician and practicing medicine in the United States.
 
@@ -94,4 +94,4 @@ Are you preparing to apply for and take any step of the USMLE? Passing the three
 
 For over eight years, Medlearnity's resources have helped hundreds of aspiring physicians realize their goals and succeed on the USMLE. Our comprehensive resources, such as medical tutoring and consulting, will prepare you to pass each step of the USMLE with confidence. Don't take our word for it — read some of the [testimonials from hundreds of students](https://www.medlearnity.com/student-testimonials/) we've helped. Get started with Medlearnity today and forge a path to success!
 
-[![our tutors have trained at the top hospitals in the country](https://www.medlearnity.com//images/wp/2022/06/04-our-tutors-have-trained.png)](https://www.medlearnity.com/start-here/)
+[![our tutors have trained at the top hospitals in the country](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/04-our-tutors-have-trained.png)](https://www.medlearnity.com/start-here/)

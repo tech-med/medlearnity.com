@@ -53,7 +53,7 @@ I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things
 
 This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
 
-![profile-pic](https://www.medlearnity.com//images/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor
 
 ### **Book Your Free One-Hour Trial Session**
 
@@ -63,4 +63,4 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 ## **Our Tutors Have Trained at the Top Hospitals:**
 
-![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png "Penn Medicine Logo")![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo-e1591252543618.png "Columbia Medical Logo")![](https://www.medlearnity.com//images/wp/2020/04/Weill-Cornell-Logo.png "Weill Cornell Logo")![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png "Mayo v4")![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg "download-NYU MC")![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png "Mount Sinai logo")![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png "Johns Hopkins logo")![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png "Wake Forest Logo")
+![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png "Penn Medicine Logo")![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo-e1591252543618.png "Columbia Medical Logo")![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Weill-Cornell-Logo.png "Weill Cornell Logo")![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png "Mayo v4")![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg "download-NYU MC")![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png "Mount Sinai logo")![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png "Johns Hopkins logo")![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png "Wake Forest Logo")

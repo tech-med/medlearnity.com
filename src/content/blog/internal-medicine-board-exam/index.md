@@ -18,7 +18,7 @@ _If there is internal medicine, then is there external medicine?_
 
 _If internal medicine covers diseases and medical conditions that manifests “internally,” then is it safe to assume that it can cater to any part of the world’s demographic, adults and children included, as long as the symptoms manifest in the inside of the body?_ 
 
-![](https://www.medlearnity.com//images/wp/2020/04/Internal-Medicine-1-1024x682.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Internal-Medicine-1-1024x682.jpg)
 
 Looking at it from this point of reason, it would be inadequate to define internal medicine as simply the branch of medical science that deals with conditions which manifest internally. Surely, there is more to it than that. And today, we’re going to help you get to the bottom of it.
 
@@ -61,7 +61,7 @@ Also, you will need a valid medical license issued by the governing authorities 
 
 Once you’re done with all of these pre-examination requirements and you’ve satisfactorily met everything that the ABIM is asking for, especially where competencies are concerned. The only thing left to do is to schedule and take the Board Examination.
 
-![The ABIM Exam](https://www.medlearnity.com//images/wp/2020/04/01-ABIM-Exam.png)
+![The ABIM Exam](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/01-ABIM-Exam.png)
 
 ## What Is the ABIM Exam?
 
@@ -95,7 +95,7 @@ To pass the ABIM exam, your score must be equal to or exceed the passing score o
 
 Although it is highly unlikely an error occurred during grading, applicants can request a rescoring to reverify their results. While this is available, it is important to note a rescoring likely will not change the outcome of your final scores.
 
-[![](https://www.medlearnity.com//images/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
+[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
 
 ## What Is the Internal Medicine Board Exam Format?
 
@@ -103,7 +103,7 @@ The ABIM exam format is comprised of single-best answer questions. These questio
 
 While other options may be partially correct, it is up to you to determine the answer that seems more accurate. One of the most important steps to prepare for the ABIM examination is to familiarize yourself with this question and answer format.
 
-![while each person's learning style is unique, ABIM tutorials, practice exams or study groups may be effective tools to help you prepare for your exam](https://www.medlearnity.com//images/wp/2020/04/02-How-to-Prepare-for-the-Internal-Medicine-Board-Exam.png)
+![while each person's learning style is unique, ABIM tutorials, practice exams or study groups may be effective tools to help you prepare for your exam](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/02-How-to-Prepare-for-the-Internal-Medicine-Board-Exam.png)
 
 ## How to Prepare for the Internal Medicine Board Exam
 
@@ -150,7 +150,7 @@ If you have already passed your ABIM certification exam, you will need to mainta
 
 While the initial certification exam and maintenance of the certification exam are similar, one difference is the overall length. The initial certification exam takes approximately 10 hours to complete in four two-hour long sessions plus breaks. On the other hand, the maintenance of the certification exam takes approximately eight hours, with three two-hour sessions and breaks.
 
-[![book your free trial today and try out our tutoring services](https://www.medlearnity.com//images/wp/2020/04/03-How-to-Prep-for-the-ABIM-Exam.png)](https://www.medlearnity.com/internal-medicine-boards/)
+[![book your free trial today and try out our tutoring services](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/03-How-to-Prep-for-the-ABIM-Exam.png)](https://www.medlearnity.com/internal-medicine-boards/)
 
 ## How to Prep for the ABIM Exam
 

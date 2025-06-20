@@ -17,7 +17,7 @@ If you're considering going into pediatrics or a related field, then you'll defi
 
 How can you ace your Pediatrics Shelf Exam? What resources should you use, and what should you focus on?
 
-![](https://www.medlearnity.com//images/wp/2020/08/shutterstock_288150239-1-300x200.jpg)
+![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_288150239-1-300x200.jpg)
 
 ## What are the best resources for studying for the Pediatrics Shelf Exam?
 
@@ -45,7 +45,7 @@ BRS Peds can help you to get a high score on your Pediatrics Shelf Exam, but we 
 
 This is a book with high-yield USMLE style questions. You may find it useful for after you finish the Pediatrics section in UWorld. This can be a great resource for keeping in your bag to study during any downtime on your rotation. We'd definitely recommend that you focus on UWorld first, but PreTest is a good supplemental option for doing practice questions when you have some extra time, or after you're finished with UWorld.
 
-![med student preparing for pediatrics shelf exam](https://www.medlearnity.com//images/wp/2020/08/shutterstock_1684338451-1-300x200.jpg)
+![med student preparing for pediatrics shelf exam](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1684338451-1-300x200.jpg)
 
 ## How can you create a study schedule?
 
