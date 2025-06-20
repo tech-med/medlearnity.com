@@ -12,21 +12,15 @@ If you've been struggling with your pre-medical or medical school coursework, **
 
 ### Pre-Medical Coursework
 
-![](//www.medlearnity.com//images/wp/2020/05/LEARNING-1-scaled-1.jpg 'LEARNING-1-scaled')
-
 Having a solid foundation in your pre-medical coursework is essential to succeeding in medical school. **Our curriculum features biology, biochemistry, chemistry, physics, and organic chemistry** so you can feel confident about your coursework and show medical schools your full potential.
 
 Our tutors know the secrets to excelling in pre-medical coursework, and they're ready to help you do the same. With their support, you can strengthen your medical school application focusing on pre-med and your [MCAT](https://www.medlearnity.com/mcat/). We'll walk you through the curriculum and teach you exactly how that information will apply to future tests.
 
 ### Medical School Coursework
 
-![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
-
 The demanding curriculum of medical school is a big leap away from pre-med. At Medlearnity, we serve as a mentor throughout your medical school journey and have the insight to help you [excel on your USMLE](https://www.medlearnity.com/usmle/), [COMLEX](https://www.medlearnity.com/comlex/), and [Shelf Exams](https://www.medlearnity.com/nbme-shelf-exams/). Prepare for medical school and beyond with tutors from Medlearnity.
 
 ## Why You Should Choose MED LEARNITY
-
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
@@ -34,15 +28,11 @@ Our tutors know how to **customize sessions specifically** **for you** and asses
 
 We take the initiative to pair you with a tutor who is right for you and is an expert in the areas and tests you're studying for. **Every session is recorded and emailed to you so that you can review it at any time**.
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 Our tutoring team is made up of physicians who have practiced and trained at the best hospitals across America.
 
 We **provide a comprehensive and unrivaled understanding of the current state of medicine** and how current admissions and residency programs work. 
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -82,8 +72,6 @@ After your free trial session, **we'll send you a feedback report with next step
 
 **The trial session is completely free, so that you can experience the high-quality tutoring we provide**. We know that the high-caliber of our services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-![](//www.medlearnity.com//images/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg '87111525_10157936509629477_2364165572716920832_o')
-
 Turja C.
 
 USMLE Step 1 and 2 CK Student
@@ -92,22 +80,12 @@ USMLE Step 1 and 2 CK Student
 
 **See more student reviews on our:**
 
-[](https://www.medlearnity.com/comlex-vs-usmle-scores/)
-
 ## [COMLEX vs. USMLE Scores](https://www.medlearnity.com/comlex-vs-usmle-scores/ 'COMLEX vs. USMLE Scores')
-
-[](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/)
 
 ## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ 'Score High or Focus on Passing the USMLEs')
 
-[](https://www.medlearnity.com/usmle-eligibility-and-requirements/)
-
 ## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ 'USMLE Eligibility & Requirements')
 
-[](https://www.medlearnity.com/medical-student-journey/)
-
 ## [The Medical Student Journey](https://www.medlearnity.com/medical-student-journey/ 'The Medical Student Journey')
-
-[](https://www.medlearnity.com/internal-medicine-board-exam/)
 
 ## [Introducing The World Of Internal Medicine – & How You Can Be Part of It](https://www.medlearnity.com/internal-medicine-board-exam/ 'Introducing The World Of Internal Medicine – & How You Can Be Part of It')

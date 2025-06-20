@@ -73,6 +73,5 @@ If you'd like help preparing for the USMLE, COMLEX or any other medical school e
 
 Tutoring is a great way to supplement studying on your own. You'll talk to and learn from experienced doctors who can improve your understanding of allopathic and osteopathic medical concepts so that you can perform your best on exam day.
 
-[Sign up for a free tutoring trial](https://www.medlearnity.com/start-here/) and find out how Medlearnity can help you advance your medical career!
-
+[Sign up for a free tutoring trial](https://www.medlearnity.com/start-here/) and find out how Medlearnity can help you advance your medical career
 [![Prepare for Success With Medlearnity Expert Tutors](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/07/03-sign-up-for-free-tutoring.png)](https://www.medlearnity.com/start-here/)

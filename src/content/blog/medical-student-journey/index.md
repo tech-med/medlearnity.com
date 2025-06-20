@@ -44,7 +44,7 @@ Usually, after getting the undergraduate degree or any of the previously mention
 
 Another assessment a student might face is the CASPer test, which stands for the Computer-Based Assessment for Sampling Personal Characteristics. This test is part of the admissions process that is used to determine the student's professionalism, ethics, communication and empathy. In this test, students can expect to be asked, "What would you do and why?" questions.
 
-Now you are ready to start the med school application process!
+Now you are ready to start the med school application process
 
 ## Medical School Application Definitions
 
@@ -87,7 +87,7 @@ A medical student might also come across the USMLE, known as the United States 
 - **USMLE Step 2 CS** is used to test the clinical skills and is done while students see a panel of standardized patients. (Step 2 CS is [not being offered](https://www.medlearnity.com/usmle-step-2-cs-cancelled/) at this time until further notice).
 - **USMLE Step 3** is used to [test whether a student is able to apply medical knowledge](https://www.medlearnity.com/category/usmle-step-3/) and if they have an understanding of biomedical and clinical science. Most importantly, students test their knowledge on patient management in outpatient settings. This step is usually taken after an intern year of residency.
 
-After these tests, you are done with med school!
+After these tests, you are done with med school
 
 ## Post Medical School Definitions and Keywords
 
@@ -121,6 +121,5 @@ An attending physician is someone who has already finished their training and 
 
 From this medical student journey, you probably get the idea that there will be many exams you will be taking if you are interested in becoming a doctor. If you're looking to get additional help with your [USMLE](https://www.medlearnity.com/usmle/), [MCAT](https://www.medlearnity.com/mcat/) or [Residency Board Exams test prep](https://www.medlearnity.com/residency-board-exams/), reach out to us at Medlearnity and get a personalized tutoring service.
 
-We have expert tutors who have scored high in these exams to answer any of your questions and guide you through your studies. We specialize in USMLE, COMLEX, MCAT, Shelf/NBME, Residency Board Exams and Admission Consulting. Sign up for our [free trial](https://www.medlearnity.com/start-here/) today!
-
+We have expert tutors who have scored high in these exams to answer any of your questions and guide you through your studies. We specialize in USMLE, COMLEX, MCAT, Shelf/NBME, Residency Board Exams and Admission Consulting. Sign up for our [free trial](https://www.medlearnity.com/start-here/) today
 [![get tutoring for your medical exams with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/03-Get-Tutoring-for-Your-Exams-With-Medlearnity.png)](https://www.medlearnity.com/start-here/)

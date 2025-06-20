@@ -52,8 +52,6 @@ By email and/or phone between sessions, to help you stay on track with your stud
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
-
 ## See what our students have to say
 
 ## Shop Our USMLE Tutoring Packages
@@ -136,11 +134,9 @@ Akshay is an amazing educator who truly cares about his students! I would highly
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.
 
-![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg 'download-NYU MC')![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png 'Wake Forest Logo')![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png 'Johns Hopkins logo')![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png 'Mount Sinai logo')![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png 'Penn Medicine Logo')![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo.png 'Columbia Medical Logo')![](//www.medlearnity.com//images/wp/2020/04/Weill-Cornell-Logo.png 'Weill Cornell Logo')![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png 'Mayo v4')
+!!!!!!!
 
 ## Our USMLE Tutors
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Radhika.webp 'Radhika')
 
 ### Radhika Srivastava, MD
 
@@ -188,8 +184,6 @@ Akshay is an amazing educator who truly cares about his students! I would highly
 - USMLE Step 2: 264 
 - USMLE Step 3: 259
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Viemma.webp 'Viemma')
-
 ### Viemma Nwigwe, MD
 
 ### Education Background
@@ -220,8 +214,6 @@ Akshay is an amazing educator who truly cares about his students! I would highly
 - USMLE Step 1 - 259
 - USMLE Step 2 - 267
 - USMLE Step 3 - 238
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Madeline.webp 'Madeline')
 
 ### Madeleine Basist, MD
 

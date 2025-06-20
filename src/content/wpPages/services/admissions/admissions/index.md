@@ -10,13 +10,9 @@ There really is a **right way to apply** to medical school and residency. Our 
 
 ### Medical School Admissions
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/06/Exams-Medical-Aspirants-ML.jpg 'Exams-Medical-Aspirants-ML')
-
 Our [medical school admissions consultants](https://www.medlearnity.com/medical-school-admissions/) are experts in helping aspiring medical students put together their application. They provide guidance through every step of applying to medical school -- from **application editing, to personal statement and secondary essay editing to interview preparation**. Our admissions consultants know what medical school admissions committees are looking for in a future medical student, and they will help you tell your story in a way that can best convey that. Their thoughtful advice and invaluable feedback has helped many students receive acceptances to their dream medical schools.
 
 ### Residency Program Admissions
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/shutterstock_326305964-scaled-e1591531960687.jpg 'shutterstock_326305964')
 
 Our [residency admissions and match consultants](https://www.medlearnity.com/residency-admissions/) serve as an extremely helpful resource throughout the residency application and admission cycle. Not only have our consultants themselves matched at top residency programs and hospitals throughout the country, but they also have an insider's perspective on what it takes to get there. From **s\*\***electing and applying to residency programs, to putting together the ideal application, and interviewing, to helping you formulate your rank order list\*\*, our residency admissions and match consultants will guide you through every part of the process.
 
@@ -34,6 +30,6 @@ Dr. William Forgey,Student Sponsor
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)

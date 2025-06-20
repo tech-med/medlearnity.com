@@ -18,6 +18,8 @@
 		"validate:scripts": "node scripts/smart-upload-blobs.js --dry-run",
 		"test:helpers": "node scripts/test-helpers.js",
 		"analyze:wpPages": "node scripts/analyze-wpPages-structure.js",
+		"clean:wordpress": "node scripts/clean-wordpress-artifacts.js",
+		"scan:descriptions": "node scripts/fix-truncated-descriptions.js",
 		"lint": "eslint . && npm run astro:check && npm run validate:yaml",
 		"check": "npm run astro:check && tsc --noEmit",
 		"format": "prettier --write . --plugin=prettier-plugin-astro",

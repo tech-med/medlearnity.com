@@ -4,8 +4,7 @@ pubDate: 2020-05-26
 description: 'Fill out the contact form below to schedule your free trial and meet your new tutor!'
 ---
 
-Fill out the contact form below to schedule your free trial and meet your new tutor!
-
+Fill out the contact form below to schedule your free trial and meet your new tutor
 \[gravityform id="4" title="false" description="false" ajax="true"\]
 
 ![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png 'MG-how-to-book-your-free-trial')
@@ -40,9 +39,9 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 - **Test-taking advice and drills**. During your sessions, you will do intense drills with your tutor to make sure you have no weaknesses on test day. You and your tutor will work through high-yield content, test-taking advice, and study strategies that are tailored to your particular situation.
 - **Optimal study strategy**. We utilize **unique methods** like spaced repetition and active recall to help you **understand foundational material** and memorize information. Study time is precious, and we want to make sure you are being **optimal**, and **studying correctly and effectively.**
 
-Sign up for you free trial session by filling out the form below!
+Sign up for you free trial session by filling out the form below
 
-#### Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity!
+#### Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity
 
 I worked with my tutor for my Step 2 CK for the past 4 months. Throughout the process, he completely changed my way of approaching questions! Even though there was an adjustment period, his techniques proved to be extremely helpful and useful. He was also extremely patient and understanding throughout the entire process. His explanations of medical concepts and problems were very clear and thorough. He was also motivating with his frequent check-ins, which ensured that I gave my maximum effort on a daily basis. Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity! [Reference Link](https://www.trustpilot.com/reviews/64bde837f6bc322f521a3031).
 

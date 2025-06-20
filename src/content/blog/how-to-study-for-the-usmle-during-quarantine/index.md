@@ -34,8 +34,6 @@ Time blocks are a great way to organize your day. You need to set distinct block
 
 Scrolling through social media outlets like Facebook and Instagram are time sinks. Hours might go by before you realize that you have spent so much time doing absolutely nothing. Every day, set aside a block of time that you will dedicate to studying: say 10:00 AM to 3:00 PM. Also turn your phone off during this time. Stay true to not touching your phone during this time. Fight the urge – and you will see that the returns that you gain from deep focus will be enormous.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Study-for-the-USMLE-During-Quarantine-2-scaled.jpg)
-
 ### 5\. Sign Up for Professional Tutoring
 
 **[Sign up for a USMLE tutoring trial on our homepage](https://www.medlearnity.com/start-here/).** We offer one-on-one [Med School tutoring lessons](https://www.medlearnity.com/tutoring/) as well as group tutoring sessions. Targeted tutoring with an instructor that knows your strengths and weaknesses is extremely helpful – and helps you stay on schedule. **It will give you a structured routine, and an expert educator to turn to if you feel like you aren’t making progress**. Make sure you are seeking out the guidance you need – earlier is better than later. Ensure you are on the right track, and that you are effective with all the time you have at home.
@@ -44,8 +42,8 @@ Scrolling through social media outlets like Facebook and Instagram are time sink
 
 Set up a Facetime or Skype/Zoom video conference with your medical school peers every week. Use this time to catch up and ask each other questions – like a virtual study group! You can even quiz each other on questions and concepts. Plus, Zoom let's you add as many people as you'd like and you can check it out [**for free**](https://zoom.us/signup#/signup).
 
-Don't forget to also set aside time to video conference with family and friends, too. You need to stay connected to your loved ones. Talking to friends and family who are not going through the medical school test-taking process is so refreshing!
+Don't forget to also set aside time to video conference with family and friends, too. You need to stay connected to your loved ones. Talking to friends and family who are not going through the medical school test-taking process is so refreshing
 
 ## Do You Need Help to Study for USMLE?
 
-We've shared expert tips on how to study for USMLE in quarantine. But, we understand that we all learn differently. If you need some help to be focused and productive as you study for your USMLE exam, [reach out to us](http://www.medlearnity.com/start-here/). We have a team of [professional USMLE tutors](http://www.medlearnity.com/our-tutors/) who can help you make the most of your study time. Let us help you excel in your exams and your medical career!
+We've shared expert tips on how to study for USMLE in quarantine. But, we understand that we all learn differently. If you need some help to be focused and productive as you study for your USMLE exam, [reach out to us](http://www.medlearnity.com/start-here/). We have a team of [professional USMLE tutors](http://www.medlearnity.com/our-tutors/) who can help you make the most of your study time. Let us help you excel in your exams and your medical career

@@ -12,7 +12,7 @@ _"I have always been passionate about medical education, dating back to my resid
 
 ## Hear what our Students have to say about, Anthony
 
-\[trustindex data-widget-id=f27cca4385ef930d46166a3a19a\]
+\
 
 I was constantly being taught high-yield information. Anthony kept reinforcing the information I was not grasping right away, and he sensed that. He provided grafts, charts, and other methods of learning to solidify the important concepts. I was given recordings of our sessions, and I will have so much material to use from this point on (I'm a PGY1, and this is an incredible foundation).
 
@@ -30,8 +30,7 @@ I took this course in preparation for the ABFM. Anthony was incredibly knowledga
 
 **CP**
 
-Anthony is an amazing tutor. He explains things in a way that anyone can understand and has many tricks to remember the small details. I have never been a strong test taker, but with this tutoring, I nearly doubled my percentile on absite. Highly recommend!
-
+Anthony is an amazing tutor. He explains things in a way that anyone can understand and has many tricks to remember the small details. I have never been a strong test taker, but with this tutoring, I nearly doubled my percentile on absite. Highly recommend
 **Maggie Gallagher** [Monthly](#)
 
 ### Educational Background
@@ -74,8 +73,7 @@ Overall, I trusted Anthony and he really made all the difference in terms of my 
 
 **“Anthony’s experience in surgery... helped me hone in on my strengths"**
 
-In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege.” I agree completely, but when it comes to the ABSITE, the privilege of being a surgical resident can feel a bit more pressure-like. Thank you to Anthony and the Medlearnity Team for providing professional, reliable assistance in a time of need. Standardized tests never come easy to me, and of course, I ended up choosing a career that is chock full of standardized testing. The ABSITE is a tough exam, is comprehensive in the topics covered, and is proctored in the midst of working an intense surgical resident schedule. Anthony’s experience in surgery, in test-taking, and test- creating helped me hone in on my strengths, hone in even more importantly on my gaps in knowledge, and truly understand how to focus my study efforts. He provided real time feedback about my thought process in regards to specific practice questions. He provided knowledge about the nuances in a question stem and the respective answer choices to help me successfully answer. He helped me understand the highest yield concepts that would help me succeed on exam day. He provided engaging, effective sessions that accommodated my scheduled, no matter what time of day. I felt supported during the entire time I was working with Anthony and the Medlearnity Team, and I can’t thank everyone enough for the help.This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well. Thank you for everything!
-
+In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege.” I agree completely, but when it comes to the ABSITE, the privilege of being a surgical resident can feel a bit more pressure-like. Thank you to Anthony and the Medlearnity Team for providing professional, reliable assistance in a time of need. Standardized tests never come easy to me, and of course, I ended up choosing a career that is chock full of standardized testing. The ABSITE is a tough exam, is comprehensive in the topics covered, and is proctored in the midst of working an intense surgical resident schedule. Anthony’s experience in surgery, in test-taking, and test- creating helped me hone in on my strengths, hone in even more importantly on my gaps in knowledge, and truly understand how to focus my study efforts. He provided real time feedback about my thought process in regards to specific practice questions. He provided knowledge about the nuances in a question stem and the respective answer choices to help me successfully answer. He helped me understand the highest yield concepts that would help me succeed on exam day. He provided engaging, effective sessions that accommodated my scheduled, no matter what time of day. I felt supported during the entire time I was working with Anthony and the Medlearnity Team, and I can’t thank everyone enough for the help.This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well. Thank you for everything
 **VH PGY-3, General Surgery**
 
 # Book a DISCOUNTED Tutoring Trial with Anthony

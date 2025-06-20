@@ -103,4 +103,4 @@ It is possible to study more than necessary, and it could cause you to fail or r
 
 For over eight years, Medlearnity has helped hundreds of aspiring doctors achieve their goals on exams and admissions, including the USMLE. We offer medical tutoring and consulting that will prep you well for your exam date. On our website, you can meet [some of our tutors](https://www.medlearnity.com/our-tutors/) who scored 260 and up on the USMLE. We can create a personal study schedule based on your needs to maximize your learning gains. 
 
-Want to learn more about us? Read some of the [testimonials from the hundreds of students](https://www.medlearnity.com/student-testimonials/) we've helped. If you're prepping for the USMLE Step 1, utilize Medlearnity and our resources!
+Want to learn more about us? Read some of the [testimonials from the hundreds of students](https://www.medlearnity.com/student-testimonials/) we've helped. If you're prepping for the USMLE Step 1, utilize Medlearnity and our resources

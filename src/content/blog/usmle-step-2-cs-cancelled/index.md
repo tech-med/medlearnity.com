@@ -31,6 +31,5 @@ Another perk of the cancellation of Step 2 CS is that medical students can save 
 
 Medlearnity offers current medical students help in their [USMLE test preparation](https://www.medlearnity.com/usmle/) process. Our accomplished, experienced and compassionate tutors care deeply about student success and want to help students accomplish their goals of passing medical exams. All sessions have a one-on-one personalized approach based on the individual's strengths and weaknesses. Our team will help you prepare for the USMLE and other exams.
 
-Ready to start learning with Medlearnity? Sign up for a [free trial](https://www.medlearnity.com/start-here/) today!
-
+Ready to start learning with Medlearnity? Sign up for a [free trial](https://www.medlearnity.com/start-here/) today
 [![our tutors have trained at the top hospitals in the country](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/04-our-tutors-have-trained.png)](https://www.medlearnity.com/start-here/)

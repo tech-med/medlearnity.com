@@ -10,7 +10,7 @@ description: ' Excel on your ABR Core Exam with an Expert Tutor'
 
 # Excel on your ABR Core Exam with an Expert Tutor
 
-Progress in your residency with a top percentile on the American Board of Radiology Qualifying Exam score!
+Progress in your residency with a top percentile on the American Board of Radiology Qualifying Exam score
 
 ## We offer the highest-quality ABR tutoring services
 
@@ -114,8 +114,7 @@ Starting at $125/mo with Affirm. [Learn more](<javascript:void(0)>)
 
 Our satisfied students speak for themselves:
 
-I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity!
-
+I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity
 M.G.
 
 ABR Student Who Failed First ABR Attempt
@@ -128,7 +127,7 @@ C.M.
 
 ABR Student
 
-![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg 'download-NYU MC')![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png 'Wake Forest Logo')![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png 'Johns Hopkins logo')![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png 'Mount Sinai logo')![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png 'Penn Medicine Logo')![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo.png 'Columbia Medical Logo')![](//www.medlearnity.com//images/wp/2020/04/Weill-Cornell-Logo.png 'Weill Cornell Logo')![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png 'Mayo v4')
+!!!!!!!
 
 ## Get started with Radiology Core tutoring today, and be on your way to matching with the program of your choice.
 

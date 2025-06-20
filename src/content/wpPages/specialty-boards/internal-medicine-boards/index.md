@@ -6,8 +6,6 @@ description: 'Internal Medicine Certification Exam (ABIM) Overview'
 
 ## Internal Medicine Certification Exam (ABIM) Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### What Is The American Board of Internal Medicine?
 
 The American Board of Internal Medicine (ABIM) certifies physicians in internal medicine and internal medicine sub-specialties. The **Internal Medicine Certification Exam (the "ABIM")** is required for board certification in internal medicine, and to obtain privileges at most hospitals. The ABIM is designed to evaluate the medical knowledge, diagnostic reasoning, and clinical judgment skills expected of certified internists in the broad practice area of internal medicine.
@@ -22,19 +20,13 @@ The ABIM tests your ability to make appropriate diagnostic and management decisi
 
 ## Why You Should Choose MED LEARNITY For ABIM Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 We invest the time to assess **your personal needs** and pair you with the ABIM tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -70,7 +62,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
@@ -82,16 +74,13 @@ I initially worked with Akshay a few years ago after I had failed Step 1. We wor
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
-I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
-
+I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/internal-medicine-board-exam/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [Introducing The World Of Internal Medicine – & How You Can Be Part of It](https://www.medlearnity.com/internal-medicine-board-exam/ 'Introducing The World Of Internal Medicine – & How You Can Be Part of It')
-
-[](https://www.medlearnity.com/ut-blanditiis-ut-dol/)
 
 ## [What To Know About NBME Free Self-Assessments](https://www.medlearnity.com/ut-blanditiis-ut-dol/ 'What To Know About NBME Free Self-Assessments')

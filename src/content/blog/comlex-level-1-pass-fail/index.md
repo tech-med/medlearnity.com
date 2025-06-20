@@ -16,8 +16,6 @@ Passing students will also receive a Low, Average or High rating for each updat
 
 Additionally, the NBOME is changing the testing interface for COMLEX Level 1. The NBOME will continue following the numerical grading system until May of 2022. The exam will follow the same structure, which comprises two four-hour sessions.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/11/NBOME-Changes.png)
-
 ## Why the Pass or Fail System Instead of a Numeric Score?
 
 The decision to change to a pass or fail scoring system has been in the works for several years. The NBOME analyzed their three-digit scoring process while considering various stakeholder groups' input before making the decision. They maintain that the new scoring system will support wellness among student populations, and by extension, the general public.
@@ -32,6 +30,5 @@ While the COMLEX Level 1 exam will include the same time structure and multiple-
 
 ## Prepare for New Testing Procedures With Medlearnity
 
-The NBOME's updated COMLEX level 1 score range and testing interface will reward flexible, hardworking students. You can register for [COMLEX Level 1 tutoring](https://www.medlearnity.com/comlex-1/) from Medlearnity to access practice exams that mimic the new Prometric interface. We encourage you to [request a free trial](https://www.medlearnity.com/start-here/) with one of our [COMPLEX Level 1 online tutors](http://www.medlearnity.com/our-tutors/) today!
-
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/11/SIgn-up.png)](https://www.medlearnity.com/start-here/)
+The NBOME's updated COMLEX level 1 score range and testing interface will reward flexible, hardworking students. You can register for [COMLEX Level 1 tutoring](https://www.medlearnity.com/comlex-1/) from Medlearnity to access practice exams that mimic the new Prometric interface. We encourage you to [request a free trial](https://www.medlearnity.com/start-here/) with one of our [COMPLEX Level 1 online tutors](http://www.medlearnity.com/our-tutors/) today
+[!](https://www.medlearnity.com/start-here/)

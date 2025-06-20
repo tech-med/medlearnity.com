@@ -8,8 +8,6 @@ description: 'The ABS QE is the first of two exams required for board certificat
 
 ## ABS General Surgery Qualifying Exam (QE) Overview
 
-![](//www.medlearnity.com//images/wp/2020/05/Medical-Career-1.jpg 'Medical-Career')
-
 ### What Is The ABS QE?
 
 The American Board of Surgery (ABS) certifies physicians in general surgery and surgical sub-specialties. The **ABS General Surgery Qualifying Exam (QE)** is offered annually to surgeons after completing their residency training, and must be passed in order to obtain initial certification to practice surgery. It is the **first of two exams** required for board certification in general surgery.
@@ -24,19 +22,13 @@ The ABS QE assesses an examinee's knowledge in various categories, including Abd
 
 ## Why You Should Choose MED LEARNITY for ABS QE Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Tutoring Packages
 
 We invest the time to assess **your personal needs** and pair you with the ABS QE tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors From Top Hospitals
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results For All Students
 
@@ -72,7 +64,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 

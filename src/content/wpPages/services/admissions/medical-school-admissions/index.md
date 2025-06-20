@@ -6,25 +6,17 @@ description: 'Our medical school admissions package is comprehensive. We provide
 
 ## Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal statement to interviewing.
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
-
 ### Application Editing
 
 The AMCAS, AACOMAS, TMDSAS, and ERAS application is the first thing that the admissions committee will see. It should **highlight your accomplishments and experiences effectively**.
-
-![](//www.medlearnity.com//images/wp/2020/04/Discussion-about-Medical-Advicing-Services.jpg 'Discussion-about-Medical-Advicing-Services')
 
 ### Personal Statement Editing
 
 Your personal statement is often the **deciding factor in getting an interview**. Craft it to connect with and move your audience. Make it compelling, and show why you will make a unique contribution to the field of medicine.
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Interview Preparation
 
 An interview is your opportunity to make a first impression -- so make it count! Our admissions consultants will **mock interview** you, and **walk you through every step** so you are fully prepared.
-
-![](//www.medlearnity.com//images/wp/2020/05/blog1.jpg 'blog1')
 
 ### Secondary Essay Editing
 
@@ -56,7 +48,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
@@ -70,18 +62,12 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 **See more student reviews on our:**
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/medical-student-journey/)
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [The Medical Student Journey](https://www.medlearnity.com/medical-student-journey/ 'The Medical Student Journey')
 
-[](https://www.medlearnity.com/how-to-study-for-the-mcat/)
-
 ## [How to Study for the MCAT](https://www.medlearnity.com/how-to-study-for-the-mcat/ 'How to Study for the MCAT')
 
-[](https://www.medlearnity.com/how-to-write-a-great-personal-statement-for-residency/)
-
 ## [How to Write a Great Personal Statement for Residency](https://www.medlearnity.com/how-to-write-a-great-personal-statement-for-residency/ 'How to Write a Great Personal Statement for Residency')
-
-[](https://www.medlearnity.com/medical-school-application-advising-services/)
 
 ## [Medical School Application Advising Services](https://www.medlearnity.com/medical-school-application-advising-services/ 'Medical School Application Advising Services')

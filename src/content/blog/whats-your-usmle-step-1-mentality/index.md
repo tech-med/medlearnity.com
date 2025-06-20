@@ -52,6 +52,5 @@ If you feel like you underperformed on Step 1, think about how you can correct c
 
 ## Are you ready for Step 1?
 
-If you've already taken Step 1 and have some pearls of wisdom to share, feel free to comment below. We'd love to hear from you, and other students could benefit from your knowledge!
-
+If you've already taken Step 1 and have some pearls of wisdom to share, feel free to comment below. We'd love to hear from you, and other students could benefit from your knowledge
 If you feel like you could use the guidance of a tutor, the experts at Medlearnity are [here to help with your med school exams test prep](https://www.medlearnity.com/our-services/). With scores of 250+ on their USMLE exams and extensive experience in helping students prepare for Step 1, [our tutors](https://www.medlearnity.com/our-tutors/) are well-positioned to help you score as highly as you possibly can on Step 1. We've helped all kinds of students, from those who had fallen behind and were worried about failing, to those who wanted a spectacular Step 1 score in order to get into a highly competitive residency program. To learn more about what it would be like to work with a tutor, you can schedule a [free one-hour trial session](https://www.medlearnity.com/start-here/).

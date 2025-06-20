@@ -16,7 +16,7 @@ _"Kush received his BS in Biology from The College of New Jersey, where he gradu
 
 ## Hear what our Students have to say about, Kush
 
-\[trustindex data-widget-id=12920913981d640772062c185c8\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 

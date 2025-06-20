@@ -16,7 +16,7 @@ _Tutoring has been an incredibly rewarding opportunity for me. It grants perspec
 
 ## Hear what our Students have to say about Kieth
 
-\[trustindex data-widget-id=693f5e638692797f811611064c5\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 

@@ -12,9 +12,9 @@ Welcome to Medlearnity's Radiology Core Tutoring
 
 We specialize in turning the demanding ABR CORE exam into a manageable task, focusing on high-yield concepts and cases crucial to your success. Our proven strategies and guidance are particularly beneficial for those who are preparing to retake the exam.
 
-#### Get started with our Radiology Review today!
+#### Get started with our Radiology Review today
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp 'RadReviewbanner')](https://www.theradiologyreview.com/)
+[!](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -62,17 +62,16 @@ We’re proud of our students and their accomplishments, and we enjoy watching t
 
 Our satisfied students speak for themselves.
 
-**Great Resource for the Radiology CORE Exam**I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity!
-
+**Great Resource for the Radiology CORE Exam**I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity
 **Anonymous**
 
 **I totally wish I knew about Medlearnity earlier!**The ABR CORE radiology examination was an absolute beast! I took the exam more than once, and my frustration, discouragement, and anxiety grew exponentially with each attempt. I had studied all the same videos, books, apps and Q-banks that all my colleagues had (several times). I often heard people say, "Oh, just study this - this - and this. That's what I did. You'll be fine." But it was never enough for me to pass. I needed help!I realized that formal tutor options were hard to find for a specific/high level exam, like the CORE. In my online search, I came across Medlearnity, and sent them an email to see if they could point me in the right direction. Within 48 hours I was on the phone with Akshay, who had passed the CORE exam himself is exceptionally qualified as a tutor! Together we mapped out a study plan, using his "Task Manager." He introduced me to the Remnote tool, which is much more effective than traditional flashcards. He also recommended a few particular review series and case books. We spent time walking through these books together, specifically in my weaker subjects. Akshay put me in touch with Louis, who is also a phenomenal CORE tutor! Our sessions together were productive, emphasizing the high-yield concepts. Not only did I pass, but I passed in the categories I'd struggled with the most. If you're going to take the CORE exam, don't hesitate to reach out to Medlearnity.I totally recommend them, and the sooner the better. You'll be glad you did.
 
 **cM**
 
-#### Get started with our Radiology Review today!
+#### Get started with our Radiology Review today
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp 'RadReviewbanner')](https://www.theradiologyreview.com/)
+[!](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -112,28 +111,28 @@ Showing all 4 results
 
 Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low
 
-- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/10-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-10-hour-package/)
+- [Sale!!](https://www.medlearnity.com/product/radiology-core-10-hour-package/)
   ## Radiology Core 10-Hour Package
   $3,000.00 $2,695.00
   \-
   [Add to cart](?add-to-cart=4710)
-- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/20-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-20-hour-package/)
+- [Sale!!](https://www.medlearnity.com/product/radiology-core-20-hour-package/)
   ## Radiology Core 20-Hour Package
   $6,000.00 $4,995.00
   \-
   [Add to cart](?add-to-cart=4713)
-- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/30-Hours-300x300.png)](https://www.medlearnity.com/product/radiology-core-30-hour-package/)
+- [Sale!!](https://www.medlearnity.com/product/radiology-core-30-hour-package/)
   ## Radiology Core 30-Hour Package
   $9,000.00 $7,195.00
   \-
   [Add to cart](?add-to-cart=4715)
-- [Sale!![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/40-Hour-300x300.png)](https://www.medlearnity.com/product/radiology-core-40-hour-package/)
+- [Sale!!](https://www.medlearnity.com/product/radiology-core-40-hour-package/)
   ## Radiology Core 40-Hour Package
   $12,000.00 $8,995.00
   \-
   [Add to cart](?add-to-cart=4716)
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp 'RadReviewbanner')](https://www.theradiologyreview.com/)
+[!](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)
 
@@ -145,6 +144,6 @@ This coupon with promotional pricing is active for new students only. If you hav
 
 This coupon with promotional pricing is active for new students only. If you have already had a session with Medlearnity, it does not apply.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/12/RadReviewbanner.webp 'RadReviewbanner')](https://www.theradiologyreview.com/)
+[!](https://www.theradiologyreview.com/)
 
 Discount via The [Radiology Review Podcast](https://www.theradiologyreview.com/)

@@ -10,33 +10,23 @@ We tutor for **pre-medical and medical school coursework tutoring and coaching*
 
 ### Pre-Medical Coursework Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/05/LEARNING-1-scaled-1.jpg 'LEARNING-1-scaled')
-
 **Biology, Chemistry, Physics, Organic Chemistry, Biochemistry** -- you name the class, and our tutors can help you master it. Our tutors have excelled in their pre-medical coursework, and can help you do the same.
 
 The **most important** factors in a medical school application are your grades in pre-**medical coursework and** [**your MCAT score**](https://www.medlearnity.com/mcat/). Working with a tutor to master pre-medical coursework provides the building blocks to get you the **best grades in your coursework**, but also takes you **through the material with an understanding on how it will all apply to the MCAT**.
 
 ### Medical School Coursework Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
-
 Your tutor will help you master your **medical school coursework material**, and will **serve as a mentor** throughout the medical school process. You will immediately find that having your tutor to turn to for any questions is an **extremely valuable asset and resource**. Our goal at Medlearnity, is to help you have the most **solid foundation in the medical sciences** so you can go on to **absolutely** [**excel on your USMLE**](https://www.medlearnity.com/usmle/) **or** [**COMLEX exams**](https://www.medlearnity.com/comlex/)**,** [**Shelf Exams**](https://www.medlearnity.com/nbme-shelf-exams/)**, and the rest of medical school and beyond**.
 
 ## Why You Should Choose MED LEARNITY For Tutoring
-
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
 We invest the time to assess your personal needs and pair you with the tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -72,10 +62,9 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/) ![](//www.medlearnity.com//images/wp/2020/04/87111525_10157936509629477_2364165572716920832_o.jpg '87111525_10157936509629477_2364165572716920832_o')
-
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 Turja C.
 
 USMLE Step 1 and 2 CK Student
@@ -84,22 +73,14 @@ USMLE Step 1 and 2 CK Student
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/failed-step-2/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [Failed Step 2: What Should You Do Next?](https://www.medlearnity.com/failed-step-2/ 'Failed Step 2: What Should You Do Next?')
 
-[](https://www.medlearnity.com/13-tips-for-expert-abr-preparation/)
-
 ## [13 Tips for Expert ABR Preparation](https://www.medlearnity.com/13-tips-for-expert-abr-preparation/ '13 Tips for Expert ABR Preparation')
-
-[](https://www.medlearnity.com/failed-absite-now-what/)
 
 ## [Low Score on ABSITE: How to Get up and Excel](https://www.medlearnity.com/failed-absite-now-what/ 'Low Score on ABSITE: How to Get up and Excel')
 
-[](https://www.medlearnity.com/abim-preparation-guide/)
-
 ## [Maximizing Your ABIM Preparation: Utilizing Comprehensive Review Resources and Focusing on High-Yield Topics](https://www.medlearnity.com/abim-preparation-guide/ 'Maximizing Your ABIM Preparation: Utilizing Comprehensive Review Resources and Focusing on High-Yield Topics')
-
-[](https://www.medlearnity.com/comprehensive-guide-preparing-for-the-absite/)
 
 ## [A Comprehensive Guide to Preparing for the ABSITE: Essential Resources and High-Yield Topics for Surgical Residents](https://www.medlearnity.com/comprehensive-guide-preparing-for-the-absite/ 'A Comprehensive Guide to Preparing for the ABSITE: Essential Resources and High-Yield Topics for Surgical Residents')

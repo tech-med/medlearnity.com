@@ -8,8 +8,6 @@ description: "COMLEX Level 3 is the final hurdle in the COMLEX exam series, and 
 
 ## COMLEX Level 3 Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/Health-Professional.jpg 'Health-Professional')
-
 ### How is COMLEX Level 3 Administered?
 
 Level 3 is typically taken during the first year of residency. It is a **two-day** computer-based exam, consisting of four computer-based test sessions of 3 1/2 hours each, taken over two days (two sessions per day). The two days of testing are administered within a 14-day window. The exam contains 420 questions in the multiple-choice question (MCQ) format and 26 clinical decision-making (CDM) cases that include two to four questions each. MCQs have a single-best answer format, and CDM questions are either extended multiple-choice or short answer.
@@ -28,19 +26,13 @@ The minimum passing score for Level 3 is 350, and the national average is approx
 
 ## Why You Should Choose MED LEARNITY For Level 3 Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 When you choose to work with the Medlearnity team, we'll assign you to an individual tutor for customized sessions. Your tutor will help you identify and improve on critical areas of study to help you excel in the final hurdle in the Comprehensive Osteopathic Medical Licensing Examination (COMLEX) exam series. **All tutoring sessions are recorded and emailed to you** to encourage maximum retention of materials. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 Medlearnity offers the highest quality medical consulting and tutoring in the industry, which starts with our incredibly compassionate, experienced and accomplished tutors. **We'll connect you to COMLEX Level 3 tutors from leading medical schools** throughout the United States. For over 8 years, we've helped [hundreds of aspiring doctors](https://www.medlearnity.com/student-testimonials/) accomplish their COMLEX Level 3 goals. 
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -48,7 +40,7 @@ Medlearnity offers the highest quality medical consulting and tutoring in the in
 
 **Sign up for your [**free\*\* **1 hour trial session**](https://www.medlearnity.com/start-here/) today!\*\*
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp 'how-to-book-your-first-session')](/purchase-discounted-session/)
+[!](/purchase-discounted-session/)
 
 ## What To Expect From Our COMLEX Tutors
 
@@ -80,7 +72,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
@@ -92,21 +84,19 @@ In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege
 
 This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well.
 
-Thank you for everything!
-
+Thank you for everything
 VH, PGY-3, General Surgery
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
-I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
-
+I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-usa-exam/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ 'The Right Approach To The COMLEX-USA Exam – Tips & Tricks')
 

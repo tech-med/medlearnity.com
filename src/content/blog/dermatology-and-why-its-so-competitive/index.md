@@ -111,7 +111,7 @@ Dermatology can be a rewarding field since you'll be helping patients improve th
 
 Getting your degrees, taking the exams, completing your residency and getting your license can take many years, meaning you'll need to stay dedicated. However, the process becomes worth it once you can use your knowledge and skills to revolutionize people's lives.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/10/05-About-the-Author.jpg)](https://www.medlearnity.com/start-here/)
+[!](https://www.medlearnity.com/start-here/)
 
 You may be at the very beginning of the process or deciding to change your specialty halfway through medical school. Regardless of when you choose to become a dermatologist, you can match into residency and earn your license at any stage. You can also receive tutoring if you need additional help with the course load and studying for your various exams. Tutoring from someone who has gone through the process can be a valuable tool to help you break into the competitive specialty.
 
@@ -121,4 +121,4 @@ Randi Goldstein has been a dermatology resident since 2020 at LSU Health Science
 
 While she notes that the process was challenging, she also says it was well worth the effort. Given her experience, she has much to offer prospective dermatology students applying for residency.
 
-It may not be easy to be a dermatologist, but Medlearnity can help. If you're considering dermatology and need a tutor, Medlearnity is here to help by pairing you with a quality tutor. We can help you identify and improve on any weaknesses to make the best impact. Our tutors have scored high on their own exams and are excellent educators. [Sign up for your free trial](https://www.medlearnity.com/start-here/) today and meet your new tutor to get started!
+It may not be easy to be a dermatologist, but Medlearnity can help. If you're considering dermatology and need a tutor, Medlearnity is here to help by pairing you with a quality tutor. We can help you identify and improve on any weaknesses to make the best impact. Our tutors have scored high on their own exams and are excellent educators. [Sign up for your free trial](https://www.medlearnity.com/start-here/) today and meet your new tutor to get started

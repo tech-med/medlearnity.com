@@ -8,8 +8,6 @@ description: "A strong score on COMLEX Level 2CE bolsters your residency applica
 
 ## COMLEX Level 2-CE and Level 2-PE Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_594717740.jpg 'shutterstock_594717740')
-
 COMLEX Level 2 is taken during the third or fourth year of medical school. It consists of two parts, **Level 2-CE**, Cognitive Evaluation and **Level 2-PE**, Performance Evaluation. 
 
 ### What Content Does COMLEX Level 2-PE Cover?
@@ -26,19 +24,13 @@ A passing score on Level 2-CE is 400, and the national average is approximately 
 
 ## Why You Should Choose MED LEARNITY For Level 2 Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 We'll assess your strengths and weaknesses when it comes to the COMLEX and match you with the perfect tutor. **Our COMLEX Level 2 t\*\***utors customize every lesson just for you\*\*. We offer flexible scheduling, comprehensive study guides and recordings of each session so you have all the resources you need for success.
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
-**Our COMLEX tutors are real physicians who have trained at the top hospitals in the country**. They're excellent educators with superior COMLEX scores and practical experience. Medlearnity tutors are available to help you reach your own goals on your journey to practice medicine. [Meet our tutors](https://www.medlearnity.com/our-tutors/)!
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
+**Our COMLEX tutors are real physicians who have trained at the top hospitals in the country**. They're excellent educators with superior COMLEX scores and practical experience. Medlearnity tutors are available to help you reach your own goals on your journey to practice medicine. [Meet our tutors](https://www.medlearnity.com/our-tutors/)
 
 ### Proven Results
 
@@ -74,7 +66,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
@@ -86,8 +78,7 @@ I am a US medical school graduate who has a very difficult time with standardize
 
 Dr. Goel created a plan that accurately and efficiently addressed the weaknesses in my testing skills. His program included optimizing the use of Anki, which is an electronic note card program, a special strategy to approach the multiple choice questions on USMLE boards, and reviewing material from common board prep question banks. He also designed a pacing system to help me stay on track with timing for each question and he would select various topics for us to discuss the pathophysiology, diagnostic workup, and treatment in order to ensure comprehensive understanding of key medical presentations even beyond the board exam.
 
-Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan!
-
+Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
@@ -98,6 +89,6 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-usa-exam/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ 'The Right Approach To The COMLEX-USA Exam – Tips & Tricks')

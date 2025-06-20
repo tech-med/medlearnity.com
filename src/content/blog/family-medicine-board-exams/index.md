@@ -13,8 +13,6 @@ Luckily, there are websites like ours that genuinely want to help you out when t
 
 Today, we are going to walk you through the Family Medicine Board Exams – what it is, why you need to take it (or should you even take it?), and how you can be qualified for it.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Health-Professional-1024x682.jpg)
-
 ## **Determining Your Specialization**
 
 We believe that more than the challenges you have to overcome in order to achieve that MD status, deciding on what facet of medicine you’re going to focus on is much more confusing. You would think that getting that degree and passing the USMLE are all the things you need to do to finally have your future path dawn on you but you’re quite mistaken. Like how the twigs diverge from a branch of a tree to how branches swerve from the trunk, multitudes of possibilities lie ahead of you in the medical industry. And as much as you would want to explore each and every one, you’ll need all the time in the world to do it.
@@ -53,8 +51,6 @@ Make sure that your application to take the exam is approved (you can check this
 
 There are many measures you can take in order to ensure the success of your test results.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Family-Medicine-1024x509.jpg)
-
 ## **What To Expect In The FMBE?**
 
 I know a lot of people who fail to pass their board or licensure examinations just because they weren’t able to maintain their cool during the test. This is why I advise you to try to calm yourself before you start answering on the day of the exam. Don’t try to look at the paper as a whole and instead, just answer one item at a time. If all you think about is how hard the questions are or how much you don’t know about them, you’ll just end up feeling overwhelmed. It will make you lose your better judgement so you end up choosing answers you feel pressured to choose.
@@ -71,4 +67,4 @@ To best prepare for the exam, maintaining a good and healthy study schedule as w
 
 Luckily, Medlearnity has just the thing for it. We can help you successfully review exam materials that are fundamental to the upcoming FMBE. We can help you digest mock test results as well as explain concepts that are still rather confusing to you.
 
-Medical professionals should also help fellow medical professionals. With Medlearnity, you are in good hands!
+Medical professionals should also help fellow medical professionals. With Medlearnity, you are in good hands

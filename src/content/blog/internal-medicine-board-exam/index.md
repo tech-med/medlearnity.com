@@ -15,8 +15,6 @@ _If there is internal medicine, then is there external medicine?_
 
 *If internal medicine covers diseases and medical conditions that manifests “internally,” then is it safe to assume that it can cater to any part of the world’s demographic, adults and children included, as long as the symptoms manifest in the inside of the body?* 
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Internal-Medicine-1-1024x682.jpg)
-
 Looking at it from this point of reason, it would be inadequate to define internal medicine as simply the branch of medical science that deals with conditions which manifest internally. Surely, there is more to it than that. And today, we’re going to help you get to the bottom of it.
 
 What is internal medicine exactly and how do you become an MD who practices it?
@@ -92,7 +90,7 @@ To pass the ABIM exam, your score must be equal to or exceed the passing score o
 
 Although it is highly unlikely an error occurred during grading, applicants can request a rescoring to reverify their results. While this is available, it is important to note a rescoring likely will not change the outcome of your final scores.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/02-get-customized.png)](https://www.medlearnity.com/start-here/)
+[!](https://www.medlearnity.com/start-here/)
 
 ## What Is the Internal Medicine Board Exam Format?
 

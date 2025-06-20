@@ -74,4 +74,4 @@ Incorporate these tips into your ABSITE study plan.
 
 ## Turn to Medlearnity for Elite Medical Tutoring
 
-At Medlearnity, we prioritize your success as a medical student. [Our tutors are expert educators](https://www.medlearnity.com/our-tutors/) who have studied at the country's top medical schools and hospitals and have high scores on their own medical exams. We take a personalized approach to identifying your unique needs and helping you strengthen your knowledge base and test-taking strategies. [Book a DISCOUNTED trial today](https://www.medlearnity.com/start-here/) to see how Medlearnity can help you pass your next exam!
+At Medlearnity, we prioritize your success as a medical student. [Our tutors are expert educators](https://www.medlearnity.com/our-tutors/) who have studied at the country's top medical schools and hospitals and have high scores on their own medical exams. We take a personalized approach to identifying your unique needs and helping you strengthen your knowledge base and test-taking strategies. [Book a DISCOUNTED trial today](https://www.medlearnity.com/start-here/) to see how Medlearnity can help you pass your next exam

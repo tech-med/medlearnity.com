@@ -8,8 +8,6 @@ description: 'Passing the USMLE Step 1 in 2025 is extremely important, as it pla
 
 ## USMLE Step 1 Exam Details & Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
-
 ### What Content Does USMLE Step 1 Cover?
 
 Step 1 is typically taken in the second or third year of medical school. The exam assesses your ability to apply knowledge of the foundational sciences to the practice of medicine. **Step 1 covers pathology, physiology, pharmacology, biochemistry, microbiology, immunology, anatomy, cell biology, behavioral sciences and genetics**.
@@ -28,23 +26,17 @@ As of 2022, the USMLE is graded in a [pass or fail format](https://www.medlearni
 
 Now that the Step 1 exam has a pass or fail result, students rely on their Step 2 results and other factors to stand out on their residency applications. Impressive factors include letters of recommendation, clerkship grades, publications, research projects and extracurricular activities like volunteering or holding leadership positions in clubs. 
 
-\[tcb-script type="application/ld+json"\]{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": \[{ "@type": "Question", "name": "What Content Does USMLE Step 1 Cover?", "acceptedAnswer": { "@type": "Answer", "text": "Step 1 is typically taken in the second or third year of medical school. The exam assesses your ability to apply knowledge of the foundational sciences to the practice of medicine. Step 1 covers pathology, physiology, pharmacology, biochemistry, microbiology, immunology, anatomy, cell biology, behavioral sciences and genetics." } },{ "@type": "Question", "name": "How is USMLE Step 1 Administered?", "acceptedAnswer": { "@type": "Answer", "text": "It is a one-day exam administered in one 8-hour testing session. The exam is divided into seven 60-minute blocks, with each block having a maximum of 40 questions. The total number of items on the overall exam will not exceed 280." } },{ "@type": "Question", "name": "How Important is Step 1 of the USMLE?", "acceptedAnswer": { "@type": "Answer", "text": "Step 1 is one of the most important exams you will take in your medical career, as it determines which medical specialties you can pursue and what residency program you match into." } },{ "@type": "Question", "name": "How is USMLE Step 1 Scored?", "acceptedAnswer": { "@type": "Answer", "text": "As of 2022, the USMLE is graded in a pass or fail format. Students must open every block on their exam to have their exam marked as complete and receive scoring. Correct answers must account for at least 60% of the questions to receive a passing score. Now that the Step 1 exam has a pass or fail result, students rely on their Step 2 results and other factors to stand out on their residency applications. Impressive factors include letters of recommendation, clerkship grades, publications, research projects and extracurricular activities like volunteering or holding leadership positions in clubs." } }\]}\[/tcb-script\]
+\{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": \[{ "@type": "Question", "name": "What Content Does USMLE Step 1 Cover?", "acceptedAnswer": { "@type": "Answer", "text": "Step 1 is typically taken in the second or third year of medical school. The exam assesses your ability to apply knowledge of the foundational sciences to the practice of medicine. Step 1 covers pathology, physiology, pharmacology, biochemistry, microbiology, immunology, anatomy, cell biology, behavioral sciences and genetics." } },{ "@type": "Question", "name": "How is USMLE Step 1 Administered?", "acceptedAnswer": { "@type": "Answer", "text": "It is a one-day exam administered in one 8-hour testing session. The exam is divided into seven 60-minute blocks, with each block having a maximum of 40 questions. The total number of items on the overall exam will not exceed 280." } },{ "@type": "Question", "name": "How Important is Step 1 of the USMLE?", "acceptedAnswer": { "@type": "Answer", "text": "Step 1 is one of the most important exams you will take in your medical career, as it determines which medical specialties you can pursue and what residency program you match into." } },{ "@type": "Question", "name": "How is USMLE Step 1 Scored?", "acceptedAnswer": { "@type": "Answer", "text": "As of 2022, the USMLE is graded in a pass or fail format. Students must open every block on their exam to have their exam marked as complete and receive scoring. Correct answers must account for at least 60% of the questions to receive a passing score. Now that the Step 1 exam has a pass or fail result, students rely on their Step 2 results and other factors to stand out on their residency applications. Impressive factors include letters of recommendation, clerkship grades, publications, research projects and extracurricular activities like volunteering or holding leadership positions in clubs." } }\]}\[/tcb-script\]
 
 ## Why You Should Choose MED LEARNITY For Step 1 Tutoring
-
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 ### Personalized Learning
 
 **Medlearnity is an elite medical consulting and tutoring company** that takes a personalized approach to help you on the United States Medical Licensing Examination (USMLE). **USMLE Step 1 tutors work with you individually** and create customized sessions around homework, test-taking drills, study schedules and lesson plans that will prepare you for success. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 Our team of practicing physicians will email all tutoring sessions to you to maximize your content retention. **Medlearnity tutors have trained in the country's top hospitals** and are constantly staying on top of the current state of medical exams, residency admissions and medicine. Our expertise gives us a distinct advantage compared to other USMLE tutoring companies.
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -53,8 +45,6 @@ Our team of practicing physicians will email all tutoring sessions to you to max
 ## Meet one of our Expert USMLE Tutors
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
 
 ## What To Expect From Our USMLE Step 1 Tutors
 
@@ -92,7 +82,7 @@ Begin your path to medical success by selecting our Step 1 tutoring company. Sig
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
@@ -122,10 +112,9 @@ Akshay is a very patient tutor who focuses on strengthening an individual's weak
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Nicole-S-picture.jpg)Nicole S.USMLE Step 1 Student
 
-#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
+#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 
-I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
-
+I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### I am happy to report that not only did I pass Step 1 with a much stronger score, but, even after we stopped working together, I continued to use his strategies as I prepared for subsequent tests and recently aced my specialty boards.
@@ -136,18 +125,12 @@ I initially worked with Akshay a few years ago after I had failed Step 1. We wor
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [Score High or Focus on Passing the USMLEs](https://www.medlearnity.com/score-high-or-focus-on-passing-usmle/ 'Score High or Focus on Passing the USMLEs')
 
-[](https://www.medlearnity.com/usmle-eligibility-and-requirements/)
-
 ## [USMLE Eligibility & Requirements](https://www.medlearnity.com/usmle-eligibility-and-requirements/ 'USMLE Eligibility & Requirements')
 
-[](https://www.medlearnity.com/usmle-step-1-vs-step-2/)
-
 ## [Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge](https://www.medlearnity.com/usmle-step-1-vs-step-2/ 'Step 1 vs. Step 2 Comparison – Difficulty, Scoring & Knowledge')
-
-[](https://www.medlearnity.com/is-uworld-worth-it-for-usmle/)
 
 ## [Is UWorld Enough for Step 1?](https://www.medlearnity.com/is-uworld-worth-it-for-usmle/ 'Is UWorld Enough for Step 1?')

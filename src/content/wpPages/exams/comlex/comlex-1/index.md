@@ -8,8 +8,6 @@ description: 'Your COMLEX Level 1 score plays a large factor in determining whic
 
 ## COMLEX Level 1 Overview
 
-![](//www.medlearnity.com//images/wp/2020/04/Exams-Medical-Aspirants-scaled-1.jpg 'Exams-Medical-Aspirants-scaled')
-
 ### What Content Does COMLEX Level 1 Cover?
 
 Level 1 is typically taken after completing the second year of medical school. The exam is a **problem and symptom-based assessment** that requires knowledge in foundational biomedical sciences and medicine to solve clinical problems and provide osteopathic medical care to patients. **Level 1 tests anatomy, behavioral science, biochemistry, genetics, immunology, microbiology, osteopathic principles and practice, pathology, pharmacology, physiology, and public health.** 
@@ -28,19 +26,13 @@ Level 1 is an extremely important exam, as **it determines which medical special
 
 ## Why You Should Choose MED LEARNITY For Level 1 Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 The Medlearnity team of (COMLEX) Level 1 tutors takes a personalized approach to help you excel. **We'll pair you with a COMLEX Level 1 Tutor after assessing your personalized needs**. All of our tutoring sessions are emailed to you, and all homework, test-taking drills, study schedules and lesson plans are customized for you. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 **We hire only the best tutors who have scored in the 90th percentile**. Our tutors' high scores on COMLEX exams far surpass those of others in the industry, and their teaching skills are unrivaled. Our COMLEX Level 1 tutors care deeply about your success and pride themselves on qualities like compassion and patience. 
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -110,16 +102,15 @@ Every student is different and comes to us with different goals, challenges and 
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 ### **Real Student Reviews**
 
-#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
+#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 
-I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
-
+I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
@@ -136,10 +127,8 @@ I worked with Akshay and would highly recommend him! He was very accommodating o
 
 **Our students love us! See more student reviews on:**
 
-[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)[](https://www.medlearnity.com/comlex-level-1-pass-fail/)
+[View us on Trustpilot](https://www.trustpilot.com/review/medlearnity.com) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Facebook](https://www.facebook.com/medlearnity/reviews) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Testimonials Page](https://www.medlearnity.com/student-testimonials/) \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"c66c6":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"c66c6":{"val":"rgb(230, 107, 0)","hsl":{"h":27,"s":0.99,"l":0.451,"a":1}}},"gradients":\[\]},"original":{"colors":{"c66c6":{"val":"rgb(19, 114, 211)","hsl":{"h":210,"s":0.83,"l":0.45,"a":1}}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)
 
 ## [COMLEX Level 1’s New Parameters](https://www.medlearnity.com/comlex-level-1-pass-fail/ 'COMLEX Level 1’s New Parameters')
-
-[](https://www.medlearnity.com/comlex-usa-exam/)
 
 ## [The Right Approach To The COMLEX-USA Exam – Tips & Tricks](https://www.medlearnity.com/comlex-usa-exam/ 'The Right Approach To The COMLEX-USA Exam – Tips & Tricks')

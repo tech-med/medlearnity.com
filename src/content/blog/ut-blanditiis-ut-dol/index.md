@@ -59,7 +59,7 @@ However, you should see if you can still get the answer right without the EXACT 
 
 (5) Click “Add to Cart” and then follow the on-screen prompts.
 
-## Treat NBME Free Practice Exams Like Gold!
+## Treat NBME Free Practice Exams Like Gold
 
 These **NBME practice exams provide you with questions DIRECTLY from the test writers.** This is truly like gold! You get to study each question, including the way that the test writers formulate patient scenarios; write correct answer choices (as well as the incorrect, trick answer choices).
 
@@ -69,12 +69,11 @@ These tests help you to get into the test writers’ heads! Understanding how th
 
 **Taking the NBME free practice exams at the start of your dedicated study period helps you to find out your baseline**. Don’t stress if the score is lower than you would like it to be. This is to be expected, and it’s the reason why you have dedicated study period! Going forward, use NBME’s as a “check” on where you stand every few weeks. You'll be able to measure your learning and knowledge retention.
 
-**While NBMEs do not have explanations like UWorld, and it takes time to complete and review an NBME, it's still worth it.** NBME is the best USMLE study resource available that tells you exactly how you might perform on test day. So use it to your advantage to improve, re-tweak, and re-calibrate!
-
+**While NBMEs do not have explanations like UWorld, and it takes time to complete and review an NBME, it's still worth it.** NBME is the best USMLE study resource available that tells you exactly how you might perform on test day. So use it to your advantage to improve, re-tweak, and re-calibrate
 Taking an NBME Self-Assessment every few weeks will help make your study time more effective. It will also help to ensure that you are spending your time and energy in the right subject areas and topics. Use your diagnostic feedback report to re-tweak your study schedule and target your weaknesses.
 
 ### Dedicate a Four-Hour Block for NBME Self-Assessments
 
 **Setting aside this time to take your NBME free practice exams will be fruitful**. You want to use this opportunity to recreate the testing experience for yourself. On test day, you will want your brain and body trained to withstand test-taking conditions. So why miss using an NBME free Self-Assessment? The best part with these practice exams, is that you build your testing prowess! You will get a three-digit score telling you exactly where you are in the study process. You can then use that score to direct and improve your study plan going forward, and reach your goals.
 
-But, you don't need to prepare for your USMLE exams alone. Our [Medlearnity tutors](http://www.medlearnity.com/our-tutors/) are available to assist you with your [NBME test prep](https://www.medlearnity.com/nbme-shelf-exams/). So, [reach out to us](https://www.medlearnity.com/start-here/) and let's help you ace these exams!
+But, you don't need to prepare for your USMLE exams alone. Our [Medlearnity tutors](http://www.medlearnity.com/our-tutors/) are available to assist you with your [NBME test prep](https://www.medlearnity.com/nbme-shelf-exams/). So, [reach out to us](https://www.medlearnity.com/start-here/) and let's help you ace these exams

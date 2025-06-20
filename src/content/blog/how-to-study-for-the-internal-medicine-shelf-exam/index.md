@@ -14,8 +14,6 @@ The Shelf Exam can have a significant impact on your clerkship grade. If you kno
 
 At the same time, internal medicine is known for being a busy rotation, and you'll be busy on the wards and in the clinic. How can you create the right study schedule, and stick to it even when you're tired? What resources should you use, and what topics should you focus on?
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_318559694-1-scaled.jpg)
-
 ## What are the best resources to prepare for the Internal Medicine Shelf Exam?
 
 Although the Medicine clerkship is generally the longest one (12 weeks at most med schools), the Medicine Shelf Exam is actually no longer than any of the other Shelf Exams – it's 110 questions in 2 hours and 45 minutes. However, because of the breadth of information that this exam can cover, it's often considered one of the more difficult Shelf Exams.
@@ -45,8 +43,6 @@ When you're feeling tired or stressed after long hours on the wards, watching vi
 ### Step Up To Medicine
 
 To supplement the Qbanks, a textbook is useful. For medicine, Step Up is a great one. Keep in mind that this book is very dense with information. If you're cramming in the last few days before the exam, don't even bother with Step Up – it will only make you feel stressed. However, if you start early and stay diligent about spending time with it daily, so that you get through the whole book before your exam, Step Up can be a great resource. (Step Up to Medicine is also very helpful for the Surgery Shelf Exam, so it's definitely worth having around.)
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_1065101465-1-scaled.jpg)
 
 ## How can you set up a study schedule for the Internal Medicine Shelf Exam?
 

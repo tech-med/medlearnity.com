@@ -14,8 +14,6 @@ If you're considering going into pediatrics or a related field, then you'll defi
 
 How can you ace your Pediatrics Shelf Exam? What resources should you use, and what should you focus on?
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock_288150239-1-300x200.jpg)
-
 ## What are the best resources for studying for the Pediatrics Shelf Exam?
 
 For all of the Shelf Exams, there's such a huge variety of different resources out there that choosing which ones to focus on can be a challenge. The peds rotation is generally only six weeks long, and you'll probably have relatively frequent (something like Q4) call for a lot of it, which doesn't leave you with much spare time. You'll want to focus in on the most high-yield resources, so you can get the most out of the study time you're able to find.

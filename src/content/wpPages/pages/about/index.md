@@ -4,8 +4,6 @@ pubDate: 2020-04-12
 description: 'Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl'
 ---
 
-![](//www.medlearnity.com//images/wp/2020/04/Medlearnity-Physician-Screen-scaled.jpg 'Medlearnity Physician Screen')
-
 ### Our Story
 
 Medlearnity is an elite tutoring and consulting company that specializes in [**medical** **test preparation**](https://www.medlearnity.com/tutoring/), [**coursework**](https://www.medlearnity.com/coursework/), and [**admissions**](https://www.medlearnity.com/admissions/). For over 8 years, we have helped hundreds of aspiring doctors accomplish their goals on [**USMLE**](https://www.medlearnity.com/usmle/)**,** [**COMLEX**](https://www.medlearnity.com/comlex/)**,** [**Shelf Exams,**](https://www.medlearnity.com/nbme-shelf-exams/)[**Residency Board Exams**](https://www.medlearnity.com/residency-board-exams/), and [**MCAT**](https://www.medlearnity.com/mcat/).
@@ -28,10 +26,9 @@ You'll receive an email **introducing you to your new tutor**, and instructions 
 
 After your trial session, **we'll send you a feedback report with next steps, our recommendations and a recording of your session** so you can review any material you went over with your tutor. If you decide you'd like to continue working with us to achieve your goals, we'll set you up with a tutoring package that works best for you.
 
-#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
+#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 
-I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
-
+I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 ![profile-pic](https://www.medlearnity.com/wp-content/plugins/thrive-ovation/admin/img/tvo-no-photo.png)V. H.USMLE Step 1 Student
 
 #### I am happy to report that not only did I pass Step 1 with a much stronger score, but, even after we stopped working together, I continued to use his strategies as I prepared for subsequent tests and recently aced my specialty boards.
@@ -42,8 +39,7 @@ I initially worked with Akshay a few years ago after I had failed Step 1. We wor
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
-I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
-
+I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness
 ![profile-pic](https://www.medlearnity.com/wp-content/plugins/thrive-ovation/admin/img/tvo-no-photo.png)Michael O.USMLE Step 3 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
@@ -60,4 +56,4 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 ## **Our Tutors Have Trained at the Top Hospitals:**
 
-![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png 'Penn Medicine Logo')![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo-e1591252543618.png 'Columbia Medical Logo')![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Weill-Cornell-Logo.png 'Weill Cornell Logo')![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png 'Mayo v4')![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg 'download-NYU MC')![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png 'Mount Sinai logo')![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png 'Johns Hopkins logo')![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png 'Wake Forest Logo')
+!!!!!!!

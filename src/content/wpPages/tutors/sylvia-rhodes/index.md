@@ -1,7 +1,7 @@
 ---
 title: 'Sylvia Rhodes'
 pubDate: 2023-06-20
-description: '"It has always been incredibly rewarding for me to mentor and tutor. Preparing for medical exams and admissions can be highly stressful, and I always striv'
+description: 'It has always been incredibly rewarding for me to mentor and tutor. Preparing for medical exams and admissions can be highly stressful, and I always strive to use my past experiences to make this process easier for my mentees while guiding them to their desired destinations.'
 ---
 
 # Meet Sylvia Rhodes
@@ -10,13 +10,12 @@ PERSONAL STATEMENT
 
 _"It has always been incredibly rewarding for me to mentor and tutor. Preparing for medical exams and admissions can be highly stressful, and I always strive to use my past experiences to make this process easier for my mentees while guiding them to their desired destinations. Along the way, I always enjoy the personal relationships I form with my tutees, while I watch them learn, improve, and succeed in achieving their goals. Additionally, I am always learning from my students and the process of teaching itself."_
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/08/Sylvia_Rhodes.webp 'Sylvia_Rhodes')
-
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 **Sylvia Rhodes**
 
 ## Hear what our Students have to say about, Sylvia
 
-\[trustindex data-widget-id=fee525b395776396ab268f74179\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 
@@ -38,6 +37,5 @@ Exam Scores
 
 Sign up for our one-hour discounted session. You'll receive an email or phone call from us shortly thereafter for some more information so we can understand your particular situation and assess your personal needs to pair you up with the tutor that's a perfect fit. This way, we're off to a very productive and personalized start, right from your very first session.
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/08/Sylvia_Rhodes.webp 'Sylvia_Rhodes')
-
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 **Sylvia Rhodes**

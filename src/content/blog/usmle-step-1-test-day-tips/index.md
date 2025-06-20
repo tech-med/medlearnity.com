@@ -52,4 +52,4 @@ Take the day before the exam to relax. Ideally, you'll spend no more than an hou
 
 Medlearnity is your source for [USMLE Step 1 tutoring help](https://www.medlearnity.com/usmle-tutoring-step-1/). We're a physician-run company dedicated to helping medical students learn the core concepts and terminology necessary to pass [all stages of the USMLE exams](https://www.medlearnity.com/usmle/). Work one-on-one with our tutors via Zoom with the option to communicate via email with further questions.
 
-Take advantage of our personalized approach to exam preparation. [Start your free trial](https://www.medlearnity.com/start-here/) to learn more about our services today!
+Take advantage of our personalized approach to exam preparation. [Start your free trial](https://www.medlearnity.com/start-here/) to learn more about our services today

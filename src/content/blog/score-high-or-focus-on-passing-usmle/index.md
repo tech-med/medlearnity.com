@@ -43,7 +43,7 @@ Step 2 CK is a nine-hour, one-day exam covering pediatrics, surgery, psychiatry,
 
 For the Step 2 CS exam, medical students work with actors for patient encounters. The student is tested on their skill in addressing the “patient’s” complaint. Step 2 CS takes eight hours and is graded with a pass/fail score.
 
-Now that Step 1 is pass/fail, the standards of a good score for step 2 have changed. Quite simply, more emphasis will now fall on this exam. In the past, students could bolster a lower Step 1 score with a higher Step 2 score, but now this will not be an option. The majority of a medical student’s qualifications for residencies and medical specialties will now rest on Step 2. Don't hesitate to look into [tutoring for help on your USMLE Step 2 score](https://www.medlearnity.com/step-2ck-usmle/)!
+Now that Step 1 is pass/fail, the standards of a good score for step 2 have changed. Quite simply, more emphasis will now fall on this exam. In the past, students could bolster a lower Step 1 score with a higher Step 2 score, but now this will not be an option. The majority of a medical student’s qualifications for residencies and medical specialties will now rest on Step 2. Don't hesitate to look into [tutoring for help on your USMLE Step 2 score](https://www.medlearnity.com/step-2ck-usmle/)
 
 ## Tips If Your Goal Is to Score High on Step 2
 

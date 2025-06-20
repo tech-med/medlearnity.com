@@ -92,8 +92,6 @@ To land [near the 75th percentile](https://www.usmle.org/sites/default/files/20
 
 Since Step 1 now operates on a pass/fail system, your percentile for that examination matters less. For the following two tests, however, a score in or above the 75th percentile can help you achieve your desired residency.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/LEARNING-1-1024x683.jpg)
-
 ### When Should You Take Step 2?
 
 Some students consider putting off taking Step 2 CK until after their residency applications are complete, figuring that this means it won’t matter for their application. This strategy might work in some cases, but more competitive residency programs require you to take Step 2 CK for them to consider ranking you for their program.

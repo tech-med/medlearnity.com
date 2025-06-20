@@ -16,7 +16,7 @@ _"I strive to help my students build a strong fund of knowledge, sharpen their t
 
 ## Hear what our Students have to say about our Tutors
 
-\[trustindex data-widget-id=6133dd239b9d64064646122c33a\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 

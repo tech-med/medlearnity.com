@@ -16,7 +16,7 @@ _"I have a passion of mentorship and medical education which has helped me lead 
 
 ## Hear what our Students have to say about, Keon
 
-\[trustindex data-widget-id=5efa46f386df9793bd2651afa1e\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 

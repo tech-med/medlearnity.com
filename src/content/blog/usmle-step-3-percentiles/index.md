@@ -9,18 +9,15 @@ description: 'USMLE Step 3 Percentiles: What You Need to Know'
 
 # USMLE Step 3 Percentiles: What You Need to Know
 
-If you’re thinking about USMLE Step 3 percentiles, let’s first take a moment: Congrats on making it this far!
-
+If you’re thinking about USMLE Step 3 percentiles, let’s first take a moment: Congrats on making it this far
 You’ve already taken USMLE Step 1 and Step 2 CK, so you have a general idea about what to expect on test day. However, USMLE Step 3 is a bit different. It is the last test in the series, and it assesses how prepared a resident is to begin practicing medicine on their own.
 
 To perform well on Step 3, you must have a strong foundational knowledge of the medical sciences and be able to apply that knowledge in practical, patient-centered situations.
 
-**Our biggest piece of advice is: don’t underestimate Step 3**! You have already gotten through Step 1 and Step 2 — the end is almost near, don’t let your guard down just yet!
-
+**Our biggest piece of advice is: don’t underestimate Step 3**! You have already gotten through Step 1 and Step 2 — the end is almost near, don’t let your guard down just yet
 **Given the timing of Step 3, many students are in focused clinical specialties where they are not seeing the breadth of the material**. Therefore, you need to focus consciously on your weaknesses. You don’t want them to hold you back from passing Step 3 on test day.
 
-Now let’s explore all you need to know to master the USMLE Step 3 percentiles!
-
+Now let’s explore all you need to know to master the USMLE Step 3 percentiles
 ![student working on a computer](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/07/student-working-on-a-computer-1.png)
 
 ## What’s the Passing Score for Step 3?
@@ -126,8 +123,7 @@ All of this prep is important for the multiple-choice portion. However, you shou
 
 ### 3\. Get Familiar with Computer-Based Case Simulations (CCS)
 
-Computer-based Case Simulations (CCS) differentiate Step 3 from the other USMLE exams. As stated before, you complete CCS cases on the second day of the USMLE Step 3 exam. The CCS portion of the exam makes up approximately one-third of the overall exam weight. So, this section should not be underestimated!
-
+Computer-based Case Simulations (CCS) differentiate Step 3 from the other USMLE exams. As stated before, you complete CCS cases on the second day of the USMLE Step 3 exam. The CCS portion of the exam makes up approximately one-third of the overall exam weight. So, this section should not be underestimated
 In addition to the practical application of medical knowledge, it requires strong familiarity with the software. The best way to ensure you won’t be caught off-guard with these cases is to get acquainted with the CCS software. You need to know how you will be timed and scored. Learn how to maneuver the CCS simulation software, so you’re comfortable using it on test day. We suggest doing this early in your study period so that you get as much practice as possible. Make sure you have gone through all the questions in CCS. They are available on the [official USMLE website](https://www.usmle.org/prepare-your-exam).
 
 ### 4\. Don’t Neglect Your Weaknesses
@@ -150,7 +146,7 @@ We recommend that you take a practice National Board of Medical Examiners (NBM
 
 Taking a practice NBME will also highlight your weaknesses. This test will let you know what areas you should first target in your study sessions. Depending on your test date and study time frame, schedule your next practice NBME so that it’s three weeks from your first one. Track your progress and identify your weaknesses. Then, continue to go through the UWorld question bank for USMLE Step 3. You can also turn to Amboss if you need more questions.
 
-## Ace Your USMLE Step 3 Exam!
+## Ace Your USMLE Step 3 Exam
 
 You should do all you can to get your best score in the USMLE Step 3 percentiles, including talking to a [USMLE Step 3 coach](https://www.medlearnity.com/usmle-step-3/). We have been in your shoes and done exceptionally well in Step 3 and beyond. You don’t have to prepare for this final round alone.
 

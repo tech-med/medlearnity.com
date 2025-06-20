@@ -14,8 +14,6 @@ Anyway, we all understand how stressful and demanding the life of a med student 
 
 Before we move on to discussing USMLE Step 2 Study Scheduling Techniques, first I want to congratulate you for getting this far. The USMLE or United States Medical Licensing Examination test series is not something you can just breeze through, after all. This 3-part testing series was made to be challenging so that the AAMC can really funnel out the cream of the crop. Going into medical practice means that you get to be responsible of people’s lives and well-being in the future. This is why the level of difficulty of the screening tests are quite reasonable.
 
-![](//www.medlearnity.com//images/wp/2020/04/USMLE-Study-Schedule-1-1024x682.jpg 'USMLE-Study-Schedule-1')
-
 As a review, and for those who have absolutely no idea about what the USMLE is, let me do a brief explanation.
 
 ### What Is The USMLE?
@@ -45,8 +43,6 @@ The thing that you really have to remember about the USMLE Step 2 is that they h
 ### **Carefully Select The Material To Cover**
 
 Compared to Step 1, you have more material to cover for the 2-CK exam. Let’s just say that you need to cover four years’ worth of subjects in medical school. However, since it’s focused more on clinical knowledge and not basic sciences, you can dedicate your review time on related subjects. Do your research and study the exam material from previous years. It should help you decide on which topics to cover and include in your study schedule.
-
-![](//www.medlearnity.com//images/wp/2020/04/Study-Schedule-1-1024x487.jpg 'Study-Schedule-1')
 
 ### Simulate The 2-CS Test With Colleagues/Classmates
 

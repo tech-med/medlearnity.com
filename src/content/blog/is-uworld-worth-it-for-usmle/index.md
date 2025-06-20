@@ -55,7 +55,7 @@ On timed mode, UWorld has a 90-second timer per question, so students will take 
 
 UWorld recommends completing two full passes through the UWorld QBank. Do the first pass along with your first- and second-year medical school curriculum and save the second pass for your dedicated period of study for the USMLE.
 
-If you are in a crunch, you can make the most of [UWorld's 30-day subscription](https://medical.uworld.com/blog/medical/uworld-in-30-days-making-the-most-out-of-uworlds-most-basic-subscription/). Study for your USMLE Step Exam in 30 days or less and boost your exam score!
+If you are in a crunch, you can make the most of [UWorld's 30-day subscription](https://medical.uworld.com/blog/medical/uworld-in-30-days-making-the-most-out-of-uworlds-most-basic-subscription/). Study for your USMLE Step Exam in 30 days or less and boost your exam score
 
 ### How Many UWorld Questions Should You Do a Day?
 
@@ -73,4 +73,4 @@ Yes, it's generally recommended for users to complete two full passes of the UWo
 
 ## Prep for Step 1 With Medlearnity Today
 
-Every student has different needs. With Medlearnity, you’ll have an [experienced USMLE Step 1 tutor and customized study sessions](https://www.medlearnity.com/usmle-tutoring-step-1/) to help you learn and improve in a way that’s right for you. We have the passion, expertise and study resources to help you succeed on test day. [Start your free trial](https://www.medlearnity.com/start-here/) today!
+Every student has different needs. With Medlearnity, you’ll have an [experienced USMLE Step 1 tutor and customized study sessions](https://www.medlearnity.com/usmle-tutoring-step-1/) to help you learn and improve in a way that’s right for you. We have the passion, expertise and study resources to help you succeed on test day. [Start your free trial](https://www.medlearnity.com/start-here/) today

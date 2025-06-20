@@ -10,13 +10,12 @@ PERSONAL STATEMENT
 
 _"In my 10 years of tutoring, the one thing that never gets old is watching the confidence of my students increase so much so that by the end of our time together, they are owning subject matters that once brought them fear and anxiety. Watching them demonstrate understanding of the material to a point where they are tackling difficult questions with minimal assistance from me will never get old. My mindset when it comes to tutoring is "by any means necessary". I will do everything in my power to help you reach your goals!"_
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Viemma.webp 'Viemma')
-
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 **Viemma Nwigwe, MD**
 
 ## Hear what our Students have to say about, Viemma
 
-\[trustindex data-widget-id=cf2f0433898e9306b436684980e\][Monthly](#)
+\[Monthly](#)
 
 ### Educational Background
 
@@ -41,6 +40,5 @@ I have robust experience with admissions work and it is something I am passionat
 
 Sign up for our one-hour discounted session. You'll receive an email or phone call from us shortly thereafter for some more information so we can understand your particular situation and assess your personal needs to pair you up with the tutor that's a perfect fit. This way, we're off to a very productive and personalized start, right from your very first session.
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/04/Viemma.webp 'Viemma')
-
+\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
 **Viemma Nwigwe, MD**

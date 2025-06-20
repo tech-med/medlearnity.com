@@ -4,7 +4,7 @@ pubDate: 2021-12-17
 description: 'Learn more about Professional USMLE Step 2 Tutoring and our comprehensive tutoring services.'
 ---
 
-\[tcb_logo href="https://www.medlearnity.com" data-id-d="10" data-dynamic-link="thrive_global_shortcode_url" data-shortcode-id="0" data-img-style="width: 100%;" data-id-m="11" data-alt=""\]
+\
 
 #### Get started with USMLE tutoring today
 
@@ -22,7 +22,7 @@ The most significant challenge of your medical career can become your greatest o
 - You aren’t sure which residency program you’d like to match into, but you want to keep your options open by scoring well on Step 2.
 - You’re committed to your medical career, and you’re ready to do whatever it takes to succeed.
 
-## If any of the above statements sound like you, we want you to know that you’re not alone!
+## If any of the above statements sound like you, we want you to know that you’re not alone
 
 Thousands of med students take the USMLE every year. Many of them struggle to get the scores that they want. The USMLE is widely considered to be the most difficult set of exams in the country. The overwhelming responsibilities of med school and intern year can make it difficult to find the time to study, and using the wrong study strategies can make your limited study time less effective.
 
@@ -30,7 +30,7 @@ Thousands of med students take the USMLE every year. Many of them struggle to ge
 
 Data from the NRMP (the National Residency Matching Program, the program that administers the Match) indicate that residency directors rank applicant’s scores on USMLE Step 1 and Step 2 CK among the most important factors in determining who gets invited for an interview. Your performance on these exams could determine whether you even get a chance to interview at the program of your choice.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Image-2020-10-17-at-7.04.02-PM.png 'Image 2020-10-17 at 7.04.02 PM')](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
+[!](http://www.medlearnity.com//images/wp/2020/09/factsdatachart1.pdf)
 
 Residency directors give a lot of weight to USMLE scores, because they’re standardized and easily comparable across different med schools. This gives them a unique weight in your residency application.If you’re planning to apply for a fellowship after your residency, then your Step 3 scores will also become important in your application. At the same time, Step 1 and Step 2 CK scores continue to be important even into fellowship. This is why it’s crucial to achieve the best possible scores on these exams; a less-than-stellar performance on Step 1 or Step 2 CK could put limits on your career choices years later.Your USMLE scores are crucial to your future in medicine. Your choice of specialty, residency location, and other program specifics depends heavily on your USMLE scores.
 
@@ -113,7 +113,5 @@ During your free session, your tutor can answer any questions you may have, cove
 ## Meet one of our Experts
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.

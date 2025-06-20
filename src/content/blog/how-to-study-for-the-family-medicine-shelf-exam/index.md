@@ -16,9 +16,7 @@ The Family Medicine Shelf Exam presents a unique challenge. The breadth of mater
 
 ![family medicine shelf exams](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/shutterstock_1695205249-1.jpg)
 
- 
-
-While it is a challenge, the breadth of topics on this exam can also be a great opportunity. Studying for the Family Medicine Shelf will be very helpful on [Step 2 CK](https://www.medlearnity.com/step-2ck-usmle/), as you'll be reviewing and connecting content that you've learned in various specialties. Whether you want to honor your family med rotation or simply ensure that you're [prepared for Step 2 CK](https://www.medlearnity.com/how-to-score-280-on-usmle-step-2-ck/), the right study plan can help you to do well!
+While it is a challenge, the breadth of topics on this exam can also be a great opportunity. Studying for the Family Medicine Shelf will be very helpful on [Step 2 CK](https://www.medlearnity.com/step-2ck-usmle/), as you'll be reviewing and connecting content that you've learned in various specialties. Whether you want to honor your family med rotation or simply ensure that you're [prepared for Step 2 CK](https://www.medlearnity.com/how-to-score-280-on-usmle-step-2-ck/), the right study plan can help you to do well
 
 ## 1\. Family Medicine Shelf Exam Resources You'll Need
 

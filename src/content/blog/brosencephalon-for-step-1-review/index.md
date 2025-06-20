@@ -23,8 +23,6 @@ Brosencephalon can be a great addition to your study toolkit. The Anki method is
 
 At the same time, we wouldn't recommend using this as your main study resource for Step 1. The flashcards are most useful for helping you to retain information that has already been learned, rather than for learning concepts for the first time. Keep in mind that a flashcard presents a small, isolated piece of information; this is helpful for remembering facts, but will not help you to connect different concepts in order to build your overall framework of understanding and clinical reasoning skills. Also, unlike other resources (such as [UWorld](https://www.uworld.com/)), this is not a QBank, meaning that the questions are not USMLE style. Brosencephalon is an excellent addition to other resources for Step 1 review, but is not suitable for being your primary resource.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/shutterstock-flash-card-300x200.png)
-
 ### Brosencephalon organization
 
 The Brosencephalon cards are not divided into subdecks when you download them. This is done to minimize the risk of errors occurring in the download process. Unfortunately, this means that you have a deck of over 13000 cards that aren't subdivided into sections, which can make the deck a bit unwieldy at first. Fortunately, the cards are well-tagged in a hierarchical structure (based on how topics are organized in First Aid), which  makes it easy to divide them up and use them as needed for specific subjects. You could even use these cards during your first and second year classes, to help you cement your knowledge for the long term and feel prepared for the USMLE when the time comes.

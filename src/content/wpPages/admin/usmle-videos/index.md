@@ -6,4 +6,4 @@ description: 'Level up your USMLE study plan with over 60 questions, trainings, 
 
 ## Access Free USMLE Educational Videos
 
-Level up your USMLE study plan with over 60 questions, trainings, tips, and more!
+Level up your USMLE study plan with over 60 questions, trainings, tips, and more

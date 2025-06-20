@@ -18,8 +18,6 @@ That’s right horrific, stressful, and nerve-wracking exams. From the start of 
 
 But before that, let’s do a quick run down memory lane:
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/06/Exams-Medical-Aspirants-ML.jpg 'Exams-Medical-Aspirants-ML')
-
 ### **Exams Medical Aspirants Need To Take**
 
 The day you decided to take up medicine was the day you were made aware that you had to take the MCAT or the Medical Colleges Admissions test which is a prerequisite to your enrolment to med school. That was probably the first of the many encounters you had with national, standardized medical exams and also probably the one you dreaded the most. After all, it was a deciding moment for your medical career.
@@ -45,8 +43,6 @@ So if you are trying to become a DO, then you have the option to not take the US
 Anyway, here’s a brief run-down of what to expect in the COMLEX-USA licensure examinations:
 
 If the USMLE has “Steps,” the COMLEX has “Levels.” Specifically, it has Level 1, Level 2-CE and Level 2-PE, and Level 3 – like I said, they’re way too similar right? Aside from 2-PE which is a patient-based evaluation of the test taker’s osteopathic patient care skills, all other levels are computer-based, standardized exams that mostly cover osteopathic knowledge.
-
-![](//www.medlearnity.com//images/wp/2020/05/Medical-Career-1-1024x683.jpg 'Medical-Career')
 
 But compared to the USMLE, the length of the COMLEX is pretty overbearing. They’re twice the number of items found in each step of the USMLE with COMLEX Level 1 and 2-CE having 400 questions each and Level 3 having 420 questions in total. With almost twice the number of questions, the length of time you have to take the COMLEX-USA is basically synonymous to the USMLE (around 7.5 hours excluding breaks) which means that you have to answer each question for half the time allotted or just around 45 seconds each. Now you need extremely fast reading and answering skills for that.
 

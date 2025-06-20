@@ -21,23 +21,6 @@ const blog = defineCollection({
 		}),
 });
 
-const pages = defineCollection({
-	// Load Markdown and MDX files in the `src/content/pages/` directory.
-	loader: glob({ base: './src/content/pages', pattern: '**/*.{md,mdx}' }),
-	// Type-check frontmatter using a schema
-	schema: ({ image }) =>
-		z.object({
-			title: z.string(),
-			description: z.string().optional(),
-			// Transform string to Date object
-			pubDate: z.coerce.date(),
-			updatedDate: z.coerce.date().optional(),
-			heroImage: image().optional(),
-			// Pages may have different layouts
-			layout: z.string().optional(),
-		}),
-});
-
 const wpPages = defineCollection({
 	// Load Markdown and MDX files in the `src/content/wpPages/` directory.
 	loader: glob({ base: './src/content/wpPages', pattern: '**/*.{md,mdx}' }),
@@ -60,4 +43,4 @@ const wpPages = defineCollection({
 		}),
 });
 
-export const collections = { blog, pages, wpPages };
+export const collections = { blog, wpPages };

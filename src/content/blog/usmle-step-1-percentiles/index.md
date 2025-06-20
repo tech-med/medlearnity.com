@@ -7,8 +7,7 @@ categories:
 description: 'As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be on'
 ---
 
-As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be one of your biggest fears. It’s that big hurdle you just want to be over and done with! But, USMLE Step 1 is the first in three exams leading up to the end of your residency internship and can affect your residency matching. So let's explore what you need to know about USMLE Step 1 and how you can get your best test score!
-
+As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be one of your biggest fears. It’s that big hurdle you just want to be over and done with! But, USMLE Step 1 is the first in three exams leading up to the end of your residency internship and can affect your residency matching. So let's explore what you need to know about USMLE Step 1 and how you can get your best test score
 ![What's the Average Step 1 Score?](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/01-Whats-the-Average-Step-1-Score.jpg)
 
 ## What's the Average Step 1 Score?
@@ -31,7 +30,7 @@ This means that people with less than 230 can still be matched with their desire
 
 This average score for such a favorable outcome also puts the test into perspective — 230 is a high Step 1 score and can feel like quite a lofty goal to achieve for some. This reiterates the importance of preparing for the USMLE Step 1 exam, as you'll want to come away with the best score possible. You can take heart because different specialties will have different average Step 1 percentiles that can still lead to placement in one's preferred specialty.
 
-In short, you should shoot for at least the average — around a 230. But the more you study and prepare the right way, the higher your chances could be for acing your USMLE Step 1 exam and landing in your chosen specialty!
+In short, you should shoot for at least the average — around a 230. But the more you study and prepare the right way, the higher your chances could be for acing your USMLE Step 1 exam and landing in your chosen specialty
 
 ## The Importance of Having the Right Mindset
 
@@ -49,9 +48,8 @@ To get into medical school, you have to pass the MCAT exam. This exam covers the
 
 For those of you thinking of medical school, you should note that schools have different [cut-off scores for the MCAT](https://www.medlearnity.com/mcat/). Some would only accept students in the upper 10th percentile or 20th percentile. You have to meet the score that is standardized by your medical school of choice. You then need to prepare a detailed and sincere letter of intent and submit it with your CV.
 
-While your undergraduate course may have some weight on your application, your exam results and letter of application (as well as your interviews) will matter the most. So make sure that you do great on all of them! Check out how we can [help you with your medical school admissions here](https://www.medlearnity.com/medical-school-admissions/)!
-
-Getting into medical school is a great accomplishment. However, now you need to focus on acing the USMLE test series!
+While your undergraduate course may have some weight on your application, your exam results and letter of application (as well as your interviews) will matter the most. So make sure that you do great on all of them! Check out how we can [help you with your medical school admissions here](https://www.medlearnity.com/medical-school-admissions/)
+Getting into medical school is a great accomplishment. However, now you need to focus on acing the USMLE test series
 
 ## **Why is the USMLE Called a Test Series?**
 
@@ -67,8 +65,7 @@ The USMLE Step 1 exam is a knowledge test. It's a multiple-choice exam consistin
 
 Is USMLE Step 1 going to be difficult? Well, yes, but not in the way you think it'll be.
 
-The Step 1 exam evaluates how much you've learned in your first two years of medical school. It covers basic sciences as well as all the subjects you have taken in these two years. So what makes the USMLE Step 1 exam difficult is the volume of material to cover. You must plan your study schedule well so that you can cover all the material that is included in the exam. We have plenty of [study resources](https://www.medlearnity.com/blog/) as well as [a quick guide](https://www.medlearnity.com/usmle-step-1-study-schedule/) to help your study schedule, so be sure to check it out!
-
+The Step 1 exam evaluates how much you've learned in your first two years of medical school. It covers basic sciences as well as all the subjects you have taken in these two years. So what makes the USMLE Step 1 exam difficult is the volume of material to cover. You must plan your study schedule well so that you can cover all the material that is included in the exam. We have plenty of [study resources](https://www.medlearnity.com/blog/) as well as [a quick guide](https://www.medlearnity.com/usmle-step-1-study-schedule/) to help your study schedule, so be sure to check it out
 ![USMLE step 1 scores and percentile chart](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/03/Chart6.png 'Chart6')
 
 ## What's the Score to Pass USMLE Step 1?
@@ -79,6 +76,6 @@ For the USMLE Step 1 exam, the score you should aim for depends on the medical s
 
 For USMLE Step 1, a good score to aim for is 240. Yes, it's a little high, but that’s exactly what you want. Being in the upper 15th percentile is a goal to focus on. It will make your application look promising no matter which sub-discipline or specialized practice you enter later on. If you’re thinking of getting into general practice (or becoming a family doctor), then a score of around 220 is also okay. But, if you intend to go into surgical practice, the you need to aim for and even higher score.
 
-## You Can Ace Your USMLE Step 1 Exam!
+## You Can Ace Your USMLE Step 1 Exam
 
-It's important that you understand the scoring system of Step 1 and get the best score in the USMLE Step 1 percentiles. Many students work very hard each day to get that perfect score. If that's you, you want all the help that you can get. At Medlearnity, we have many expert physicians available to guide you in preparing for USMLE Step 1. Our [exceptional tutorial services](https://www.medlearnity.com/tutoring/) are just what you need to ace the exam. [Book your free 1-hour session](https://www.medlearnity.com/usmle-tutoring-step-1/) today to see how we can help to make your perfect USMLE Step 1 score a reality!
+It's important that you understand the scoring system of Step 1 and get the best score in the USMLE Step 1 percentiles. Many students work very hard each day to get that perfect score. If that's you, you want all the help that you can get. At Medlearnity, we have many expert physicians available to guide you in preparing for USMLE Step 1. Our [exceptional tutorial services](https://www.medlearnity.com/tutoring/) are just what you need to ace the exam. [Book your free 1-hour session](https://www.medlearnity.com/usmle-tutoring-step-1/) today to see how we can help to make your perfect USMLE Step 1 score a reality

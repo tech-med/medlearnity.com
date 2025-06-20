@@ -4,9 +4,9 @@ pubDate: 2020-05-26
 description: 'We’ve helped over 500 students prepare for their highstakes medical exams. See what they have to say!'
 ---
 
-## We’ve helped over 500 students prepare for their high-stakes medical exams. See what they have to say!
+## We’ve helped over 500 students prepare for their high-stakes medical exams. See what they have to say
 
-\[trustindex data-widget-id=17b22dd384af608b8d663bffb0d\]
+\
 
 #### More than willing to go out of his way to help me succeed on ABIM
 
@@ -38,7 +38,7 @@ Medlearnity and Anthony helped me gain the confidence I needed for STEP 3 as I w
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Brenden HerrodMedical Resident
 
-#### Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity!
+#### Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity
 
 I worked with my tutor for my Step 2 CK for the past 4 months. Throughout the process, he completely changed my way of approaching questions! Even though there was an adjustment period, his techniques proved to be extremely helpful and useful. He was also extremely patient and understanding throughout the entire process. His explanations of medical concepts and problems were very clear and thorough. He was also motivating with his frequent check-ins, which ensured that I gave my maximum effort on a daily basis. Thanks to his guidance, my CK score was 30 points higher than my Step 1 mark! I strongly recommend Medlearnity! [Reference Link](https://www.trustpilot.com/reviews/64bde837f6bc322f521a3031).
 
@@ -74,7 +74,7 @@ I was having a lot of difficulties with USMLE Step 2 CK. I had reached a point w
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/1656236_10100895093307841_1181605648_n.jpg)Michael YeungUSMLE Step 2 CK Student
 
-#### I totally wish I knew about Medlearnity earlier!
+#### I totally wish I knew about Medlearnity earlier
 
 I totally wish I knew about Medlearnity earlier!The ABR CORE radiology examination was an absolute beast! I took the exam more than once, and my frustration, discouragement, and anxiety grew exponentially with each attempt. I had studied all the same videos, books, apps and Q-banks that all my colleagues had (several times). I often heard people say, "Oh, just study this - this - and this. That's what I did. You'll be fine." But it was never enough for me to pass. I needed help!I realized that formal tutor options were hard to find for a specific/high level exam, like the CORE. In my online search, I came across Medlearnity, and sent them an email to see if they could point me in the right direction. Within 48 hours I was on the phone with Akshay, who had passed the CORE exam himself is exceptionally qualified as a tutor! Together we mapped out a study plan, using his "Task Manager." He introduced me to the Remnote tool, which is much more effective than traditional flashcards. He also recommended a few particular review series and case books. We spent time walking through these books together, specifically in my weaker subjects. Akshay put me in touch with Louis, who is also a phenomenal CORE tutor! Our sessions together were productive, emphasizing the high-yield concepts. Not only did I pass, but I passed in the categories I'd struggled with the most. If you're going to take the CORE exam, don't hesitate to reach out to Medlearnity.I totally recommend them, and the sooner the better. You'll be glad you did.
 
@@ -92,16 +92,15 @@ I had an excellent experience with Medlearnity when applying to residency. They 
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Siddharth JainMedical Student
 
-#### I passed my general surgery oral board exam in one try with Anthony’s help at Medlearnity!
+#### I passed my general surgery oral board exam in one try with Anthony’s help at Medlearnity
 
 I passed my general surgery oral board exam in one try with Anthony’s help at Medlearnity!I am so excited and so relieved to have passed and be DONE. I went into my exam knowing I’ve gone through every testable subject inside and out multiple times and knowing that I was well trained with the oral examination format. Anthony was my secret weapon. Before reaching out to Medlearnity, I looked at some oral board prep books and video prep, and I felt really overwhelmed. To add, I was also newly graduated, moved twice, transitioning from doing locums to a perm position, undergoing significant life changes, working long hours, and being chronically sleep deprived…all the good stuff is new attendings go through..so the pathway to taking the boards seemed very intimidating to me at the time. Working with Anthony helped me prepare in an effective and efficient way. I cannot thank him enough for helping me feel confident on test day and that confidence has transcended into my surgical practice. Thanks to him for everything. I highly recommend. [Reference Link](https://g.co/kgs/jtZY1X).
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Tiffany Davis-GarciaSurgery Resident
 
-#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
+#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 
-I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations!
-
+I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
 
 #### He helped me create a schedule that was realistic for my study needs and availability.
@@ -122,16 +121,14 @@ In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege
 
 This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well.
 
-Thank you for everything!
-
+Thank you for everything
 VH, PGY-3, General Surgery
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student
 
 #### Through his help I went from failing USMLE Step 1 to getting my number one residency in my chosen specialty.
 
-Akshay is not only an expert in medical knowledge, but also a master educator who knows exactly how to tailor lesson plans to maximize retention, recall, and deep understanding of complex topics. Through his help I went from failing USMLE Step 1 to getting my number one residency in my chosen specialty. If I'd have found him sooner, I would have saved many hours and hundreds of dollars wasted on less worthy educational resources that I tried, including Kaplan and Doctors in Training. Now as a resident in clinical practice, the learning habits he taught me help me excel far beyond my peers. His methodology the epitome of "high-yield" learning. If you want the easiest, most efficient and most entertaining path to medical mastery, look no further!
-
+Akshay is not only an expert in medical knowledge, but also a master educator who knows exactly how to tailor lesson plans to maximize retention, recall, and deep understanding of complex topics. Through his help I went from failing USMLE Step 1 to getting my number one residency in my chosen specialty. If I'd have found him sooner, I would have saved many hours and hundreds of dollars wasted on less worthy educational resources that I tried, including Kaplan and Doctors in Training. Now as a resident in clinical practice, the learning habits he taught me help me excel far beyond my peers. His methodology the epitome of "high-yield" learning. If you want the easiest, most efficient and most entertaining path to medical mastery, look no further
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)D. L.USMLE Step 1 Student
 
 #### Excellent Experience
@@ -146,7 +143,7 @@ I have worked with multiple tutors from med Learnity for step 1 & the medicine s
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Stephanie T.USMLE Step 1 and Shelf Student
 
-#### Highly recommend for USMLE exams!
+#### Highly recommend for USMLE exams
 
 Medlearnity is an incredibly well organized and effective program. I was looking to improve my Step 1 score and worried that I was starting to delve into my studying at too late of a time and needed help in catching me up. Sadjad tutored me for Step 1, and I greatly benefited from the personalized sessions we had. He always came prepared to our meetings with topics, questions and useful tips that really helped to elevate my score. Everyone a part of the Medlearnity team was so kind, promptly communicated with me and made the process seamless. I also enjoyed the supplemental materials they provided students and found them to be more useful than other resources. I would highly recommend this service for a Step 1 tutor! [Reference Link](https://www.trustpilot.com/reviews/610b0c6bf9f48709d4c8511d).
 
@@ -154,8 +151,7 @@ Medlearnity is an incredibly well organized and effective program. I was looking
 
 #### Anthony is an amazing tutor.
 
-Anthony is an amazing tutor. He explains things in a way that anyone can understand and has many tricks to remember the small details. I have never been a strong test taker, but with this tutoring, I nearly doubled my percentile on absite. Highly recommend!
-
+Anthony is an amazing tutor. He explains things in a way that anyone can understand and has many tricks to remember the small details. I have never been a strong test taker, but with this tutoring, I nearly doubled my percentile on absite. Highly recommend
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Maggie GallagherSurgery Resident
 
 #### Huge difference during my MS3 clerkship shelf exams
@@ -170,10 +166,9 @@ Wonderful tool for Step 1 preparationMedlearnity was a key piece of studying for
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Natalie D.Medical Student
 
-#### 5 Stars!
+#### 5 Stars
 
-MedLearnity is an outstanding tutoring service that improved my step 1 score by 50 points!They are professional, intelligent, and most of all excited to help you on your journey. I worked with the MedLearnity tutors twice a week and they communicate high yield content effectively and efficiently. They invested time answering my questions on pathophysiology and provided great rationale. [Reference Link](https://g.co/kgs/yRzF3j).Before MedLearnity I was in the bottom 30% of my class, after buying in and investing time my scores course scores improved to near the top 30%. I attribute this med school turn around to the MedLearnity Team!
-
+MedLearnity is an outstanding tutoring service that improved my step 1 score by 50 points!They are professional, intelligent, and most of all excited to help you on your journey. I worked with the MedLearnity tutors twice a week and they communicate high yield content effectively and efficiently. They invested time answering my questions on pathophysiology and provided great rationale. [Reference Link](https://g.co/kgs/yRzF3j).Before MedLearnity I was in the bottom 30% of my class, after buying in and investing time my scores course scores improved to near the top 30%. I attribute this med school turn around to the MedLearnity Team
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)John M.Medical Student
 
 #### By the end of medical school, I had 38 interview invitations from Internal Medicine programs throughout the country, the highest number of interview invitations for my medical school class.
@@ -216,7 +211,7 @@ After having my dedicated period extended due to COVID, I felt uncertain about t
 
 ![profile-pic](http://www.medlearnity.com//images/wp/2020/09/photo-1-1.png)Randi D.USMLE Step 1 Student
 
-#### Great Experience!
+#### Great Experience
 
 I was constantly being taught high-yield information. Anthony kept reinforcing the information I was not grasping right away, and he sensed that. He provided grafts, charts, and other methods of learning to solidify the important concepts. I was given recordings of our sessions, and I will have so much material to use from this point on (I'm a PGY1, and this is an incredible foundation).
 
@@ -252,7 +247,7 @@ I never thought i would pass step 1 , i didnt know whay i was doing wrong , fina
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Cindy K.USMLE Step 1 Student
 
-#### I had the most amazing tutor!
+#### I had the most amazing tutor
 
 I had the most amazing tutor! She was so good at explaining things that I had always had trouble understanding and making study plans that helped me find and work on my weaknesses. Also, Dr. Goel was a wonderful asset as well and was always checking in and giving advice as well! I don't know how I would have gotten through studying for Step 2 CK during COVID without them! [Reference Link](https://g.co/kgs/stJAu2).
 
@@ -260,8 +255,7 @@ I had the most amazing tutor! She was so good at explaining things that I had al
 
 #### Akshay is highly knowledgeable and is very good at explaining difficult concepts with clarity and simplicity
 
-Akshay is highly knowledgeable and is very good at explaining difficult concepts with clarity and simplicity, particularly pathophysiology which can be quite dense. He's a kind and caring teacher as well. It was a pleasure working with him!
-
+Akshay is highly knowledgeable and is very good at explaining difficult concepts with clarity and simplicity, particularly pathophysiology which can be quite dense. He's a kind and caring teacher as well. It was a pleasure working with him
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)D. K.USMLE Step 1 Student
 
 #### They are an amazing professionals, with an outstanding comprehension about the process.
@@ -308,8 +302,7 @@ Medlearnity is definitely a tool to consider in the toolbox of preparation for b
 
 #### Great Resource for the Radiology CORE Exam
 
-I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity!
-
+I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)AnonymousRadiology Resident
 
 #### My tutors really helped me on my weak subjects and were very accommodating with the scheduling.
@@ -350,8 +343,7 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
-I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
-
+I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Michael O.USMLE Step 3 Student
 
 #### Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this.
@@ -360,8 +352,7 @@ I am a US medical school graduate who has a very difficult time with standardize
 
 Dr. Goel created a plan that accurately and efficiently addressed the weaknesses in my testing skills. His program included optimizing the use of Anki, which is an electronic note card program, a special strategy to approach the multiple choice questions on USMLE boards, and reviewing material from common board prep question banks. He also designed a pacing system to help me stay on track with timing for each question and he would select various topics for us to discuss the pathophysiology, diagnostic workup, and treatment in order to ensure comprehensive understanding of key medical presentations even beyond the board exam.
 
-Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan!
-
+Overall, Dr. Goel's support and interest in my immediate and long term goals were exemplary. With his strategic and specific approach, I was able to pass STEP 2 CK with a score that increased by more than 30 points. The results speak for themselves! Dr. Goel is an amazing tutor and he will bring out the very best in anyone with whom he works. His services will be a remarkable asset to any exam preparation plan and he has the experience and results that attest to this. I am truly grateful that I had the opportunity to work with Dr. Goel and I enthusiastically recommend him as an integral component to your medical exam study plan
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)M. P.USMLE Step 2 CK Student
 
 #### I steadily saw my progress and improvement from the start of my dedicated study time to my final Step 1 score.
@@ -370,14 +361,13 @@ I had a great experience with Medlearnity! Everyone was super nice and responsiv
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)Sierrah G.USMLE Step 1 Student
 
-#### Personalized Tutoring Unlike Any Other!
+#### Personalized Tutoring Unlike Any Other
 
 I have turned to Medlearnity after studying for STEP1 by on my own for 6 weeks. Immediately, I felt supported and was impressed with the tutor's preparation for each session. I was so used to having to come up with questions, but it was SO refreshing that Medlearnity tutors come prepared with high yield concepts from reputable question banks. From the beginning, I was impressed with Dr. Goel's personalization and his responsiveness to my needs. While I was working with Ben (who is amazing!), Dr. Goel always knew the pertinent information that was discussed in each session and I took so much comfort in the fact that he is invested in my success. Dr. Goel was very encouraging and have frequently checked-in with me to make sure I am on-track.
 
 I really enjoyed working with Ben! This exam brought forth so much stress but he had such a calming presence and kept me grounded throughout the ups and downs of STEP1. He is dedicated, brilliant, selfless, and hardworking - even on days when he had a really long shift, he made himself available so that I hone my weaknesses in the limited time that I had before my exam. He is truly a gem and I have recommended him to many of my friends! STEP1 is an incredibly lonely time filled with solo studying and I always looked forward to sessions with Ben. He allowed me to think out loud and correct my thinking process so that I can strategically tackle questions.
 
-However, at the end of the day, it is up to each student to put in the work, identify weaknesses, and maintain resilience to get through this exam. While I do not think tutoring was the sole reason for my success on STEP1, it definitely helped to hone in on my weaknesses and gave me the motivation to get through the challenges of this exam. If you are looking for a personalized tutoring experience after feeling stuck on an attempt to self-study, I highly recommend MedLearnity!
-
+However, at the end of the day, it is up to each student to put in the work, identify weaknesses, and maintain resilience to get through this exam. While I do not think tutoring was the sole reason for my success on STEP1, it definitely helped to hone in on my weaknesses and gave me the motivation to get through the challenges of this exam. If you are looking for a personalized tutoring experience after feeling stuck on an attempt to self-study, I highly recommend MedLearnity
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)H. J.Step 1 Student
 
 ## How to Get Started
@@ -398,7 +388,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 

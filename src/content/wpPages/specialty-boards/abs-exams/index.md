@@ -8,8 +8,6 @@ description: 'Scoring well on the ABSITE has a major impact on resident promotio
 
 ## ABS In-Training Examination (ABSITE) Overview
 
-![](//www.medlearnity.com//images/wp/2020/05/Medical-Career.jpg 'Medical-Career')
-
 ### What Is The ABSITE?
 
 The American Board of Surgery (ABS) certifies physicians in general surgery and surgical sub-specialties. The **ABS In-Training Exam (ABSITE)** is offered annually to residents in general surgery, and is administered using each program's own computer facilities. The ABSITE evaluates a **resident's knowledge and management of clinical problems related to surgical procedures**. It is a **5-hour computer-based exam**, which consists of approximately **250 multiple-choice questions**. There are no scheduled breaks during the exam, and examinees may return to past questions during the exam.
@@ -24,19 +22,13 @@ Scoring well on the ABSITE is important. **Failure to score within the 50th perc
 
 ## Why You Should Choose MED LEARNITY For ABSITE Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 We invest the time to assess **your personal needs** and pair you with the ABSITE tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
 
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
-
 ### Real Doctors
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
-
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
 
 ### Proven Results
 
@@ -74,13 +66,13 @@ You can work with an experienced tutor to help you prepare before taking a test.
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 
 ## Verified Reviews From ABSITE Students
 
-#### Great Experience!
+#### Great Experience
 
 I was constantly being taught high-yield information. Anthony kept reinforcing the information I was not grasping right away, and he sensed that. He provided grafts, charts, and other methods of learning to solidify the important concepts. I was given recordings of our sessions, and I will have so much material to use from this point on (I'm a PGY1, and this is an incredible foundation).
 
@@ -92,8 +84,7 @@ In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege
 
 This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well.
 
-Thank you for everything!
-
+Thank you for everything
 VH, PGY-3, General Surgery
 
 ![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.ABSITE Student

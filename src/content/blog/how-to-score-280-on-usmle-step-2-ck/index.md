@@ -19,8 +19,7 @@ In recent years, Step 2 CK has taken on a new sense of importance. Many reside
 
 Because Step 2 CK will still be a numerical score, it will be the quantitative criteria that residency admissions committees will use to select their top candidates.
 
-In this comprehensive guide on how to score well on Step 2 CK, we share with you the advice of some of our Step 2 CK tutors who scored 279-281 on the exam. Working with hundreds of medical students over the years, we know that “one size” doesn’t fit all. We've decided to gather the best perspectives and compile all of their best advice for you below!
-
+In this comprehensive guide on how to score well on Step 2 CK, we share with you the advice of some of our Step 2 CK tutors who scored 279-281 on the exam. Working with hundreds of medical students over the years, we know that “one size” doesn’t fit all. We've decided to gather the best perspectives and compile all of their best advice for you below
 Our tutors provided advice on the most important Step 2 CK preparation questions to provide starting points for your study plan.
 
 #### Table of Contents
@@ -127,7 +126,7 @@ How much dedicated study time you need depends on how far out you are from core 
 
 ## When Should I Schedule My Step 2 CK Exam?
 
-You should ideally take Step 2 CK within six to seven months of finishing your core clinical rotations. However, we realize this is not always possible for IMG students or students with unique circumstances**.** We recommend this timeline because you will just recently have covered Step 2 CK material during your clinical rotations and shelf exam prep. So, your Step 2 CK knowledge base will be recent, activated and ready to grow!
+You should ideally take Step 2 CK within six to seven months of finishing your core clinical rotations. However, we realize this is not always possible for IMG students or students with unique circumstances**.** We recommend this timeline because you will just recently have covered Step 2 CK material during your clinical rotations and shelf exam prep. So, your Step 2 CK knowledge base will be recent, activated and ready to grow
 
 ## Step 2 CK Tutoring
 

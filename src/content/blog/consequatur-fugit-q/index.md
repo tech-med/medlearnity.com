@@ -114,10 +114,9 @@ It's helpful to look over the NRMP's data regarding USMLE Step 1 Scores and U.S.
 
 ## [![see how medlearnity can help you succeed in your medical career](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/06/03-how-medlearnity-can-help-you-v02.png)](https://www.medlearnity.com/start-here/)
 
-## See How Medlearnity Can Help You Succeed in Your Medical Career!
+## See How Medlearnity Can Help You Succeed in Your Medical Career
 
 The best thing you can do for yourself at this point is to get tutoring from professionals. These pro tutors will help you create a focused and structured plan of study. You deserve to have a team of expert tutors and doctors on your side. They have seen students go through a similar USMLE Step 1 retake process and helped them succeed.
 
-A [Medlearnity tutor](https://www.medlearnity.com/our-tutors/) can do the same for you. Our tutors take a personalized approach to identify and improve on weaknesses to make a significant impact. We invite you to [reach out to our team](https://www.medlearnity.com/start-here/) with any questions you may have. Let us help you ace your USMLE Step 1 exam and excel in your medical career!
-
+A [Medlearnity tutor](https://www.medlearnity.com/our-tutors/) can do the same for you. Our tutors take a personalized approach to identify and improve on weaknesses to make a significant impact. We invite you to [reach out to our team](https://www.medlearnity.com/start-here/) with any questions you may have. Let us help you ace your USMLE Step 1 exam and excel in your medical career
 [![explore our testimonials](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/06-explore-testimonials.png)](https://www.medlearnity.com/student-testimonials/)

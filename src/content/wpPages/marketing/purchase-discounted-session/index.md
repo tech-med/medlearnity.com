@@ -6,7 +6,7 @@ description: 'Learn more about Purchase Discounted Session and our comprehensive
 
 ## Purchase Discounted Session
 
-\[tcb-script src="https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js"\]\[/tcb-script\] \[tcb-script\]window.jotformEmbedHandler("iframe\[id='JotFormIFrame-241902592523455'\]", "https://form.jotform.com/")\[/tcb-script\]
+\\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-241902592523455'\]", "https://form.jotform.com/")\[/tcb-script\]
 
 ## Discounted Session Overview\*
 

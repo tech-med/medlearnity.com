@@ -22,8 +22,7 @@ After successfully completing the QE, a surgeon must pass the [**ABS** **CE**](h
 
 #### I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them.
 
-I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness!
-
+I used Medlearnity to prep for USMLE Step 3, and I can't say enough great things about them. The tutoring really helped me through the daunting task of preparing for the exam, and preparing for future standardized testing as well. I was assigned a tutor for the ACM -type questions and biostats, as well as a second tutor for CCS. I also received significant, and much needed coaching from Dr. Gohel, so I actually had a team of 3 doctors helping me prep. An amazing team, sure to get even the busiest scalpel back to razor sharpness
 Michael O. USMLE Step 3 Student
 
 #### This is an outstanding organization dedicated and fully committed to your success.
@@ -44,6 +43,6 @@ A. P. USMLE Step 1 Student
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)

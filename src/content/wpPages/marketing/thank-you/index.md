@@ -6,4 +6,4 @@ description: "Thanks for reaching out! We'll be in touch shortly."
 
 Thanks for reaching out! We'll be in touch shortly.
 
-In the meantime, learn more about us!
+In the meantime, learn more about us

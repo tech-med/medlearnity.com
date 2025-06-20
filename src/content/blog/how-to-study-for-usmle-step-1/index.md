@@ -11,7 +11,7 @@ tags:
 description: 'USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be ner'
 ---
 
-USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be nerve-wracking. But, don't be scared. Calm down, relax, get a plan in place, and execute that plan. Let's talk about how to study for USMLE Step 1 and how to score 250 and more. Yes, you can score 250 and above on step 1. It's possible - we'll show you how!
+USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be nerve-wracking. But, don't be scared. Calm down, relax, get a plan in place, and execute that plan. Let's talk about how to study for USMLE Step 1 and how to score 250 and more. Yes, you can score 250 and above on step 1. It's possible - we'll show you how
 
 ## Take Your Pre-Clinical Work Seriously
 
@@ -31,12 +31,9 @@ A big part of the success of your study sessions relies on the resources that yo
 
 Also, if you are an auditory learner, you may want to **follow some online lectures**. You can try out Pathoma, as well as the Kaplan online lectures. Listening to a lecture is a form of passive, but effective learning. So, if it suits you, then also listen to some lectures.
 
-**You need to include UWorld Question Bank into your USMLE Step 1 preparation plan! No questions about it!** **Make sure that as you complete the questions that you can justify your answers.** Also, **when you miss questions, go over each one and be clear on why that particular response is the correct one, and why the other options are incorrect**. This is not just about completing as many practice questions as possible but honing your skills as well. If you exhaust the UWorld question bank, then also try out the AMBOSS question bank. How do you get a 250 on step 1? Just keep practicing!
-
-The USMLE Step 1 exam is a timed one. So **while you are completing these questions during study time, make sure that you're timing yourself. You want to get in the habit of analyzing and answering the questions in exam-like conditions**. That way, the test day will be a breeze for you!
-
-**Practice exams are another important resource. While UWorld also has self-assessments, you should also complete some NBME practice exams**. We recommend that you **take an NBME self-assessment at the start of your study program for USMLE Step 1**. This will help to set the baseline for you to assess how well you are doing as you prepare for the exam. Yes, the score will probably not be the best, but don't worry. You just need a baseline because your study sessions are going to make you perform much better on the subsequent practice exams! Keep a positive outlook! We are going for 250 and above here!
-
+**You need to include UWorld Question Bank into your USMLE Step 1 preparation plan! No questions about it!** **Make sure that as you complete the questions that you can justify your answers.** Also, **when you miss questions, go over each one and be clear on why that particular response is the correct one, and why the other options are incorrect**. This is not just about completing as many practice questions as possible but honing your skills as well. If you exhaust the UWorld question bank, then also try out the AMBOSS question bank. How do you get a 250 on step 1? Just keep practicing
+The USMLE Step 1 exam is a timed one. So **while you are completing these questions during study time, make sure that you're timing yourself. You want to get in the habit of analyzing and answering the questions in exam-like conditions**. That way, the test day will be a breeze for you
+**Practice exams are another important resource. While UWorld also has self-assessments, you should also complete some NBME practice exams**. We recommend that you **take an NBME self-assessment at the start of your study program for USMLE Step 1**. This will help to set the baseline for you to assess how well you are doing as you prepare for the exam. Yes, the score will probably not be the best, but don't worry. You just need a baseline because your study sessions are going to make you perform much better on the subsequent practice exams! Keep a positive outlook! We are going for 250 and above here
 [![our tutors have average scores of 260+ USMLE, 580+ MCAT, and 650+ COMLEX](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/05-our-tutors-have-average-scores.png)](https://www.medlearnity.com/our-tutors/)
 
 ## How to Study for USMLE Step 1 in a Limited Time
@@ -79,12 +76,11 @@ There are **other [test day tips to keep in mind](https://www.medlearnity.com/th
 - Pack high-energy snacks and a quick, no-fuss, nutritious lunch (like a wrap or a sandwich).
 - If you're a coffee person, have lots of coffee on hand.
 - Don't analyze and worry about what you did in the previous blocks. Complete a block, forget about it, and keep moving forward. Your goal is to complete your exam in the best possible frame of mind and mental sharpness.
-- Yes, you tried to plan for everything - but don't be fazed by the unexpected. Keep calm and carry on!
+- Yes, you tried to plan for everything - but don't be fazed by the unexpected. Keep calm and carry on
 
-## How to Study for USMLE Step 1: Get an Expert Tutor Today!
+## How to Study for USMLE Step 1: Get an Expert Tutor Today
 
 You've got some pro study tips on how to study for USMLE Step 1. But, we understand all the hard work that goes into making your study schedule, understanding the material, completing the practice questions, reviewing the answer explanations, and keeping track of your progress.
 
-You need as much expert help as you can get, and [Medlearnity](https://www.medlearnity.com/about/) can help you streamline your entire USMLE Step 1 prep process. We have a team of practicing physicians who will guide you through your study for USMLE Step 1. So book your [free one-hour tutoring session](https://www.medlearnity.com/start-here/) today and experience the benefits of getting [expert USMLE Step 1 tutoring](https://www.medlearnity.com/usmle-tutoring-step-1/) customized just for you!
-
+You need as much expert help as you can get, and [Medlearnity](https://www.medlearnity.com/about/) can help you streamline your entire USMLE Step 1 prep process. We have a team of practicing physicians who will guide you through your study for USMLE Step 1. So book your [free one-hour tutoring session](https://www.medlearnity.com/start-here/) today and experience the benefits of getting [expert USMLE Step 1 tutoring](https://www.medlearnity.com/usmle-tutoring-step-1/) customized just for you
 [![we've helped over 500 medical students meet and exceed their goals for every step of the usmle](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/01-start-here.png)](https://www.medlearnity.com/start-here/)

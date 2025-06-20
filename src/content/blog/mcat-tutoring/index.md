@@ -18,8 +18,6 @@ However, that’s also just it. Rooting for you is all that I can do. In fact, i
 
 Every professional starts out as a student just as every master starts out as an apprentice. You can’t become an expert at anything if you don’t take the time to learn thoroughly. Since medicine deals with real lives and real people, it’s a very strict discipline. You’ll find that this is all because of how important and dire the work involved is. When you work as an accountant and you make mistakes in your calculations, your company suffers financial losses. When you’re a doctor and you make a mistake, it’s not just money that’s lost. What may be put in peril is much more important than any paper currency – a life.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/09/MCAT-top1.jpg 'MCAT-top1')
-
 This is why the medical discipline is truly a strict one. It’s all for good reasons.
 
 That is not to say that you have to be perfect, though. There’s a reason why doctors are said to “practice” medicine. This means that there really is no telling what can happen inside the hospital room. The most mentors can do is minimize the chances of false or wrongful diagnosis and create better prognoses. This way, more and more lives get a chance of being saved. In other words, medical standards are placed on the shoulders of any practicing professional. You can’t just do “medicine” half-heartedly; you have to invest your whole being into it. In order to do that, you have to be willing to let go of countless and countless of hours to dedicate yourself to studying. No summer breaks, no lingering relationships, and no drama. For a certain time period, you have to be prepared to let go of everything and face your studies head on.
@@ -37,8 +35,6 @@ While I would like to say that our current education system is completely non-se
 I just said that some of the most prestigious schools require applicants to hit a certain percentile rank in the MCAT before they consider their applications. However, that doesn’t mean there is absolutely no hope for you. There are many recognized universities and medical schools in the entirety of the United States that allow students who did not do too well in the MCAT to still continue their studies in medicine. They just lower the percentile average for admission and allow them to study under probationary conditions. Like, if they do well in the following year, they can become full-pledged med students. After all, it’s not very accurate to judge a person’s abilities through one examination alone.
 
 Still, if you’re aiming to enrol in one of the top tier schools of the country, then acing the MCAT is definitely something you should do. So, what is the MCAT really like?
-
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-Classes-1024x509.jpg 'MCAT-Tutoring-Classes')
 
 ### **What Is The MCAT?**
 

@@ -8,8 +8,6 @@ description: 'Our residency admissions package is comprehensive. We provide inva
 
 ### Personalized Advising
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
-
 There are many components to applying to residency. Our residency admissions experts know **every part of the process**, inside and out. We know every student is different; we take the time to understand your personal journey so we can help you **best convey your story** and be the **best residency applicant you can be**.
 
 - **Program Selection**: Deciding which residency programs you want to apply to can be overwhelming. You might be unsure whether you want to apply to **academic or community programs**, or both. You might want to consider **which regions** of the US **are your best chance to match**. Your residency admissions expert can help you successfully navigate this process.
@@ -20,15 +18,11 @@ There are many components to applying to residency. Our residency admissions exp
 
 ### ERAS Application
 
-![](//www.medlearnity.com//images/wp/2020/04/Discussion-about-Medical-Advicing-Services.jpg 'Discussion-about-Medical-Advicing-Services')
-
 Your ERAS application is the first thing that the residency admissions committee will see. Your residency consultant will ensure that you are presenting yourself as the best residency applicant possible from this very first step -- they will work with you on everything from inputting activities into your ERAS application, to multiple edits, to finally giving it the final proofread so that it is in top-shape to submit.
 
 Your residency admissions consultant will work with you to **formulate your activities into your ERAS application in the most appealing way**. They will ensure that you are selecting the right activities to highlight on your application, _**and**_ that you are describing and organizing them in the right way. Our residency consultants know how to correctly present this information so that it will be the **most impressive to faculty that sits on residency program admissions committees**.
 
 ### Interview Preparation
-
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
 
 A residency interview can be an intimidating experience. The residency program found you impressive enough on paper to call you in for an interview, but now you have to live up to the hype. Our residency admissions consultants will **mock interview** you, and **walk you through every step** so you are fully prepared. 
 
@@ -39,8 +33,6 @@ You need to be prepared for generic questions like "tell me about yourself" but 
 Your interview is not necessarily the "last impression" you can leave on the residency program's faculty -- your **thank you notes** are. Your residency admissions consultant will help you **write thoughtful thank you notes**, advising you on everything from how to craft an interpersonal touch into your note to whether you should tell a program that you are ranking them number 1.
 
 ### Personal Statement
-
-![](//www.medlearnity.com//images/wp/2020/05/blog1.jpg 'blog1')
 
 Your personal statement is often the **deciding factor in getting an interview**. Craft it to connect with and move your audience. Make it compelling, and show why you will make a unique contribution to your chosen specialty.
 
@@ -72,7 +64,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 

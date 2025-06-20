@@ -8,8 +8,6 @@ description: 'The ABS CE is the last step in obtaining general surgery board cer
 
 ## ABS General Surgery Certifying Exam (CE) Overview
 
-![](//www.medlearnity.com//images/wp/2020/05/Medical-Career-1.jpg 'Medical-Career')
-
 ### What Is The ABS General Surgery Certifying Exam?
 
 The American Board of Surgery (ABS) certifies physicians in general surgery and surgical sub-specialties. After successfully completing the [**ABS General Surgery Qualifying Exam**](https://www.medlearnity.com/abs-qualifying-certifying/) **(QE)**, a surgeon must pass the **oral ABS General Surgery Certifying Exam (CE)** to complete the certification process.
@@ -24,25 +22,19 @@ The purpose of the CE is to test a candidate's surgical judgment, clinical reaso
 
 ## Why You Should Choose MED LEARNITY For ABS CE Tutoring
 
-![](//www.medlearnity.com//images/wp/2020/04/MCAT-Tutoring-1.jpg 'MCAT-Tutoring-1')
-
 ### Personalized Learning
 
 We invest the time to assess **your personal needs** and pair you with the ABS CE tutor who will be a perfect fit. **All tutoring sessions are customized for you**: lesson plans, study schedules, test-taking drills, and homework. All sessions are emailed to you to maximize your learning and retention. 
-
-![](//www.medlearnity.com//images/wp/2020/04/Medical-Advicing-Services-1-1.jpg 'Medical-Advicing-Services-1')
 
 ### Real Doctors
 
 **Our team is made up of actual, practicing physicians who have trained at the top hospitals in the country**. Our team is unrivaled because our daily practice of medicine allows us to understand the current state of medicine, residency, and admissions -- and use our expertise to help you excel.
 
-![](//www.medlearnity.com//images/wp/2020/04/shutterstock_1043542105-scaled.jpg 'shutterstock_1043542105')
-
 ### Proven Results
 
 **We have helped over 500+ aspiring doctors achieve their goals on high-stakes exams**. Many of our students return for tutoring for subsequent exams as they realize the value of our services. We are confident that your performance will significantly improve after working with us.
 
-[![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2024/07/how-to-book-your-first-session-scaled.webp 'how-to-book-your-first-session')](/purchase-discounted-session/)
+[!](/purchase-discounted-session/)
 
 ## What To Expect From ABS CE Tutoring
 
@@ -74,7 +66,7 @@ After your trial session, **we'll send you a feedback report with next steps, ou
 
 ### **Book Your One-Hour Discounted Tutoring Session**
 
-[](/start-here/)We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
+We know that the high caliber of our tutoring services is truly unmatched, and we want you to experience it yourself without any obligation.
 
 \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-skin-color-0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [book now](/purchase-discounted-session/)
 

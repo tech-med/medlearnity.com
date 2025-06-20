@@ -6,7 +6,7 @@ description: 'Excel on your American Board of Surgery Exam with an Expert Tutor'
 
 # Excel on your American Board of Surgery Exam with an Expert Tutor
 
-Progress in your general surgery residency with a top percentile ABS exam score!
+Progress in your general surgery residency with a top percentile ABS exam score
 
 ## We offer the highest-quality ABS tutoring services
 
@@ -112,21 +112,20 @@ Our satisfied students speak for themselves:
 
 Anthony has done an amazing job preparing me for my ABSITE exam. He was always punctual and encouraging for all of my 20hours of private lessons! He really catered to my weaknesses and helped really elaborate on concepts to help further my knowledge. I highly recommend him to anyone looking for tutoring. I'm extremely grateful to him and the whole Medlearnity team for continuously checking up on my progress.
 
-![](//www.medlearnity.com//images/wp/tcb_content_templates/display_testimonials/images/Quotation_marks_image_white_03.png 'Quotation_marks_image_white_03')Peter I.ABSITE Student
+!Peter I.ABSITE Student
 
 I was constantly being taught high-yield information. Anthony kept reinforcing the information I was not grasping right away, and he sensed that. He provided grafts, charts, and other methods of learning to solidify the important concepts. I was given recordings of our sessions, and I will have so much material to use from this point on (I'm a PGY1, and this is an incredible foundation).
 
-![](//www.medlearnity.com//images/wp/tcb_content_templates/display_testimonials/images/Quotation_marks_image_white_03.png 'Quotation_marks_image_white_03')Blake C.ABSITE Student
+!Blake C.ABSITE Student
 
 In the words of Serena Williams and Billie-Jean King, “Pressure is a privilege.” I agree completely, but when it comes to the ABSITE, the privilege of being a surgical resident can feel a bit more pressure-like. Thank you to Anthony and the Medlearnity Team for providing professional, reliable assistance in a time of need. Standardized tests never come easy to me, and of course, I ended up choosing a career that is chock full of standardized testing. The ABSITE is a tough exam, is comprehensive in the topics covered, and is proctored in the midst of working an intense surgical resident schedule. Anthony’s experience in surgery, in test-taking, and test- creating helped me hone in on my strengths, hone in even more importantly on my gaps in knowledge, and truly understand how to focus my study efforts. He provided real time feedback about my thought process in regards to specific practice questions. He provided knowledge about the nuances in a question stem and the respective answer choices to help me successfully answer. He helped me understand the highest yield concepts that would help me succeed on exam day. He provided engaging, effective sessions that accommodated my scheduled, no matter what time of day. I felt supported during the entire time I was working with Anthony and the Medlearnity Team, and I can’t thank everyone enough for the help.
 
 This is the first year I have taken the exam where I felt like I knew more of the answers than not, and it proved to be a much less stressful testing experience overall. Knowledge is power, and Anthony definitely helped me increase my knowledge exponentially, not only to succeed on the ABSITE, but as a surgeon as well. 
 
-Thank you for everything!
-
+Thank you for everything
 VH, PGY-3, General Surgery
 
-![](//www.medlearnity.com//images/wp/tcb_content_templates/display_testimonials/images/Quotation_marks_image_white_03.png 'Quotation_marks_image_white_03')V. H.ABSITE Student
+!V. H.ABSITE Student
 
 ## Which ABS Exams Do We Offer Tutoring For?
 
@@ -142,7 +141,7 @@ The ABS QE is offered to surgeons after completing their residency training, and
 
 After successfully completing the QE, a surgeon must pass the ABS CE to complete the certification process. The CE is an oral exam that tests a candidate's surgical judgment, clinical reasoning skills and problem-solving ability.
 
-![](//www.medlearnity.com//images/wp/2020/04/download-NYU-MC.jpg 'download-NYU MC')![](//www.medlearnity.com//images/wp/2020/04/Wake-Forest-Logo.png 'Wake Forest Logo')![](//www.medlearnity.com//images/wp/2020/04/Johns-Hopkins-logo.png 'Johns Hopkins logo')![](//www.medlearnity.com//images/wp/2020/04/Mount-Sinai-logo.png 'Mount Sinai logo')![](//www.medlearnity.com//images/wp/2020/04/Penn-Medicine-Logo.png 'Penn Medicine Logo')![](//www.medlearnity.com//images/wp/2020/04/Columbia-Medical-Logo.png 'Columbia Medical Logo')![](//www.medlearnity.com//images/wp/2020/04/Weill-Cornell-Logo.png 'Weill Cornell Logo')![](//www.medlearnity.com//images/wp/2020/04/Mayo-v4.png 'Mayo v4')
+!!!!!!!
 
 ## Get started with ABS tutoring today, and be on your way to matching with the program of your choice.
 

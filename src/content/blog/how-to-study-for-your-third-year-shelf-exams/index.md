@@ -10,8 +10,6 @@ Third year rotations present unique challenges. While the first two years of med
 
 Third year of medical school, though, brings a whole new dimension to the medical school experience.
 
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/10/Medical-School-Test-Anxiety-scaled.jpg)
-
 Third-year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive extension of your undergraduate experience: go to class, take notes, study hard, take exams and then put it all together to ace United States Medical Licensing Examination (USMLE) Step 1.
 
 Your third year of medical school brings a whole new dimension to the medical school experience.
@@ -116,8 +114,7 @@ The two most important steps you can take to ensure you are studying effectively
 
 **Make a study schedule that will help you stay on track, despite the** **ups and downs** **that come with rotations**. It is understandable (and expected) that you will be exhausted after spending long hours in the wards. When you finally make it home after a long day, you will be tempted to just change out of your scrubs, eat food and watch Netflix. But you need to avoid falling into this pattern. It will leave you scrambling during the last week of your rotation.
 
-**Get a calendar and count up how many days you have until the shelf exam**. At the start of each rotation, identify the resources you want to use to study. Then, divide the number of pages to read and the number of questions by the days available for studying. This method gives you a structured schedule and a daily goal. It spaces out the material to cover and the practice questions you must complete and review. When the time comes for you to take your shelf exam at the end of each rotation, you will be fully prepared!
-
+**Get a calendar and count up how many days you have until the shelf exam**. At the start of each rotation, identify the resources you want to use to study. Then, divide the number of pages to read and the number of questions by the days available for studying. This method gives you a structured schedule and a daily goal. It spaces out the material to cover and the practice questions you must complete and review. When the time comes for you to take your shelf exam at the end of each rotation, you will be fully prepared
 When you sit down to map out your study schedule for each shelf exam, be honest in acknowledging the days you won’t be able to study. If you plan to attend a family get-together or a friend’s birthday celebration, build that into your schedule. Your honesty will help you create a schedule you can actually keep.
 
 **Set aside** **a few days before the shelf exam for dedicated studying**. Try to leave the 2-3 days immediately before the shelf exam for dedicated studying. Use this time to review the material and practice questions you’ve covered over the past few weeks.
@@ -130,8 +127,7 @@ Your consistency will add up in the long run. Not only will you avoid last-minut
 
 ### 2\. Decide Which Resources to Use
 
-**We recommend using UWorld and OnlineMedEd as a resource for every rotation**. UWorld’s Step 2 CK question bank is the best resource for shelf exam practice questions. Use UWorld for every rotation, and at the end of your third year, reset the question bank and use it for Step 2 CK. Review answer explanations thoroughly — that’s where much of the learning happens!
-
+**We recommend using UWorld and OnlineMedEd as a resource for every rotation**. UWorld’s Step 2 CK question bank is the best resource for shelf exam practice questions. Use UWorld for every rotation, and at the end of your third year, reset the question bank and use it for Step 2 CK. Review answer explanations thoroughly — that’s where much of the learning happens
 OnlineMedEd videos do an excellent job of breaking down complex concepts, and you can easily access rotation-specific material by searching the library. Many students find OnlineMedEd videos helpful as a primer before they begin their rotation and as a resource for high-yield review 1-2 weeks before the shelf exam.
 
 [AMBOSS](https://www.amboss.com/us) is an excellent tool for use on the wards and for studying for shelf exams. It includes a vast database of evidence-based guidelines and a question bank containing thousands of exam-like practice questions. What makes AMBOSS a go-to study resource is that everything is connected across the platform, helping to unify and solidify your knowledge base and prepare you for exams.
@@ -175,7 +171,7 @@ The neurology shelf exam tests your knowledge of diseases of the nervous syste
 
 - [Case Files Neurology](https://www.amazon.com/Case-Files-Neurology-Third-Eugene/dp/0071848002/ref=sr_1_1?crid=2K9KT1RS9A61U&dchild=1&keywords=case+files+neurology&qid=1595563546&s=books&sprefix=case+files+neu%2Cstripbooks%2C153&sr=1-1) and [PreTest](https://www.amazon.com/Neurology-PreTest-Ninth-David-Anschel/dp/125958691X/ref=sr_1_2?dchild=1&keywords=pretest+neurology&qid=1595563697&s=books&sr=1-2) is a popular combination — these resources work well together. Case Files provides its on-brand 60 clinical case scenarios that illustrate essential concepts for the neurology clerkship and shelf exam. Each clinical case includes review questions and an extended discussion. PreTest provides 500 neurology-focused USMLE-style questions and answers, with detailed explanations for right and wrong answers.
 - [Blueprints Neurology](https://www.amazon.com/Blueprints-Neurology-Frank-Drislane-M-D/dp/1496387392/ref=sr_1_2?dchild=1&keywords=blueprint+neurology&qid=1595564223&s=books&sr=1-2) is also a popular resource. It is well-organized and provides a helpful framework for understanding neurology. It’s comprehensive and can be used as a standalone resource. It teaches students through clinical vignettes and by working through a diagnosis. It provides 100 USMLE/shelf exam-style questions with complete answer explanations.
-- Moreover, the neurology section of [Step Up to Medicine](https://www.amazon.com/Step-Up-Medicine-Dr-Steven-Agabegi/dp/1975103610/ref=pd_bxgy_img_3/143-9336013-5986046?_encoding=UTF8&pd_rd_i=1975103610&pd_rd_r=14675255-8b4c-481d-8a2a-f7770ef0992d&pd_rd_w=nqLWQ&pd_rd_wg=4qtwH&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=Z6Z7RF3BR04J4XJHSM7M&psc=1&refRID=Z6Z7RF3BR04J4XJHSM7M) is a great resource to consult, especially if you already purchased it for your medicine or family medicine shelf exam!
+- Moreover, the neurology section of [Step Up to Medicine](https://www.amazon.com/Step-Up-Medicine-Dr-Steven-Agabegi/dp/1975103610/ref=pd_bxgy_img_3/143-9336013-5986046?_encoding=UTF8&pd_rd_i=1975103610&pd_rd_r=14675255-8b4c-481d-8a2a-f7770ef0992d&pd_rd_w=nqLWQ&pd_rd_wg=4qtwH&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=Z6Z7RF3BR04J4XJHSM7M&psc=1&refRID=Z6Z7RF3BR04J4XJHSM7M) is a great resource to consult, especially if you already purchased it for your medicine or family medicine shelf exam
 
 #### OB-GYN
 

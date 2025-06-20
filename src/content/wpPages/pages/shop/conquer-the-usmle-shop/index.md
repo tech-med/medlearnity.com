@@ -4,7 +4,7 @@ pubDate: 2022-05-20
 description: 'Learn more about Conquer the USMLE Shop and our comprehensive tutoring services.'
 ---
 
-\[tcb_logo href="https://www.medlearnity.com" data-id-d="10" data-dynamic-link="thrive_global_shortcode_url" data-shortcode-id="0" data-img-style="width: 100%;" data-id-m="11" data-alt=""\]
+\
 
 #### Get started with USMLE tutoring today
 
@@ -27,8 +27,6 @@ Our students report improvements of 20 to 50 points on their USMLE scores. This 
 ## Meet One of Our USMLE Experts
 
 Dr. Surabhi Menon has scored above the 99th Percentile on the USMLE Exams. Work with her to learn how you can improve your own performance! Surabhi has helped students prepare Step 1, Step 2 CK, Step 3 and the Family Medicine Board Exams.
-
-![](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/10/Surabhi-Step-2-CK-Report.png 'Surabhi Step 2 CK Report')
 
 ## We Offer the Highest-Quality Tutoring Services
 
@@ -70,7 +68,7 @@ by email and/or phone between sessions, to help you stay on track with your stud
 
 ## Shop Our USMLE Tutoring Packages Today
 
-\[tcb_woo_shop limit='4' columns='4' orderby='menu_order' order='asc' paginate='1' cache='false' hide-result-count='0' hide-catalog-ordering='1' hide-sale-flash='0' hide-title='0' hide-price='0' hide-rating='0' hide-cart='0' hide-pagination='1' ids='4318,4153,4155,4159' category='' cat_operator='in' taxonomy='' terms='' terms_operator='in' tag='' tag_operator='in' align-items='center' ct='shop-0' ct-name='Original Shop' css='tve-u-6287f156939b35'\]
+\
 
 ## We’ve helped over 500 students prepare for their high-stakes medical exams, including the USMLE.
 
