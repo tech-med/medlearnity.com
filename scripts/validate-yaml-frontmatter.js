@@ -3,9 +3,6 @@
 import fs from 'fs';
 import path from 'path';
 import yaml from 'js-yaml';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
 
 // ANSI color codes for better output
 const colors = {

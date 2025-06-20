@@ -13,7 +13,7 @@ async function setupTestEnvironment() {
 	try {
 		await mkdir('public/images/wp', { recursive: true });
 		console.log('📁 Created test directory structure');
-	} catch (error) {
+	} catch {
 		// Directory might already exist, that's fine
 	}
 }

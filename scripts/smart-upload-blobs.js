@@ -29,13 +29,17 @@ async function validateEnvironment() {
 	// Check for token (unless in dry-run or CI)
 	if (!BLOB_TOKEN && !isDryRun && !isCI) {
 		console.error('❌ BLOB_READ_WRITE_TOKEN environment variable is required');
-		console.error('💡 Run with --dry-run to test without uploading, or set the token in .env.local');
+		console.error(
+			'💡 Run with --dry-run to test without uploading, or set the token in .env.local'
+		);
 		process.exit(1);
 	}
 
 	// Check confirmation
 	if (!isDryRun && !isConfirmed) {
-		console.error('❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true');
+		console.error(
+			'❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true'
+		);
 		process.exit(1);
 	}
 

@@ -6,7 +6,6 @@ config({ path: '.env.local' });
 
 // Check for required environment variables
 const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
-const isCI = process.env.CI === 'true';
 
 // Early exit if no token available (CI/test environments)
 if (!BLOB_TOKEN) {
