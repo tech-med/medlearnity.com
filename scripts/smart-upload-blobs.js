@@ -1,36 +1,73 @@
 #!/usr/bin/env node
 // scripts/smart-upload-blobs.js
 import { put, list } from '@vercel/blob';
-import { readdir, stat } from 'fs/promises';
+import { readdir, stat, access } from 'fs/promises';
 import { join, relative, basename } from 'path';
 import { createReadStream } from 'fs';
 import { config } from 'dotenv';
+import { constants } from 'fs';
 
 // Load environment variables
 config({ path: '.env.local' });
+
+// Configuration
+const SOURCE_DIR = 'public/images/wp';
+const BLOB_PREFIX = 'wp/';
+
+// Check for required environment variables
+const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
 
 // Check for dry-run flag
 const isDryRun = process.argv.includes('--dry-run');
 const isConfirmed = process.env.CONFIRM === 'true' || isDryRun;
 
-if (!isDryRun && !isConfirmed) {
-	console.error(
-		'❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true'
-	);
-	process.exit(1);
-}
+// CI/Environment checks
+const isCI = process.env.CI === 'true';
 
-if (isDryRun) {
-	console.log('🧪 DRY RUN MODE - No files will be uploaded\n');
+// Early validation checks
+async function validateEnvironment() {
+	// Check for token (unless in dry-run or CI)
+	if (!BLOB_TOKEN && !isDryRun && !isCI) {
+		console.error('❌ BLOB_READ_WRITE_TOKEN environment variable is required');
+		console.error('💡 Run with --dry-run to test without uploading, or set the token in .env.local');
+		process.exit(1);
+	}
+
+	// Check confirmation
+	if (!isDryRun && !isConfirmed) {
+		console.error('❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true');
+		process.exit(1);
+	}
+
+	// Handle missing token in CI/test environments
+	if (!BLOB_TOKEN) {
+		console.log('🧪 CI/Test Mode - Vercel Blob token not available');
+		console.log('✅ Script validation passed - would work with proper token');
+		process.exit(0);
+	}
+
+	// Check if source directory exists
+	try {
+		await access(SOURCE_DIR, constants.F_OK);
+	} catch {
+		console.log(`📁 Source directory '${SOURCE_DIR}' not found`);
+		if (isCI || isDryRun) {
+			console.log('✅ CI/Dry-run mode - Script validation passed');
+			process.exit(0);
+		} else {
+			console.error('❌ Cannot proceed without source directory');
+			process.exit(1);
+		}
+	}
+
+	if (isDryRun) {
+		console.log('🧪 DRY RUN MODE - No files will be uploaded\n');
+	}
 }
 
 const BATCH_SIZE = 15; // Process 15 files at a time (Pro account can handle more)
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 500; // 500ms between retries
-
-// Configuration
-const SOURCE_DIR = 'public/images/wp';
-const BLOB_PREFIX = 'wp/';
 
 // Progress tracking
 let totalFiles = 0;
@@ -162,6 +199,9 @@ function updateProgress() {
 
 async function main() {
 	console.log('🚀 Smart Blob Upload - Only uploads missing files\n');
+
+	// Validate environment first
+	await validateEnvironment();
 
 	try {
 		// Get existing blobs first

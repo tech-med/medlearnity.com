@@ -4,8 +4,19 @@
 
 import { exec } from 'child_process';
 import { promisify } from 'util';
+import { mkdir } from 'fs/promises';
 
 const execAsync = promisify(exec);
+
+// Setup for tests - create required directories if they don't exist
+async function setupTestEnvironment() {
+	try {
+		await mkdir('public/images/wp', { recursive: true });
+		console.log('📁 Created test directory structure');
+	} catch (error) {
+		// Directory might already exist, that's fine
+	}
+}
 
 const tests = [
 	{
@@ -46,8 +57,11 @@ async function runTest(test) {
 	}
 }
 
-async function main() {
+async function runTests() {
 	console.log('🚀 Running Node Helper Smoke Tests\n');
+
+	// Setup test environment first
+	await setupTestEnvironment();
 
 	let passed = 0;
 	let failed = 0;
@@ -75,7 +89,7 @@ async function main() {
 	}
 }
 
-main().catch((error) => {
+runTests().catch((error) => {
 	console.error('❌ Test runner failed:', error.message);
 	process.exit(1);
 });
