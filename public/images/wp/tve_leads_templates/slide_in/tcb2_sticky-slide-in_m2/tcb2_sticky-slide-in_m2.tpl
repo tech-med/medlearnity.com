@@ -1,5 +1,0 @@
-<div class="thrv-leads-slide-in tve_no_drag tve_no_icons thrv_wrapper tve_editor_main_content tve_empty_dropzone" data-css="tve-u-05ba3567f37578">
-<div class="thrv_wrapper thrv_contentbox_shortcode thrv-content-box tve_evt_manager_listen tve_et_click tve_ea_tl_state_lightbox" data-css="tve-u-15ba3567f375c3" data-tcb-events="|open_state_3|">
-<div class="tve-content-box-background"></div>
-<div class="tve-cb tve_empty_dropzone"><div class="thrv_wrapper tve_image_caption" data-css="tve-u-25ba3567f3760a"><span class="tve_image_frame"><img class="tve_image wp-image-9475" alt="" width="69" height="71" title="download_icon_round" data-id="9475" src="{tve_leads_base_url}/images/download_icon_round.png"></span></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" data-css="tve-u-35ba3567f3764f"><p data-css="tve-u-45ba3567f37694" style="text-align: center;"><span data-css="tve-u-55ba3567f376e8" style="font-family: Rubik; font-weight: 400;"> <strong>Download </strong>cheat sheet now</span></p></div></div>
-</div></div>
