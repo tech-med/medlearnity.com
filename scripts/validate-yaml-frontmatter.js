@@ -35,47 +35,26 @@ function extractFrontmatter(content) {
   return { frontmatter: match[1], error: null };
 }
 
-function validateYaml(yamlContent, filePath) {
+function validateYaml(yamlContent) {
   try {
     const parsed = yaml.load(yamlContent);
-    return { parsed, error: null };
+    return { valid: true, parsed };
   } catch (error) {
-    return { 
-      parsed: null, 
-      error: {
-        message: error.message,
-        line: error.mark ? error.mark.line + 1 : 'unknown'
-      }
-    };
+    return { valid: false, error: error.message };
   }
 }
 
-function validateRequiredFields(parsed, filePath) {
-  const errors = [];
-  const requiredFields = ['title', 'pubDate'];
+function validateRequiredFields(parsed) {
+  const required = ['title'];
+  const missing = [];
   
-  requiredFields.forEach(field => {
+  for (const field of required) {
     if (!parsed[field]) {
-      errors.push(`Missing required field: ${field}`);
-    }
-  });
-  
-  // Validate date fields
-  if (parsed.pubDate) {
-    const date = new Date(parsed.pubDate);
-    if (isNaN(date.getTime())) {
-      errors.push(`Invalid pubDate format: ${parsed.pubDate}`);
+      missing.push(field);
     }
   }
   
-  if (parsed.updatedDate) {
-    const date = new Date(parsed.updatedDate);
-    if (isNaN(date.getTime())) {
-      errors.push(`Invalid updatedDate format: ${parsed.updatedDate}`);
-    }
-  }
-  
-  return errors;
+  return missing.length === 0 ? { valid: true } : { valid: false, missing };
 }
 
 function scanDirectory(dir) {
@@ -108,24 +87,24 @@ function scanDirectory(dir) {
         return;
       }
       
-      const { parsed, error: yamlError } = validateYaml(frontmatter, filePath);
+      const { parsed, error: yamlError } = validateYaml(frontmatter);
       
       if (yamlError) {
         results.invalidFiles++;
         results.errors.push({
           file: relativePath,
-          error: `YAML parsing error at line ${yamlError.line}: ${yamlError.message}`,
+          error: `YAML parsing error: ${yamlError}`,
           type: 'yaml'
         });
         return;
       }
       
-      const schemaErrors = validateRequiredFields(parsed, filePath);
-      if (schemaErrors.length > 0) {
+      const schemaErrors = validateRequiredFields(parsed);
+      if (!schemaErrors.valid) {
         results.invalidFiles++;
         results.errors.push({
           file: relativePath,
-          error: schemaErrors.join(', '),
+          error: schemaErrors.missing.join(', '),
           type: 'schema'
         });
         return;

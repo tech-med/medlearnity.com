@@ -9,6 +9,19 @@ import { config } from 'dotenv';
 // Load environment variables
 config({ path: '.env.local' });
 
+// Check for dry-run flag
+const isDryRun = process.argv.includes('--dry-run');
+const isConfirmed = process.env.CONFIRM === 'true' || isDryRun;
+
+if (!isDryRun && !isConfirmed) {
+  console.error('❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true');
+  process.exit(1);
+}
+
+if (isDryRun) {
+  console.log('🧪 DRY RUN MODE - No files will be uploaded\n');
+}
+
 const BATCH_SIZE = 15; // Process 15 files at a time (Pro account can handle more)
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 500; // 500ms between retries
@@ -93,6 +106,13 @@ async function uploadFile(filePath, retryCount = 0) {
       return { success: true, skipped: true };
     }
     
+    // In dry-run mode, simulate the upload without actually doing it
+    if (isDryRun) {
+      const sizeKB = (stats.size / 1024).toFixed(1);
+      console.log(`🧪 [DRY RUN] Would upload: ${relativePath} (${sizeKB}KB)`);
+      return { success: true, url: `simulated-url-for-${basename(filePath)}`, size: stats.size };
+    }
+    
     // Create file stream
     const fileStream = createReadStream(filePath);
     
@@ -120,7 +140,7 @@ async function processBatch(files) {
   const promises = files.map(file => uploadFile(file));
   const results = await Promise.allSettled(promises);
   
-  results.forEach((result, index) => {
+  results.forEach((result) => {
     processedFiles++;
     
     if (result.status === 'fulfilled' && result.value.success) {

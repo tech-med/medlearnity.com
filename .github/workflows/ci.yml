@@ -25,7 +25,7 @@ jobs:
         run: npm ci
 
       - name: Audit dependencies
-        run: npm audit --omit=dev
+        run: npm audit --audit-level moderate --omit=dev
 
       - name: Type check
         run: npm run check
@@ -35,6 +35,9 @@ jobs:
 
       - name: Format check
         run: npm run format:check
+
+      - name: Test helper scripts
+        run: npm run test:helpers
 
       - name: Build
         run: npm run build

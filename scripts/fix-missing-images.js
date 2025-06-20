@@ -1,16 +1,17 @@
 #!/usr/bin/env node
 // scripts/fix-missing-images.js
 import { readdir, readFile, stat } from 'fs/promises';
-import { join, basename } from 'path';
-import { config } from 'dotenv';
+import { join } from 'path';
 import { execSync } from 'child_process';
+import { config } from 'dotenv';
 
 // Load environment variables
 config({ path: '.env.local' });
 
-const CONTENT_DIRS = ['src/content/blog', 'src/content/pages'];
-const BACKUP_UPLOADS_DIR = '/Users/goelak/Downloads/Medlearnity-061925-backup/files/wp-content/uploads';
-const BLOB_PREFIX = 'wp/';
+// Configuration
+const CONTENT_DIRS = ['src/content/blog', 'src/content/wpPages'];
+const BACKUP_DIR = 'public/images/wp';
+const BASE_BLOB_URL = 'https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp';
 
 // Progress tracking
 let totalImages = 0;
@@ -65,15 +66,15 @@ function extractImageUrls(content) {
 async function findFileInBackup(imagePath) {
   // Try to find the file in the backup directory
   const possiblePaths = [
-    join(BACKUP_UPLOADS_DIR, imagePath),
-    join(BACKUP_UPLOADS_DIR, imagePath.replace(/^wp\//, ''))
+    join(BACKUP_DIR, imagePath),
+    join(BACKUP_DIR, imagePath.replace(/^wp\//, ''))
   ];
   
   for (const path of possiblePaths) {
     try {
       await stat(path);
       return path;
-    } catch (error) {
+    } catch {
       // File doesn't exist at this path
     }
   }
@@ -83,11 +84,11 @@ async function findFileInBackup(imagePath) {
 
 async function checkImageExists(imagePath) {
   try {
-    const response = await fetch(`https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/${imagePath}`, {
+    const response = await fetch(`${BASE_BLOB_URL}/${imagePath}`, {
       method: 'HEAD'
     });
     return response.ok;
-  } catch (error) {
+  } catch {
     return false;
   }
 }
@@ -95,7 +96,7 @@ async function checkImageExists(imagePath) {
 async function uploadImage(localPath, blobPath) {
   try {
     const command = `vercel blob put "${localPath}" --pathname "wp/${blobPath}" --force`;
-    const result = execSync(command, { encoding: 'utf8', stdio: 'pipe' });
+    execSync(command, { encoding: 'utf8', stdio: 'pipe' });
     
     console.log(`✅ Uploaded: ${blobPath}`);
     return true;

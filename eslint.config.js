@@ -28,6 +28,25 @@ export default [
 		},
 	},
 	{
+		files: ['scripts/**/*.js'],
+		languageOptions: {
+			globals: {
+				console: 'readonly',
+				process: 'readonly',
+				setTimeout: 'readonly',
+				fetch: 'readonly',
+				__dirname: 'readonly',
+				__filename: 'readonly',
+				Buffer: 'readonly',
+				global: 'readonly',
+			},
+		},
+		rules: {
+			'no-unused-vars': ['error', { argsIgnorePattern: '^_', varsIgnorePattern: '^_' }],
+			'no-console': 'off',
+		},
+	},
+	{
 		files: ['astro.config.mjs', 'eslint.config.js'],
 		languageOptions: {
 			globals: {

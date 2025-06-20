@@ -2,16 +2,51 @@
 
 **Purpose**: Generate comprehensive analysis of changes between migration phases for review, documentation, and team collaboration.
 
+## Quick Reference
+
+| Use Case | Script | Output |
+|----------|--------|--------|
+| **PR Review** | `./scripts/quick-diff.sh` | Fast overview with key stats |
+| **Milestone Documentation** | `./scripts/generate-focused-diff.sh` | Comprehensive analysis (~100k words) |
+| **Debug/Troubleshoot** | `./scripts/quick-diff.sh` | Quick insights into changes |
+
 ---
 
 ## Quick Commands
 
-### Generate Complete Analysis
+### Enhanced Focused Diff Scripts
+
+**Quick Overview Analysis** (fast, essential stats):
+```bash
+# Quick diff analysis - immediate insights
+./scripts/quick-diff.sh [source_branch] [target_branch]
+
+# Examples
+./scripts/quick-diff.sh                    # main → current branch
+./scripts/quick-diff.sh main feature-branch
+./scripts/quick-diff.sh main wordpress-content-migration
+```
+
+**Comprehensive Enhanced Analysis** (detailed, ~100k words):
+```bash
+# Enhanced focused diff - comprehensive analysis
+./scripts/generate-focused-diff.sh [source_branch] [target_branch] [output_dir]
+
+# Examples  
+./scripts/generate-focused-diff.sh                    # main → current, docs/analysis/
+./scripts/generate-focused-diff.sh main wordpress-content-migration
+./scripts/generate-focused-diff.sh main feature-branch docs/analysis/
+
+# View generated analysis
+ls -la docs/analysis/enhanced-diff-analysis-*.md
+```
+
+### Legacy Manual Analysis (if scripts unavailable)
 ```bash
 # Create temporary analysis directory
 mkdir -p /tmp/migration-analysis-$(date +%Y%m%d)
 
-# Generate comprehensive analysis file
+# Generate basic analysis file
 ANALYSIS_DIR="/tmp/migration-analysis-$(date +%Y%m%d)"
 ANALYSIS_FILE="$ANALYSIS_DIR/migration-analysis.md"
 
@@ -233,11 +268,11 @@ echo "🚀 Ready for PR creation!"
 ## Best Practices
 
 ### When to Generate Analysis
-- **Before creating pull requests** - Review scope of changes
-- **Phase completions** - Document milestone achievements  
-- **Code reviews** - Understand impact of changes
+- **Before creating pull requests** - Use `./scripts/quick-diff.sh` for PR overview
+- **Phase completions** - Use `./scripts/generate-focused-diff.sh` for milestone documentation
+- **Code reviews** - Quick analysis to understand impact of changes
 - **Debugging** - Track down when changes were introduced
-- **Documentation** - Create migration records
+- **Documentation** - Create comprehensive migration records with enhanced analysis
 
 ### What to Include
 - **Executive summary** with key metrics
@@ -331,7 +366,16 @@ git diff --stat main..branch
 # Our specific use case
 cd /Users/goelak/Developer/medlearnity.com
 
-# Generate analysis
+# Quick overview using script
+./scripts/quick-diff.sh main wordpress-content-migration
+
+# Comprehensive analysis using enhanced script
+./scripts/generate-focused-diff.sh main wordpress-content-migration docs/analysis/
+
+# View results
+ls -la docs/analysis/enhanced-diff-analysis-*.md
+
+# Manual analysis (fallback)
 mkdir -p /tmp/wp-astro-analysis
 git diff main..astro-migration --stat > /tmp/wp-astro-analysis/migration-stats.txt
 git diff main..astro-migration --name-status > /tmp/wp-astro-analysis/files-changed.txt

@@ -3,10 +3,6 @@
     {
       "source": "/images/wp/:file*",
       "destination": "https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/:file*"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
     }
   ],
   "redirects": [
@@ -627,10 +623,6 @@
         {
           "key": "X-Content-Type-Options",
           "value": "nosniff"
-        },
-        {
-          "key": "X-XSS-Protection",
-          "value": "1; mode=block"
         },
         {
           "key": "Referrer-Policy",

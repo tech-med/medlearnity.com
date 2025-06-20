@@ -611,6 +611,23 @@ cp -r {astro.config.mjs,package.json,tsconfig.json} backups/
 git archive --format=tar.gz --output=snapshots/project-$(date +%Y%m%d).tar.gz HEAD
 ```
 
+### Migration Diff Analysis
+```bash
+# Quick diff analysis (fast overview)
+./scripts/quick-diff.sh [source_branch] [target_branch]
+./scripts/quick-diff.sh                    # main → current branch
+./scripts/quick-diff.sh main feature-branch
+
+# Enhanced comprehensive analysis (~100k words)
+./scripts/generate-focused-diff.sh [source_branch] [target_branch] [output_dir]
+./scripts/generate-focused-diff.sh         # main → current, output to docs/analysis/
+./scripts/generate-focused-diff.sh main wordpress-content-migration docs/analysis/
+
+# View generated analysis
+ls -la docs/analysis/enhanced-diff-analysis-*.md
+cat docs/analysis/enhanced-diff-analysis-$(date +%Y%m%d-*)*.md
+```
+
 ---
 
 ## Project Information

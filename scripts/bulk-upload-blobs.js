@@ -82,13 +82,11 @@ async function processBatch(files) {
   const promises = files.map(file => uploadFile(file));
   const results = await Promise.allSettled(promises);
   
-  results.forEach((result, index) => {
+  results.forEach((result) => {
     processedFiles++;
     
     if (result.status === 'fulfilled' && result.value.success) {
-      if (!result.value.skipped) {
-        successfulUploads++;
-      }
+      successfulUploads++;
     } else {
       failedUploads++;
     }
