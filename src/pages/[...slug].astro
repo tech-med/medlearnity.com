@@ -1,0 +1,26 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BlogPost from '../layouts/BlogPost.astro';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const wpPages = await getCollection('wpPages');
+	return wpPages.map((page) => {
+		// Extract directory name from page.id (e.g., "dr-akshay-goel/index" -> "dr-akshay-goel")
+		const slug = page.id.replace('/index', '');
+		return {
+			params: { slug },
+			props: page,
+		};
+	});
+}
+
+type Props = CollectionEntry<'wpPages'>;
+
+const page = Astro.props;
+const { Content } = await render(page);
+---
+
+<BlogPost {...page.data}>
+	<Content />
+</BlogPost> 

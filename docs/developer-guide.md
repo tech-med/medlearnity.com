@@ -108,10 +108,31 @@ npx astro check --verbose
 npx tsc --noEmit --watch
 ```
 
+### YAML Validation (Content Frontmatter)
+```bash
+# Validate all YAML frontmatter in content files
+npm run validate:yaml
+
+# Check specific content collection
+node scripts/validate-yaml-frontmatter.js
+
+# Fix systematic YAML issues with sed (example)
+find src/content/wpPages -name "*.md" -exec grep -l "problematic-pattern" {} \; | \
+xargs sed -i '' 's/problematic-pattern/fixed-pattern/g'
+```
+
 ### All Quality Checks
 ```bash
-# Run all quality checks in sequence
+# Run comprehensive quality pipeline (includes YAML validation)
+npm run lint  # Runs astro:check + validate:yaml
+
+# Full manual pipeline
 npm run lint && npm run format:check && npm run astro:check && npm run build
+
+# Individual checks
+npm run validate:yaml  # YAML frontmatter validation
+npm run astro:check    # TypeScript + Astro validation
+npm run build          # Full build validation
 ```
 
 ## Build & Deployment
@@ -222,14 +243,23 @@ git rebase main
 
 ### Content Validation
 ```bash
-# Check content collections
-npm run astro:check
+# Comprehensive content validation
+npm run validate:yaml     # YAML frontmatter validation
+npm run astro:check       # Content collections + TypeScript
 
-# Validate markdown files
+# Manual content checks
 find src/content -name "*.md" -exec echo "Checking: {}" \; -exec head -n 5 {} \;
 
 # Check for broken internal links
 grep -r "\[.*\](/" src/content/
+
+# Verify content counts match expectations
+find src/content/wpPages -name "index.md" | wc -l  # WordPress pages
+find src/content/blog -name "*.md" | wc -l         # Blog posts
+
+# Test specific content accessibility
+curl -s -o /dev/null -w "Status: %{http_code}\n" http://localhost:4321/dr-akshay-goel/
+curl -s -o /dev/null -w "Status: %{http_code}\n" http://localhost:4321/our-tutors/
 ```
 
 ### Image Optimization Check
@@ -419,6 +449,33 @@ echo "WordPress export completed: $(date)" >> logs/migration-$(date +%Y%m%d).log
 ## Troubleshooting
 
 ### Common Issues
+
+#### Missing WordPress Pages (Dynamic Routes)
+```bash
+# Symptoms: Pages exist in src/content/wpPages but return 404
+# Check if dynamic route is working
+curl -I http://localhost:4321/dr-akshay-goel/  # Should return 200
+
+# Verify content collection is loaded
+npm run validate:yaml  # Check for YAML parsing errors
+npm run astro:check    # Verify content collections
+
+# Check build output includes WordPress pages
+npm run build
+find dist -name "index.html" | grep -v blog | grep -v "^dist/index.html" | wc -l
+
+# Debug dynamic route file
+cat src/pages/[...slug].astro  # Verify proper Astro component syntax
+
+# Check content config includes wpPages collection
+grep -A 10 "wpPages.*defineCollection" src/content.config.ts
+
+# Common fixes:
+# 1. Add missing wpPages to src/content.config.ts
+# 2. Fix malformed src/pages/[...slug].astro (add frontmatter delimiters)
+# 3. Fix slug mapping in getStaticPaths (page.id.replace('/index', ''))
+# 4. Resolve YAML parsing errors in content files
+```
 
 #### SSH Connection Issues
 ```bash

@@ -12,7 +12,10 @@
     "fix:image-paths": "node scripts/replace-image-paths.js",
     "upload:blobs": "node scripts/smart-upload-blobs.js",
     "upload:blobs-bulk": "node scripts/bulk-upload-blobs.js",
-    "count:blobs": "node scripts/count-blobs.js"
+    "count:blobs": "node scripts/count-blobs.js",
+    "fix:missing-images": "node scripts/fix-missing-images.js",
+    "validate:yaml": "node scripts/validate-yaml-frontmatter.js",
+    "lint": "npm run astro:check && npm run validate:yaml"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -26,6 +29,8 @@
   },
   "devDependencies": {
     "@vercel/blob": "^1.1.1",
-    "wordpress-export-to-markdown": "^3.0.4"
+    "js-yaml": "^4.1.0",
+    "wordpress-export-to-markdown": "^3.0.4",
+    "yaml-lint": "^1.7.0"
   }
 }
