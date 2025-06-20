@@ -17,8 +17,9 @@
     "validate:yaml": "node scripts/validate-yaml-frontmatter.js",
     "analyze:wpPages": "node scripts/analyze-wpPages-structure.js",
     "lint": "npm run astro:check && npm run validate:yaml",
-    "check": "npm run lint",
-    "format:check": "echo 'Formatting check passed - using Prettier defaults'"
+    "check": "npm run astro:check && tsc --noEmit",
+    "format:check": "prettier --check . --plugin=prettier-plugin-astro",
+    "quality-check": "npm run check && npm run lint && npm run format:check"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -33,6 +34,8 @@
   "devDependencies": {
     "@vercel/blob": "^1.1.1",
     "js-yaml": "^4.1.0",
+    "prettier": "^3.5.3",
+    "prettier-plugin-astro": "^0.14.1",
     "wordpress-export-to-markdown": "^3.0.4",
     "yaml-lint": "^1.7.0"
   }

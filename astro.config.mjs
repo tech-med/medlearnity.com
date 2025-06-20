@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: import.meta.env.PUBLIC_SITE_URL || 'https://medlearnity.com',
 	integrations: [mdx(), sitemap()],
+	// Note: Changing PUBLIC_SITE_URL requires a rebuild for static sites
 });

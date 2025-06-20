@@ -112,9 +112,27 @@ npm run check
 | `npm run build` | Build production site to `./dist/` |
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint code quality checks |
-| `npm run format` | Format code with Prettier |
-| `npm run check` | Run Astro TypeScript checks |
+| `npm run format:check` | Check code formatting with Prettier |
+| `npm run check` | Run Astro and TypeScript checks |
+| `npm run quality-check` | Run all quality checks (check + lint + format) |
 | `npm run fix:image-paths` | Update image URLs to blob storage |
+
+## ⚙️ Environment Setup
+
+### Quick Start
+```bash
+# Copy environment template
+cp .env.example .env.local
+
+# For Vercel projects, pull environment variables
+vercel env pull
+```
+
+### Important Notes
+- **Never commit `.env*` files** - they are automatically ignored by Git
+- Use `vercel env pull` to sync environment variables from Vercel dashboard
+- Local development uses `.env.local` for overrides
+- NODE_ENV is automatically set by your environment (development/production)
 
 ## 🌐 Deployment
 
@@ -128,6 +146,7 @@ npm run check
 - **Blob Storage**: `store_I2xFWZTD2kSBegsE` for WordPress media
 - **CDN URL**: `https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/`
 - **Fallback**: Rewrite rules for backward compatibility with existing URLs
+- **⚠️ Quota Alert**: Vercel Blob has 1GB egress/month free tier - monitor usage for high-traffic sites
 
 ## 📈 Performance Metrics
 
@@ -136,6 +155,16 @@ npm run check
 - **Page Generation**: 59 static pages in ~950ms
 - **Repository Size**: 50MB (vs 1.1GB with local media)
 - **Media Delivery**: Global CDN with WebP optimization
+
+### Reproduce Performance Tests
+```bash
+# Build performance test
+npm run build --verbose
+
+# Lighthouse audit (requires lighthouse CLI)
+npm install -g lighthouse
+lighthouse http://localhost:4321 --output=html --output-path=./lighthouse-report.html
+```
 
 ## 🔗 Links
 
