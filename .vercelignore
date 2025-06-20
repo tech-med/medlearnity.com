@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output (handled by Vercel)
+dist/
+
+# Development files
+.env.local
+.env.development
+
+# Backup and temporary files
+backups/
+content-converted/
+
+# Documentation (not needed for deployment)
+docs/
+
+# Scripts (not needed for deployment)
+scripts/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# WordPress backup files
+*.xml
+*.sql
+*.gz 
