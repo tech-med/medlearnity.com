@@ -9,7 +9,10 @@
     "preview": "astro preview",
     "astro": "astro",
     "fix:descriptions": "node scripts/add-descriptions.js",
-    "fix:image-paths": "node scripts/replace-image-paths.js"
+    "fix:image-paths": "node scripts/replace-image-paths.js",
+    "upload:blobs": "node scripts/smart-upload-blobs.js",
+    "upload:blobs-bulk": "node scripts/bulk-upload-blobs.js",
+    "count:blobs": "node scripts/count-blobs.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -17,6 +20,7 @@
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.4.1",
     "astro": "^5.10.0",
+    "dotenv": "^16.5.0",
     "sharp": "^0.34.2",
     "typescript": "^5.8.3"
   },

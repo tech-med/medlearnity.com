@@ -1,4 +1,8 @@
 import { list } from '@vercel/blob';
+import { config } from 'dotenv';
+
+// Load environment variables
+config({ path: '.env.local' });
 
 const PREFIX = 'wp/';              // what we're counting
 const LIMIT  = 1000;               // max rows per page
