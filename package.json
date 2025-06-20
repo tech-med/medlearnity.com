@@ -15,6 +15,7 @@
     "count:blobs": "node scripts/count-blobs.js",
     "fix:missing-images": "node scripts/fix-missing-images.js",
     "validate:yaml": "node scripts/validate-yaml-frontmatter.js",
+    "analyze:wpPages": "node scripts/analyze-wpPages-structure.js",
     "lint": "npm run astro:check && npm run validate:yaml"
   },
   "dependencies": {

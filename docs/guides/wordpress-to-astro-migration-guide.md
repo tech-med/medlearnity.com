@@ -49,7 +49,7 @@ grep -r "jotform\|google\|gtag\|analytics" /path/to/wordpress/
 - [ ] **Performance baseline** - Current PageSpeed/Lighthouse scores
 
 **🛠️ Development Environment Setup**
-```bash
+   ```bash
 # Verify Node.js version (required: >=20)
 node --version
 
@@ -67,14 +67,14 @@ mkdir -p ~/logs/migration
 
 ### Project Initialization
 
-```bash
+   ```bash
 # Create Astro project with blog template
 npm create astro@latest -- --template blog
-cd your-astro-project
+   cd your-astro-project
 
 # Install dependencies and verify setup
-npm install
-npm run dev
+   npm install
+   npm run dev
 
 # Verify development server
 curl -I http://localhost:4321
@@ -427,7 +427,7 @@ find src/content -name "*.md" -exec sed -i 's/images\//\/images\//g' {} \;
 
 ### Content Validation
 
-```bash
+   ```bash
 # Validate frontmatter structure
 grep -r "^---$" src/content/blog/ | wc -l  # Should be even (opening/closing)
 
@@ -525,7 +525,7 @@ npm run fix:image-paths
 
 ### Google Tag Manager Setup
 
-```astro
+   ```astro
 ---
 // src/components/GoogleTagManager.astro
 const GTM_ID = import.meta.env.PUBLIC_GTM_ID;
@@ -533,7 +533,7 @@ const GTM_ID = import.meta.env.PUBLIC_GTM_ID;
 
 {GTM_ID && (
   <>
-    <!-- Google Tag Manager -->
+   <!-- Google Tag Manager -->
     <script is:inline define:vars={{ GTM_ID }}>
       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
