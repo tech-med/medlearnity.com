@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+    branches: [main, astro-migration, wordpress-content-migration]
+  pull_request: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      CI: true
+      # Environment variables for preview deployments
+      PUBLIC_SITE_URL: ${{ github.event_name == 'pull_request' && format('https://pr-{0}.medlearnity.dev', github.event.number) || 'https://medlearnity.com' }}
+      # Dummy token for CI - scripts handle this gracefully
+      BLOB_READ_WRITE_TOKEN: dummy-token-for-ci
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Audit dependencies
+        run: npm audit --audit-level high
+
+      - name: Type check
+        run: npm run astro:check
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Format check
+        run: npm run format:check
+
+      - name: Validate CSP compliance
+        run: npm run validate:csp
+
+      - name: Test helper scripts
+        run: npm run test:helpers
+
+      - name: Build
+        run: npm run build
+
+      - name: Validate bundle size
+        run: npm run validate:bundle
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-dist-static
+          path: dist/

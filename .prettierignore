@@ -1,0 +1,16 @@
+# Files with syntax that Prettier can't parse
+docs/guides/wordpress-to-astro-migration-guide.md
+PR_SUMMARY.md
+
+# Standard ignores
+node_modules/
+dist/
+.astro/
+.vercel/
+.env*
+package-lock.json
+*.log
+README.md
+
+# Newly added marketing page markdown
+src/content/wpPages/marketing/how-can-we-assist-you/index.md 

@@ -1,0 +1,40 @@
+---
+title: 'Test Preparation'
+pubDate: 2020-04-12
+description: 'We know how important highstakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for th.'
+---
+
+## We know how important high-stakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for the following exams.
+
+### USMLE
+
+The USMLE is a series of three standardized medical exams known as [Step 1](https://www.medlearnity.com/usmle-tutoring-step-1/), [Step 2](https://www.medlearnity.com/step-2ck-usmle/), and [Step 3](https://www.medlearnity.com/usmle-step-3/). Step 2 has two components, 2 CK Clinical Knowledge and 2 CS Clinical Skills, the latter of which is graded on a pass/fail metric. An aspiring doctor must pass all three exams to be licensed and able to practice medicine unsupervised in the US. Scoring well on these exams is extremely important, as they determine which medical specialties you can pursue and what residency program you match into.
+
+### COMLEX
+
+COMLEX-USA is a series of three standardized osteopathic medical licensing exams, [Level 1](https://www.medlearnity.com/comlex-1/), [Level 2-CE and Level 2-PE](https://www.medlearnity.com/level-2-ce-and-pe/), and [Level 3](https://www.medlearnity.com/level-3/). It is the most common pathway through which osteopathic physicians (DO) apply for a license to practice medicine. Like the USMLE, scoring well on the COMLEX exam is critical to matching into a prestigious residency program, and being able to pursue a competitive specialty.
+
+### Shelf Exams and NBME
+
+The NBME Subject Examinations include both the Basic and Clinical Science exams ("Shelf" exams) and the Comprehensive exams. [The Shelf exams](https://www.medlearnity.com/nbme-shelf-exams/) assess students at the end of a clerkship rotation or course, while the Comprehensive exams measure student readiness for the USMLE. Performing well on these exams demonstrates mastery upon completion of a clerkship rotation, or can help to gauge your baseline knowledge before you schedule to take a USMLE exam.
+
+### Residency Board Exams
+
+We tutor for [various residency board exams](https://www.medlearnity.com/residency-board-exams/), including the [Internal Medicine Board Exam](https://www.medlearnity.com/internal-medicine-boards/) (ABIM), [Family Medicine Board Exam](https://www.medlearnity.com/family-medicine-certification-exam-abfm/) (ABFM),
+
+[ABS In-Training Examination](https://www.medlearnity.com/abs-exams/) (ABSITE), and more. These exams are important milestones in residency training for board eligibility and certification.
+
+### MCAT
+
+The [MCAT](https://www.medlearnity.com/mcat/) is a standardized test required for admission to most medical schools. It is a seven-and-a-half (7½) hour computer-based test, which tests your knowledge in the physical and biological sciences, as well as your verbal reasoning skills and writing ability. Your MCAT score plays a large factor in determining which medical schools you receive acceptance letters from.
+
+#### I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
+
+I used Medlearnity over the course of six months to help prepare me for Step 1. In the past I have struggled with standardized tests and knew I would need help to achieve the competitive score I desired. Dr. Goel and Dustin were both incredible mentors and teachers! Dustin explained difficult concepts clearly and thoroughly during every session. He was always available to answer questions in-between sessions and helped me identify weaknesses in my knowledge and test-taking abilities. During my dedicated study period, Dr. Goel called me often to check on my progress, and provided me with invaluable tips and tricks to reduce my test anxiety. I would highly recommend Medlearnity to anyone who wants help learning invaluable skills for taking medical examinations
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2023/10/testimonial-placeholder.png)V. H.USMLE Step 1 Student
+
+#### This is an outstanding organization dedicated and fully committed to your success.
+
+This is an outstanding organization dedicated and fully committed to your success. I referred one of my students to them and was amazed at how well the tailored their instruction to his specific needs. I would recommend them without reservation.
+
+![profile-pic](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/13584804_10153790018961089_8753852675565858554_o.jpg)Dr. William ForgeyStudent Sponsor [Google](https://www.google.com/search?sxsrf=ALeKk02Np3zuLpVvWHuLh8YQxCysUEKy4Q%3A1588046050926&ei=4qinXouTOPGzytMPwPe00Ag&q=medlearnity+google+reviews&oq=medlearnity+google+reviews&gs_lcp=CgZwc3ktYWIQAzIECCMQJ1CEKljpMWCBM2gAcAB4AIABXIgBtAaSAQIxMJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiLjILGnIrpAhXxmXIEHcA7DYoQ4dUDCAw&uact=5#lrd=0x89c25981baf77257:0xf372ef78c42cfd0b,1,,,)

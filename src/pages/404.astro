@@ -1,0 +1,81 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Page Not Found - ${SITE_TITLE}`}
+			description="The page you're looking for doesn't exist."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<h1>404 - Page Not Found</h1>
+				<p>Sorry, the page you're looking for doesn't exist.</p>
+				<p>You might want to check the URL or return to our <a href="/">homepage</a>.</p>
+
+				<h2>Popular Pages:</h2>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/blog/">Blog</a></li>
+					<li><a href="/about/">About</a></li>
+				</ul>
+			</section>
+		</main>
+		<Footer />
+
+		<style>
+			main {
+				width: calc(100% - 2rem);
+				max-width: 100%;
+				margin: 0;
+			}
+			section {
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				text-align: center;
+				min-height: 60vh;
+				padding: 2rem;
+			}
+			h1 {
+				font-size: 3rem;
+				font-weight: 700;
+				line-height: 1;
+				margin-bottom: 1rem;
+				color: rgb(var(--accent));
+			}
+			h2 {
+				margin: 2rem 0 1rem;
+			}
+			p {
+				margin-bottom: 1rem;
+				font-size: 1.2rem;
+			}
+			ul {
+				list-style: none;
+				padding: 0;
+				margin: 1rem 0;
+			}
+			li {
+				margin: 0.5rem 0;
+			}
+			a {
+				color: rgb(var(--accent));
+				text-decoration: none;
+				font-weight: 500;
+			}
+			a:hover {
+				text-decoration: underline;
+			}
+		</style>
+	</body>
+</html>

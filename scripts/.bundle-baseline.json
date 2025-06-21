@@ -1,0 +1,11 @@
+{
+	"buildDate": "2025-06-21T04:40:00.000Z",
+	"sizeKB": 5460,
+	"sizeMB": 5.33,
+	"maxSizeLimitMB": 10,
+	"maxGrowthLimitKB": 50,
+	"nodeVersion": "v20.x.x",
+	"platform": "linux",
+	"environment": "ci",
+	"note": "CI baseline - larger than local due to different build environment"
+}
