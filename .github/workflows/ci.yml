@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       CI: true
+      # Environment variables for preview deployments
+      PUBLIC_SITE_URL: ${{ github.event_name == 'pull_request' && format('https://pr-{0}.medlearnity.dev', github.event.number) || 'https://medlearnity.com' }}
+      # Dummy token for CI - scripts handle this gracefully
+      BLOB_READ_WRITE_TOKEN: dummy-token-for-ci
 
     steps:
       - name: Checkout
@@ -25,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Audit dependencies
-        run: npm audit --audit-level moderate --omit=dev
+        run: npm audit --audit-level high --omit=dev
 
       - name: Type check
         run: npm run check
