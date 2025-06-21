@@ -23,6 +23,18 @@ const WORDPRESS_ARTIFACTS = [
 	/\[\]\([^)]*\)/g,
 	// Malformed image syntax at end of lines
 	/!\s*$/gm,
+	// Thrive Lead Lock shortcode blocks
+	/\[thrive_lead_lock[\s\S]*?\[\/thrive_lead_lock\]/g,
+	// Thrive Icon shortcodes
+	/\[thrive_icon[^\]]*\]/g,
+	// Raw JotForm embed scripts
+	/<script[^>]*jotform[^>]*>[\s\S]*?<\/script>/gi,
+	// JotForm iframes
+	/<iframe[^>]*jotform[^>]*>[\s\S]*?<\/iframe>/gi,
+	// Escaped Thrive Lead Lock blocks
+	/\\\[thrive_lead_lock[\s\S]*?\\\[\/thrive_lead_lock\\\]/g,
+	// Escaped tcb-script shortcodes
+	/\\\[tcb-script\\\]/g,
 ];
 
 // Directories to clean
