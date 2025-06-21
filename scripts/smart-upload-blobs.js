@@ -6,6 +6,7 @@ import { join, relative, basename } from 'path';
 import { createReadStream } from 'fs';
 import { config } from 'dotenv';
 import { constants } from 'fs';
+import pLimit from 'p-limit';
 
 // Load environment variables
 config({ path: '.env.local' });
@@ -19,7 +20,8 @@ const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
 
 // Check for dry-run flag
 const isDryRun = process.argv.includes('--dry-run');
-const isConfirmed = process.env.CONFIRM === 'true' || isDryRun;
+const cliConfirmed = process.argv.includes('--confirm');
+const isConfirmed = process.env.CONFIRM === 'true' && cliConfirmed;
 
 // CI/Environment checks
 const isCI = process.env.CI === 'true';
@@ -47,7 +49,7 @@ async function validateEnvironment() {
 	// Check confirmation
 	if (!isDryRun && !isConfirmed) {
 		console.error(
-			'❌ Destructive script requires confirmation. Run with --dry-run to test, or set CONFIRM=true'
+			'❌ Destructive script requires confirmation. Run with --dry-run or execute with --confirm and CONFIRM=true.'
 		);
 		process.exit(1);
 	}
@@ -71,9 +73,11 @@ async function validateEnvironment() {
 	}
 }
 
-const BATCH_SIZE = 15; // Process 15 files at a time (Pro account can handle more)
+const CONCURRENCY = parseInt(process.env.CONCURRENCY || '5', 10);
+const BATCH_SIZE = 15; // Files per batch
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 500; // 500ms between retries
+const limit = pLimit(CONCURRENCY);
 
 // Progress tracking
 let totalFiles = 0;
@@ -179,7 +183,7 @@ async function uploadFile(filePath, retryCount = 0) {
 }
 
 async function processBatch(files) {
-	const promises = files.map((file) => uploadFile(file));
+	const promises = files.map((file) => limit(() => uploadFile(file)));
 	const results = await Promise.allSettled(promises);
 
 	results.forEach((result) => {
