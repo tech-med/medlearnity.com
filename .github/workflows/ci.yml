@@ -32,7 +32,7 @@ jobs:
         run: npm audit --audit-level high
 
       - name: Type check
-        run: npm run check
+        run: npm run astro:check
 
       - name: Lint
         run: npm run lint
@@ -40,11 +40,17 @@ jobs:
       - name: Format check
         run: npm run format:check
 
+      - name: Validate CSP compliance
+        run: npm run validate:csp
+
       - name: Test helper scripts
         run: npm run test:helpers
 
       - name: Build
         run: npm run build
+
+      - name: Validate bundle size
+        run: npm run validate:bundle
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4

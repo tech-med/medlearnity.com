@@ -2,6 +2,9 @@
 	"name": "better-bar",
 	"type": "module",
 	"version": "0.0.1",
+	"engines": {
+		"node": ">=20 <22"
+	},
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro build",
@@ -15,12 +18,15 @@
 		"count:blobs": "node scripts/count-blobs.js",
 		"fix:missing-images": "node scripts/fix-missing-images.js",
 		"validate:yaml": "node scripts/validate-yaml-frontmatter.js",
+		"validate:csp": "node scripts/validate-csp-compliance.js",
+		"validate:bundle": "node scripts/validate-bundle-size.js",
 		"validate:scripts": "node scripts/smart-upload-blobs.js --dry-run",
+		"monitoring:setup": "node scripts/setup-monitoring.js",
 		"test:helpers": "node scripts/test-helpers.js",
 		"analyze:wpPages": "node scripts/analyze-wpPages-structure.js",
 		"clean:wordpress": "node scripts/clean-wordpress-artifacts.js",
 		"scan:descriptions": "node scripts/fix-truncated-descriptions.js",
-		"lint": "eslint . && npm run astro:check && npm run validate:yaml",
+		"lint": "eslint . && npm run astro:check && npm run validate:yaml && npm run validate:csp",
 		"check": "npm run astro:check && tsc --noEmit",
 		"format": "prettier --write . --plugin=prettier-plugin-astro",
 		"format:check": "prettier --check . --plugin=prettier-plugin-astro",

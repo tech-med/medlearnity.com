@@ -1,0 +1,9 @@
+{
+  "buildDate": "2025-06-21T04:37:20.850Z",
+  "sizeKB": 4656,
+  "sizeMB": 4.55,
+  "maxSizeLimitMB": 10,
+  "maxGrowthLimitKB": 50,
+  "nodeVersion": "v24.1.0",
+  "platform": "darwin"
+}

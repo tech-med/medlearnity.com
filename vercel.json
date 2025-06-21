@@ -1,4 +1,11 @@
 {
+	"buildCommand": "npm run build",
+	"framework": "astro",
+	"build": {
+		"env": {
+			"NODE_VERSION": "20"
+		}
+	},
 	"rewrites": [
 		{
 			"source": "/images/wp/:file*",
@@ -609,6 +616,101 @@
 		{
 			"source": "/qlearn-terms-of-use/",
 			"destination": "/legal/qlearn-terms-of-use/",
+			"permanent": true
+		},
+		{
+			"source": "/wp-content/uploads/:year(\\d{4})/:month(\\d{2})/:file*",
+			"destination": "$BLOB_BASE_URL/:file*",
+			"permanent": true
+		},
+		{
+			"source": "/wp-content/:path*",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/wp-admin/:path*",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/wp-includes/:path*",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/xmlrpc.php",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/feed/:path*",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/comments/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug/",
+			"destination": "/blog/:slug/",
+			"permanent": true
+		},
+		{
+			"source": "/:year(\\d{4})/:month(\\d{2})/:slug/",
+			"destination": "/blog/:slug/",
+			"permanent": true
+		},
+		{
+			"source": "/:year(\\d{4})/:slug/",
+			"destination": "/blog/:slug/",
+			"permanent": true
+		},
+		{
+			"source": "/tag/:tag/:path*",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/tag/:tag/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/category/:category/:path*",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/author/:author/:path*",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/author/:author/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/page/:num(\\d+)/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/:year(\\d{4})/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/:year(\\d{4})/:month(\\d{2})/",
+			"destination": "/blog/",
 			"permanent": true
 		}
 	],
