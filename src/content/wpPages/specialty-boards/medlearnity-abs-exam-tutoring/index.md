@@ -142,6 +142,7 @@ The ABS QE is offered to surgeons after completing their residency training, and
 After successfully completing the QE, a surgeon must pass the ABS CE to complete the certification process. The CE is an oral exam that tests a candidate's surgical judgment, clinical reasoning skills and problem-solving ability.
 
 !!!!
+
 ## Get started with ABS tutoring today, and be on your way to matching with the program of your choice.
 
 ![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png 'MG-how-to-book-your-free-trial')

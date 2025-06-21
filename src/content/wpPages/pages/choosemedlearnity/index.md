@@ -15,6 +15,7 @@ Whether you're preparing for Step 1, Step 2 CK, COMLEX, Shelf exams, or Board ex
 ## Get started with your Discounted Trial Today
 
 \\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-250890657650464'\]", "https://form.jotform.com/")\[/tcb-script\] **Featuring Advisors with Admissions Committee Experience From**!!
+
 ## What Makes Medlearnity Different?
 
 We’ve listened to thousands of students and understand the common frustrations they've encountered elsewhere. That’s why Medlearnity is different in all the ways that matter:
