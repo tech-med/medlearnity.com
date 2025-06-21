@@ -134,8 +134,7 @@ Akshay is an amazing educator who truly cares about his students! I would highly
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.
 
-!!
-
+!
 ## Our USMLE Tutors
 
 ### Radhika Srivastava, MD

@@ -10,6 +10,6 @@ PERSONAL STATEMENT
 
 _"I strive to help my students build a strong fund of knowledge, sharpen their test taking skills, and recognize the clinical correlations of their study efforts. Seeing the information 'click' is a key moment in progression towards students achieving their exam goals. Mastering the step exam goes beyond the material, let's get there together!"_
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/) ![Eytan Palte, MD - Internal Medicine at Columbia University and Med Learnity tutor for USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Eytan.jpg 'Eytan')
+[Discounted Session Sign-Up](/purchase-discounted-session/) ![Eytan Palte, MD - Internal Medicine at Columbia University and Med Learnity tutor for USMLE Step 1 and Step 2](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/04/Eytan.jpg 'Eytan')
 
 **Eytan Palte, MD**

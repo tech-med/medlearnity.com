@@ -8,7 +8,7 @@ description: 'Medlearnity: The Smarter Choice for Medical Exam Success.'
 
 Achieve your best score with **99th-percentile physician tutors**, personalized study plans, and unmatched support. Medlearnity blends elite one-on-one coaching with world-class resources and streamlined scheduling to help you succeed on the USMLE, COMLEX, Shelf exams, and more—allowing you to reach your goals faster and with greater confidence.
 
-\ **Featuring Advisors with Admissions Committee Experience From**!!!!!! \_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [start now](#tve-jump-195b66f4066) \
+\ **Featuring Advisors with Admissions Committee Experience From**!!!!!! [start now](#tve-jump-195b66f4066) \
 
 ## Why Top Students Choose Medlearnity
 

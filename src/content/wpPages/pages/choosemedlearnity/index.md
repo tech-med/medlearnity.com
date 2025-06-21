@@ -38,7 +38,7 @@ At Medlearnity, we address these concerns directly with:
 
 “I’ve always had severe test anxiety. Working with Dr. Anthony transformed my approach and gave me confidence. I passed the ABIM boards—and truly learned the material. I’m incredibly grateful.” – **Silviya P., MD**
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [start now](#tve-jump-195b66f4066) \
+[start now](#tve-jump-195b66f4066) \
 
 ## Why Top Students Choose Medlearnity
 

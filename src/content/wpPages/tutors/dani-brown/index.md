@@ -10,5 +10,5 @@ PERSONAL STATEMENT
 
 _I love tutoring to help students build their clinical reasoning and test-taking skills! It is so rewarding to watch students develop confidence in their own abilities. Medical school exams are challenging and time-consuming, so I aim to focus on high-yield topics and help students develop efficient study plans._  
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+[Discounted Session Sign-Up](/purchase-discounted-session/)
 **Dani Brown**

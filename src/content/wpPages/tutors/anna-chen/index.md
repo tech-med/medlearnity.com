@@ -10,6 +10,6 @@ PERSONAL STATEMENT
 
 _There is nothing more fulfilling than turning anxiety into empowerment and confusion into confidence. That is why I strive to equip students with the study strategies, question approaches, knowledge base, and mindsets they need to tackle exams with confidence - and get the results to back it up. I take seriously my students' individual needs and areas of strength and weakness to ensure a tailored approach to test or admissions prep. Above all, my aim is for students to walk away from our sessions with tools under their belts that will benefit them long-term on the rest of their professional journey. Let's work toward your goals together!_
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+[Discounted Session Sign-Up](/purchase-discounted-session/)
 
 **Anna Chen**
