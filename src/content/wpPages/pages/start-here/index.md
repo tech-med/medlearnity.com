@@ -4,7 +4,8 @@ pubDate: 2024-12-27
 description: 'Learn more about Start Here and our comprehensive tutoring services.'
 ---
 
-\\[/tcb-script\]
+<!-- WordPress script artifact removed -->
+
 At Medlearnity, **every new prospective student receives a one-hour trial session**. We know that the high-quality of our services and the expertise of our team is truly unmatched, and we want you to experience it without any obligation. 
 
 We understand that investing in tutoring or admissions consulting is not always a decision that can be made on a whim, and we want to help make this decision easier for you by giving you a one-hour discounted session with our team of expert educators.

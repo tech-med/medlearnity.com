@@ -7,4 +7,4 @@ description: 'Please fill out the contact form below and one of our customer ser
 Please fill out the contact form below and one of our customer service managers will get in touch
 Feel free to check out our [frequently asked questions](https://www.medlearnity.com/frequently-asked-questions/).
 
-\[gravityform id="9" title="false" description="false"\]
+<!-- Contact form will be implemented during form integration phase -->

@@ -6,7 +6,7 @@ description: 'Thank you for your interest in a trial session!'
 
 # Thank you for your interest in a trial session
 
-!An email will be sent to you shortly to explain the process of reserving and scheduling a trial session. You can also see the instruction below to get started right away.If you do not receive an email, please check your spam folder or contact us at[support@medlearnity.com](mailto:support@medlearnity.com).
+An email will be sent to you shortly to explain the process of reserving and scheduling a trial session. You can also see the instruction below to get started right away.If you do not receive an email, please check your spam folder or contact us at[support@medlearnity.com](mailto:support@medlearnity.com).
 
 Medlearnity Team
 

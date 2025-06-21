@@ -14,7 +14,8 @@ Prepare confidently with MedLearnity’s **Core Video Review**, an ultra-focused
 
 ## Complete the form below, and we'll promptly follow up with details and a sample video of the course.
 
-\\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-250891467420459'\]", "https://form.jotform.com/")\[/tcb-script\]
+<!-- JotForm embed will be implemented during form integration phase -->
+
 I had a great experience studying for the radiology CORE exam with the resources provided by Medlearnity. I did not pass the exam on my first try and reached out to Medlearnity for help. Working with my tutor Louis was a phenomenal experience. I had most of the knowledge of the material, but Louis was able to help with strategies and test-taking skills that helped me pass the second time. Louis is very experienced as he helped many others with this exam. Doing questions and learning how to think through them as well as understanding how the material can be asked were very helpful to my success. If I was to do it all over again, I would have used Medlearnity sooner. Thank you Medlearnity
 
 ### Anonymous
@@ -102,4 +103,4 @@ Pricing: $1499 for full course access
 
 ## Complete the form below, and we'll promptly follow up with details and a sample video of the course.
 
-\\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-250891467420459'\]", "https://form.jotform.com/")\[/tcb-script\]
+<!-- JotForm embed will be implemented during form integration phase -->

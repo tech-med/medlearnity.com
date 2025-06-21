@@ -1,7 +1,7 @@
 ---
 title: 'Robert Rosen'
 pubDate: 2024-06-26
-description: '"Nothing is more gratifying then when a concept clicks for one of my students. I always seek to meet my students at their current knowledge base and elevat.'
+description: '"Nothing is more gratifying then when a concept clicks for one of my students. I always seek to meet my students at their current knowledge base and elevate their understanding of medical knowledge based on their own unique learning style."'
 ---
 
 # Meet Robert Rosen

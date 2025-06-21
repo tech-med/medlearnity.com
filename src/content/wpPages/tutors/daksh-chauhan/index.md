@@ -1,7 +1,7 @@
 ---
 title: 'Daksh Chauhan'
 pubDate: 2024-08-29
-description: 'Having tutored for nearly 5 years, I have developed a studentcentered style to teaching wherein I like to see the students perform as they would naturally.'
+description: 'Having tutored for nearly 5 years, I have developed a student-centered style to teaching wherein I like to see the students perform as they would naturally first, identify areas of weakness, and then devise plans to target individual growth zones.'
 ---
 
 # Meet Daksh **Chauhan**
