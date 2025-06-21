@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Enhanced Focused Migration Diff Generator
 # Creates comprehensive, targeted diff analysis with deeper insights
 # Limited to ~100,000 words for manageable review
 
-set -e
+set -euo pipefail
 
 # Configuration
 SOURCE_BRANCH="${1:-main}"

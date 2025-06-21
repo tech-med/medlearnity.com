@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
 
 # Quick Diff Analysis - Simplified version of focused diff generator
 # Usage: ./scripts/quick-diff.sh [source_branch] [target_branch]

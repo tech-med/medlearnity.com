@@ -4,10 +4,30 @@ import { put } from '@vercel/blob';
 import { readdir, stat } from 'fs/promises';
 import { join, relative } from 'path';
 import { createReadStream } from 'fs';
+import pLimit from 'p-limit';
 
-const BATCH_SIZE = 10; // Process 10 files at a time
-const MAX_RETRIES = 3;
-const RETRY_DELAY = 1000; // 1 second
+// ------------------------
+// CLI argument helpers
+// ------------------------
+function getArg(name, fallback) {
+	const arg = process.argv.find((a) => a === name || a.startsWith(`${name}=`));
+	if (!arg) return fallback;
+	if (arg.includes('=')) {
+		return arg.split('=')[1];
+	}
+	// Support space-separated value e.g. --concurrency 10
+	const idx = process.argv.indexOf(name);
+	return idx >= 0 && idx < process.argv.length - 1 ? process.argv[idx + 1] : fallback;
+}
+
+const CONCURRENCY = Math.max(1, Number(getArg('--concurrency', 5)) || 5);
+const MAX_RETRIES = Number(getArg('--max-retries', 3));
+const RETRY_DELAY = Number(getArg('--retry-delay', 1000)); // milliseconds
+
+// Warn if concurrency < 1
+if (Number.isNaN(CONCURRENCY) || CONCURRENCY < 1) {
+	console.warn('⚠️  Invalid --concurrency value. Falling back to 5');
+}
 
 // Configuration
 const SOURCE_DIR = 'public/images/wp';
@@ -43,6 +63,12 @@ async function getAllFiles(dir) {
 	return files;
 }
 
+function exponentialBackoff(attempt) {
+	// Backoff with jitter
+	const baseDelay = RETRY_DELAY * 2 ** attempt;
+	return baseDelay + Math.floor(Math.random() * 250);
+}
+
 async function uploadFile(filePath, retryCount = 0) {
 	try {
 		const relativePath = relative(SOURCE_DIR, filePath);
@@ -66,38 +92,22 @@ async function uploadFile(filePath, retryCount = 0) {
 		console.log(`✅ Uploaded: ${relativePath} (${(stats.size / 1024).toFixed(1)}KB)`);
 		return { success: true, url: result.url, size: stats.size };
 	} catch (error) {
+		const isRateLimit = error?.status === 429 || /429/.test(error.message);
 		if (retryCount < MAX_RETRIES) {
+			const delay = exponentialBackoff(retryCount);
 			console.log(
-				`⚠️  Retry ${retryCount + 1}/${MAX_RETRIES} for: ${relative(SOURCE_DIR, filePath)}`
+				`⚠️  Retry ${retryCount + 1}/${MAX_RETRIES} for: ${relative(
+					SOURCE_DIR,
+					filePath
+				)} in ${delay}ms${isRateLimit ? ' (rate-limited)' : ''}`
 			);
-			await sleep(RETRY_DELAY * (retryCount + 1));
+			await sleep(delay);
 			return uploadFile(filePath, retryCount + 1);
 		}
 
 		console.error(`❌ Failed: ${relative(SOURCE_DIR, filePath)} - ${error.message}`);
 		return { success: false, error: error.message };
 	}
-}
-
-async function processBatch(files) {
-	const promises = files.map((file) => uploadFile(file));
-	const results = await Promise.allSettled(promises);
-
-	results.forEach((result) => {
-		processedFiles++;
-
-		if (result.status === 'fulfilled' && result.value.success) {
-			successfulUploads++;
-		} else {
-			failedUploads++;
-		}
-
-		// Progress update
-		const progress = ((processedFiles / totalFiles) * 100).toFixed(1);
-		process.stdout.write(
-			`\r📊 Progress: ${progress}% (${processedFiles}/${totalFiles}) | ✅ ${successfulUploads} | ❌ ${failedUploads}`
-		);
-	});
 }
 
 async function main() {
@@ -115,18 +125,23 @@ async function main() {
 		}
 
 		console.log(`📊 Found ${totalFiles} files to upload`);
-		console.log(`⚙️  Processing in batches of ${BATCH_SIZE}\n`);
+		console.log(`⚙️  Concurrency: ${CONCURRENCY}, Max retries: ${MAX_RETRIES}\n`);
 
-		// Process files in batches
-		for (let i = 0; i < allFiles.length; i += BATCH_SIZE) {
-			const batch = allFiles.slice(i, i + BATCH_SIZE);
-			await processBatch(batch);
+		const limit = pLimit(CONCURRENCY);
+		const tasks = allFiles.map((file) =>
+			limit(async () => {
+				const result = await uploadFile(file);
+				processedFiles++;
+				if (result.success && !result.skipped) {
+					successfulUploads++;
+				} else if (!result.success) {
+					failedUploads++;
+				}
+				updateProgress();
+			})
+		);
 
-			// Small delay between batches to avoid rate limiting
-			if (i + BATCH_SIZE < allFiles.length) {
-				await sleep(100);
-			}
-		}
+		await Promise.all(tasks);
 
 		console.log('\n\n🎉 Upload completed!');
 		console.log(`📊 Final Results:`);
@@ -142,6 +157,14 @@ async function main() {
 		console.error('\n❌ Script failed:', error.message);
 		process.exit(1);
 	}
+}
+
+// Progress update function added outside
+function updateProgress() {
+	const progress = ((processedFiles / totalFiles) * 100).toFixed(1);
+	process.stdout.write(
+		`\r📊 Progress: ${progress}% (${processedFiles}/${totalFiles}) | ✅ ${successfulUploads} | ❌ ${failedUploads}`
+	);
 }
 
 // Handle graceful shutdown
