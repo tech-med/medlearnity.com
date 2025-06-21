@@ -1,7 +1,7 @@
 ---
 title: 'Ken Nakanote'
 pubDate: 2023-07-10
-description: '"My goal as a coach/mentor/tutor is to give my students the foundations and confidence to accomplish all their goals. The best way to learn is often from s'
+description: '"My goal as a coach/mentor/tutor is to give my students the foundations and confidence to accomplish all their goals. The best way to learn is often from s.'
 ---
 
 # Meet Ken Nakanote

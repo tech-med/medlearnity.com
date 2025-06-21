@@ -1,7 +1,7 @@
 ---
 title: 'Fawaz Naeem'
 pubDate: 2024-08-19
-description: 'I am deeply passionate about tutoring because it allows me to transform complex concepts into accessible knowledge for my students. I love breaking down di'
+description: 'I am deeply passionate about tutoring because it allows me to transform complex concepts into accessible knowledge for my students. I love breaking down di.'
 ---
 
 # Meet Fawaz Naeem

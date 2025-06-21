@@ -3,7 +3,7 @@ title: 'How to Manage Medical School Test Anxiety'
 pubDate: 2021-10-19
 categories:
   - 'usmle'
-description: 'How to Manage Medical School Test Anxiety'
+description: 'How to Manage Medical School Test Anxiety.'
 ---
 
 # How to Manage Medical School Test Anxiety

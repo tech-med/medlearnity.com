@@ -1,7 +1,7 @@
 ---
 title: 'MCAT Tutoring'
 pubDate: 2020-05-01
-description: 'Your MCAT score is one of the most important parts of your medical school application. It plays a large factor in determining which medical schools you are'
+description: 'Your MCAT score is one of the most important parts of your medical school application. It plays a large factor in determining which medical schools you are.'
 ---
 
 ## Your MCAT score is one of the most important parts of your medical school application. It plays a large factor in determining which medical schools you are accepted to, and the scholarships they offer you.

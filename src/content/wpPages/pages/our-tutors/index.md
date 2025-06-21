@@ -1,7 +1,7 @@
 ---
 title: 'Medlearnity Tutors'
 pubDate: 2021-09-28
-description: 'Our tutors come from the top medical schools and hospitals in the country. They are expert educators who have truly mastered medical knowledge and testtaki'
+description: 'Our tutors come from the top medical schools and hospitals in the country. They are expert educators who have truly mastered medical knowledge and testtaki.'
 ---
 
 **Our tutors come from the top medical schools and hospitals in the country**. **They are expert educators who have truly mastered medical knowledge and test-taking. The combination of our tutors' high scores, exceptional teaching abilities, and genuine commitment to student success is truly unmatched**.
@@ -292,4 +292,4 @@ Perelman School of Medicine at the University of Pennsylvania
 
 ## Our Tutors Have Trained At The Top Hospitals:
 
-!!!!!
+!!!!

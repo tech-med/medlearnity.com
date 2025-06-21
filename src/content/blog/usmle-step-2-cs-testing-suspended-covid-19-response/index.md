@@ -9,7 +9,7 @@ tags:
   - 'usmle-step-2-cs'
   - 'usmle-step-2-cs-suspension'
   - 'usmle-step-2-testing-suspension'
-description: 'USMLE Step 2 in COVID19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees'
+description: 'USMLE Step 2 in COVID19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees.'
 ---
 
 **USMLE Step 2 in COVID-19: Testing Suspension in Place Until May 31, 2020 & What This Means for Examinees**

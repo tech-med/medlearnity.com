@@ -1,7 +1,7 @@
 ---
 title: 'Radhika Srivastava'
 pubDate: 2023-02-01
-description: '"I genuinely enjoy tutoring and advising students during their journey in medicine. I have an individualized approach with each student, and I can''t wait t'
+description: '"I genuinely enjoy tutoring and advising students during their journey in medicine. I have an individualized approach with each student, and I can''t wait t.'
 ---
 
 # Meet Radhika Srivastava

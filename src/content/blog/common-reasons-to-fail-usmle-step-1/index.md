@@ -4,7 +4,7 @@ pubDate: 2021-10-27
 categories:
   - 'usmle'
   - 'usmle-step-1'
-description: 'The USMLE Step 1 exam is the most challenging, most important test you will take during your medical career. This test is over all of the information you a'
+description: 'The USMLE Step 1 exam is the most challenging, most important test you will take during your medical career. This test is over all of the information you a.'
 ---
 
 The USMLE Step 1 exam is the most challenging, most important test you will take during your medical career. This test is over all of the information you absorbed in the first two years of medical school, and it takes seven hours to complete. 

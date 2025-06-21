@@ -7,7 +7,7 @@ categories:
   - 'usmle-step-3'
 tags:
   - 'usmle-step-3'
-description: 'How to Create the Optimal USMLE Step 3 Study Schedule'
+description: 'How to Create the Optimal USMLE Step 3 Study Schedule.'
 ---
 
 # How to Create the Optimal USMLE Step 3 Study Schedule

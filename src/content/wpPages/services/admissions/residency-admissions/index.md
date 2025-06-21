@@ -1,7 +1,7 @@
 ---
 title: 'Residency Admissions &#038; Match Consulting'
 pubDate: 2020-05-21
-description: 'Our residency admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your match list and ERAS application'
+description: 'Our residency admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your match list and ERAS application.'
 ---
 
 ## Our residency admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your match list and ERAS application to your personal statement and interviewing.

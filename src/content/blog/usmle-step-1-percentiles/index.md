@@ -4,7 +4,7 @@ pubDate: 2020-04-15
 categories:
   - 'usmle'
   - 'usmle-step-1'
-description: 'As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be on'
+description: 'As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be on.'
 ---
 
 As a medical student, you need to have a solid understanding of the USMLE Step 1 percentiles and the scoring system. We understand that this exam may be one of your biggest fears. It’s that big hurdle you just want to be over and done with! But, USMLE Step 1 is the first in three exams leading up to the end of your residency internship and can affect your residency matching. So let's explore what you need to know about USMLE Step 1 and how you can get your best test score

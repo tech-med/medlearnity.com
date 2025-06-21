@@ -1,7 +1,7 @@
 ---
 title: 'Walid Ashmeik'
 pubDate: 2024-10-17
-description: "My goal is to foster a supportive and engaging environment, tailor my approach to each individual's learning style and needs, and build confidence, critica"
+description: "My goal is to foster a supportive and engaging environment, tailor my approach to each individual's learning style and needs, and build confidence, critica."
 ---
 
 # Meet Walid Ashmeik

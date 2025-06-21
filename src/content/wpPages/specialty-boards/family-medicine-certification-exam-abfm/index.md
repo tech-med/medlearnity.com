@@ -1,7 +1,7 @@
 ---
 title: 'Family Medicine Certification Exam (ABFM) Tutoring'
 pubDate: 2020-05-17
-description: 'Family Medicine Certification Exam (ABFM) Overview'
+description: 'Family Medicine Certification Exam (ABFM) Overview.'
 ---
 
 ## Family Medicine Certification Exam (ABFM) Overview

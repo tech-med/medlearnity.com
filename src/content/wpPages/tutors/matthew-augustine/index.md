@@ -1,7 +1,7 @@
 ---
 title: 'Matthew Augustine'
 pubDate: 2023-02-06
-description: '"While the majority of radiology residencies nationwide adequately prepare their trainees to go out and be competent clinical radiologists, the CORE exam c'
+description: '"While the majority of radiology residencies nationwide adequately prepare their trainees to go out and be competent clinical radiologists, the CORE exam c.'
 ---
 
 # Meet Matthew Augustine

@@ -1,7 +1,7 @@
 ---
 title: 'ABS In-Training Exam (ABSITE)'
 pubDate: 2020-05-16
-description: 'Scoring well on the ABSITE has a major impact on resident promotion. Moreover, failing to score within the 50th percentile or better will warrant academic '
+description: 'Scoring well on the ABSITE has a major impact on resident promotion. Moreover, failing to score within the 50th percentile or better will warrant academic.'
 ---
 
 ## Scoring well on the ABSITE has a major impact on resident promotion. Moreover, failing to score within the 50th percentile or better will warrant academic probation or remediation.

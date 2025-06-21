@@ -1,7 +1,7 @@
 ---
 title: 'Core Video Review'
 pubDate: 2025-03-31
-description: 'ExpertLed,HighYield Prepfor Your Radiology Core Exam'
+description: 'ExpertLed,HighYield Prepfor Your Radiology Core Exam.'
 ---
 
 ![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg 'logo_Med_Learnity')

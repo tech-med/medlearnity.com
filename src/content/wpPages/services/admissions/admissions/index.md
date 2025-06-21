@@ -1,7 +1,7 @@
 ---
 title: 'Admissions Consulting'
 pubDate: 2020-05-21
-description: 'Application Advising, Essay Editing, Interview Prep, and Strategy'
+description: 'Application Advising, Essay Editing, Interview Prep, and Strategy.'
 ---
 
 ### _Application Advising, Essay Editing, Interview Prep, and Strategy_

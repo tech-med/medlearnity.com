@@ -1,7 +1,7 @@
 ---
 title: 'USMLE Step 2 CK and CS Tutoring'
 pubDate: 2020-04-30
-description: "Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn't ideal. Even if you did do well on Step 1, a str"
+description: "Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn't ideal. Even if you did do well on Step 1, a str."
 ---
 
 ## Scoring well on USMLE Step 2 CK bolsters your residency application, especially if your Step 1 score wasn't ideal. Even if you did do well on Step 1, a strong performance on Step 2 CK demonstrates consistency and clinical excellence.

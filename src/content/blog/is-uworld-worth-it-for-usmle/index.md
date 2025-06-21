@@ -4,7 +4,7 @@ pubDate: 2021-12-06
 categories:
   - 'usmle'
   - 'usmle-step-1'
-description: 'The United States Medical Licensing Examinations (USMLE) Step 1 exam is your stepping stone to the specialty and residency program you want. UWorld is one '
+description: 'The United States Medical Licensing Examinations (USMLE) Step 1 exam is your stepping stone to the specialty and residency program you want. UWorld is one.'
 ---
 
 The United States Medical Licensing Examinations (USMLE) Step 1 exam is your stepping stone to the specialty and residency program you want. UWorld is one of the many resources you can use to prepare for this crucial test. With proper usage, you can bolster your Step 1 study plan and succeed through UWorld question banks and self-assessments.

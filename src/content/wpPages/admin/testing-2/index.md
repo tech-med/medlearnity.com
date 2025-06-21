@@ -1,7 +1,7 @@
 ---
 title: 'Testing 2'
 pubDate: 2021-01-21
-description: '\[MANILA\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong'
+description: '\[MANILA\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ong.'
 ---
 
 \[MANILA\] Asia Pacific countries are leveraging geospatial information, digital solutions and artificial intelligence to enhance their response to the ongoing COVID-19 pandemic and to help meet the [Sustainable Development Goals (SDGs)](https://www.scidev.net/global/governance/sdgs/), according to a [new report](https://www.unescap.org/sites/default/files/publications/Geospatial%20Practices%20for%20Sustainable%20Development%20in%20Asia%20and%20the%20Pacific%202020_A%20Compendium.pdf).

@@ -1,7 +1,7 @@
 ---
 title: 'Madeleine Basist'
 pubDate: 2023-02-01
-description: '"With many years of experience tutoring for multiple exams, my favorite part of tutoring is finding a learning style that works for my students. Every stud'
+description: '"With many years of experience tutoring for multiple exams, my favorite part of tutoring is finding a learning style that works for my students. Every stud.'
 ---
 
 # Meet Madeleine Basit

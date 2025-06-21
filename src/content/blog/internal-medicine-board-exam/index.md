@@ -4,7 +4,7 @@ pubDate: 2021-12-07
 categories:
   - 'internal-medicine-board-exam'
   - 'residency-board-exams'
-description: 'Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with '
+description: 'Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with.'
 ---
 
 Internal Medicine Board Exam. You might come across this term all the time in medical school. You probably hear people talk about it; see name plates with the title “Doctor of Internal Medicine” right under an MDs name. You see it all the time but do you actually understand what it means? For all you know, you’ve been using this term wrong after all this time.

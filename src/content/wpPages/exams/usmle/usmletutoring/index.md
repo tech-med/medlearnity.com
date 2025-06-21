@@ -23,8 +23,7 @@ Ace the USMLE with Medlearnity's Elite Tutoring.
 
 ## Get started with your Discounted Trial Today
 
-\\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-250783611516456'\]", "https://form.jotform.com/")\[/tcb-script\]\ **Featuring Advisors with Admissions Committee Experience From**!!!
-
+\\[/tcb-script\] \window.jotformEmbedHandler("iframe\[id='JotFormIFrame-250783611516456'\]", "https://form.jotform.com/")\[/tcb-script\]\ **Featuring Advisors with Admissions Committee Experience From**!!
 ## Why Choose Medlearnity for USMLE Success?
 
 #### Top Tutors in the Industry:

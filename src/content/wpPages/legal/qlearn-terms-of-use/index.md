@@ -1,7 +1,7 @@
 ---
 title: 'Medlearnity QLearn'
 pubDate: 2024-12-26
-description: 'These Terms of Use set forth the terms and conditions of an agreement (this "agreement") between (a) you, as an individual who has purchased a subscription'
+description: 'These Terms of Use set forth the terms and conditions of an agreement (this "agreement") between (a) you, as an individual who has purchased a subscription.'
 ---
 
 User Agreement and Terms of Use

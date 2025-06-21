@@ -1,7 +1,7 @@
 ---
 title: 'Competitor'
 pubDate: 2025-03-26
-description: 'Medlearnity: The Smarter Choice for Medical Exam Success'
+description: 'Medlearnity: The Smarter Choice for Medical Exam Success.'
 ---
 
 ## Medlearnity: The Smarter Choice for Medical Exam Success

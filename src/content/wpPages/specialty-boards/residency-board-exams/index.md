@@ -1,7 +1,7 @@
 ---
 title: 'Residency Board Exams'
 pubDate: 2020-05-01
-description: 'Our tutors have trained at the top hospitals in the country, and provide invaluable guidance and tutoring for residency board exams, including the ABSITE, '
+description: 'Our tutors have trained at the top hospitals in the country, and provide invaluable guidance and tutoring for residency board exams, including the ABSITE,.'
 ---
 
 ### Our tutors have trained at the top hospitals in the country, and provide invaluable guidance and tutoring for residency board exams, including the ABSITE, ABIM, ABFM and others.

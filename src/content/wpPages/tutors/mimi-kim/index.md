@@ -1,7 +1,7 @@
 ---
 title: 'Mimi Kim'
 pubDate: 2025-01-03
-description: 'I am passionate about teaching and find a lot of joy in helping students approach their exams with less anxiety. My tutoring approach focuses on mastering '
+description: 'I am passionate about teaching and find a lot of joy in helping students approach their exams with less anxiety. My tutoring approach focuses on mastering.'
 ---
 
 # Meet Mimi Kim

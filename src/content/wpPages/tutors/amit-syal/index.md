@@ -1,7 +1,7 @@
 ---
 title: 'Amit Syal'
 pubDate: 2025-04-15
-description: '"With over 500 hours of tutoring experience, I have helped students excel in a wide variety of subjects and exams. As a 4thyear medical student, I can brin'
+description: '"With over 500 hours of tutoring experience, I have helped students excel in a wide variety of subjects and exams. As a 4thyear medical student, I can brin.'
 ---
 
 # Meet Amit Syal

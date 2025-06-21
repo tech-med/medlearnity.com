@@ -1,7 +1,7 @@
 ---
 title: 'About Us'
 pubDate: 2020-04-12
-description: 'Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl'
+description: 'Medlearnity is an elite tutoring and consulting company that specializes in , , and . For over 8 years, we have helped hundreds of aspiring doctors accompl.'
 ---
 
 ### Our Story
@@ -56,4 +56,4 @@ This is an outstanding organization dedicated and fully committed to your succes
 
 ## **Our Tutors Have Trained at the Top Hospitals:**
 
-!!!!!
+!!!!

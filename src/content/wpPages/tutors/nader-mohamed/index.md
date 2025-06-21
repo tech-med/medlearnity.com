@@ -1,7 +1,7 @@
 ---
 title: 'Nader Mohamed'
 pubDate: 2023-08-24
-description: 'I am a seasoned medical and anatomy tutor with a rich history of guiding students through intricate medical subjects. My journey as a medical tutor began, '
+description: 'I am a seasoned medical and anatomy tutor with a rich history of guiding students through intricate medical subjects. My journey as a medical tutor began,.'
 ---
 
 # Meet Nader Mohamed

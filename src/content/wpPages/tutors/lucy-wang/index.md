@@ -1,7 +1,7 @@
 ---
 title: 'Lucy Wang'
 pubDate: 2024-10-16
-description: 'Having previously tutored students across a wide range of subjects from organic chemistry to Roman poetry, I have a longstanding interest in teaching stude'
+description: 'Having previously tutored students across a wide range of subjects from organic chemistry to Roman poetry, I have a longstanding interest in teaching stude.'
 ---
 
 # Meet Lucy Wang

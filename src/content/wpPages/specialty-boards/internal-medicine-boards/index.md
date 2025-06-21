@@ -1,7 +1,7 @@
 ---
 title: 'Internal Medicine Certification Exam (ABIM) Tutoring'
 pubDate: 2020-05-17
-description: 'Internal Medicine Certification Exam (ABIM) Overview'
+description: 'Internal Medicine Certification Exam (ABIM) Overview.'
 ---
 
 ## Internal Medicine Certification Exam (ABIM) Overview

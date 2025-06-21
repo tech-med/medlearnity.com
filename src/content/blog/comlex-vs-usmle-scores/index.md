@@ -4,7 +4,7 @@ pubDate: 2022-07-20
 categories:
   - 'comlex'
   - 'usmle'
-description: "When applying to medical residency programs, you want your application to be as impressive as possible. If you're an osteopathic medical student, you may b"
+description: "When applying to medical residency programs, you want your application to be as impressive as possible. If you're an osteopathic medical student, you may b."
 ---
 
 When applying to medical residency programs, you want your application to be as impressive as possible. If you're an osteopathic medical student, you may be wondering which exam scores will set you apart.

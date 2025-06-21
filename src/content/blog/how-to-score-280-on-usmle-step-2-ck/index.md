@@ -4,7 +4,7 @@ pubDate: 2020-07-20
 categories:
   - 'usmle'
   - 'usmle-step-2'
-description: 'How to Score a 280 on USMLE Step 2 CK  A Comprehensive Guide'
+description: 'How to Score a 280 on USMLE Step 2 CK  A Comprehensive Guide.'
 ---
 
 ![a doctor holding a stethoscope](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/07/01-How-do-I-score-280-on-USMLE-step-2-CK-a-comprehensive-guide.jpg)

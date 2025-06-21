@@ -1,7 +1,7 @@
 ---
 title: 'Alexandra Townsend'
 pubDate: 2023-02-28
-description: '"Board exams require students to know so many intricate details about a variety of topics but what I found most rewarding is when students become masters a'
+description: '"Board exams require students to know so many intricate details about a variety of topics but what I found most rewarding is when students become masters a.'
 ---
 
 # Meet Alexandra Townsend

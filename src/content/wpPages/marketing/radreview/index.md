@@ -1,7 +1,7 @@
 ---
 title: 'Radiology Review'
 pubDate: 2023-07-31
-description: "Welcome to Medlearnity's Radiology Core Tutoring"
+description: "Welcome to Medlearnity's Radiology Core Tutoring."
 ---
 
 [![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg 'logo_Med_Learnity')](/)

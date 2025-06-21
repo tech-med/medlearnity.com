@@ -1,7 +1,7 @@
 ---
 title: 'Viemma Nwigwe'
 pubDate: 2023-02-01
-description: '"In my 10 years of tutoring, the one thing that never gets old is watching the confidence of my students increase so much so that by the end of our time to'
+description: '"In my 10 years of tutoring, the one thing that never gets old is watching the confidence of my students increase so much so that by the end of our time to.'
 ---
 
 # Meet Viemma Nwigwe

@@ -1,7 +1,7 @@
 ---
 title: 'Sarah Bell'
 pubDate: 2025-04-26
-description: '"I have taught a variety of students in many different settings (lectures, sections, office hours, and oneonone tutoring). This had made my teaching style '
+description: '"I have taught a variety of students in many different settings (lectures, sections, office hours, and oneonone tutoring). This had made my teaching style.'
 ---
 
 # Meet Sarah Bell

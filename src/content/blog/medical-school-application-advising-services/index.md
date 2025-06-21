@@ -5,7 +5,7 @@ categories:
   - 'mcat'
   - 'medical-school-admissions'
   - 'medical-school-application-advising'
-description: 'Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we bre'
+description: 'Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we bre.'
 ---
 
 Medlearnity’s team will help you craft a compelling personal statement, secondary applications, shine on your interviews, and much more! Here is how we break down our work: 

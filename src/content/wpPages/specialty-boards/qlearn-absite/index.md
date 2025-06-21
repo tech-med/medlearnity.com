@@ -1,7 +1,7 @@
 ---
 title: 'Qlearn ABSITE'
 pubDate: 2025-02-04
-description: 'Our QBank features over 2,000 questions, crafted by exceptional educators who scored above the 90th percentile on ABSITE exams and have thousands of hours '
+description: 'Our QBank features over 2,000 questions, crafted by exceptional educators who scored above the 90th percentile on ABSITE exams and have thousands of hours.'
 ---
 
 # **QLearn ABSITE by Medlearnity**

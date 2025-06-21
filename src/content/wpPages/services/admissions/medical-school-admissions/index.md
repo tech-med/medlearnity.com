@@ -1,7 +1,7 @@
 ---
 title: 'Medical School Admissions Consulting'
 pubDate: 2020-05-21
-description: 'Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal s'
+description: 'Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal s.'
 ---
 
 ## Our medical school admissions package is comprehensive. We provide invaluable guidance on everything you need to know, from your application and personal statement to interviewing.

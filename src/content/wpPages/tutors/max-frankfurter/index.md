@@ -1,7 +1,7 @@
 ---
 title: 'Max Frankfurter'
 pubDate: 2023-09-15
-description: '"From my personal experience navigating testrelated stress, I understand the challenges medical students face. This has honed my academic abilities, and al'
+description: '"From my personal experience navigating testrelated stress, I understand the challenges medical students face. This has honed my academic abilities, and al.'
 ---
 
 # Meet Max Frankfurter

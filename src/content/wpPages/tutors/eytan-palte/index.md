@@ -1,7 +1,7 @@
 ---
 title: 'Eytan Palte'
 pubDate: 2023-02-01
-description: '"I strive to help my students build a strong fund of knowledge, sharpen their test taking skills, and recognize the clinical correlations of their study ef'
+description: '"I strive to help my students build a strong fund of knowledge, sharpen their test taking skills, and recognize the clinical correlations of their study ef.'
 ---
 
 # Meet Eytan Palte

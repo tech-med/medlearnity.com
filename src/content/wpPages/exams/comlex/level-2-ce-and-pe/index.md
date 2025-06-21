@@ -1,7 +1,7 @@
 ---
 title: 'COMLEX Level 2-CE and PE Tutoring'
 pubDate: 2020-05-01
-description: "A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn't ideal. Even if you did do well on Le"
+description: "A strong score on COMLEX Level 2CE bolsters your residency application, especially if your COMLEX Level 1 score wasn't ideal. Even if you did do well on Le."
 ---
 
 ## A strong score on COMLEX Level 2-CE bolsters your residency application, especially if your COMLEX Level 1 score wasn't ideal. Even if you did do well on Level 1, a strong performance on Level 2-CE demonstrates consistency and clinical excellence.

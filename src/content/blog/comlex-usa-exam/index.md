@@ -7,7 +7,7 @@ categories:
   - 'comlex-level-2'
   - 'comlex-level-3'
   - 'medlearnity-news'
-description: 'COMLEXUSA Exam. The road to becoming a medical professional is a long and tricky one; it’s also pretty full of surprises so at best, all you can do is hang'
+description: 'COMLEXUSA Exam. The road to becoming a medical professional is a long and tricky one; it’s also pretty full of surprises so at best, all you can do is hang.'
 ---
 
 COMLEX-USA Exam. The road to becoming a medical professional is a long and tricky one; it’s also pretty full of surprises so at best, all you can do is hang on tight. Just when you think you’re about to cross that elusive finish line, it slips from your grasps yet again. I know; it can be tiring and frustrating but it’s all going to be worth it in the end. The prestige, financial gains, and fulfilling experiences of a medical professional are far too precious to ignore. Your hard work will pay off soon – believe it.

@@ -4,7 +4,7 @@ pubDate: 2020-04-12
 categories:
   - 'usmle'
   - 'usmle-step-1'
-description: 'Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to becom'
+description: 'Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to becom.'
 ---
 
 Like it or not, medicine is always going to be a battle of knowledge – both textbook and practical knowledge. After all, as someone who’s aspiring to become a future doctor, the only way your mentors can prepare you is through letting you absorb as much knowledge as you possibly can. This way, when the time comes for you to make a crucial call, you’ll be doing it after much preparation. This is regardless of the results of your decision too. Whether you make a good or bad call, the most important thing is that you made that decision with as much consideration in mind. There’s a reason why it is called the “practice of medicine.” It’s because from the start till the end of your professional career, you won’t know for sure if you’re doing the right thing. The only thing you can do is learn so much that you, yourself, have faith in your own judgement.

@@ -4,7 +4,7 @@ pubDate: 2023-01-30
 categories:
   - 'residency'
   - 'residency-board-exams'
-description: 'Low Score on ABSITE: How to Get up and Excel'
+description: 'Low Score on ABSITE: How to Get up and Excel.'
 ---
 
 # Low Score on ABSITE: How to Get up and Excel

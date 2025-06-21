@@ -4,7 +4,7 @@ pubDate: 2023-02-01
 categories:
   - 'residency'
   - 'residency-board-exams'
-description: 'The American Board of Radiology (ABR) is the primary organization responsible for certifying radiologists in the United States. In order to become a certif'
+description: 'The American Board of Radiology (ABR) is the primary organization responsible for certifying radiologists in the United States. In order to become a certif.'
 ---
 
 The American Board of Radiology (ABR) is the primary organization responsible for certifying radiologists in the United States. In order to become a certified radiologist, residents must pass the ABR Core Exam. The Core Exam is a rigorous exam that covers a wide range of topics in radiology, including anatomy, physiology, pathophysiology, imaging techniques, and image interpretation.

@@ -5,7 +5,7 @@ categories:
   - 'study-schedule'
   - 'usmle'
   - 'usmle-step-1'
-description: 'It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived'
+description: 'It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived.'
 ---
 
 It is not unusual for children to dream about becoming doctors one day. In fact, you were probably a dreamer too, once upon a time. You most likely arrived on career day wearing a lab coat and stethoscope on your neck. And of course, the look wouldn’t be complete without a humongous toy injection in one hand. Becoming a doctor is a noble profession, even as children we already know that.

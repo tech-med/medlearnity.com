@@ -1,7 +1,7 @@
 ---
 title: 'Discounted Trial Session V2'
 pubDate: 2025-05-26
-description: 'Thank you for submitting your information — you’re one step closer to mastering your exam'
+description: 'Thank you for submitting your information — you’re one step closer to mastering your exam.'
 ---
 
 ![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg 'logo_Med_Learnity')

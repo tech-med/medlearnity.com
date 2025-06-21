@@ -1,7 +1,7 @@
 ---
 title: 'Medlearnity USMLE'
 pubDate: 2023-04-13
-description: ' Conquer the USMLE and get into your firstchoice residency'
+description: 'Conquer the USMLE and get into your firstchoice residency.'
 ---
 
 ![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg 'logo_Med_Learnity')
@@ -134,8 +134,7 @@ Akshay is an amazing educator who truly cares about his students! I would highly
 
 ## Get started with USMLE tutoring today, and be on your way to matching with the program of your choice.
 
-!!!!!
-
+!!!!
 ## Our USMLE Tutors
 
 ### Radhika Srivastava, MD

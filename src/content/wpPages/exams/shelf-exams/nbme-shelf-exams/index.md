@@ -1,7 +1,7 @@
 ---
 title: 'Shelf Exam Tutoring'
 pubDate: 2020-05-17
-description: 'The NBME Shelf Exams, administered after clerkship rotations during your third year, test your subjectspecific knowledge after each rotation and serve as t'
+description: 'The NBME Shelf Exams, administered after clerkship rotations during your third year, test your subjectspecific knowledge after each rotation and serve as t.'
 ---
 
 ## The NBME Shelf Exams, administered after clerkship rotations during your third year, test your subject-specific knowledge after each rotation and serve as the foundation for Step 2 CK prep.

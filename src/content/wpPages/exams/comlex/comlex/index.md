@@ -1,7 +1,7 @@
 ---
 title: 'COMLEX'
 pubDate: 2020-04-30
-description: 'Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX'
+description: 'Our tutors have trained at the top hospitals in the country, and average scores of 260+ USMLE, 650+ COMLEX.'
 ---
 
 ### Which COMLEX Exam Are You Preparing For?

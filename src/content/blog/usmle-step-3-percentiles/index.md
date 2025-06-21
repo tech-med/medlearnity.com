@@ -4,7 +4,7 @@ pubDate: 2020-04-12
 categories:
   - 'usmle'
   - 'usmle-step-3'
-description: 'USMLE Step 3 Percentiles: What You Need to Know'
+description: 'USMLE Step 3 Percentiles: What You Need to Know.'
 ---
 
 # USMLE Step 3 Percentiles: What You Need to Know

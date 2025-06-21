@@ -1,7 +1,7 @@
 ---
 title: 'Pranav Rekapalli'
 pubDate: 2023-07-19
-description: "Tutoring is most rewarding for me when I'm able to adapt my teaching to what each student personally needs and help them grow in the ways that they hope to"
+description: "Tutoring is most rewarding for me when I'm able to adapt my teaching to what each student personally needs and help them grow in the ways that they hope to."
 ---
 
 # Meet Pranav Rekapalli

@@ -1,7 +1,7 @@
 ---
 title: 'Anna Chen'
 pubDate: 2024-09-30
-description: 'There is nothing more fulfilling than turning anxiety into empowerment and confusion into confidence. That is why I strive to equip students with the study'
+description: 'There is nothing more fulfilling than turning anxiety into empowerment and confusion into confidence. That is why I strive to equip students with the study.'
 ---
 
 # Meet Anna Chen

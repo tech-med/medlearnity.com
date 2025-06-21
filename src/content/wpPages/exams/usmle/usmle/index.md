@@ -1,7 +1,7 @@
 ---
 title: 'USMLE Tutoring'
 pubDate: 2020-04-29
-description: 'Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE'
+description: 'Our USMLE tutors have trained at the top hospitals in the country, and average scores of 260+ on the USMLE.'
 ---
 
 ### Which USMLE Exam Are You Preparing For?

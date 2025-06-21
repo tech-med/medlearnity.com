@@ -1,7 +1,7 @@
 ---
 title: 'ABS Exams'
 pubDate: 2020-05-17
-description: 'As surgery attendings themselves, our tutors provide invaluable guidance and tutoring on the ABS exams'
+description: 'As surgery attendings themselves, our tutors provide invaluable guidance and tutoring on the ABS exams.'
 ---
 
 ## Which ABS Exam Are You Preparing For?

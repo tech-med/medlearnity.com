@@ -1,7 +1,7 @@
 ---
 title: 'Yehuda Elkaim'
 pubDate: 2025-05-25
-description: 'Over the years, I have tutored students in English, math, music, and medical school courses, among other subjects. One of the most fulfilling aspects of my'
+description: 'Over the years, I have tutored students in English, math, music, and medical school courses, among other subjects. One of the most fulfilling aspects of my.'
 ---
 
 # Meet Yehuda Elkaim

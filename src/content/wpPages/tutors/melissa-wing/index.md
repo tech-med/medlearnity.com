@@ -1,7 +1,7 @@
 ---
 title: 'Melissa Wing'
 pubDate: 2023-02-01
-description: '"My love of tutoring began in high school when a fellow classmate needed help in Italian class and has continued to grow over 10 years later. Medical schoo'
+description: '"My love of tutoring began in high school when a fellow classmate needed help in Italian class and has continued to grow over 10 years later. Medical schoo.'
 ---
 
 # Meet Melissa Wing

@@ -4,7 +4,7 @@ pubDate: 2023-01-25
 categories:
   - 'residency'
   - 'residency-board-exams'
-description: 'As a surgical resident, the American Board of Surgery InTraining Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual '
+description: 'As a surgical resident, the American Board of Surgery InTraining Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual.'
 ---
 
 As a surgical resident, the American Board of Surgery In-Training Exam (ABSITE) is a crucial milestone in your training and career. The ABSITE is an annual in-training exam used to evaluate general surgery trainees, and it is usually taken at the end of your first and second years of general surgery residency. The ABSITE measures your knowledge and skills in general surgery, as well as your readiness for the board certification exam and practice.

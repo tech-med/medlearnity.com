@@ -4,7 +4,7 @@ pubDate: 2020-04-12
 categories:
   - 'usmle'
   - 'usmle-step-2'
-description: ' Step 2 CK Percentiles & Average Test Scores'
+description: 'Step 2 CK Percentiles & Average Test Scores.'
 ---
 
 # The Facts About USMLE Step 2 Percentiles

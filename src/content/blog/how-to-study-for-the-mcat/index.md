@@ -5,7 +5,7 @@ categories:
   - 'mcat'
   - 'medical-school-admissions'
   - 'study-schedule'
-description: 'How To Prepare for the MCAT So You Can Ace It'
+description: 'How To Prepare for the MCAT So You Can Ace It.'
 ---
 
 # **How To Prepare for the MCAT So You Can Ace It**

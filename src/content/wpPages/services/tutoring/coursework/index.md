@@ -1,7 +1,7 @@
 ---
 title: 'Medical Coursework Tutoring'
 pubDate: 2020-05-21
-description: 'We tutor for premedical and medical school coursework tutoring and coaching. We have worked with many students who stay with us throughout their undergradu'
+description: 'We tutor for premedical and medical school coursework tutoring and coaching. We have worked with many students who stay with us throughout their undergradu.'
 ---
 
 ### Pre-Medical and Medical School Coursework

@@ -1,7 +1,7 @@
 ---
 title: 'Radiology Core Shop'
 pubDate: 2021-09-14
-description: 'Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low'
+description: 'Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low.'
 ---
 
 Showing all 5 results

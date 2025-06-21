@@ -8,7 +8,7 @@ tags:
   - 'study-for-usmle'
   - 'usmle'
   - 'usmle-step-1'
-description: 'USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be ner'
+description: 'USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be ner.'
 ---
 
 USMLE Step 1 is the first of three major exams that each student needs to complete to practice medicine. We understand that going into this exam can be nerve-wracking. But, don't be scared. Calm down, relax, get a plan in place, and execute that plan. Let's talk about how to study for USMLE Step 1 and how to score 250 and more. Yes, you can score 250 and above on step 1. It's possible - we'll show you how

@@ -1,7 +1,7 @@
 ---
 title: 'Conquer the USMLE'
 pubDate: 2020-10-15
-description: ' Conquer the USMLE and get into your firstchoice residency'
+description: 'Conquer the USMLE and get into your firstchoice residency.'
 ---
 
 [![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg)](https://www.medlearnity.com)

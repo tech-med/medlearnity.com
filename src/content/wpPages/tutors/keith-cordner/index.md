@@ -1,7 +1,7 @@
 ---
 title: 'Keith Cordner'
 pubDate: 2023-05-18
-description: 'Tutoring has been an incredibly rewarding opportunity for me. It grants perspective, helps me stay fresh on more obscure content, and crystalizes my own un'
+description: 'Tutoring has been an incredibly rewarding opportunity for me. It grants perspective, helps me stay fresh on more obscure content, and crystalizes my own un.'
 ---
 
 # Meet Keith Cordner

@@ -1,7 +1,7 @@
 ---
 title: 'USMLE Step 1 Tutoring'
 pubDate: 2020-04-25
-description: 'Passing the USMLE Step 1 in 2025 is extremely important, as it plays a large role in determining which medical specialties you can pursue & what residency '
+description: 'Passing the USMLE Step 1 in 2025 is extremely important, as it plays a large role in determining which medical specialties you can pursue & what residency.'
 ---
 
 ## Passing the USMLE Step 1 in 2025 is extremely important, as it plays a large role in determining which medical specialties you can pursue & what residency program you match into.

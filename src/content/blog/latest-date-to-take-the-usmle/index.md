@@ -3,7 +3,7 @@ title: 'Latest Date to Take the USMLE'
 pubDate: 2021-08-27
 categories:
   - 'usmle'
-description: "If you're in medical school, you know how important it is to do well on the United States Medical Licensing Examination (USMLE). The USMLE includes three s"
+description: "If you're in medical school, you know how important it is to do well on the United States Medical Licensing Examination (USMLE). The USMLE includes three s."
 ---
 
 # Latest Date to Take the USMLE

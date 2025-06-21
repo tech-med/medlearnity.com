@@ -3,7 +3,7 @@ title: 'How to Study for Your Third Year Shelf Exams'
 pubDate: 2020-07-29
 categories:
   - 'shelf-exams'
-description: 'Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive'
+description: 'Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive.'
 ---
 
 Third year rotations present unique challenges. While the first two years of medical school are certainly demanding, they are in some ways a more intensive extension of your undergraduate experience: go to class, take notes, study really hard, take exams, and then put it all together to ace USMLE Step 1.

@@ -1,7 +1,7 @@
 ---
 title: 'Keon Youssefzadeh'
 pubDate: 2024-02-09
-description: '"I have a passion of mentorship and medical education which has helped me lead multiple students to MD admission. Additionally, I have lead board prep work'
+description: '"I have a passion of mentorship and medical education which has helped me lead multiple students to MD admission. Additionally, I have lead board prep work.'
 ---
 
 # Meet Keon Youssefzadeh

@@ -4,7 +4,7 @@ pubDate: 2023-01-29
 categories:
   - 'residency'
   - 'residency-board-exams'
-description: 'The American Board of Internal Medicine (ABIM) certification exam is a crucial milestone for internists and subspecialists, and thorough preparation is ess'
+description: 'The American Board of Internal Medicine (ABIM) certification exam is a crucial milestone for internists and subspecialists, and thorough preparation is ess.'
 ---
 
 The American Board of Internal Medicine (ABIM) certification exam is a crucial milestone for internists and subspecialists, and thorough preparation is essential for success. There are a variety of review resources available to help test-takers prepare for the ABIM exam, and incorporating a range of materials into your study plan can provide a well-rounded approach to review. In this blog, we will discuss strategies for utilizing comprehensive review resources and focusing on high-yield topics for the ABIM exam.

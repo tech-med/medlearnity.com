@@ -4,7 +4,7 @@ pubDate: 2021-10-19
 categories:
   - 'usmle'
   - 'usmle-step-2'
-description: 'USMLE Step 2 Clinical Skills Test Cancelled Permanently'
+description: 'USMLE Step 2 Clinical Skills Test Cancelled Permanently.'
 ---
 
 # USMLE Step 2 Clinical Skills Test Cancelled Permanently

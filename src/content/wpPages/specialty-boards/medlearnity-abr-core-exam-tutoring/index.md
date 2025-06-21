@@ -1,7 +1,7 @@
 ---
 title: 'Medlearnity ABR CORE Exam Tutoring'
 pubDate: 2023-05-16
-description: ' Excel on your ABR Core Exam with an Expert Tutor'
+description: 'Excel on your ABR Core Exam with an Expert Tutor.'
 ---
 
 ![Medlearnity logo](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2020/08/logo_Med_Learnity.svg 'logo_Med_Learnity')
@@ -127,8 +127,7 @@ C.M.
 
 ABR Student
 
-!!!!!
-
+!!!!
 ## Get started with Radiology Core tutoring today, and be on your way to matching with the program of your choice.
 
 ![how to book your free tutoring trial with medlearnity](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2022/06/MG-how-to-book-your-free-trial.png 'MG-how-to-book-your-free-trial')

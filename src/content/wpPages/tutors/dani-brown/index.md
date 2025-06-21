@@ -1,7 +1,7 @@
 ---
 title: 'Dani Brown'
 pubDate: 2024-07-12
-description: 'I love tutoring to help students build their clinical reasoning and testtaking skills! It is so rewarding to watch students develop confidence in their own'
+description: 'I love tutoring to help students build their clinical reasoning and testtaking skills! It is so rewarding to watch students develop confidence in their own.'
 ---
 
 # Meet Dani Brown

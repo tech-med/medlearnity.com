@@ -1,7 +1,7 @@
 ---
 title: 'Blog'
 pubDate: 2020-04-12
-description: 'USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE '
+description: 'USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE.'
 ---
 
 USMLE Step 1 Percentiles. As a med student, we get that one of your biggest fears is dealing with the United States Medical Licensing Examination or USMLE or short. It’s that big hurdle you just want to be over and done with. Unfortunately, it doesn’t get to be done until after your residency internship – what, with having three-parts and all.

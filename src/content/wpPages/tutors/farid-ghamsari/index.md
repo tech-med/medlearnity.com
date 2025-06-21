@@ -1,7 +1,7 @@
 ---
 title: 'Farid Ghamsari'
 pubDate: 2023-08-24
-description: '"I think there''s few among us who go into medicine who don''t love to share our knowledge with others. I personally realized I loved teaching in college as '
+description: '"I think there''s few among us who go into medicine who don''t love to share our knowledge with others. I personally realized I loved teaching in college as.'
 ---
 
 # Meet Farid Ghamsari

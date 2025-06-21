@@ -5,7 +5,7 @@ categories:
   - 'usmle'
   - 'usmle-step-1'
   - 'usmle-step-2'
-description: "If you're preparing to take the United States Medical Licensing Examination (USMLE), you may have several questions about how the test is designed. While S"
+description: "If you're preparing to take the United States Medical Licensing Examination (USMLE), you may have several questions about how the test is designed. While S."
 ---
 
 # ![Guide to USMLE Step 1 vs Step 2 CK](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/12/01-guide-to-usmle.png)

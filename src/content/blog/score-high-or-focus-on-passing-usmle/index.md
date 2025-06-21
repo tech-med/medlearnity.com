@@ -5,7 +5,7 @@ categories:
   - 'usmle'
   - 'usmle-step-1'
   - 'usmle-step-2'
-description: 'In addition to passing their classes, medical students must also take additional steps to prove they are ready to care for patients. One test that medical '
+description: 'In addition to passing their classes, medical students must also take additional steps to prove they are ready to care for patients. One test that medical.'
 ---
 
 ## USMLE Passing Score

@@ -1,7 +1,7 @@
 ---
 title: 'Remediation Medical Coursework Tutoring'
 pubDate: 2021-05-10
-description: 'Remediation Program for Medical School Students'
+description: 'Remediation Program for Medical School Students.'
 ---
 
 ### Remediation Program for Medical School Students

@@ -5,7 +5,7 @@ categories:
   - 'study-schedule'
   - 'usmle'
   - 'usmle-step-1'
-description: 'How to get your mindset right for Step 1 success'
+description: 'How to get your mindset right for Step 1 success.'
 ---
 
 # How to get your mindset right for Step 1 success

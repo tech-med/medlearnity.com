@@ -5,7 +5,7 @@ categories:
   - 'mcat'
   - 'medical-school-admissions'
   - 'medical-school-application-advising'
-description: 'MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things a'
+description: 'MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things a.'
 ---
 
 MCAT Tutoring. So it’s your dream to become a doctor, huh? Well, that certainly is a very noble profession to work hard at. There are just so many things about being a medical professional that are very fulfilling. Aside from the highly alluring pay, you get to create a difference in people’s lives. You get to help them overcome whatever it is that ails them and get paid a hefty sum too. If you ask me, this right here is the textbook example of “hitting two birds with one stone.” But seriously, being able to help the community and actually making an impact in other people’s lives, no matter how small, is the best feeling in the world – ever.

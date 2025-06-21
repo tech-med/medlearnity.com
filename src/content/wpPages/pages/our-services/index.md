@@ -1,7 +1,7 @@
 ---
 title: 'Our Services'
 pubDate: 2020-07-30
-description: 'We tutor for USMLE Exams (Step 1, Step 2 CK and CS, and Step 3), COMLEX Exams (Level 1, Level 2CE and PE, and Level 3), Shelf/NBME Exams, Advanced Residenc'
+description: 'We tutor for USMLE Exams (Step 1, Step 2 CK and CS, and Step 3), COMLEX Exams (Level 1, Level 2CE and PE, and Level 3), Shelf/NBME Exams, Advanced Residenc.'
 ---
 
 ## Test Preparation

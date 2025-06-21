@@ -5,7 +5,7 @@ categories:
   - 'study-schedule'
   - 'usmle'
   - 'usmle-step-2'
-description: 'USMLE Step 2 Study Schedule. If you’re here then that must only mean one thing. You’ve managed to survive Step 1. Hopefully, it was because our Step 1 Stud'
+description: 'USMLE Step 2 Study Schedule. If you’re here then that must only mean one thing. You’ve managed to survive Step 1. Hopefully, it was because our Step 1 Stud.'
 ---
 
 USMLE Step 2 Study Schedule. If you’re here then that must only mean one thing. You’ve managed to survive Step 1. Hopefully, it was because our Step 1 Study Schedule Guide helped you out. For first timers, you can check that one out first before reading this.

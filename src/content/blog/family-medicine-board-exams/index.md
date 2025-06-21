@@ -4,7 +4,7 @@ pubDate: 2020-04-12
 categories:
   - 'family-medicine-board-exam'
   - 'residency-board-exams'
-description: 'Family Medicine Board Exams. If it has always been your dream to become a doctor, probably even way back when you were in kindergarten, you’re likely shock'
+description: 'Family Medicine Board Exams. If it has always been your dream to become a doctor, probably even way back when you were in kindergarten, you’re likely shock.'
 ---
 
 Family Medicine Board Exams. If it has always been your dream to become a doctor, probably even way back when you were in kindergarten, you’re likely shocked about the intricacies of the medical field by the time you got there. For Career Day, wasn’t wearing an oversized lab coat and plastic stethoscope enough to earn you praise from your teachers and peers? Weren’t you a highly revered medical expert just because you’ve got glasses on and maybe a humongous toy injection in one hand? Little did you know that the real road to achieving this pipe dream is a crazy one. And half of the time, you’re not even sure if you’re going in the right direction.

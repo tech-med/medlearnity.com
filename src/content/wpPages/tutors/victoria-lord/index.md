@@ -1,7 +1,7 @@
 ---
 title: 'Victoria Lord'
 pubDate: 2023-03-30
-description: '"It has been incredibly rewarding to watch my students grow in their knowledge and confidence in testtaking skills during my years of teaching and tutoring'
+description: '"It has been incredibly rewarding to watch my students grow in their knowledge and confidence in testtaking skills during my years of teaching and tutoring.'
 ---
 
 # Meet Victoria Lord

@@ -1,7 +1,7 @@
 ---
 title: 'Conquer the USMLE 2'
 pubDate: 2023-03-13
-description: 'Conquer the USMLE and get into your firstchoice residency'
+description: 'Conquer the USMLE and get into your firstchoice residency.'
 ---
 
 # Conquer the USMLE and get into your first-choice residency

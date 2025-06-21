@@ -5,7 +5,7 @@ categories:
   - 'medical-school-admissions'
   - 'residency'
   - 'residency-admissions'
-description: '7 tips to help you write your personal statement for residency and improve your chances of landing your dream program'
+description: '7 tips to help you write your personal statement for residency and improve your chances of landing your dream program.'
 ---
 
 # 7 tips to help you write your personal statement for residency and improve your chances of landing your dream program

@@ -1,7 +1,7 @@
 ---
 title: 'Anthony'
 pubDate: 2023-09-26
-description: '"I have always been passionate about medical education, dating back to my residency and fellowship. I have consistently worked to educate both medical stud'
+description: '"I have always been passionate about medical education, dating back to my residency and fellowship. I have consistently worked to educate both medical stud.'
 ---
 
 # Meet Anthony

@@ -1,7 +1,7 @@
 ---
 title: 'Absite Core Shop'
 pubDate: 2023-03-20
-description: 'Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low'
+description: 'Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low.'
 ---
 
 Showing the single result

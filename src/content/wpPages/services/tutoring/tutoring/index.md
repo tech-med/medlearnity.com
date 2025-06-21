@@ -1,7 +1,7 @@
 ---
 title: 'Test Preparation'
 pubDate: 2020-04-12
-description: 'We know how important highstakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for th'
+description: 'We know how important highstakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for th.'
 ---
 
 ## We know how important high-stakes exams are in the medical profession. Our exceptional team can help you perform your very best on exam day. We tutor for the following exams.
