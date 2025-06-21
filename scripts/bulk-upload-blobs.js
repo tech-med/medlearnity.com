@@ -25,13 +25,26 @@ function getArg(name, fallback) {
 	return idx >= 0 && idx < process.argv.length - 1 ? process.argv[idx + 1] : fallback;
 }
 
-const CONCURRENCY = Math.max(1, Number(getArg('--concurrency', 5)) || 5);
-const MAX_RETRIES = Number(getArg('--max-retries', 3));
-const RETRY_DELAY = Number(getArg('--retry-delay', 1000)); // milliseconds
+// Parse and validate CLI arguments
+const concurrencyArg = Number(getArg('--concurrency', 5));
+const maxRetriesArg = Number(getArg('--max-retries', 3));
+const retryDelayArg = Number(getArg('--retry-delay', 1000));
 
-// Warn if concurrency < 1
-if (Number.isNaN(CONCURRENCY) || CONCURRENCY < 1) {
-	console.warn('⚠️  Invalid --concurrency value. Falling back to 5');
+// Apply validation and fallbacks
+const CONCURRENCY =
+	Number.isNaN(concurrencyArg) || concurrencyArg < 1 ? 5 : Math.max(1, concurrencyArg);
+const MAX_RETRIES = Number.isNaN(maxRetriesArg) || maxRetriesArg < 0 ? 3 : maxRetriesArg;
+const RETRY_DELAY = Number.isNaN(retryDelayArg) || retryDelayArg < 0 ? 1000 : retryDelayArg;
+
+// Warn about invalid values that were corrected
+if (Number.isNaN(concurrencyArg) || concurrencyArg < 1) {
+	console.warn('⚠️  Invalid --concurrency value. Using default: 5');
+}
+if (Number.isNaN(maxRetriesArg) || maxRetriesArg < 0) {
+	console.warn('⚠️  Invalid --max-retries value. Using default: 3');
+}
+if (Number.isNaN(retryDelayArg) || retryDelayArg < 0) {
+	console.warn('⚠️  Invalid --retry-delay value. Using default: 1000ms');
 }
 
 // Check for required environment variables
