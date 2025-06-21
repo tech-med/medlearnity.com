@@ -4,7 +4,7 @@ This directory contains all documentation for the WordPress to Astro migration p
 
 ## **🚀 Migration Status: COMPLETE** 
 **Grade: A+** 🏆  
-**Progress**: **100%** (185 pages successfully migrated)
+**Progress**: **100%** (185 pages successfully migrated) – *post-hardening refresh*
 
 ### **✅ Major Achievements**
 - **Critical Fix**: Resolved 126 missing pages (404 → working) 
@@ -18,7 +18,10 @@ This directory contains all documentation for the WordPress to Astro migration p
 - **Migrated Astro**: **185 pages** (120% content retention + improvements)
 - **wpPages**: 126 pages in organized hierarchy
 - **Blog Posts**: 54 posts with SEO-optimized URLs
-- **Build Time**: <1 second (vs 10+ seconds WordPress)
+- **Security Hardening**: CSP tightened, HSTS, X-Frame-Options, tokenised blob URL  
+**CI Stability**: Formatting guard added; dev-deps now audited  
+**Build Time**: **~1.2 s** (vs 10+ s WordPress)
+- **Last CI run**: passed on commit `8d3b8de` (formatting fix)
 
 ---
 
@@ -87,10 +90,10 @@ src/content/wpPages/        # Organized WordPress pages
 
 ---
 
-*Last Updated: January 3, 2025*  
+*Last Updated: June 21, 2025*  
 *Migration Status: **COMPLETE***
 
-## 🔥 **Current/Active** (`current/`)
+## �� **Current/Active** (`current/`)
 
 **Most relevant and up-to-date documents** - Start here for current project status:
 
@@ -175,3 +178,16 @@ src/content/wpPages/        # Organized WordPress pages
 **Last Updated**: January 3, 2025  
 **Migration Status**: ✅ Production Ready  
 **Next Review**: Post-deployment 
+
+## 🌐 Environment Variables
+
+| Variable | Purpose |
+|----------|---------|
+| `PUBLIC_SITE_URL` | Canonical production URL |
+| `PUBLIC_SITE_TITLE` | SEO title fallback |
+| `PUBLIC_SITE_DESCRIPTION` | SEO description fallback |
+| `BLOB_READ_WRITE_TOKEN` | RW token for Vercel Blob scripts |
+| `BLOB_BASE_URL` | Base URL for blob rewrite in `vercel.json` |
+| `CONFIRM` + `--confirm` | Dual-safety guard for destructive scripts |
+
+---

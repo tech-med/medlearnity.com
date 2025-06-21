@@ -21,7 +21,8 @@ const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
 // Check for dry-run flag
 const isDryRun = process.argv.includes('--dry-run');
 const cliConfirmed = process.argv.includes('--confirm');
-const isConfirmed = process.env.CONFIRM === 'true' && cliConfirmed;
+const envConfirmed = process.env.CONFIRM === 'true';
+const isConfirmed = envConfirmed && cliConfirmed;
 
 // CI/Environment checks
 const isCI = process.env.CI === 'true';
@@ -46,11 +47,12 @@ async function validateEnvironment() {
 		process.exit(1);
 	}
 
-	// Check confirmation
+	// Check confirmation - require BOTH env var AND CLI flag for destructive operations
 	if (!isDryRun && !isConfirmed) {
-		console.error(
-			'❌ Destructive script requires confirmation. Run with --dry-run or execute with --confirm and CONFIRM=true.'
-		);
+		console.error('❌ Destructive script requires DUAL confirmation for safety:');
+		console.error(`   Environment: CONFIRM=true ${envConfirmed ? '✅' : '❌'}`);
+		console.error(`   CLI Flag: --confirm ${cliConfirmed ? '✅' : '❌'}`);
+		console.error('💡 Run with --dry-run to test safely, or set BOTH confirmations');
 		process.exit(1);
 	}
 
