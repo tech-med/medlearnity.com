@@ -23,7 +23,8 @@ const isConfirmed = process.env.CONFIRM === 'true' || isDryRun;
 
 // CI/Environment checks
 const isCI = process.env.CI === 'true';
-const isDummyToken = BLOB_TOKEN === 'dummy-token-for-ci' || (BLOB_TOKEN && BLOB_TOKEN.includes('dummy'));
+const isDummyToken =
+	BLOB_TOKEN === 'dummy-token-for-ci' || (BLOB_TOKEN && BLOB_TOKEN.includes('dummy'));
 
 // Early validation checks
 async function validateEnvironment() {
