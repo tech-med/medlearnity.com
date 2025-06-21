@@ -15,7 +15,47 @@
 	"redirects": [
 		{
 			"source": "/our-tutors/:tutor",
-			"destination": "/:tutor/",
+			"destination": "/tutors/:tutor/",
+			"permanent": true
+		},
+		{
+			"source": "/start-here",
+			"destination": "/pages/start-here/",
+			"permanent": true
+		},
+		{
+			"source": "/purchase-discounted-session",
+			"destination": "/marketing/purchase-discounted-session/",
+			"permanent": true
+		},
+		{
+			"source": "/radiology-core-shop",
+			"destination": "/pages/shop/radiology-core-shop/",
+			"permanent": true
+		},
+		{
+			"source": "/product/trial-reservation",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/product/10-hour-package",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/product/20-hour-package",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/product/30-hour-package",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/product/40-hour-package",
+			"destination": "/contact/",
 			"permanent": true
 		},
 		{
@@ -206,6 +246,46 @@
 		{
 			"source": "/whats-your-usmle-step-1-mentality",
 			"destination": "/blog/whats-your-usmle-step-1-mentality/",
+			"permanent": true
+		},
+		{
+			"source": "/latest-date-to-take-the-usmle",
+			"destination": "/blog/latest-date-to-take-the-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-test-day-tips",
+			"destination": "/blog/usmle-step-1-test-day-tips/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-study-schedule",
+			"destination": "/blog/usmle-step-1-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-study-schedule",
+			"destination": "/blog/usmle-step-2-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-3-study-schedule",
+			"destination": "/blog/usmle-step-3-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/brosencephalon-for-step-1-review",
+			"destination": "/blog/brosencephalon-for-step-1-review/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-usmle-during-quarantine",
+			"destination": "/blog/how-to-study-for-the-usmle-during-quarantine/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-cs-testing-suspended-covid-19-response",
+			"destination": "/blog/usmle-step-2-cs-testing-suspended-covid-19-response/",
 			"permanent": true
 		},
 		{
@@ -650,6 +730,16 @@
 		},
 		{
 			"source": "/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/sitemap",
+			"destination": "/sitemap-index.xml",
+			"permanent": true
+		},
+		{
+			"source": "/google_login_php",
 			"destination": "/",
 			"statusCode": 410
 		},
