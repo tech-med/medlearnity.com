@@ -620,7 +620,7 @@
 		},
 		{
 			"source": "/wp-content/uploads/:year(\\d{4})/:month(\\d{2})/:file*",
-			"destination": "$BLOB_BASE_URL/:file*",
+			"destination": "$BLOB_BASE_URL/:year/:month/:file*",
 			"permanent": true
 		},
 		{
@@ -644,12 +644,17 @@
 			"statusCode": 410
 		},
 		{
-			"source": "/feed/:path*",
+			"source": "/feed/:rest*",
 			"destination": "/",
 			"statusCode": 410
 		},
 		{
 			"source": "/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/comments/feed/:rest*",
 			"destination": "/",
 			"statusCode": 410
 		},
