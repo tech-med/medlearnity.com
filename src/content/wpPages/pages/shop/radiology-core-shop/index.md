@@ -8,27 +8,27 @@ Showing all 5 results
 
 Default sortingSort by popularitySort by latestSort by price: low to highSort by price: high to low
 
-- [Sale!
+- [Sale
   ## Radiology Core 10-Hour Package
   $3,000.00 $2,695.00](https://www.medlearnity.com/product/radiology-core-10-hour-package/)
   \-
   [Add to cart](?add-to-cart=4710)
-- [Sale!
+- [Sale
   ## Radiology Core 20-Hour Package
   $6,000.00 $4,995.00](https://www.medlearnity.com/product/radiology-core-20-hour-package/)
   \-
   [Add to cart](?add-to-cart=4713)
-- [Sale!
+- [Sale
   ## Radiology Core 30-Hour Package
   $9,000.00 $7,195.00](https://www.medlearnity.com/product/radiology-core-30-hour-package/)
   \-
   [Add to cart](?add-to-cart=4715)
-- [Sale!
+- [Sale
   ## Radiology Core 40-Hour Package
   $12,000.00 $8,995.00](https://www.medlearnity.com/product/radiology-core-40-hour-package/)
   \-
   [Add to cart](?add-to-cart=4716)
-- [Sale!
+- [Sale
   ## Radiology Trial Reservation
   $245.00 $49.00](https://www.medlearnity.com/product/radiology-trial-reservation/)
   \-

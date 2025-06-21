@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Akshay Goel'
 pubDate: 2021-11-29
-description: 'Dr. Goel is a bodytrained radiologist and an expert in medical education and imaging informatics. He completed his Radiology Residency at Columbia Universi'
+description: 'Dr. Goel is a body-trained radiologist and an expert in medical education and imaging informatics. He completed his Radiology Residency at Columbia University Medical Center in 2019 and his fellowship at Weill Cornell Medicine in 2020.'
 ---
 
 ![Dr. Akshay Goel](https://i2xfwztd2ksbegse.public.blob.vercel-storage.com/wp/2021/11/headshot-medlearnity-min-1.png 'headshot medlearnity-min')

@@ -37,5 +37,3 @@ Preparing for the ABSITE exam? **QLearn ABSITE** is your ultimate study companio
 - **Top-Tier Questions** – Developed by educators who scored in the **90th+ percentile** and have **thousands of hours of teaching experience.**
 - **Free Daily Access** – Answer a limited number of questions **every day at no cost**, no credit card required.
 - **Pro Version** – Unlock **multiple question blocks daily** for just **$59/month** and get the most out of your study time. (_Pricing may change as we continue to add new features and content._)
-
-!

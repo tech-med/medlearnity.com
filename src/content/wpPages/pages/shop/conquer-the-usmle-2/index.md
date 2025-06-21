@@ -23,17 +23,17 @@ Default sortingSort by popularitySort by latestSort by price: low to highSort by
   $215.00](https://www.medlearnity.com/product/1-hour-of-tutoring/)
   \-
   [Add to cart](?add-to-cart=4318)
-- [Sale!
+- [Sale
   ## 10-Hour Package
   $2,150.00 $1,995.00](https://www.medlearnity.com/product/10-hour-package/)
   \-
   [Add to cart](?add-to-cart=4153)
-- [Sale!
+- [Sale
   ## 20-Hour Package
   $4,300.00 $3,595.00](https://www.medlearnity.com/product/20-hour-package/)
   \-
   [Add to cart](?add-to-cart=4155)
-- [Sale!
+- [Sale
   ## 40-Hour Package
   $8,600.00 $6,595.00](https://www.medlearnity.com/product/40-hour-package/)
   \-

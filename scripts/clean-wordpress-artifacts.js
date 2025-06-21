@@ -11,6 +11,10 @@ const WORDPRESS_ARTIFACTS = [
 	/__CONFIG_colors_palette__\{[^_]*?__CONFIG_colors_palette__/gs,
 	// Alternative color palette pattern
 	/__CONFIG_colors_palette__[^_]+?__CONFIG_colors_palette__/gs,
+	// Color palette configs with escaped underscores
+	/\\_\\_CONFIG_colors_palette\\_\\_\{[^_]*?\\_\\_CONFIG_colors_palette\\_\\_/gs,
+	// Alternative color palette pattern with escaped underscores
+	/\\_\\_CONFIG_colors_palette\\_\\_[^_]+?\\_\\_CONFIG_colors_palette\\_\\_/gs,
 	// Trustindex widgets
 	/\[trustindex[^\]]*\]/g,
 	// WordPress shortcodes that remain
