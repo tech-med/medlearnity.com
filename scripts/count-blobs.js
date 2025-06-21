@@ -6,10 +6,11 @@ config({ path: '.env.local' });
 
 // Check for required environment variables
 const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
+const isDummyToken = BLOB_TOKEN === 'dummy-token-for-ci' || (BLOB_TOKEN && BLOB_TOKEN.includes('dummy'));
 
-// Early exit if no token available (CI/test environments)
-if (!BLOB_TOKEN) {
-	console.log('🧪 CI/Test Mode - Vercel Blob token not available');
+// Early exit if no token available or dummy token (CI/test environments)
+if (!BLOB_TOKEN || isDummyToken) {
+	console.log('🧪 CI/Test Mode - Vercel Blob token not available or is dummy token');
 	console.log('✅ Script validation passed - would work with proper token');
 	process.exit(0);
 }
