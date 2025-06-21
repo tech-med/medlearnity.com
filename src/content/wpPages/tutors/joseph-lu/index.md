@@ -1,7 +1,7 @@
 ---
 title: 'Joseph Lu'
 pubDate: 2024-07-12
-description: 'With over 650 hours of dedicated tutoring experience, I have specialized in helping students excel in a wide range of standardized tests, including the MCA'
+description: 'With over 650 hours of dedicated tutoring experience, I have specialized in helping students excel in a wide range of standardized tests, including the MCAT, ACT, SAT, SAT Subject Exams, AP Exams, and USMLE Step 1 and Step 2.'
 ---
 
 # Meet Joseph Lu
@@ -10,7 +10,7 @@ PERSONAL STATEMENT
 
 _With over 650 hours of dedicated tutoring experience, I have specialized in helping students excel in a wide range of standardized tests, including the MCAT, ACT, SAT, SAT Subject Exams, AP Exams, and USMLE Step 1 and Step 2. As a 4th-year medical student, I bring a deep understanding of the sciences, paired with effective teaching strategies, to help students achieve their academic goals._
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+[Discounted Session Sign-Up](/purchase-discounted-session/)
 
 **Joseph Lu**
 
@@ -37,6 +37,6 @@ Exam Scores
 
 Sign up for our one-hour discounted session. You'll receive an email or phone call from us shortly thereafter for some more information so we can understand your particular situation and assess your personal needs to pair you up with the tutor that's a perfect fit. This way, we're off to a very productive and personalized start, right from your very first session.
 
-\_\_CONFIG_colors_palette\_\_{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":\[\]},"palettes":\[{"name":"Default Palette","value":{"colors":{"62516":{"val":"rgb(230, 107, 0)"}},"gradients":\[\]}}\]}\_\_CONFIG_colors_palette\_\_ [Discounted Session Sign-Up](/purchase-discounted-session/)
+[Discounted Session Sign-Up](/purchase-discounted-session/)
 
 **Joseph Lu**
