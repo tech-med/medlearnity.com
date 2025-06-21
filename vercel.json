@@ -400,7 +400,7 @@
 		},
 		{
 			"source": "/tutoring/",
-			"destination": "/services/tutoring/tutoring/",
+			"destination": "/services/tutoring/",
 			"permanent": true
 		},
 		{
@@ -415,12 +415,12 @@
 		},
 		{
 			"source": "/admissions/",
-			"destination": "/services/admissions/admissions/",
+			"destination": "/services/admissions/",
 			"permanent": true
 		},
 		{
 			"source": "/usmle/",
-			"destination": "/exams/usmle/usmle/",
+			"destination": "/exams/usmle/",
 			"permanent": true
 		},
 		{
@@ -460,7 +460,7 @@
 		},
 		{
 			"source": "/comlex/",
-			"destination": "/exams/comlex/comlex/",
+			"destination": "/exams/comlex/",
 			"permanent": true
 		},
 		{
@@ -485,7 +485,7 @@
 		},
 		{
 			"source": "/mcat/",
-			"destination": "/exams/mcat/mcat/",
+			"destination": "/exams/mcat/",
 			"permanent": true
 		},
 		{
