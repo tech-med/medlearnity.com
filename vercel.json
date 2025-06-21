@@ -29,7 +29,17 @@
 			"permanent": true
 		},
 		{
+			"source": "/purchase-discounted-session/",
+			"destination": "/marketing/purchase-discounted-session/",
+			"permanent": true
+		},
+		{
 			"source": "/radiology-core-shop",
+			"destination": "/pages/shop/radiology-core-shop/",
+			"permanent": true
+		},
+		{
+			"source": "/radiology-core-shop/",
 			"destination": "/pages/shop/radiology-core-shop/",
 			"permanent": true
 		},
@@ -289,6 +299,326 @@
 			"permanent": true
 		},
 		{
+			"source": "/how-to-study-for-the-surgery-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-surgery-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-psychiatry-shelf-exam",
+			"destination": "/blog/how-to-study-for-the-psychiatry-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-your-third-year-shelf-exams",
+			"destination": "/blog/how-to-study-for-your-third-year-shelf-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/consequatur-fugit-q",
+			"destination": "/blog/consequatur-fugit-q/",
+			"permanent": true
+		},
+		{
+			"source": "/free-nbme-self-assessments",
+			"destination": "/blog/free-nbme-self-assessments/",
+			"permanent": true
+		},
+		{
+			"source": "/13-tips-for-expert-abr-preparation/",
+			"destination": "/blog/13-tips-for-expert-abr-preparation/",
+			"permanent": true
+		},
+		{
+			"source": "/abim-preparation-guide/",
+			"destination": "/blog/abim-preparation-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/best-resources-for-step-2-ck-prep/",
+			"destination": "/blog/best-resources-for-step-2-ck-prep/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-level-1-pass-fail/",
+			"destination": "/blog/comlex-level-1-pass-fail/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-usa-exam/",
+			"destination": "/blog/comlex-usa-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/comlex-vs-usmle-scores/",
+			"destination": "/blog/comlex-vs-usmle-scores/",
+			"permanent": true
+		},
+		{
+			"source": "/common-reasons-to-fail-usmle-step-1/",
+			"destination": "/blog/common-reasons-to-fail-usmle-step-1/",
+			"permanent": true
+		},
+		{
+			"source": "/comprehensive-guide-preparing-for-the-absite/",
+			"destination": "/blog/comprehensive-guide-preparing-for-the-absite/",
+			"permanent": true
+		},
+		{
+			"source": "/failed-absite-now-what/",
+			"destination": "/blog/failed-absite-now-what/",
+			"permanent": true
+		},
+		{
+			"source": "/failed-step-2/",
+			"destination": "/blog/failed-step-2/",
+			"permanent": true
+		},
+		{
+			"source": "/family-medicine-board-exams/",
+			"destination": "/blog/family-medicine-board-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-score-280-on-usmle-step-2-ck/",
+			"destination": "/blog/how-to-score-280-on-usmle-step-2-ck/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-family-medicine-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-family-medicine-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-internal-medicine-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-internal-medicine-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-mcat/",
+			"destination": "/blog/how-to-study-for-the-mcat/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-obgyn-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-obgyn-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-pediatrics-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-pediatrics-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-usmle-step-1/",
+			"destination": "/blog/how-to-study-for-usmle-step-1/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-write-a-great-personal-statement-for-residency/",
+			"destination": "/blog/how-to-write-a-great-personal-statement-for-residency/",
+			"permanent": true
+		},
+		{
+			"source": "/internal-medicine-board-exam/",
+			"destination": "/blog/internal-medicine-board-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/is-uworld-worth-it-for-usmle/",
+			"destination": "/blog/is-uworld-worth-it-for-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/mcat-tutoring/",
+			"destination": "/blog/mcat-tutoring/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-school-application-advising-services/",
+			"destination": "/blog/medical-school-application-advising-services/",
+			"permanent": true
+		},
+		{
+			"source": "/medical-student-journey/",
+			"destination": "/blog/medical-student-journey/",
+			"permanent": true
+		},
+		{
+			"source": "/nbme-step-1-practice-exams/",
+			"destination": "/blog/nbme-step-1-practice-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/score-high-or-focus-on-passing-usmle/",
+			"destination": "/blog/score-high-or-focus-on-passing-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/things-to-do-before-your-usmle-test/",
+			"destination": "/blog/things-to-do-before-your-usmle-test/",
+			"permanent": true
+		},
+		{
+			"source": "/tips-for-med-school-test-anxiety/",
+			"destination": "/blog/tips-for-med-school-test-anxiety/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-eligibility-and-requirements/",
+			"destination": "/blog/usmle-eligibility-and-requirements/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-pass-fail/",
+			"destination": "/blog/usmle-step-1-pass-fail/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-percentiles/",
+			"destination": "/blog/usmle-step-1-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-vs-step-2/",
+			"destination": "/blog/usmle-step-1-vs-step-2/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-cs-cancelled/",
+			"destination": "/blog/usmle-step-2-cs-cancelled/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-percentiles/",
+			"destination": "/blog/usmle-step-2-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-3-percentiles/",
+			"destination": "/blog/usmle-step-3-percentiles/",
+			"permanent": true
+		},
+		{
+			"source": "/whats-your-usmle-step-1-mentality/",
+			"destination": "/blog/whats-your-usmle-step-1-mentality/",
+			"permanent": true
+		},
+		{
+			"source": "/latest-date-to-take-the-usmle/",
+			"destination": "/blog/latest-date-to-take-the-usmle/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-test-day-tips/",
+			"destination": "/blog/usmle-step-1-test-day-tips/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-1-study-schedule/",
+			"destination": "/blog/usmle-step-1-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-study-schedule/",
+			"destination": "/blog/usmle-step-2-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-3-study-schedule/",
+			"destination": "/blog/usmle-step-3-study-schedule/",
+			"permanent": true
+		},
+		{
+			"source": "/brosencephalon-for-step-1-review/",
+			"destination": "/blog/brosencephalon-for-step-1-review/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-usmle-during-quarantine/",
+			"destination": "/blog/how-to-study-for-the-usmle-during-quarantine/",
+			"permanent": true
+		},
+		{
+			"source": "/usmle-step-2-cs-testing-suspended-covid-19-response/",
+			"destination": "/blog/usmle-step-2-cs-testing-suspended-covid-19-response/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-surgery-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-surgery-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-the-psychiatry-shelf-exam/",
+			"destination": "/blog/how-to-study-for-the-psychiatry-shelf-exam/",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-study-for-your-third-year-shelf-exams/",
+			"destination": "/blog/how-to-study-for-your-third-year-shelf-exams/",
+			"permanent": true
+		},
+		{
+			"source": "/consequatur-fugit-q/",
+			"destination": "/blog/consequatur-fugit-q/",
+			"permanent": true
+		},
+		{
+			"source": "/free-nbme-self-assessments/",
+			"destination": "/blog/free-nbme-self-assessments/",
+			"permanent": true
+		},
+		{
+			"source": "/dermatology-and-why-its-so-competitive",
+			"destination": "/blog/dermatology-and-why-its-so-competitive/",
+			"permanent": true
+		},
+		{
+			"source": "/dermatology-and-why-its-so-competitive/",
+			"destination": "/blog/dermatology-and-why-its-so-competitive/",
+			"permanent": true
+		},
+		{
+			"source": "/ut-blanditiis-ut-dol",
+			"destination": "/blog/ut-blanditiis-ut-dol/",
+			"permanent": true
+		},
+		{
+			"source": "/ut-blanditiis-ut-dol/",
+			"destination": "/blog/ut-blanditiis-ut-dol/",
+			"permanent": true
+		},
+		{
+			"source": "/pricing",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/pricing/",
+			"destination": "/contact/",
+			"permanent": true
+		},
+		{
+			"source": "/shop",
+			"destination": "/pages/shop/",
+			"permanent": true
+		},
+		{
+			"source": "/shop/",
+			"destination": "/pages/shop/",
+			"permanent": true
+		},
+		{
+			"source": "/email-reviews",
+			"destination": "/admin/email-reviews/",
+			"permanent": true
+		},
+		{
+			"source": "/email-reviews/",
+			"destination": "/admin/email-reviews/",
+			"permanent": true
+		},
+		{
 			"source": "/dr-akshay-goel/",
 			"destination": "/tutors/dr-akshay-goel/",
 			"permanent": true
@@ -345,6 +675,11 @@
 		},
 		{
 			"source": "/sylvia-rhodes/",
+			"destination": "/tutors/sylvia-rhodes/",
+			"permanent": true
+		},
+		{
+			"source": "/sylvia-rhodes",
 			"destination": "/tutors/sylvia-rhodes/",
 			"permanent": true
 		},
@@ -445,6 +780,16 @@
 		},
 		{
 			"source": "/daksh-chauhan/",
+			"destination": "/tutors/daksh-chauhan/",
+			"permanent": true
+		},
+		{
+			"source": "/our-tutors/Daksh-Chauhan/",
+			"destination": "/tutors/daksh-chauhan/",
+			"permanent": true
+		},
+		{
+			"source": "/Daksh-Chauhan/",
 			"destination": "/tutors/daksh-chauhan/",
 			"permanent": true
 		},
@@ -739,6 +1084,11 @@
 			"permanent": true
 		},
 		{
+			"source": "/sitemap/",
+			"destination": "/sitemap-index.xml",
+			"permanent": true
+		},
+		{
 			"source": "/google_login_php",
 			"destination": "/",
 			"statusCode": 410
@@ -750,6 +1100,26 @@
 		},
 		{
 			"source": "/comments/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/comments/feed",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/comments/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/shop/feed/",
+			"destination": "/",
+			"statusCode": 410
+		},
+		{
+			"source": "/shop/feed",
 			"destination": "/",
 			"statusCode": 410
 		},
@@ -795,6 +1165,16 @@
 		},
 		{
 			"source": "/page/:num(\\d+)/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/page/:num(\\d+)/",
+			"destination": "/blog/",
+			"permanent": true
+		},
+		{
+			"source": "/shop/page/:num(\\d+)/",
 			"destination": "/blog/",
 			"permanent": true
 		},
