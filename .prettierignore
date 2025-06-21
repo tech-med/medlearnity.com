@@ -10,4 +10,7 @@ dist/
 .env*
 package-lock.json
 *.log
-README.md 
+README.md
+
+# Newly added marketing page markdown
+src/content/wpPages/marketing/how-can-we-assist-you/index.md 
