@@ -3,7 +3,7 @@
 // Auto-append a period to truncated description lines in markdown front-matter
 
 import { readdir, readFile, writeFile } from 'fs/promises';
-import { join, relative } from 'path';
+import { join } from 'path';
 
 const TARGET_DIRS = ['src/content/blog', 'src/content/wpPages'];
 
